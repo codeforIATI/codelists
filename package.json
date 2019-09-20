@@ -1,0 +1,24 @@
+{
+  "name": "codelists",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^8.1.0",
+    "vuepress": "^1.1.0",
+    "xml2js": "^0.4.22"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "main": "dist/lib/index.js",
+  "bin": {
+    "make-codelists": "dist/bin/index.js"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "markdown:gen": "node src/index.js",
+    "build": "yarn run markdown:gen && yarn run docs:build",
+    "dev": "yarn run markdown:gen && yarn run docs:dev"
+  }
+}
