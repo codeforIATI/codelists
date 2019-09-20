@@ -19,6 +19,10 @@
     "docs:build": "vuepress build docs",
     "markdown:gen": "node src/index.js",
     "build": "yarn run markdown:gen && yarn run docs:build",
-    "dev": "yarn run markdown:gen && yarn run docs:dev"
+    "dev": "yarn run markdown:gen && yarn run docs:dev",
+    "deploy": "gh-pages -d docs/.vuepress/dist"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
