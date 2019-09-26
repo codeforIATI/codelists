@@ -2,10 +2,11 @@
   "name": "codelists",
   "version": "1.0.0",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "fs-extra": "^8.1.0",
     "vuepress": "^1.1.0",
-    "xml2js": "^0.4.22"
+    "xml2js": "^0.4.22",
+    "gh-pages": "^2.1.1"
   },
   "engines": {
     "node": ">= 8"
@@ -21,8 +22,5 @@
     "build": "yarn run markdown:gen && yarn run docs:build",
     "dev": "yarn run markdown:gen && yarn run docs:dev",
     "deploy": "gh-pages -d docs/.vuepress/dist"
-  },
-  "dependencies": {
-    "gh-pages": "^2.1.1"
   }
 }
