@@ -5,8 +5,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "vuepress": "^1.1.0",
-    "xml2js": "^0.4.22",
-    "gh-pages": "^2.1.1"
+    "xml2js": "^0.4.22"
   },
   "engines": {
     "node": ">= 8"
@@ -20,7 +19,6 @@
     "docs:build": "vuepress build docs",
     "markdown:gen": "node src/index.js",
     "build": "yarn run markdown:gen && yarn run docs:build",
-    "dev": "yarn run markdown:gen && yarn run docs:dev",
-    "deploy": "gh-pages -d docs/.vuepress/dist"
+    "dev": "yarn run markdown:gen && yarn run docs:dev"
   }
 }
