@@ -1,18 +1,18 @@
 dist: xenial
 language: node_js
 node_js:
-  - 8
+   - 8
 cache:
   yarn: true
   directories:
-    - node_modules
+   - node_modules
 script:
-    - yarn run build
+   - yarn run build
 deploy:
   provider: pages
   skip_cleanup: true
   github_token:
-    secure: "jJIe+bE/a97rzuTgAXBtIzHpU1O7+UJtsz8FeMDrifcyLpiRFa+W+ykD+6fiYPdVvkpwxjYbKypC/9dxu9DVcId7nsZ3f1nNU0NJIrn5Nox4FwdQnCTN0+KU2fphH4ytXvmeswFbiH8PTS+FMLRsZKt4xdH6oq8rQyItq7k8lTscJ3u1L8AuCwsrZSJp+fVI9S7/9CyYdKCdxUhuIUzkPQEGCjV62TEYEnpUGTcC047P+mF5iwi6/+076T+lStwhkcAZXdkxsp9eSOL26u4yOccwNnEJjB7C1zjvcZ3lZeKOxOdj96Z3iH0k38IIdEa/Lo551yl8u4CKovkRoEtjuqdXodKqu8cnAygO7Nfn8Lc79ajZfhGC8evOkF5ErqFfYT54ZSfgN4daEmxqIrGdoe8MMZbBy8sXM/6B9CNyLXJvSRqtD0esRZzYQeHfFtZGi5S4JDoMmxcWZvdX0noSvPHsiwu4A3QVaYoLzEa1ykwZFCPpXJwrYVdPakHsRQY5Xs1SFCR956k3WxCN/0DaUsK3TkKs7t5FIKzh70/X84QNeW1FBxRm9+8jk5EEWLcd9N9vaK+eZAIzi1X1YgD73LfKxXugMu0lrbdT6pIXHn8ibN8EYItTe8E74mQsE2jaW4MJf6vanzsuXnQk0uzpSKAcJjIAtM3ioj5P6vXDjxg="
+   - secure: "pZio1bKt8WMYpGL6eQ661X+xz7un/3DjJfQvun/IHmbBgiDKZ6uDzYql01dvDMSDXHG69Fgou7waUPnlwSkrh/jXEdcJ35CJHMwpq8i5oKMZSY0jUEW+j3t8PU6XT32DObYbR2xD0yPMeRnMtZTu0ODGODBKZpULdT6HdQdvpzJ0SjXDdAewEkzwxchwFe3b0dkCKHRTQZARmoNq+6xR1K8lV7yZyhJKWEIDulklYB2Bh75Kre/z4lo3YWMzdOFzK7gvcJSdkhZTsFtqxIUgV+PAaRUggC1MO2LRCM10RSKyFGnfmCo3FXxaye7AGg+K1I39hdc6I8VrMXOI9U3/qHOrjlhRODCx5sAKdpNjlqpoB4OH8Xx9zRm2u+76RTJsXOudMThJLH0PJj7UePhhzfN7S9+NPFBRUZbDGsueFgMKBWbXkzdsZTkoiXcu8tU7OT4WPGi7gbaIhHMq9fdGx56N0jClOY/EF65bqfAKYiLsNYZSwB9uGIQ7gFFRcoxuBmauqvi6WbhAQE1ql+zr4R6TEvJgIZrVkgTWnjp+2cK0jnzlC1vP4XpAyxjyKzPcimKXgArYkNBZy38zWBpCcfXBsN7HKmu1ztsQnfr0p+jxZOJyQssmGnS0c5O9tfdGAueYH1/cAh9dzPQkaIYtg5V2tWHSANdzi1OntOPgruc="
   keep_history: true
   local_dir: docs/.vuepress/dist
   target_branch: gh-pages
