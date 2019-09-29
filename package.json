@@ -10,15 +10,11 @@
   "engines": {
     "node": ">= 8"
   },
-  "main": "dist/lib/index.js",
-  "bin": {
-    "make-codelists": "dist/bin/index.js"
-  },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "markdown:gen": "node src/index.js",
-    "build": "yarn run markdown:gen && yarn run docs:build",
-    "dev": "yarn run markdown:gen && yarn run docs:dev"
+    "preprocess": "./gen.sh",
+    "build": "yarn run preprocess && yarn run docs:build",
+    "dev": "yarn run preprocess && yarn run docs:dev"
   }
 }
