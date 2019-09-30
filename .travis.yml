@@ -9,9 +9,8 @@ install:
     - yarn install
     - pip install -r requirements.txt
 cache:
+  pip: true
   yarn: true
-  directories:
-   - node_modules
 script:
    - yarn run build
 deploy:
