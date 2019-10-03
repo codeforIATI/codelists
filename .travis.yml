@@ -22,4 +22,4 @@ deploy:
   local_dir: docs/.vuepress/dist
   target_branch: gh-pages
   on:
-    branch: testing
+    branch: master
