@@ -23,7 +23,7 @@ yarn run dev
 You can also run the commands separately, if you would like to have VuePress refresh each time you rebuild the site:
 
 ```
-yarn run markdown:gen
+yarn run preprocess
 ```
 
 and
