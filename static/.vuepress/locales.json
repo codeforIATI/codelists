@@ -1,16 +1,20 @@
 {
   "/": {
-    "lang": "en-US",
+    "lang": "en",
     "title": "Replicated Codelists",
     "description": "Useful codelists when using IATI data",
+    "selectText": "Languages",
+    "label": "English",
     "sidebar": [
       ["/", "Home"]
     ]
   },
   "/fr/": {
-    "lang": "fr-FR",
+    "lang": "fr",
     "title": "Replicated Codelists (French)",
     "description": "Codelistes utiles",
+    "selectText": "Langues",
+    "label": "Français",
     "sidebar": [
       ["/fr/", "Accueil"]
     ]
