@@ -1,11 +1,16 @@
+---
 dist: xenial
-language: node_js
-node_js:
-   - 8
+language: python
+python: 3.7
+before_install:
+    - sudo apt-get update -qq
+    - sudo apt-get install -qq libxml2-utils
+install:
+    - yarn install
+    - pip install -r requirements.txt
 cache:
+  pip: true
   yarn: true
-  directories:
-   - node_modules
 script:
    - yarn run build
 deploy:
