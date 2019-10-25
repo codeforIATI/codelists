@@ -23,10 +23,16 @@ const createMarkdownFiles = async() => {
     codelists.forEach(codelist => {
       const folderPath = `docs/${codelist}`
       const stream = createWriteStream(folderPath)
-      stream.write(`<CodelistPage codelist="${codelist}" lang="en"/>`)
+      stream.write(`---
+title: ${codelist}
+---
+<CodelistPage codelist="${codelist}" lang="en"/>`)
       const folderPathFR = `docs/fr/${codelist}`
       const streamFR = createWriteStream(folderPathFR)
-      streamFR.write(`<CodelistPage codelist="${codelist}" lang="fr"/>`)
+      streamFR.write(`---
+title: ${codelist}
+---
+<CodelistPage codelist="${codelist}" lang="fr"/>`)
       addToLocales(codelist, ['fr'])
     })
   })
