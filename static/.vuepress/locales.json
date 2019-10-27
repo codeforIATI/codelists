@@ -7,16 +7,30 @@
     "label": "English",
     "sidebar": [
       ["/", "Home"]
-    ]
+    ],
+    "download": "Download",
+    "categorisedCodelist": "This codelist is grouped into categories, using the codelist",
+    "source": "Original source",
+    "headers": {}
   },
   "/fr/": {
     "lang": "fr",
-    "title": "Replicated Codelists (French)",
-    "description": "Codelistes utiles",
+    "title": "Listes de codes repoduits",
+    "description": "Listes de codes utiles en utilisant des données IATI",
     "selectText": "Langues",
     "label": "Français",
     "sidebar": [
       ["/fr/", "Accueil"]
-    ]
+    ],
+    "download": "Télécharger",
+    "categorisedCodelist": "Cette liste de codes est regroupée en catégoires, selon la liste de codes",
+    "source": "Source originelle ",
+    "headers": {
+      "code": "Code",
+      "name": "Nom",
+      "category": "Catégoire",
+      "description": "Description",
+      "status": "Statut"
+    }
   }
 }
