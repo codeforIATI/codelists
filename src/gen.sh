@@ -25,8 +25,8 @@ rm -rf docs/.vuepress/public/clv*
 mkdir -p docs/.vuepress/public/clv2/xml docs/.vuepress/public/clv3
 cp -r codelists docs/.vuepress/public/clv3/xml
 for f in codelists/*; do
-    python v3tov2.py $f > docs/.vuepress/public/clv2/xml/`basename $f`;
+    python src/v3tov2.py $f > docs/.vuepress/public/clv2/xml/`basename $f`;
 done
-python gen.py docs/.vuepress/public/clv2
-python v2tov1.py docs/.vuepress/public/clv2 docs/.vuepress/public/clv1
+python src/gen.py docs/.vuepress/public/clv2
+python src/v2tov1.py docs/.vuepress/public/clv2 docs/.vuepress/public/clv1
 cp -r docs/.vuepress/public/clv2/{codelists.json,codelists.xml,csv,json} docs/.vuepress/public/clv3/
