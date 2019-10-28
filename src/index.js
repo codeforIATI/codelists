@@ -1,24 +1,22 @@
 // Import libraries
-const util = require("util")
-const Fs = require("fs")
-const Path = require("path")
+const Fs = require('fs')
 const fsExtra = require('fs-extra')
 
-console.log('Parsing codelists...');
+console.log('Parsing codelists...')
 
 // Create file to write to
 
-const createWriteStream = function(folder) {
+const createWriteStream = function (folder) {
   fsExtra.ensureDirSync(folder)
   return Fs.createWriteStream(`${folder}/README.md`)
 }
 
 // Write to file
 
-const createMarkdownFiles = async() => {
-  Fs.readFile('docs/.vuepress/public/clv3/codelists.json', 'utf8', function(err, data) {
-    if (err) throw err;
-    codelists = JSON.parse(data)
+const createMarkdownFiles = async () => {
+  Fs.readFile('docs/.vuepress/public/clv3/codelists.json', 'utf8', function (err, data) {
+    if (err) { throw err }
+    var codelists = JSON.parse(data)
     codelists.sort()
     codelists.forEach(codelistSlug => {
       ['en', 'fr'].forEach(lang => {
@@ -40,9 +38,9 @@ title: ${codelistName}
   })
 }
 
-const setup = async() => {
-  fsExtra.emptyDirSync("docs/")
-  fsExtra.copySync("static/", "docs/")
+const setup = async () => {
+  fsExtra.emptyDirSync('docs/')
+  fsExtra.copySync('static/', 'docs/')
 }
 
 const addToLocales = async (codelistSlug, codelistName, lang) => {
@@ -52,8 +50,8 @@ const addToLocales = async (codelistSlug, codelistName, lang) => {
   } else {
     locales[`/${lang}/`].sidebar.push([`/${lang}/${codelistSlug}/`, codelistName])
   }
-  Fs.writeFileSync("docs/.vuepress/locales.json", JSON.stringify(locales))
+  Fs.writeFileSync('docs/.vuepress/locales.json', JSON.stringify(locales))
 }
 
-//setup()
+// setup()
 createMarkdownFiles()
