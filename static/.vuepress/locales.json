@@ -6,7 +6,8 @@
     "selectText": "Languages",
     "label": "English",
     "sidebar": [
-      ["/", "Home"]
+      ["/", "Home"],
+      "/ExchangeRates/"
     ],
     "download": "Download",
     "categorisedCodelist": "This codelist is grouped into categories, using the codelist",
