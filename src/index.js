@@ -29,6 +29,7 @@ const createMarkdownFiles = async () => {
           const folderPath = `docs${path}${codelistSlug}`
           const stream = createWriteStream(folderPath)
           stream.write(`---
+title: ${codelistName}
 ---
 <CodelistPage codelist="${codelistSlug}" lang="${lang}"/>`)
         })
