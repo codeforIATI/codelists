@@ -21,14 +21,12 @@ done
 rm -rf docs
 cp -r static docs
 
-rm -rf out
-mkdir -p out/clv2/xml out/clv3
-cp -r codelists out/clv3/xml
+rm -rf docs/.vuepress/public
+mkdir -p docs/.vuepress/public/clv2/xml docs/.vuepress/public/clv3
+cp -r codelists docs/.vuepress/public/clv3/xml
 for f in codelists/*; do
-    python v3tov2.py $f > out/clv2/xml/`basename $f`;
+    python v3tov2.py $f > docs/.vuepress/public/clv2/xml/`basename $f`;
 done
-python gen.py
-python v2tov1.py
-cp -r out/clv2/{codelists.json,codelists.xml,csv,json} out/clv3/
-
-mv out/* docs/.vuepress/public
+python gen.py docs/.vuepress/public/clv2
+python v2tov1.py docs/.vuepress/public/clv2 docs/.vuepress/public/clv1
+cp -r docs/.vuepress/public/clv2/{codelists.json,codelists.xml,csv,json} docs/.vuepress/public/clv3/

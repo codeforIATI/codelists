@@ -11,7 +11,8 @@ from collections import OrderedDict
 
 language = 'en'
 
-OUTPUTDIR = os.path.join('out', 'clv1')
+INPUTDIR = sys.argv[1]
+OUTPUTDIR = sys.argv[2]
 
 try:
     os.makedirs(os.path.join(OUTPUTDIR, 'codelist'))
@@ -31,8 +32,8 @@ def utf8_encode_dict(d):
 old_codelist_index = E.codelists()
 old_codelist_index_json_list = []
 
-for fname in os.listdir(os.path.join('out', 'clv2', 'xml')):
-    codelist = ET.parse(os.path.join('out', 'clv2', 'xml', fname))
+for fname in os.listdir(os.path.join(INPUTDIR, 'xml')):
+    codelist = ET.parse(os.path.join(INPUTDIR, 'xml', fname))
     attrib = codelist.getroot().attrib
 
     count = len(codelist.getroot().find('codelist-items').findall('codelist-item'))
@@ -93,7 +94,7 @@ for fname in os.listdir(os.path.join('out', 'clv2', 'xml')):
             old_codelist_json_item['category'] = category.text
 
             try:
-                category_item = ET.parse(os.path.join('out', 'clv2', 'xml', attrib['category-codelist'] + '.xml')).xpath('//codelist-item[code="{0}"]'.format(category.text))[0]
+                category_item = ET.parse(os.path.join(INPUTDIR, 'xml', attrib['category-codelist'] + '.xml')).xpath('//codelist-item[code="{0}"]'.format(category.text))[0]
                 category_name = category_item.xpath('name[not(xml:lang) or xml:lang="en"]')[0].text
             except (IndexError, KeyError):
                 category_item = None

@@ -10,7 +10,7 @@ languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
 
-OUTPUTDIR = os.path.join('out', 'clv2')
+OUTPUTDIR = sys.argv[1]
 
 
 def normalize_whitespace(x):
@@ -48,8 +48,8 @@ for language in languages:
     except OSError:
         pass
 
-    for fname in os.listdir(os.path.join('out', 'clv2', 'xml')):
-        codelist = ET.parse(os.path.join('out', 'clv2', 'xml', fname))
+    for fname in os.listdir(os.path.join(OUTPUTDIR, 'xml')):
+        codelist = ET.parse(os.path.join(OUTPUTDIR, 'xml', fname))
         attrib = codelist.getroot().attrib
         assert attrib['name'] == fname.replace('.xml', '')
 
