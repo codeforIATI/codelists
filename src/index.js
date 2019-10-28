@@ -20,20 +20,22 @@ const createMarkdownFiles = async() => {
     if (err) throw err;
     codelists = JSON.parse(data)
     codelists.sort()
-    codelists.forEach(codelist => {
-      const folderPath = `docs/${codelist}`
-      const stream = createWriteStream(folderPath)
-      stream.write(`---
-title: ${codelist}
+    codelists.forEach(codelistSlug => {
+      ['en', 'fr'].forEach(lang => {
+        Fs.readFile(`docs/.vuepress/public/clv3/json/${lang}/${codelistSlug}.json`, 'utf8', function (err, data) {
+          if (err) { throw err }
+          var codelistData = JSON.parse(data)
+          var codelistName = codelistData.metadata.name || codelistSlug
+          addToLocales(codelistSlug, codelistName, lang)
+          const path = (lang === 'en') ? '/' : `/${lang}/`
+          const folderPath = `docs${path}${codelistSlug}`
+          const stream = createWriteStream(folderPath)
+          stream.write(`---
+title: ${codelistName}
 ---
-<CodelistPage codelist="${codelist}" lang="en"/>`)
-      const folderPathFR = `docs/fr/${codelist}`
-      const streamFR = createWriteStream(folderPathFR)
-      streamFR.write(`---
-title: ${codelist}
----
-<CodelistPage codelist="${codelist}" lang="fr"/>`)
-      addToLocales(codelist, ['fr'])
+<CodelistPage codelist="${codelistSlug}" lang="${lang}"/>`)
+        })
+      })
     })
   })
 }
@@ -43,11 +45,12 @@ const setup = async() => {
   fsExtra.copySync("static/", "docs/")
 }
 
-const addToLocales = async(codelistName, langs) => {
-  const locales = JSON.parse(Fs.readFileSync("docs/.vuepress/locales.json"))
-  locales["/"].sidebar.push([`/${codelistName}/`, codelistName])
-  for (var lang of langs) {
-    locales[`/${lang}/`].sidebar.push([`/${lang}/${codelistName}/`, codelistName])
+const addToLocales = async (codelistSlug, codelistName, lang) => {
+  const locales = JSON.parse(Fs.readFileSync('docs/.vuepress/locales.json'))
+  if (lang === 'en') {
+    locales['/'].sidebar.push([`/${codelistSlug}/`, codelistName])
+  } else {
+    locales[`/${lang}/`].sidebar.push([`/${lang}/${codelistSlug}/`, codelistName])
   }
   Fs.writeFileSync("docs/.vuepress/locales.json", JSON.stringify(locales))
 }
