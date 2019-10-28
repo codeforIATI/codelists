@@ -5,12 +5,10 @@ if [ -d IATI-Codelists-NonEmbedded ]; then
     cd IATI-Codelists-NonEmbedded || exit 1
     git pull
     git checkout master
+    cd ..
 else
-    git clone https://github.com/codeforIATI/IATI-Codelists-NonEmbedded.git
-    cd IATI-Codelists-NonEmbedded || exit 1
-    git checkout master
+    git clone --branch master https://github.com/codeforIATI/IATI-Codelists-NonEmbedded.git
 fi
-cd .. || exit 1
 
 codelists=("AidType-category" "AidType" "CollaborationType" "Country" "CRSChannelCode" "Currency" "EarmarkingCategory" "FileFormat" "FinanceType-category" "FinanceType" "FlowType" "Language" "LocationType-category" "LocationType" "OrganisationRegistrationAgency" "PolicyMarker" "PolicySignificance" "Region" "Sector" "SectorCategory" "UNSDG-Goals" "UNSDG-Targets")
 mkdir codelists
