@@ -16,7 +16,7 @@ const createWriteStream = function(folder) {
 // Write to file
 
 const createMarkdownFiles = async() => {
-  Fs.readFile('docs/.vuepress/public/clv3/codelists.json', 'utf8', function(err, data) {
+  Fs.readFile('docs/.vuepress/public/api/clv3/codelists.json', 'utf8', function(err, data) {
     if (err) throw err;
     codelists = JSON.parse(data)
     codelists.sort()

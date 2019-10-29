@@ -49,7 +49,7 @@
       }
     },
     async beforeMount() {
-      var data = await axios.get(`/clv3/json/${this.lang}/${this.codelist}.json`)
+      var data = await axios.get(`/api/clv3/json/${this.lang}/${this.codelist}.json`)
       this.fields = Object.keys(data.data.data[0]).map(field => {
         return {
           key: field,
@@ -64,15 +64,15 @@
       this.url = data.data.metadata.url ? data.data.metadata.url : null
       this.downloadURLs = [
         {
-          "url":`/clv3/xml/${this.codelist}.xml`,
+          "url":`/api/clv3/xml/${this.codelist}.xml`,
           "format": "XML"
         },
         {
-          "url":`/clv3/csv/${this.lang}/${this.codelist}.csv`,
+          "url":`/api/clv3/csv/${this.lang}/${this.codelist}.csv`,
           "format": "CSV"
         },
         {
-          "url":`/clv3/json/${this.lang}/${this.codelist}.json`,
+          "url":`/api/clv3/json/${this.lang}/${this.codelist}.json`,
           "format": "JSON"
         }
       ]
