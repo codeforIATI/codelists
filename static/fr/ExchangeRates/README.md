@@ -16,7 +16,7 @@ Pour télécharger les données, ou bien utiliser l'API:
 | Date | La date du taux de change (équivalente à la `value-date` dans les transactions et les budgets de l'IATI) |
 | Rate | Le taux de change de cette devise en USD |
 | Currency | Le code de cette devise (selon «ISO 4217» - par exemple, `EUR` ou `GBP`) |
-| Frequency | Que cette monnaie soit une date quotidienne (`D`) ou une moyenne mensuelle (`M`) | |
+| Frequency | Que ce taux de change soit sur une date exacte/quotidienne (`D`) ou une mensuel moyen (`M`) | |
 | Source | La source de ces données, soit l'OCDE (`OECD`) ou la [Banque fédérale de réserve de Saint-Louis](https://fred.stlouisfed.org) (`FRED`) |
 | RateFirstSeen | La date / heure de la première récupération de ce taux de change par l'API |
 
