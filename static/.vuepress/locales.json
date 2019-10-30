@@ -21,7 +21,8 @@
     "selectText": "Langues",
     "label": "Français",
     "sidebar": [
-      ["/fr/", "Accueil"]
+      ["/fr/", "Accueil"],
+      "/fr/ExchangeRates/"
     ],
     "download": "Télécharger",
     "categorisedCodelist": "Cette liste de codes est regroupée en catégoires, selon la liste de codes",
