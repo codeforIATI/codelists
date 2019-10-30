@@ -22,9 +22,28 @@ def normalize_whitespace(x):
 
 
 def codelist_item_todict(codelist_item, default_lang='', lang='en'):
-    out = dict([(child.tag, normalize_whitespace(child.text)) for child in codelist_item if child.tag not in ['name', 'description'] or child.attrib.get(xml_lang) == lang or (child.attrib.get(xml_lang) is None and lang == default_lang)])
+    fieldnames = [
+        'code',
+        'name',
+        'description',
+        'category',
+        'url',
+    ]
+    out = {}
+    for child in codelist_item:
+        if child.tag not in fieldnames:
+            continue
+        if child.tag in ['name', 'description']:
+            if child.attrib.get(xml_lang) != lang:
+                if child.attrib.get(xml_lang) is not None or lang != default_lang:
+                    continue
+        out[child.tag] = normalize_whitespace(child.text)
+
     if 'public-database' in codelist_item.attrib:
-        out['public-database'] = True if codelist_item.attrib['public-database'] in ['1', 'true'] else False
+        if codelist_item.attrib['public-database'] in ['1', 'true']:
+            out['public-database'] = True
+        else:
+            out['public-database'] = False
     out['status'] = codelist_item.get('status', 'active')
     return out
 
@@ -53,8 +72,10 @@ for language in languages:
         attrib = codelist.getroot().attrib
         assert attrib['name'] == fname.replace('.xml', '')
 
-        default_lang = codelist.getroot().attrib.get(xml_lang)
-        codelist_dicts = list(map(partial(codelist_item_todict, default_lang=default_lang, lang=language), codelist.getroot().find('codelist-items').findall('codelist-item')))
+        root = codelist.getroot()
+        default_lang = root.attrib.get(xml_lang)
+        codelist_items = root.find('codelist-items').findall('codelist-item')
+        codelist_dicts = list(map(partial(codelist_item_todict, default_lang=default_lang, lang=language), codelist_items))
 
         fieldnames = [
             'code',
