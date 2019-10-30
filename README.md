@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/codeforIATI/codelists.svg?branch=master)](https://travis-ci.com/codeforIATI/codelists)
 
-This is a test idea of a rough idea to make it easier to see codelists. It would be especially useful for replicated codelists.
+Replicated codelists, useful for those using IATI data.
 
 * A script generates markdown files from the XML codelist files. It scrubs the `docs/` folder and then copies in anything from the `static/` folder, at the start of each run. So, don't make any changes inside the `docs/` folder as they will be lost at the start of each build.
 * VuePress then builds a nice front end from the markdown files.
@@ -11,6 +11,7 @@ This is a test idea of a rough idea to make it easier to see codelists. It would
 
 Clone the repository and then install:
 ```
+pip install -r requirements.txt
 yarn install
 ```
 
