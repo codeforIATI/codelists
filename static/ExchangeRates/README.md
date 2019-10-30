@@ -22,4 +22,4 @@ To download the data, or use the API:
 
 ### Selecting the best date
 
-Because multiple sources are used, you may wish to use a formula to score rates based on their preference. For example, you may significantly prefer the daily rates from FRED to the monthly rates from the OECD, but still have the OECD rates as a fallback option if there's nothing else available (e.g. for very old rates).
+Because multiple sources are used, you may wish to use a formula to prefer certain sources over others. For example, you may significantly prefer the daily rates from FRED to the monthly rates from the OECD, but still have the OECD rates as a fallback option if there's nothing else available (e.g. for very old rates).
