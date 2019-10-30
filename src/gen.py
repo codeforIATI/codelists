@@ -35,7 +35,7 @@ def codelist_item_todict(codelist_item, default_lang='', lang='en'):
             continue
         if child.tag in ['name', 'description'] and \
                 child.attrib.get(xml_lang) != lang and \
-                child.attrib.get(xml_lang) is not None or lang != default_lang:
+                (child.attrib.get(xml_lang) is not None or lang != default_lang):
             continue
         out[child.tag] = normalize_whitespace(child.text)
 
