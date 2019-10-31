@@ -5,12 +5,15 @@ import csv
 import json
 from functools import partial
 import sys
+from collections import OrderedDict
 
 languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
 
 OUTPUTDIR = sys.argv[1]
+
+BASE_URL = os.environ.get('CODELISTS_BASE_URL', "")
 
 
 def normalize_whitespace(x):
@@ -55,6 +58,21 @@ def utf8_encode_dict(d):
         else:
             return None
     return dict((enc(k), enc(v)) for k, v in d.items())
+
+
+def write_json_api_data(codelists_list):
+    json.dump(codelists_list, open(os.path.join(OUTPUTDIR, 'codelists.json'), 'w'))
+    json.dump({
+        "languages": dict([
+            (lang,
+            {"codelists": OrderedDict(map(lambda cl:
+                (str(cl), "{}/api/json/{}/{}.json".format(BASE_URL, lang, cl)),
+                sorted(codelists_list)))
+            })
+            for lang in languages
+        ])
+        },
+        open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w'))
 
 
 for language in languages:
@@ -127,5 +145,4 @@ for language in languages:
 
 tree = ET.ElementTree(codelists)
 tree.write(os.path.join(OUTPUTDIR, 'codelists.xml'), pretty_print=True)
-
-json.dump(codelists_list, open(os.path.join(OUTPUTDIR, 'codelists.json'), 'w'))
+write_json_api_data(codelists_list)
