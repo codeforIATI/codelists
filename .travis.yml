@@ -2,6 +2,8 @@
 dist: xenial
 language: python
 python: 3.7
+env:
+  - CODELISTS_BASE_URL="https://codelists.codeforiati.org"
 before_install:
     - sudo apt-get update -qq
     - sudo apt-get install -qq libxml2-utils
