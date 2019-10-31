@@ -28,3 +28,5 @@ done
 python src/gen.py docs/.vuepress/public/api/clv2
 python src/v2tov1.py docs/.vuepress/public/api/clv2 docs/.vuepress/public/api/clv1
 cp -r docs/.vuepress/public/api/clv2/{codelists.json,codelists.xml,csv,json} docs/.vuepress/public/api/clv3/
+
+cp -r docs/.vuepress/public/api/clv3/* docs/.vuepress/public/api
