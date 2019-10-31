@@ -19,7 +19,6 @@ done
 rm -rf docs
 cp -r static docs
 
-rm -rf docs/.vuepress/public/api
 mkdir -p docs/.vuepress/public/api/clv2/xml docs/.vuepress/public/api/clv3
 cp -r codelists docs/.vuepress/public/api/clv3/xml
 for f in codelists/*; do
