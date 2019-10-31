@@ -11,7 +11,7 @@
     <b-alert show>
       <p v-if="description"><i>{{ description }}</i></p>
       <p v-if="categoryCodelist">{{ this.$themeLocaleConfig.categorisedCodelist }}
-      <router-link :to="categoryCodelist"><code>{{ categoryCodelist }}</code></router-link>.</p>
+      <router-link :to="`../${categoryCodelist}`"><code>{{ categoryCodelist }}</code></router-link>.</p>
       <p v-if="url">{{ this.$themeLocaleConfig.source }}: <a :href="url">{{ url }}</a></p>
     </b-alert>
     <b-table
