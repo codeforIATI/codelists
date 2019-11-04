@@ -63,23 +63,28 @@ def utf8_encode_dict(d):
 def write_json_api_data(codelists_list):
     json.dump(codelists_list, open(os.path.join(OUTPUTDIR, 'codelists.json'), 'w'))
     json.dump({
-        "languages": dict([
-            (lang,{
-                "formats":
-                    {
-                    "xml": OrderedDict(map(lambda cl:
-                        (str(cl), "{}/api/xml/{}.xml".format(BASE_URL, cl)),
-                        sorted(codelists_list))),
-                    "csv": OrderedDict(map(lambda cl:
-                        (str(cl), "{}/api/csv/{}/{}.csv".format(BASE_URL, lang, cl)),
-                        sorted(codelists_list))),
-                    "json": OrderedDict(map(lambda cl:
-                        (str(cl), "{}/api/json/{}/{}.json".format(BASE_URL, lang, cl)),
-                        sorted(codelists_list)))
-                    }
-            })
-            for lang in languages
-        ])
+        "formats":
+            {
+            "xml": OrderedDict(map(lambda cl:
+                (str(cl), "{}/api/xml/{}.xml".format(BASE_URL, cl)),
+                sorted(codelists_list))),
+            "csv": {
+                "languages": dict([
+                    (lang, OrderedDict(map(lambda cl:
+                    (str(cl), "{}/api/csv/{}/{}.csv".format(BASE_URL, lang, cl)),
+                    sorted(codelists_list))))
+                    for lang in languages
+                ])
+            },
+            "json": {
+                "languages": dict([
+                    (lang, OrderedDict(map(lambda cl:
+                    (str(cl), "{}/api/json/{}/{}.json".format(BASE_URL, lang, cl)),
+                    sorted(codelists_list))))
+                    for lang in languages
+                ])
+            }
+            }
         },
         open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w'))
 
