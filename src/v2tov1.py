@@ -8,6 +8,9 @@ from lxml import etree as ET
 from lxml.builder import E
 from collections import OrderedDict
 
+import xlsx
+
+
 language = 'en'
 
 INPUTDIR = sys.argv[1]
@@ -101,6 +104,20 @@ for fname in os.listdir(os.path.join(INPUTDIR, 'xml')):
 
         old_codelist.append(old_codelist_item)
         old_codelist_json_list.append(old_codelist_json_item)
+
+    fieldnames = ['code', 'name', 'description', 'language', 'category', 'category-name', 'category-description']
+    with open(os.path.join(OUTPUTDIR, 'codelist', attrib['name'] + '.csv'), 'w') as fp:
+        dictwriter = csv.DictWriter(fp, fieldnames)
+        dictwriter.writeheader()
+        for line in old_codelist_json_list:
+            dictwriter.writerow(line)
+
+    xlsx_fname = os.path.join(OUTPUTDIR, 'codelist', attrib['name'] + '.xlsx')
+    xdw = xlsx.XLSXDictWriter(xlsx_fname, fieldnames=fieldnames)
+    xdw.writeheader()
+    for line in old_codelist_json_list:
+        xdw.writerow(line)
+    xdw.close()
 
     with open(os.path.join(OUTPUTDIR, 'codelist', attrib['name'] + '.csv'), 'w') as fp:
         dictwriter = csv.DictWriter(fp, ['code', 'name', 'description', 'language', 'category', 'category-name', 'category-description'])

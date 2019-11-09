@@ -7,6 +7,9 @@ from functools import partial
 import sys
 from collections import OrderedDict
 
+import xlsx
+
+
 languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
@@ -67,6 +70,14 @@ def write_json_api_data(codelists_list):
                     for lang in languages
                 ])
             },
+            "xlsx": {
+                "languages": dict([
+                    (lang, OrderedDict(map(lambda cl:
+                    (str(cl), "{}/api/xlsx/{}/{}.xlsx".format(BASE_URL, lang, cl)),
+                    sorted(codelists_list))))
+                    for lang in languages
+                ])
+            },
             "json": {
                 "languages": dict([
                     (lang, OrderedDict(map(lambda cl:
@@ -87,6 +98,7 @@ for language in languages:
     try:
         os.makedirs(os.path.join(OUTPUTDIR, 'json', language))
         os.makedirs(os.path.join(OUTPUTDIR, 'csv', language))
+        os.makedirs(os.path.join(OUTPUTDIR, 'xlsx', language))
     except OSError:
         pass
 
@@ -116,6 +128,13 @@ for language in languages:
         dw.writeheader()
         for row in codelist_dicts:
             dw.writerow(row)
+
+        fname = os.path.join(OUTPUTDIR, 'xlsx', language, attrib['name'] + '.xlsx')
+        xdw = xlsx.XLSXDictWriter(fname, fieldnames=fieldnames)
+        xdw.writeheader()
+        for row in codelist_dicts:
+            xdw.writerow(row)
+        xdw.close()
 
         name_elements = codelist.getroot().xpath('/codelist/metadata/name[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
         description_elements = codelist.getroot().xpath('/codelist/metadata/description[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
