@@ -119,12 +119,6 @@ for fname in os.listdir(os.path.join(INPUTDIR, 'xml')):
         xdw.writerow(line)
     xdw.close()
 
-    with open(os.path.join(OUTPUTDIR, 'codelist', attrib['name'] + '.csv'), 'w') as fp:
-        dictwriter = csv.DictWriter(fp, ['code', 'name', 'description', 'language', 'category', 'category-name', 'category-description'])
-        dictwriter.writeheader()
-        for line in old_codelist_json_list:
-            dictwriter.writerow(line)
-
     ET.ElementTree(old_codelist).write(os.path.join(OUTPUTDIR, 'codelist', fname), pretty_print=True)
     with open(os.path.join(OUTPUTDIR, 'codelist', attrib['name'] + '.json'), 'w') as fp:
         old_codelist_json[attrib['name']] = old_codelist_json_list
