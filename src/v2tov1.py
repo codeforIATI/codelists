@@ -1,4 +1,3 @@
-from __future__ import print_function
 import os
 import datetime
 import pytz
@@ -18,15 +17,6 @@ try:
     os.makedirs(os.path.join(OUTPUTDIR, 'codelist'))
 except OSError:
     pass
-
-
-def utf8_encode_dict(d):
-    def enc(a):
-        if a is None:
-            return None
-        else:
-            return a.encode('utf8')
-    return dict((enc(k), enc(v)) for k, v in d.items())
 
 
 old_codelist_index = E.codelists()
@@ -116,8 +106,6 @@ for fname in os.listdir(os.path.join(INPUTDIR, 'xml')):
         dictwriter = csv.DictWriter(fp, ['code', 'name', 'description', 'language', 'category', 'category-name', 'category-description'])
         dictwriter.writeheader()
         for line in old_codelist_json_list:
-            if sys.version_info.major == 2:
-                line = utf8_encode_dict(line)
             dictwriter.writerow(line)
 
     ET.ElementTree(old_codelist).write(os.path.join(OUTPUTDIR, 'codelist', fname), pretty_print=True)

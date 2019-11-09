@@ -51,15 +51,6 @@ def codelist_item_todict(codelist_item, default_lang='', lang='en'):
     return out
 
 
-def utf8_encode_dict(d):
-    def enc(a):
-        if type(a) == str:
-            return a.encode('utf8')
-        else:
-            return None
-    return dict((enc(k), enc(v)) for k, v in d.items())
-
-
 def write_json_api_data(codelists_list):
     json.dump(codelists_list, open(os.path.join(OUTPUTDIR, 'codelists.json'), 'w'))
     json.dump({
@@ -124,8 +115,6 @@ for language in languages:
         dw = csv.DictWriter(open(os.path.join(OUTPUTDIR, 'csv', language, attrib['name'] + '.csv'), 'w'), fieldnames)
         dw.writeheader()
         for row in codelist_dicts:
-            if sys.version_info.major == 2:
-                row = utf8_encode_dict(row)
             dw.writerow(row)
 
         name_elements = codelist.getroot().xpath('/codelist/metadata/name[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
