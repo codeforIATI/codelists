@@ -70,6 +70,10 @@
           "format": "CSV"
         },
         {
+          "url":`/api/xlsx/${this.lang}/${this.codelist}.xlsx`,
+          "format": "XLSX"
+        },
+        {
           "url":`/api/json/${this.lang}/${this.codelist}.json`,
           "format": "JSON"
         }
