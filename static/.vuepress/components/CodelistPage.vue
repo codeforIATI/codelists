@@ -23,6 +23,10 @@
         <a :name="data.item.code" style="visibility:hidden;padding-top:73px;"></a>
         <a :href="'#' + data.item.code">{{ data.item.code }}</a>
       </template>
+
+      <template v-slot:cell(category)="data" v-if="categoryCodelist">
+        <a :href="'../' + categoryCodelist + '/#' + data.item.category">{{ data.item.category }}</a>
+      </template>
     </b-table>
   </div>
 </template>
