@@ -2,6 +2,7 @@ import Vue from 'vue'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+import VueScrollTo from 'vue-scrollto'
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -10,4 +11,5 @@ export default ({
   siteData // site metadata
 }) => {
 	Vue.use(BootstrapVue)
+	Vue.use(VueScrollTo)
 }
