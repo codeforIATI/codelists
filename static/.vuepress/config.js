@@ -9,6 +9,6 @@ module.exports = {
       link: `${BASE_URL}/api/`
     }],
     locales: locales,
-    logo: `${BASE_URL}/assets/img/logo.png?v=7ddc8d1394de72bd6ae00937b90158393b9bb996`
+    logo: `https://codeforiati.org/assets/img/logo.png`
   }
 }
