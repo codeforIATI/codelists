@@ -20,12 +20,12 @@
       :tbody-tr-class="rowClass">
 
       <template v-slot:cell(code)="data">
-        <a :name="data.item.code" style="visibility:hidden;padding-top:73px;"></a>
-        <a :href="'#' + data.item.code">{{ data.item.code }}</a>
+        <a :id="data.item.code" style="visibility:hidden;padding-top:73px;"></a>
+        <router-link :to="'#' + data.item.code">{{ data.item.code }}</router-link>
       </template>
 
       <template v-slot:cell(category)="data" v-if="categoryCodelist">
-        <a :href="'../' + categoryCodelist + '/#' + data.item.category">{{ data.item.category }}</a>
+        <router-link :to="'../' + categoryCodelist + '/#' + data.item.category">{{ data.item.category }}</router-link>
       </template>
     </b-table>
   </div>
@@ -41,6 +41,7 @@
 </style>
 <script>
   import axios from 'axios'
+  import VueScrollTo from 'vue-scrollto'
   import 'bootstrap/dist/css/bootstrap.css'
   import 'bootstrap-vue/dist/bootstrap-vue.css'
   export default {
@@ -87,6 +88,14 @@
           "format": "JSON"
         }
       ]
+    },
+    mounted() {
+      if (this.$route.hash) {
+        setTimeout(() => {
+          var anchor = document.getElementById(this.$route.hash.split("#")[1])
+          VueScrollTo.scrollTo(anchor, 500, {offset:-10})
+        }, 500)
+      }
     },
     methods: {
       rowClass(item, type) {
