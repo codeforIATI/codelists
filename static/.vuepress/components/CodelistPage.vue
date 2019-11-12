@@ -93,7 +93,7 @@
       if (this.$route.hash) {
         setTimeout(() => {
           var anchor = document.getElementById(this.$route.hash.split("#")[1])
-          VueScrollTo.scrollTo(anchor, 500, {offset:-10})
+          VueScrollTo.scrollTo(anchor, 500)
         }, 500)
       }
     },
