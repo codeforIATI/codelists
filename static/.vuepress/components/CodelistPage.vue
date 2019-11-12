@@ -18,6 +18,11 @@
       :fields="fields"
       :items="codes"
       :tbody-tr-class="rowClass">
+
+      <template v-slot:cell(code)="data">
+        <a :name="data.item.code" style="visibility:hidden;padding-top:73px;"></a>
+        <a :href="'#' + data.item.code">{{ data.item.code }}</a>
+      </template>
     </b-table>
   </div>
 </template>
