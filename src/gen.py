@@ -39,6 +39,8 @@ def codelist_item_todict(codelist_item, default_lang='', lang='en'):
     for child in codelist_item:
         if child.tag not in fieldnames:
             continue
+        if child.text is None:
+            continue
         if child.tag in ['name', 'description'] and \
                 child.attrib.get(xml_lang) != lang and \
                 (child.attrib.get(xml_lang) is not None or lang != default_lang):
