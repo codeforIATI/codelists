@@ -16,7 +16,7 @@
   },
   "/fr/": {
     "lang": "fr",
-    "title": "Listes de codes repoduits",
+    "title": "Listes de codes copiées",
     "description": "Listes de codes utiles en utilisant des données IATI",
     "selectText": "Langues",
     "label": "Français",
@@ -25,12 +25,12 @@
       "/fr/ExchangeRates/"
     ],
     "download": "Télécharger",
-    "categorisedCodelist": "Cette liste de codes est regroupée en catégoires, selon la liste de codes",
+    "categorisedCodelist": "Cette liste de codes est regroupée en catégories, selon la liste de codes",
     "source": "Source originelle ",
     "headers": {
       "code": "Code",
       "name": "Nom",
-      "category": "Catégoire",
+      "category": "Catégorie",
       "description": "Description",
       "status": "Statut"
     }
