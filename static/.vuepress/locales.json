@@ -33,6 +33,12 @@
       "category": "Catégorie",
       "description": "Description",
       "status": "Statut"
+    },
+    "columnValues": {
+      "status": {
+        "active": "actif",
+        "withdrawn": "retiré"
+      }
     }
   }
 }
