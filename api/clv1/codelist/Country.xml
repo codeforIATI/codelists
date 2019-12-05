@@ -1,4 +1,4 @@
-<codelist name="Country" date-last-modified="2019-12-05T21:42:00.876900+00:00" version="" xml:lang="en">
+<codelist name="Country" date-last-modified="2019-12-05T21:47:18.897733+00:00" version="" xml:lang="en">
   <Country>
     <code>AF</code>
     <name>Afghanistan</name>
@@ -180,6 +180,11 @@
     <language>en</language>
   </Country>
   <Country>
+    <code>BU</code>
+    <name>Burma</name>
+    <language>en</language>
+  </Country>
+  <Country>
     <code>BI</code>
     <name>Burundi</name>
     <language>en</language>
@@ -317,6 +322,11 @@
   <Country>
     <code>DO</code>
     <name>Dominican Republic (the)</name>
+    <language>en</language>
+  </Country>
+  <Country>
+    <code>TP</code>
+    <name>East Timor</name>
     <language>en</language>
   </Country>
   <Country>
@@ -795,6 +805,11 @@
     <language>en</language>
   </Country>
   <Country>
+    <code>NT</code>
+    <name>Neutral Zone</name>
+    <language>en</language>
+  </Country>
+  <Country>
     <code>NC</code>
     <name>New Caledonia</name>
     <language>en</language>
@@ -1080,6 +1095,11 @@
     <language>en</language>
   </Country>
   <Country>
+    <code>CS</code>
+    <name>Serbia and Montenegro</name>
+    <language>en</language>
+  </Country>
+  <Country>
     <code>SE</code>
     <name>Sweden</name>
     <language>en</language>
@@ -1242,6 +1262,16 @@
   <Country>
     <code>YE</code>
     <name>Yemen</name>
+    <language>en</language>
+  </Country>
+  <Country>
+    <code>YU</code>
+    <name>Yugoslavia</name>
+    <language>en</language>
+  </Country>
+  <Country>
+    <code>ZR</code>
+    <name>Zaire</name>
     <language>en</language>
   </Country>
   <Country>

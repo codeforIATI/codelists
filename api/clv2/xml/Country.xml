@@ -193,6 +193,11 @@
             <name>Burkina Faso</name>
             <name xml:lang="fr">Burkina Faso (le)</name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>BU</code>
+            <name>Burma</name>
+            <name xml:lang="fr">Birmanie</name>
+        </codelist-item>
         <codelist-item>
             <code>BI</code>
             <name>Burundi</name>
@@ -332,6 +337,11 @@
             <code>DO</code>
             <name>Dominican Republic (the)</name>
             <name xml:lang="fr">dominicaine (la R&#233;publique)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>TP</code>
+            <name>East Timor</name>
+            <name xml:lang="fr">Timor oriental</name>
         </codelist-item>
         <codelist-item>
             <code>EC</code>
@@ -807,6 +817,11 @@
             <name>Netherlands Antilles</name>
             <name xml:lang="fr">Antilles n&#233;erlandaises (les )</name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NT</code>
+            <name>Neutral Zone</name>
+            <name xml:lang="fr">Zone neutre</name>
+        </codelist-item>
         <codelist-item>
             <code>NC</code>
             <name>New Caledonia</name>
@@ -1092,6 +1107,11 @@
             <name>Eswatini</name>
             <name xml:lang="fr">Eswatini (l')</name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>CS</code>
+            <name>Serbia and Montenegro</name>
+            <name xml:lang="fr">Serbie-et-Mont&#233;n&#233;gro</name>
+        </codelist-item>
         <codelist-item>
             <code>SE</code>
             <name>Sweden</name>
@@ -1256,6 +1276,16 @@
             <code>YE</code>
             <name>Yemen</name>
             <name xml:lang="fr">Y&#233;men (le)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>YU</code>
+            <name>Yugoslavia</name>
+            <name xml:lang="fr">Yougoslavie</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ZR</code>
+            <name>Zaire</name>
+            <name xml:lang="fr">Za&#239;re</name>
         </codelist-item>
         <codelist-item>
             <code>ZM</code>

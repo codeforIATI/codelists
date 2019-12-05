@@ -271,6 +271,13 @@
                 <narrative xml:lang="fr">Burkina Faso (le)</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>BU</code>
+            <name>
+                <narrative>Burma</narrative>
+                <narrative xml:lang="fr">Birmanie</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>BI</code>
             <name>
@@ -465,6 +472,13 @@
             <name>
                 <narrative>Dominican Republic (the)</narrative>
                 <narrative xml:lang="fr">dominicaine (la République)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>TP</code>
+            <name>
+                <narrative>East Timor</narrative>
+                <narrative xml:lang="fr">Timor oriental</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1131,6 +1145,13 @@
                 <narrative xml:lang="fr">Antilles néerlandaises (les )</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NT</code>
+            <name>
+                <narrative>Neutral Zone</narrative>
+                <narrative xml:lang="fr">Zone neutre</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>NC</code>
             <name>
@@ -1530,6 +1551,13 @@
                 <narrative xml:lang="fr">Eswatini (l')</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>CS</code>
+            <name>
+                <narrative>Serbia and Montenegro</narrative>
+                <narrative xml:lang="fr">Serbie-et-Monténégro</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>SE</code>
             <name>
@@ -1759,6 +1787,20 @@
             <name>
                 <narrative>Yemen</narrative>
                 <narrative xml:lang="fr">Yémen (le)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>YU</code>
+            <name>
+                <narrative>Yugoslavia</narrative>
+                <narrative xml:lang="fr">Yougoslavie</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ZR</code>
+            <name>
+                <narrative>Zaire</narrative>
+                <narrative xml:lang="fr">Zaïre</narrative>
             </name>
         </codelist-item>
         <codelist-item>
