@@ -60,11 +60,15 @@
     async beforeMount() {
       var data = await axios.get(`/api/json/${this.lang}/${this.codelist}.json`)
       this.fields = Object.keys(data.data.data[0]).map(field => {
-        return {
+        var f = {
           key: field,
           sortable: true,
           label: this.$themeLocaleConfig.headers[field] ? this.$themeLocaleConfig.headers[field] : null
         }
+        if (field == 'status') {
+          f.formatter = 'statusFormatter'
+        }
+        return f
       })
       this.codes = data.data.data
       this.description = (data.data.metadata.description != "") ? data.data.metadata.description : null
@@ -101,6 +105,13 @@
       rowClass(item, type) {
         if (!item) return
         if (item.status === 'withdrawn') return 'withdrawn-code'
+      },
+      statusFormatter(value) {
+        return this.columnFormatter('status', value)
+      },
+      columnFormatter(field, value) {
+        if (!this.$themeLocaleConfig.columnValues) { return value }
+        return this.$themeLocaleConfig.columnValues[field][value] ? this.$themeLocaleConfig.columnValues[field][value] : value
       }
     }
   }
