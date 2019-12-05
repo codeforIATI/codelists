@@ -4,6 +4,8 @@ Les données historiques sur les taux de change sont essentielles pour pouvoir i
 
 Il existe un certain nombre de sources accessibles au public pour les données de taux de change. Vous pouvez télécharger un extrait complet des données sur les taux de change de l'OCDE et de la Réserve fédérale dans[un seul jeu de données publié sur Morph.io](https://morph.io/markbrough/exchangerates-scraper), un site gratuit permettant d'exécuter des &laquo; scrapers &raquo; (moissonneur) pour récupérer ce genre de données. Les données sont disponibles au format CSV, sous forme de base de données complète ou via une API interrogeable au format JSON, CSV ou ATOM. Le moissonneur enregistre également la première fois que des données particulières ont été récupérées, afin que vous puissiez régulièrement demander une mise à jour par rapport à la dernière fois que vous avez récupéré ces données.
 
+[Visitez le calculateur de devises](https://exchangerates.codeforiati.org)
+
 Pour télécharger les données, ou bien utiliser l'API:
 1. Visitez le moisonneur: [https://morph.io/markbrough/exchangerates-scraper](https://morph.io/markbrough/exchangerates-scraper)
 2. Connectez-vous avec Github (si vous n'avez pas de compte, vous pouvez en créer un gratuitement)
