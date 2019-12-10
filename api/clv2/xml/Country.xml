@@ -3,13 +3,8 @@
         <url>http://www.iso.org/iso/home/standards/country_codes.htm</url>
         <name>Country</name>
         <name xml:lang="fr">Pays</name>
-        <description>
-            The Country codelist is generated from the ISO 3166-1 part of the
-            ISO 3166 standard. The standard makes allowance, alongside the
-            officially assigned codes, for code elements to be expanded by
-            using either reserved codes or user-assigned codes. IATI currently
-            defines additional codes in the XA -XZ range.
-        </description>
+        <description>The Country codelist is generated from the ISO 3166-1 part of the ISO 3166 standard. The standard makes allowance, alongside the officially assigned codes, for code elements to be expanded by using either reserved codes or user-assigned codes. IATI currently defines additional codes in the XA -XZ range.</description>
+        <description xml:lang="fr">La liste de codes Pays est g&#233;n&#233;r&#233;e &#224; partir de la partie ISO 3166-1 de la norme ISO 3166. En plus des codes attribu&#233;s officiellement, la norme permet d'&#233;tendre les &#233;l&#233;ments de code en utilisant des codes r&#233;serv&#233;s ou des codes cr&#233;&#233;s par les usagers. A l'heure actuelle l'IITA d&#233;finit des codes additionnels dans la gamme XA-XZ.</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

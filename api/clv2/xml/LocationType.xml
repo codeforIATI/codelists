@@ -3,11 +3,10 @@
         <url>http://geonames.nga.mil/namesgaz/</url>
         <name>Location Type</name>
         <name xml:lang="fr">Type de lieu</name>
-        <description>
-            US NGA Feature Designation Codes
-            
-            On this codelist 'category' is used for the Feature Class.
-        </description>
+        <description>US NGA Feature Designation Codes
+
+On this codelist 'category' is used for the Feature Class.</description>
+        <description xml:lang="fr">Codes du US NGA d&#233;signant des entit&#233;s g&#233;ographiques. Dans cette liste, "cat&#233;gorie" correspond au type d'entit&#233;.</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

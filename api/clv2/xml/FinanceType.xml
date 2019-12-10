@@ -4,6 +4,7 @@
         <name>Finance Type</name>
         <name xml:lang="fr">Type de financement</name>
         <description>DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans.</description>
+        <description xml:lang="fr">Classification de transaction du CAD/SNPC pour distinguer les instruments financiers, par exemple les subventions ou pr&#234;ts.</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

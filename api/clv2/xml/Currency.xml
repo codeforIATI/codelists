@@ -2,8 +2,9 @@
     <metadata>
         <url>http://www.iso.org/iso/home/standards/currency_codes.htm</url>
         <name>Currency</name>
-        <name xml:lang="fr">Monnaie</name>
+        <name xml:lang="fr">Devise</name>
         <description>ISO 4217 Currency used for all transactions and budgets</description>
+        <description xml:lang="fr">ISO 4217 La devise utilis&#233;e pour tous les budgets et transactions</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

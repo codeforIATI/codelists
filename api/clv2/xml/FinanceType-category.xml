@@ -4,6 +4,7 @@
         <name>Finance Type (category)</name>
         <name xml:lang="fr">Type de financement (cat&#233;gorie)</name>
         <description>This codelists exists to group the Finance Type codelist into categories. It is not used as a codelist in its own right.</description>
+        <description xml:lang="fr">Cette liste sert &#224; grouper la liste de codes Type de financement en cat&#233;gories. Elle n'est pas utilis&#233;e comme liste de codes en elle-m&#234;me.</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

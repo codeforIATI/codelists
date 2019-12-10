@@ -16,15 +16,13 @@
   </codelist>
   <codelist>
     <name>OrganisationRegistrationAgency</name>
-    <description>
-                The values from this codelist are used to identify the particular list that an organisation identifier was drawn from. The codelist provides a register of known identifier lists, including national company registers, NGO directories and international and multilateral organisation lists - along with guidance and online resources to help locate the identifiers assigned to a specific organisation.
+    <description>The values from this codelist are used to identify the particular list that an organisation identifier was drawn from. The codelist provides a register of known identifier lists, including national company registers, NGO directories and international and multilateral organisation lists - along with guidance and online resources to help locate the identifiers assigned to a specific organisation.
 
-                As of 17 July 2017 this list is maintained by the org-id.guide project. Data publishers can now search for and locate the relevant list for a particular organisation identifier using the `org-id.guide website &lt;http://org-id.guide/&gt;`__. The full register of identifier sources is also available to download in `XML &lt;http://org-id.guide/download.xml&gt;`__, `JSON &lt;http://org-id.guide/download.json&gt;`__ and `CSV &lt;http://org-id.guide/download.csv&gt;`__ formats.
+As of 17 July 2017 this list is maintained by the org-id.guide project. Data publishers can now search for and locate the relevant list for a particular organisation identifier using the `org-id.guide website &lt;http://org-id.guide/&gt;`__. The full register of identifier sources is also available to download in `XML &lt;http://org-id.guide/download.xml&gt;`__, `JSON &lt;http://org-id.guide/download.json&gt;`__ and `CSV &lt;http://org-id.guide/download.csv&gt;`__ formats.
 
-                IATI periodically replicates the codelist of identifier sources from org-id.guide, to assist those accessing IATI documentation. However, it is advised that the most up-to-date source is the `org-id.guide project &lt;http://org-id.guide/&gt;`__.
+IATI periodically replicates the codelist of identifier sources from org-id.guide, to assist those accessing IATI documentation. However, it is advised that the most up-to-date source is the `org-id.guide project &lt;http://org-id.guide/&gt;`__.
 
-                If org-id.guide does not contain an entry for the kind of organisation you need to identify, you can make a request a new list is included in the register following the `guidance &lt;http://docs.org-id.guide/en/latest/contribute/&gt;`__ or by getting in touch with org-id.guide at: contact@org-id.guide.
-            </description>
+If org-id.guide does not contain an entry for the kind of organisation you need to identify, you can make a request a new list is included in the register following the `guidance &lt;http://docs.org-id.guide/en/latest/contribute/&gt;`__ or by getting in touch with org-id.guide at: contact@org-id.guide.</description>
     <count>197</count>
   </codelist>
   <codelist>
@@ -59,11 +57,9 @@
   </codelist>
   <codelist>
     <name>LocationType</name>
-    <description>
-            US NGA Feature Designation Codes
-            
-            On this codelist 'category' is used for the Feature Class.
-        </description>
+    <description>US NGA Feature Designation Codes
+
+On this codelist 'category' is used for the Feature Class.</description>
     <count>682</count>
   </codelist>
   <codelist>
@@ -118,13 +114,7 @@
   </codelist>
   <codelist>
     <name>Country</name>
-    <description>
-            The Country codelist is generated from the ISO 3166-1 part of the
-            ISO 3166 standard. The standard makes allowance, alongside the
-            officially assigned codes, for code elements to be expanded by
-            using either reserved codes or user-assigned codes. IATI currently
-            defines additional codes in the XA -XZ range.
-        </description>
+    <description>The Country codelist is generated from the ISO 3166-1 part of the ISO 3166 standard. The standard makes allowance, alongside the officially assigned codes, for code elements to be expanded by using either reserved codes or user-assigned codes. IATI currently defines additional codes in the XA -XZ range.</description>
     <count>257</count>
   </codelist>
 </codelists>
