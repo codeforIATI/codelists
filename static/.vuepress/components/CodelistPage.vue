@@ -116,7 +116,7 @@
       rstToHtml(value) {
         // it's tricky to do this properly in javascript,
         // so a regex will have to suffice
-        return value.replace(/`([^<]+) <([^>]+)>`__/g, '<a href="$2">$1</a>')
+        return value.replace(/\n/g, '<br>').replace(/`([^<]+) <([^>]+)>`__/g, '<a href="$2">$1</a>')
       }
     }
   }
