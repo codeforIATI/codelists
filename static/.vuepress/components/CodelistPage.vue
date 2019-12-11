@@ -9,7 +9,7 @@
       </b-col>
     </b-row>
     <b-alert show>
-      <p v-if="description"><i>{{ description }}</i></p>
+      <p v-if="description"><i v-html="description"></i></p>
       <p v-if="categoryCodelist">{{ this.$themeLocaleConfig.categorisedCodelist }}
       <router-link :to="`../${categoryCodelist}`"><code>{{ categoryCodelist }}</code></router-link>.</p>
       <p v-if="url">{{ this.$themeLocaleConfig.source }}: <a :href="url">{{ url }}</a></p>
@@ -71,7 +71,7 @@
         return f
       })
       this.codes = data.data.data
-      this.description = (data.data.metadata.description != "") ? data.data.metadata.description : null
+      this.description = (data.data.metadata.description != "") ? this.rstToHtml(data.data.metadata.description) : null
       this.categoryCodelist = data.data.attributes["category-codelist"] ? data.data.attributes["category-codelist"] : null
       this.url = data.data.metadata.url ? data.data.metadata.url : null
       this.downloadURLs = [
@@ -112,6 +112,11 @@
       columnFormatter(field, value) {
         if (!this.$themeLocaleConfig.columnValues) { return value }
         return this.$themeLocaleConfig.columnValues[field][value] ? this.$themeLocaleConfig.columnValues[field][value] : value
+      },
+      rstToHtml(value) {
+        // it's tricky to do this properly in javascript,
+        // so a regex will have to suffice
+        return value.replace(/`([^<]+) <([^>]+)>`__/g, '<a href="$2">$1</a>')
       }
     }
   }
