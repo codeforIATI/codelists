@@ -1,0 +1,101 @@
+<codelist name="HumanitarianGlobalClusters" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <url>https://data.humdata.org/dataset/global-coordination-groups-beta</url>
+        <name>Humanitarian Global Clusters</name>
+        <name xml:lang="fr">Clusters Humanitaires Mondiaux</name>
+        <category>Maintained</category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>4</code>
+            <url>https://www.sheltercluster.org/</url>
+            <name>Emergency Shelter and NFI</name>
+            <name xml:lang="fr">Abris d'urgence et NFI</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1</code>
+            <url>http://www.globalcccmcluster.org</url>
+            <name>Camp Coordination / Management</name>
+            <name xml:lang="fr">Coordination et gestion des camps</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5406</code>
+            <url>http://www.globalprotectioncluster.org/en/areas-of-responsibility/mine-action.html</url>
+            <name>Mine Action</name>
+            <name xml:lang="fr">Action contre les mines</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6</code>
+            <url>http://foodsecuritycluster.net/</url>
+            <name>Food Security</name>
+            <name xml:lang="fr">S&#233;curit&#233; alimentaire</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11</code>
+            <url>http://washcluster.net/</url>
+            <name>Water Sanitation Hygiene</name>
+            <name xml:lang="fr">Eau, assainissement et hygi&#232;ne</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8</code>
+            <url>http://www.logcluster.org/</url>
+            <name>Logistics</name>
+            <name xml:lang="fr">Logistique</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5403</code>
+            <url>http://cpwg.net/</url>
+            <name>Child Protection</name>
+            <name xml:lang="fr">Protection de l'enfance</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10</code>
+            <url>http://www.globalprotectioncluster.org/</url>
+            <name>Protection</name>
+            <name xml:lang="fr">Protection</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3</code>
+            <url>http://educationcluster.net/</url>
+            <name>Education</name>
+            <name xml:lang="fr">Education</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9</code>
+            <url>http://nutritioncluster.net/</url>
+            <name>Nutrition</name>
+            <name xml:lang="fr">Nutrition</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>7</code>
+            <url>http://www.who.int/health-cluster/en/</url>
+            <name>Health</name>
+            <name xml:lang="fr">Sant&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2</code>
+            <url>http://earlyrecovery.global/</url>
+            <name>Early Recovery</name>
+            <name xml:lang="fr">Rel&#232;vement rapide</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5</code>
+            <url>https://www.etcluster.org/</url>
+            <name>Emergency Telecommunications</name>
+            <name xml:lang="fr">T&#233;l&#233;communications d'urgence</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5404</code>
+            <url>http://gbvaor.net/</url>
+            <name>Gender Based Violence</name>
+            <name xml:lang="fr">Violences bas&#233;es sur le genre</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5405</code>
+            <url>http://www.globalprotectioncluster.org/en/areas-of-responsibility/housing-land-and-property.html</url>
+            <name>Housing, Land and Property</name>
+            <name xml:lang="fr">Logement, terre, et biens</name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+

@@ -73,6 +73,11 @@ On this codelist 'category' is used for the Feature Class.</description>
     <count>5</count>
   </codelist>
   <codelist>
+    <name>HumanitarianGlobalClusters</name>
+    <description></description>
+    <count>15</count>
+  </codelist>
+  <codelist>
     <name>UNSDG-Targets</name>
     <description>A value from the second-level list of UN sustainable development goals (SDGs) (e.g. &#8216;1.1&#8217;)</description>
     <count>169</count>
