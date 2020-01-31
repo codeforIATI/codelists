@@ -107,6 +107,7 @@
         <codelist-item status="withdrawn">
             <code>230</code>
             <name>ENERGY GENERATION AND SUPPLY</name>
+            <name xml:lang="fr">PRODUCTION ET DISTRIBUTION D&#8217;ENERGIE</name>
             <description>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</description>
         </codelist-item>
         <codelist-item>
@@ -294,7 +295,9 @@
         <codelist-item status="withdrawn">
             <code>920</code>
             <name>SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)</name>
+            <name xml:lang="fr">CONCOURS FOURNIS AUX ORGANISATIONS NON-GOUVERNEMENTALES (ONG)</name>
             <description>In the donor country.</description>
+            <description xml:lang="fr">Contributions aux ONG nationales et internationales pour utilisation &#224; la discr&#233;tion de ces derni&#232;res.</description>
         </codelist-item>
         <codelist-item>
             <code>930</code>
