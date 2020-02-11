@@ -12,7 +12,9 @@
     "download": "Download",
     "categorisedCodelist": "This codelist is grouped into categories, using the codelist",
     "source": "Original source",
-    "headers": {}
+    "headers": {
+      "budget_alignment_guidance": "Guidance"
+    }
   },
   "/fr/": {
     "lang": "fr",
@@ -32,7 +34,8 @@
       "name": "Nom",
       "category": "Catégorie",
       "description": "Description",
-      "status": "Statut"
+      "status": "Statut",
+      "budget_alignment_guidance": "Guidance"
     },
     "columnValues": {
       "status": {
