@@ -105,6 +105,7 @@
       rowClass(item, type) {
         if (!item) return
         if (item.status === 'withdrawn') return 'withdrawn-code'
+        if ((item.budget_alignment_guidance) && (item.budget_alignment_guidance != "")) return 'table-danger'
       },
       statusFormatter(value) {
         return this.columnFormatter('status', value)

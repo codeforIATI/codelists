@@ -13,6 +13,7 @@ import xlsx
 languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
+budget_alignment_namespace = {'budget-alignment': 'http://iatistandard.org/activity-standard/overview/country-budget-alignment/'}
 
 OUTPUTDIR = sys.argv[1]
 
@@ -27,7 +28,7 @@ def normalize_whitespace(x):
     return x
 
 
-def codelist_item_todict(codelist_item, default_lang='', lang='en'):
+def codelist_item_todict(codelist_item, default_lang='', lang='en', codelist_name=None):
     fieldnames = [
         'code',
         'name',
@@ -53,6 +54,14 @@ def codelist_item_todict(codelist_item, default_lang='', lang='en'):
         else:
             out['public-database'] = False
     out['status'] = codelist_item.get('status', 'active')
+    if codelist_name == 'Sector':
+        fieldnames.append('budget_alignment_guidance')
+        if codelist_item.find('budget-alignment:status',
+            namespaces = budget_alignment_namespace) is not None:
+            out['budget_alignment_guidance'] = codelist_item.find('budget-alignment:status',
+                    namespaces = budget_alignment_namespace).text
+        else:
+            out['budget_alignment_guidance'] = ""
     return out
 
 
@@ -112,7 +121,10 @@ for language in languages:
         root = codelist.getroot()
         default_lang = root.attrib.get(xml_lang)
         codelist_items = root.find('codelist-items').findall('codelist-item')
-        codelist_dicts = list(map(partial(codelist_item_todict, default_lang=default_lang, lang=language), codelist_items))
+        codelist_dicts = list(map(partial(codelist_item_todict,
+            default_lang=default_lang,
+            lang=language,
+            codelist_name=attrib['name']), codelist_items))
 
         fieldnames = [
             'code',
@@ -122,6 +134,8 @@ for language in languages:
             'url',
             'status'
         ]
+        if attrib['name'] == 'Sector':
+            fieldnames.append('budget_alignment_guidance')
 
         if fname == 'OrganisationRegistrationAgency.xml':
             fieldnames.append('public-database')
