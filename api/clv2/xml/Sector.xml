@@ -169,6 +169,14 @@
             <description xml:lang="fr">Laboratoires, centres de sant&#233; et h&#244;pitaux sp&#233;cialis&#233;s (y compris l&#8217;&#233;quipement et les fournitures)&#160;; ambulances&#160;; services dentaires&#160;; r&#233;&#233;ducation m&#233;dicale. Exclut les maladies non-transmissibles (123XX)</description>
         </codelist-item>
         <codelist-item status="active">
+            <code>12196</code>
+            <category>121</category>
+            <name>Health statistics and data</name>
+            <name xml:lang="fr">Statistiques et donn&#233;es sur la sant&#233;</name>
+            <description>Collection, production, management and dissemination of statistics and data related to health. Includes health surveys, establishment of health databases, data collection on epidemics, etc.</description>
+            <description xml:lang="fr">Collecte, production, gestion et diffusion de statistiques et de donn&#233;es relatives &#224; la sant&#233;. Comprend les enqu&#234;tes sur la sant&#233;, la cr&#233;ation de bases de donn&#233;es sur la sant&#233;, la collecte de donn&#233;es sur les &#233;pid&#233;mies, etc.</description>
+        </codelist-item>
+        <codelist-item status="active">
             <code>12220</code>
             <category>122</category>
             <name>Basic health care</name>
@@ -189,7 +197,7 @@
             <category>122</category>
             <name>Basic nutrition</name>
             <name xml:lang="fr">Nutrition de base</name>
-            <description>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions.  Use code 11250 for school feeding and 43072 for household food security.</description>
+            <description>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions. Use code 11250 for school feeding and 43072 for household food security.</description>
             <description xml:lang="fr">Identification et suppl&#233;mentation en carence en micronutriments; Promotion de l'alimentation du nourrisson et du jeune enfant, y compris l'allaitement maternel exclusif; Gestion non urgente de la malnutrition aigu&#235; et d'autres programmes d'alimentation cibl&#233;s (y compris l'alimentation compl&#233;mentaire); Enrichissement des aliments de base, y compris l'iodation du sel; Surveillance de l'&#233;tat nutritionnel et surveillance nutritionnelle nationale; Recherche, renforcement des capacit&#233;s, &#233;laboration de politiques, suivi et &#233;valuation &#224; l'appui de ces interventions. Utilisez le code 11250 pour l&#8217;alimentation scolaire et le code 43072 pour la s&#233;curit&#233; alimentaire des m&#233;nages.</description>
         </codelist-item>
         <codelist-item status="active">
@@ -198,7 +206,7 @@
             <name>Infectious disease control</name>
             <name xml:lang="fr">Lutte contre les maladies infectieuses</name>
             <description>Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm),&#160;viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc.</description>
-            <description xml:lang="fr">Vaccination ;  pr&#233;vention et lutte contre les maladies infectieuses parasitaires &#224; l&#8217;exception du paludisme (12262), de la tuberculose (12263), du VIH/sida et autres MST (13040). Ceci inclus les diarrh&#233;es chroniques, les maladies transmises par un vecteur (par exemple onchocercose, bilharziose), les maladies virales, les mycoses, l&#8217;helminthiasis, les zoonoses et les maladies provoqu&#233;es par d&#8217;autres bact&#233;ries et virus, p&#233;diculose, etc.</description>
+            <description xml:lang="fr">Vaccination ; pr&#233;vention et lutte contre les maladies infectieuses parasitaires &#224; l&#8217;exception du paludisme (12262), de la tuberculose (12263), du VIH/sida et autres MST (13040). Ceci inclus les diarrh&#233;es chroniques, les maladies transmises par un vecteur (par exemple onchocercose, bilharziose), les maladies virales, les mycoses, l&#8217;helminthiasis, les zoonoses et les maladies provoqu&#233;es par d&#8217;autres bact&#233;ries et virus, p&#233;diculose, etc.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>12261</code>
@@ -269,7 +277,7 @@
             <category>123</category>
             <name>Other prevention and treatment of NCDs</name>
             <name xml:lang="fr">Autre pr&#233;vention et traitement des MNT</name>
-            <description>Population/individual measures to reduce exposure to unhealthy diets and physical inactivity and to strengthen capacity for prevention, early detection, treatment and sustained management of NCDs including:  Cardiovascular disease control: Prevention, screening and treatment of cardiovascular diseases (including hypertension, hyperlipidaemia, ischaemic heart diseases, stroke, rheumatic heart disease, congenital heart disease, heart failure, etc.).   Diabetes control: Prevention, screening, diagnosis, treatment and management of complications from all types of diabetes.  Exposure to physical inactivity: Promotion of physical activity through supportive built environment (urban design, transport), sports, health care, schools and community programmes and mass media campaign.  Exposure to unhealthy diet: Programmes and interventions that promote healthy diet through reduced consumption of salt, sugar and fats and increased consumption of fruits and vegetables e.g. food reformulation, nutrient labelling, food taxes, marketing restriction on unhealthy foods, nutrition education and counselling, and settings-based interventions (schools, workplaces, villages, communities).  Cancer control: Prevention (including immunisation, HPV and HBV), early diagnosis (including pathology), screening, treatment (e.g. radiotherapy, chemotherapy, surgery) and palliative care for all types of cancers. Implementation, maintenance and improvement of cancer registries are also included.  Chronic respiratory diseases: Prevention, early diagnosis and treatment of chronic respiratory diseases, including asthma. Excludes: Tobacco use control (12320), Control of harmful use of alcohol and drugs (12330), research for the prevention and control of NCDs (12382).</description>
+            <description>Population/individual measures to reduce exposure to unhealthy diets and physical inactivity and to strengthen capacity for prevention, early detection, treatment and sustained management of NCDs including: Cardiovascular disease control: Prevention, screening and treatment of cardiovascular diseases (including hypertension, hyperlipidaemia, ischaemic heart diseases, stroke, rheumatic heart disease, congenital heart disease, heart failure, etc.). Diabetes control: Prevention, screening, diagnosis, treatment and management of complications from all types of diabetes. Exposure to physical inactivity: Promotion of physical activity through supportive built environment (urban design, transport), sports, health care, schools and community programmes and mass media campaign. Exposure to unhealthy diet: Programmes and interventions that promote healthy diet through reduced consumption of salt, sugar and fats and increased consumption of fruits and vegetables e.g. food reformulation, nutrient labelling, food taxes, marketing restriction on unhealthy foods, nutrition education and counselling, and settings-based interventions (schools, workplaces, villages, communities). Cancer control: Prevention (including immunisation, HPV and HBV), early diagnosis (including pathology), screening, treatment (e.g. radiotherapy, chemotherapy, surgery) and palliative care for all types of cancers. Implementation, maintenance and improvement of cancer registries are also included. Chronic respiratory diseases: Prevention, early diagnosis and treatment of chronic respiratory diseases, including asthma. Excludes: Tobacco use control (12320), Control of harmful use of alcohol and drugs (12330), research for the prevention and control of NCDs (12382).</description>
             <description xml:lang="fr">Mesures individuelles / d&#233;mographiques visant &#224; r&#233;duire l'exposition aux r&#233;gimes alimentaires malsains et &#224; l'inactivit&#233; physique et &#224; renforcer les capacit&#233;s de pr&#233;vention, de d&#233;tection pr&#233;coce, de traitement et de gestion durable des MNT, notamment: Contr&#244;le des maladies cardiovasculaires: pr&#233;vention, d&#233;pistage et traitement des maladies cardiovasculaires (notamment hypertension, hyperlipid&#233;mie,cardiopathies isch&#233;miques, accidents vasculaires c&#233;r&#233;braux, cardiopathies rhumatismales, cardiopathies cong&#233;nitales, insuffisance cardiaque, etc.). Contr&#244;le du diab&#232;te: pr&#233;vention, d&#233;pistage, diagnostic, traitement et gestion des complications li&#233;es &#224; tous les types de diab&#232;te. Exposition &#224; l'inactivit&#233; physique: Promotion de l'activit&#233; physique par le biais d'un environnement b&#226;ti favorable (conception urbaine, transports), de sports, de soins de sant&#233;, d'&#233;coles et de programmes communautaires et d'une campagne dans les m&#233;dias. Exposition &#224; une alimentation malsaine: programmes et interventions qui favorisent une alimentation saine gr&#226;ce &#224; une consommation r&#233;duite de sel, de sucre et de graisses et &#224; une consommation accrue de fruits et de l&#233;gumes, par exemple. reformulation des aliments, &#233;tiquetage des &#233;l&#233;ments nutritifs, taxes sur les aliments, restriction de la commercialisation des aliments malsains, &#233;ducation et conseils en mati&#232;re de nutrition et interventions en fonction des contextes (&#233;coles, lieux de travail, villages, communaut&#233;s). Lutte contre le cancer: pr&#233;vention (y compris vaccination, VPH et VHB), diagnostic pr&#233;coce (pathologie comprise), d&#233;pistage, traitement (radioth&#233;rapie, chimioth&#233;rapie, chirurgie, etc.) et soins palliatifs pour tous les types de cancer. La mise en &#339;uvre, la maintenance et l'am&#233;lioration des registres du cancer sont &#233;galement incluses. Maladies respiratoires chroniques: pr&#233;vention, diagnostic pr&#233;coce et traitement des maladies respiratoires chroniques, y compris l'asthme. Sont exclus: Contr&#244;le de l'usage du tabac (12320), Contr&#244;le de l'usage nocif d'alcool et de drogues (12330), Recherche pour la pr&#233;vention et le contr&#244;le des MNT (12382).</description>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
@@ -285,8 +293,8 @@
             <category>130</category>
             <name>Population policy and administrative management</name>
             <name xml:lang="fr">Politique/programmes en mati&#232;re de population et gestion administrative</name>
-            <description>Population/development policies; census work, vital registration; demographic research/analysis; reproductive health research; unspecified population activities. (Use purpose code 15190 for data on migration and refugees.)</description>
-            <description xml:lang="fr">Politique en mati&#232;re de population et de d&#233;veloppement&#160;; recensement, enregistrement des naissances/d&#233;c&#232;s&#160;; donn&#233;es sur la migration&#160;; recherche et analyse d&#233;mographiques&#160;; recherche en sant&#233; et fertilit&#233;&#160;; activit&#233;s de population non sp&#233;cifi&#233;es. (Utilise le code 15190 pour les donn&#233;es sur la migration et les refugi&#233;s).</description>
+            <description>Population/development policies; demographic research/analysis; reproductive health research; unspecified population activities. (Use purpose code 15190 for data on migration and refugees. Use code 13096 for census work, vital registration and migration data collection.)</description>
+            <description xml:lang="fr">Politique en mati&#232;re de population et de d&#233;veloppement ; donn&#233;es sur la migration ; recherche et analyse d&#233;mographiques ; recherche en sant&#233; et fertilit&#233; ; activit&#233;s de population non sp&#233;cifi&#233;es. (Utiliser le code 15190 pour les donn&#233;es sur la migration et les refugi&#233;s. Utiliser le code 13096 pour recensement, enregistrement des naissances/d&#233;c&#232;s.)</description>
         </codelist-item>
         <codelist-item status="active">
             <code>13020</code>
@@ -321,11 +329,19 @@
             <description xml:lang="fr">&#201;ducation et formation du personnel de sant&#233; pour les services de population ainsi que les soins en mati&#232;re de sant&#233; et fertilit&#233;.</description>
         </codelist-item>
         <codelist-item status="active">
+            <code>13096</code>
+            <category>130</category>
+            <name>Population statistics and data</name>
+            <name xml:lang="fr">Statistiques et donn&#233;es d&#233;mographiques</name>
+            <description>Collection, production, management and dissemination of statistics and data related to Population and Reproductive Health. Includes census work, vital registration, migration data collection, demographic data, etc.</description>
+            <description xml:lang="fr">Collecte, production, gestion et diffusion de statistiques et de donn&#233;es relatives &#224; la population et &#224; la sant&#233; g&#233;n&#233;sique. Comprend les travaux de recensement, l'&#233;tat civil, la collecte de donn&#233;es sur la migration, les donn&#233;es d&#233;mographiques, etc.</description>
+        </codelist-item>
+        <codelist-item status="active">
             <code>14010</code>
             <category>140</category>
             <name>Water sector policy and administrative management</name>
             <name xml:lang="fr">Politique et gestion administrative du secteur de l&#8217;eau</name>
-            <description>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM:  see box below).</description>
+            <description>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM: see box below).</description>
             <description xml:lang="fr">Politique et gouvernance du secteur de l&#8217;eau, y compris l&#233;gislation, r&#233;glementation, planification et gestion ainsi que gestion transfrontali&#232;re de l&#8217;eau; renforcement des capacit&#233;s institutionnelles ; activit&#233;s favorisant une approche int&#233;gr&#233;e de la gestion des ressources en eau (GIRE).</description>
         </codelist-item>
         <codelist-item status="active">
@@ -341,7 +357,7 @@
             <category>140</category>
             <name>Water supply and sanitation - large systems</name>
             <name xml:lang="fr">Approvisionnement en eau et assainissement - syst&#232;mes &#224; grande &#233;chelle</name>
-            <description>Programmes where components according to 14021 and 14022 cannot be identified.  When components are known, they should individually be reported under their respective purpose codes:  water supply [14021], sanitation [14022], and hygiene [12261].</description>
+            <description>Programmes where components according to 14021 and 14022 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14021], sanitation [14022], and hygiene [12261].</description>
             <description xml:lang="fr">Programmes dont les composantes relatives aux codes 14021 et 14022 ne peuvent &#234;tre identifi&#233;es s&#233;par&#233;ment. Lorsque les composantes sont connues, elles devraient &#234;tre individuellement notifi&#233;es sous leurs codes respectifs&#160;: approvisionnement en eau [14021], assainissement [14022] et hygi&#232;ne [12261].</description>
         </codelist-item>
         <codelist-item status="active">
@@ -365,7 +381,7 @@
             <category>140</category>
             <name>Basic drinking water supply and basic sanitation</name>
             <name xml:lang="fr">Approvisionnement en eau potable et assainissement - dispositifs de base</name>
-            <description>Programmes where components according to 14031 and 14032 cannot be identified.  When components are known, they should individually be reported under their respective purpose codes:  water supply [14031], sanitation [14032], and hygiene [12261].</description>
+            <description>Programmes where components according to 14031 and 14032 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14031], sanitation [14032], and hygiene [12261].</description>
             <description xml:lang="fr">Programmes dont les composantes relatives aux codes 14031 et 14032 ne peuvent &#234;tre identifi&#233;es s&#233;par&#233;ment. Lorsque les composantes sont connues, elles devraient &#234;tre individuellement notifi&#233;es sous leurs codes respectifs&#160;: approvisionnement en eau [14031], assainissement [14032] et hygi&#232;ne [12261].</description>
         </codelist-item>
         <codelist-item status="active">
@@ -415,7 +431,7 @@
             <name>Public sector policy and administrative management</name>
             <name xml:lang="fr">Politiques publiques et gestion administrative</name>
             <description>Institution-building assistance to strengthen core public sector management systems and capacities. This includes general public policy management, co-ordination, planning and reform; human resource management; organisational development; civil service reform; e-government; development planning, monitoring and evaluation; support to ministries involved in aid co-ordination; other ministries and government departments when sector cannot be specified. (Use specific sector codes for development of systems and capacities in sector ministries. For macro-economic policy use code 15142. For public procurement use code 15125.)</description>
-            <description xml:lang="fr">Aide au renforcement des institutions visant &#224; consolider les capacit&#233;s et syst&#232;mes principaux de gestion du secteur public. Ceci recouvre la gestion des politiques publiques g&#233;n&#233;rales, la coordination, la planification et la r&#233;forme&#160;; la gestion des ressources humaines&#160;; le d&#233;veloppement organisationnel&#160;; la r&#233;forme de la fonction publique&#160;; l&#8217;administration &#233;lectronique&#160;; la planification, le suivi et l&#8217;&#233;valuation du d&#233;veloppement&#160;;  soutien aux minist&#232;res impliqu&#233;s dans la coordination de l'aide; d&#8217;autres minist&#232;res et services gouvernementaux lorsque le secteur ne peut pas &#234;tre sp&#233;cifi&#233;. (Utilisez des codes sectoriels sp&#233;cifiques pour le d&#233;veloppement de syst&#232;mes et de capacit&#233;s dans les minist&#232;res sectoriels. Pour la politique macro-&#233;conomique, utilisez le code 15142. Pour les march&#233;s publics, utilisez le code 15125.)</description>
+            <description xml:lang="fr">Aide au renforcement des institutions visant &#224; consolider les capacit&#233;s et syst&#232;mes principaux de gestion du secteur public. Ceci recouvre la gestion des politiques publiques g&#233;n&#233;rales, la coordination, la planification et la r&#233;forme&#160;; la gestion des ressources humaines&#160;; le d&#233;veloppement organisationnel&#160;; la r&#233;forme de la fonction publique&#160;; l&#8217;administration &#233;lectronique&#160;; la planification, le suivi et l&#8217;&#233;valuation du d&#233;veloppement&#160;; soutien aux minist&#232;res impliqu&#233;s dans la coordination de l'aide; d&#8217;autres minist&#232;res et services gouvernementaux lorsque le secteur ne peut pas &#234;tre sp&#233;cifi&#233;. (Utilisez des codes sectoriels sp&#233;cifiques pour le d&#233;veloppement de syst&#232;mes et de capacit&#233;s dans les minist&#232;res sectoriels. Pour la politique macro-&#233;conomique, utilisez le code 15142. Pour les march&#233;s publics, utilisez le code 15125.)</description>
         </codelist-item>
         <codelist-item status="active">
             <code>15111</code>
@@ -570,8 +586,8 @@
             <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Legal and judicial development</name>
             <name xml:lang="fr">D&#233;veloppement des services l&#233;gaux et judiciaires</name>
-            <description>Support to institutions, systems and procedures of the justice sector, both formal and informal; support to ministries of justice, the interior and home affairs; judges and courts; legal drafting services; bar and lawyers associations; professional legal education; maintenance of law and order and public safety; border management; law enforcement agencies, police, prisons and their supervision; ombudsmen; alternative dispute resolution, arbitration and mediation; legal aid and counsel; traditional, indigenous and paralegal practices that fall outside the formal legal system. Measures that support the improvement of legal frameworks, constitutions, laws and regulations; legislative and constitutional drafting and review; legal reform; integration of formal and informal systems of law. Public legal education; dissemination of information on entitlements and remedies for injustice; awareness campaigns. (Use codes 152xx for activities that are primarily aimed at supporting security system reform or undertaken in connection with post-conflict and peace building activities. Use code 15130 for capacity building in border management related to migration.)</description>
-            <description xml:lang="fr">Soutien aux institutions, syst&#232;mes et proc&#233;dures du secteur de la justice, aussi bien officiels que non officiels ; soutien aux minist&#232;res de la justice et de l&#8217;int&#233;rieur ; juges et tribunaux ; services de r&#233;daction des actes juridiques ; associations d&#8217;avocats et de juristes ; formation juridique professionnelle ; maintien de l&#8217;ordre et de la s&#233;curit&#233; publique ; gestion des fronti&#232;res ; organismes charg&#233;s de faire respecter la loi, police, prisons et leur supervision ; m&#233;diateurs ; m&#233;canismes alternatifs de r&#232;glement des conflits, d&#8217;arbitrage et de m&#233;diation ; aide et conseil juridiques ; pratiques traditionnelles, indig&#232;nes et paral&#233;gales ne faisant pas partie du syst&#232;me juridique officiel. Mesures &#224; l&#8217;appui de l&#8217;am&#233;lioration des cadres juridiques, constitutions, lois  et  r&#233;glementations ; r&#233;daction et r&#233;vision de textes l&#233;gislatifs et constitutionnels ; r&#233;forme juridique ; int&#233;gration des syst&#232;mes l&#233;gaux officiels et non officiels. &#201;ducation juridique ; diffusion d&#8217;informations sur les droits et les voies de recours en cas d&#8217;injustice ; campagnes de sensibilisation. (Utiliser les codes 152xx pour les activit&#233;s ayant principalement pour objet de soutenir la r&#233;forme des syst&#232;mes de s&#233;curit&#233; ou entreprises en liaison avec des activit&#233;s de maintien de la paix &#224; l&#8217;issue d&#8217;un conflit.)</description>
+            <description>Support to institutions, systems and procedures of the justice sector, both formal and informal; support to ministries of justice, the interior and home affairs; judges and courts; legal drafting services; bar and lawyers associations; professional legal education; maintenance of law and order and public safety; border management; law enforcement agencies, police, prisons and their supervision; ombudsmen; alternative dispute resolution, arbitration and mediation; legal aid and counsel; traditional, indigenous and paralegal practices that fall outside the formal legal system. Measures that support the improvement of legal frameworks, constitutions, laws and regulations; legislative and constitutional drafting and review; legal reform; integration of formal and informal systems of law. Public legal education; dissemination of information on entitlements and remedies for injustice; awareness campaigns. (Use codes 152xx for activities that are primarily aimed at supporting security system reform or undertaken in connection with post-conflict and peace building activities. Use code 15190 for capacity building in border management related to migration.)</description>
+            <description xml:lang="fr">Soutien aux institutions, syst&#232;mes et proc&#233;dures du secteur de la justice, aussi bien officiels que non officiels ; soutien aux minist&#232;res de la justice et de l&#8217;int&#233;rieur ; juges et tribunaux ; services de r&#233;daction des actes juridiques ; associations d&#8217;avocats et de juristes ; formation juridique professionnelle ; maintien de l&#8217;ordre et de la s&#233;curit&#233; publique ; gestion des fronti&#232;res ; organismes charg&#233;s de faire respecter la loi, police, prisons et leur supervision ; m&#233;diateurs ; m&#233;canismes alternatifs de r&#232;glement des conflits, d&#8217;arbitrage et de m&#233;diation ; aide et conseil juridiques ; pratiques traditionnelles, indig&#232;nes et paral&#233;gales ne faisant pas partie du syst&#232;me juridique officiel. Mesures &#224; l&#8217;appui de l&#8217;am&#233;lioration des cadres juridiques, constitutions, lois et r&#233;glementations ; r&#233;daction et r&#233;vision de textes l&#233;gislatifs et constitutionnels ; r&#233;forme juridique ; int&#233;gration des syst&#232;mes l&#233;gaux officiels et non officiels. &#201;ducation juridique ; diffusion d&#8217;informations sur les droits et les voies de recours en cas d&#8217;injustice ; campagnes de sensibilisation. (Utiliser les codes 152xx pour les activit&#233;s ayant principalement pour objet de soutenir la r&#233;forme des syst&#232;mes de s&#233;curit&#233; ou entreprises en liaison avec des activit&#233;s de maintien de la paix &#224; l&#8217;issue d&#8217;un conflit. Utiliser le code 15190 pour le renforcement des capacit&#233;s dans le domaine de la surveillance des fronti&#232;res en relation avec les migrations)</description>
         </codelist-item>
         <codelist-item status="active">
             <code>15131</code>
@@ -723,7 +739,7 @@
             <name>Human rights</name>
             <name xml:lang="fr">Droits de la personne</name>
             <description>Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation and code 15180 for ending violence against women and girls. Use code 15190 for human rights programming for refugees or migrants, including when they are victims of trafficking.Use code 16070 for Fundamental Principles and Rights at Work, i.e. Child Labour, Forced Labour, Non-discrimination in employment and occupation, Freedom of Association and Collective Bargaining.)</description>
-            <description xml:lang="fr">Mesures visant &#224; aider les institutions et m&#233;canismes sp&#233;cialis&#233;s dans les droits de la personne op&#233;rant aux niveaux mondial, r&#233;gional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, &#233;conomiques, sociaux et culturels tels que d&#233;finis dans les conventions et pactes internationaux; transposition dans la l&#233;gislation nationale des engagements internationaux concernant les droits de la personne; notification et suivi; dialogue sur les droits de la personne. D&#233;fenseurs des droits de la personne et ONG oeuvrant dans ce domaine ; promotion des droits de la personne, d&#233;fense active, mobilisation ; sensibilisation et &#233;ducation des citoyens aux droits de la personne.  &#201;laboration de programmes concernant les droits de la personne cibl&#233;s sur des groupes particuliers comme les enfants, les individus en situation de handicap, les migrants, les minorit&#233;s ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination fond&#233;e sur la caste, les victimes de la traite d'&#234;tres humains, les victimes de la torture. (Utiliser le code 15230 lorsque les activit&#233;s se d&#233;roulent dans le cadre d&#8217;une op&#233;ration internationale de maintien de la paix et le code 15180 pour les activit&#233;s visant l&#8217;&#233;limination de la violence &#224; l&#8217;&#233;gard des femmes et des filles. Utiliser le code 15190 pour la programmation des droits de l'homme des r&#233;fugi&#233;s ou des migrants, y compris lorsqu'ils sont victimes de la traite d'&#234;tres humains. Utiliser le code 16070 pour les activit&#233;s concernant les Principes fondamentaux et Droits au travail, c'est-&#224;-dire travail des enfants, travail forc&#233;, non-discrimination dans l'emploi et le travail, libert&#233; syndicale et n&#233;gociation collective.)</description>
+            <description xml:lang="fr">Mesures visant &#224; aider les institutions et m&#233;canismes sp&#233;cialis&#233;s dans les droits de la personne op&#233;rant aux niveaux mondial, r&#233;gional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, &#233;conomiques, sociaux et culturels tels que d&#233;finis dans les conventions et pactes internationaux; transposition dans la l&#233;gislation nationale des engagements internationaux concernant les droits de la personne; notification et suivi; dialogue sur les droits de la personne. D&#233;fenseurs des droits de la personne et ONG oeuvrant dans ce domaine ; promotion des droits de la personne, d&#233;fense active, mobilisation ; sensibilisation et &#233;ducation des citoyens aux droits de la personne. &#201;laboration de programmes concernant les droits de la personne cibl&#233;s sur des groupes particuliers comme les enfants, les individus en situation de handicap, les migrants, les minorit&#233;s ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination fond&#233;e sur la caste, les victimes de la traite d'&#234;tres humains, les victimes de la torture. (Utiliser le code 15230 lorsque les activit&#233;s se d&#233;roulent dans le cadre d&#8217;une op&#233;ration internationale de maintien de la paix et le code 15180 pour les activit&#233;s visant l&#8217;&#233;limination de la violence &#224; l&#8217;&#233;gard des femmes et des filles. Utiliser le code 15190 pour la programmation des droits de l'homme des r&#233;fugi&#233;s ou des migrants, y compris lorsqu'ils sont victimes de la traite d'&#234;tres humains. Utiliser le code 16070 pour les activit&#233;s concernant les Principes fondamentaux et Droits au travail, c'est-&#224;-dire travail des enfants, travail forc&#233;, non-discrimination dans l'emploi et le travail, libert&#233; syndicale et n&#233;gociation collective.)</description>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>15161</code>
@@ -760,10 +776,10 @@
         <codelist-item status="active">
             <code>15170</code>
             <category>151</category>
-            <name>Women's equality organisations and institutions</name>
-            <name xml:lang="fr">Organisations et institutions pour l&#8217;&#233;galit&#233; des femmes</name>
-            <description>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women&#8217;s empowerment.</description>
-            <description xml:lang="fr">Soutien aux institutions et organisations (gouvernementales et non gouvernementales) qui &#339;uvrent pour l&#8217;&#233;galit&#233; homme-femme et l&#8217;autonomisation des femmes.</description>
+            <name>Women&#8217;s rights organisations and movements, and government institutions</name>
+            <name xml:lang="fr">Organisations et mouvements de d&#233;fense des droits des femmes et institutions gouvernementales</name>
+            <description>Support for feminist, women-led and women&#8217;s rights organisations and movements, and institutions (governmental and non-govermental) at all levels to enhance their effectiveness, influence and substainability (activities and core-funding). These organisations exist to bring about transformative change for gender equality and/or the rights of women and girls in developing countries. Their activities include agenda-setting, advocacy, policy dialogue, capacity development, awareness raising and prevention, service provision, conflict-prevention and peacebuilding, research, organising, and alliance and network building</description>
+            <description xml:lang="fr">Appui aux organisations et mouvements f&#233;ministes, dirig&#233;s par des femmes et de d&#233;fense des droits des femmes, ainsi qu'aux institutions (gouvernementales et non gouvernementales) &#224; tous les niveaux pour am&#233;liorer leur efficacit&#233;, leur influence et leur durabilit&#233; (activit&#233;s et financement de base). Ces organisations existent pour apporter un changement transformateur pour l'&#233;galit&#233; des sexes et / ou les droits des femmes et des filles dans les pays en d&#233;veloppement. Leurs activit&#233;s comprennent la d&#233;finition de l'agenda, le plaidoyer, le dialogue politique, le renforcement des capacit&#233;s, la sensibilisation et la pr&#233;vention, la prestation de services, la pr&#233;vention des conflits et la consolidation de la paix, la recherche, l'organisation et la cr&#233;ation d'alliances et de r&#233;seaux.</description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>15180</code>
@@ -788,6 +804,14 @@
             <name xml:lang="fr">Faciliter la migration et la mobilit&#233; de fa&#231;on ordonn&#233;e, sans danger, r&#233;guli&#232;re et responsable</name>
             <description>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:&#8226; Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.&#8226; Measures to improve migrant labour recruitment systems in developing countries.&#8226; Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.&#8226; Support to effective strategies to ensure international protection and the right to asylum.&#8226; Support to effective strategies to ensure access to justice and assistance for displaced persons.&#8226; Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).&#8226; Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers&#8217; interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</description>
             <description xml:lang="fr">Aide apport&#233;e aux pays en d&#233;veloppement dans le but de favoriser des migrations et une mobilit&#233; des personnes qui soient ordonn&#233;es, s&#251;res, r&#233;guli&#232;res et responsables. Elle recouvre : - le renforcement des capacit&#233;s concernant la politique, l&#8217;analyse, la planification et la gestion dans le domaine des migrations et de la mobilit&#233;. Celui-ci comprend le soutien visant &#224; favoriser des migrations s&#251;res et r&#233;guli&#232;res et &#224; rem&#233;dier aux migrations irr&#233;guli&#232;res, la coop&#233;ration avec la diaspora et les programmes destin&#233;s &#224; renforcer l&#8217;impact des envois de fonds des &#233;migr&#233;s sur le d&#233;veloppement et/ou l&#8217;utilisation de ces fonds pour financer des projets utiles au d&#233;veloppement dans les pays en d&#233;veloppement ; - les mesures visant &#224; am&#233;liorer les syst&#232;mes de recrutement de la main-d&#8217;&#339;uvre migrante dans les pays en d&#233;veloppement ; - le renforcement des capacit&#233;s en mati&#232;re d&#8217;&#233;laboration de strat&#233;gies et de politiques, ainsi que pour le d&#233;veloppement des services juridiques et judiciaires (y compris la gestion des fronti&#232;res) dans les pays en d&#233;veloppement. Il comprend le soutien apport&#233; pour la prise en main et la r&#233;duction des facteurs de vuln&#233;rabilit&#233; existant en situation de migration, et pour le renforcement des efforts transnationaux visant &#224; lutter contre le trafic de migrants, ainsi qu&#8217;&#224; pr&#233;venir et combattre le trafic d&#8217;&#234;tres humains ; - le soutien &#224; la mise en place de strat&#233;gies efficaces pour garantir la protection internationale et le droit &#224; l&#8217;asile ; - le soutien &#224; la mise en place de strat&#233;gies efficaces pour assurer aux personnes d&#233;plac&#233;es l&#8217;acc&#232;s &#224; la justice et &#224; une aide ; - l&#8217;aide dispens&#233;e aux migrants pour leur permettre de rentrer dans leur pays d&#8217;origine en toute s&#233;curit&#233;, dans la dignit&#233;, en pleine connaissance de cause et de fa&#231;on volontaire (ne sont couverts que les retours effectu&#233;s &#224; partir d&#8217;un autre pays en d&#233;veloppement ; l&#8217;aide au titre des retours forc&#233;s est exclue de l&#8217;APD) ; - l&#8217;aide dispens&#233;e aux migrants en vue de leur r&#233;int&#233;gration durable dans leur pays d&#8217;origine (utiliser le code 93010 pour l&#8217;aide apport&#233;e dans les pays donneurs pr&#233;alablement au d&#233;part, dans le contexte de retours volontaires). Les activit&#233;s visant &#224; servir avant tout les int&#233;r&#234;ts des fournisseurs sont exclues de l&#8217;APD. Les activit&#233;s visant &#224; rem&#233;dier aux causes profondes des d&#233;placements forc&#233;s et des migrations irr&#233;guli&#232;res ne doivent pas &#234;tre class&#233;es sous ce code, mais dans le secteur d&#8217;intervention correspondant. De plus, il faut utiliser le code 15136 pour le soutien dispens&#233; aux autorit&#233;s des pays aux fins des questions et des services relatifs &#224; l&#8217;immigration (facultatif), le code 24050 pour les dispositifs visant &#224; r&#233;duire le co&#251;t des envois de fonds des &#233;migr&#233;s, le code 72010 pour les aspects humanitaires de l&#8217;aide apport&#233;e aux r&#233;fugi&#233;s et aux personnes d&#233;plac&#233;es &#224; l&#8217;int&#233;rieur de leur propre pays, comme la fourniture de services d&#8217;urgence et la protection humanitaire. Le code 93010 doit &#234;tre employ&#233; lorsque les d&#233;penses sont destin&#233;es &#224; l&#8217;entretien temporaire des r&#233;fugi&#233;s dans le pays donneur, notamment dans le cas de leur retour volontaire et de leur r&#233;int&#233;gration lorsque ce soutien est fourni dans le pays donneur en liaison avec le retour &#224; partir de ce pays (aide pr&#233;alable au d&#233;part) ou de leur r&#233;installation volontaire dans un pays d&#233;velopp&#233; tiers.</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15196</code>
+            <category>151</category>
+            <name>Government and civil society statistics and data</name>
+            <name xml:lang="fr">Statistiques et donn&#233;es du gouvernement et de la soci&#233;t&#233; civile</name>
+            <description>Collection, production, management and dissemination of statistics and data related to Government &amp; Civil Society. Includes macroeconomic statistics, government finance, fiscal and public sector statistics, support to development of administrative data infrastructure, civil society surveys.</description>
+            <description xml:lang="fr">Collecte, production, gestion et diffusion de statistiques et de donn&#233;es relatives au gouvernement et &#224; la soci&#233;t&#233; civile. Comprend les statistiques macro&#233;conomiques, les finances publiques, les statistiques fiscales et du secteur public, le soutien au d&#233;veloppement de l'infrastructure de donn&#233;es administratives, les enqu&#234;tes de la soci&#233;t&#233; civile.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>15210</code>
@@ -819,7 +843,7 @@
             <name>Reintegration and SALW control</name>
             <name xml:lang="fr">R&#233;int&#233;gration et contr&#244;le des armes l&#233;g&#232;res et de petit calibre</name>
             <description>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) &#8211; see para. 80 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</description>
-            <description xml:lang="fr">R&#233;insertion du personnel militaire d&#233;mobilis&#233; dans la vie &#233;conomique et civile ; conversion des usines d&#8217;armes en usines de produits &#224; usage civil ; coop&#233;ration technique destin&#233;e &#224; contr&#244;ler, pr&#233;venir et/ou r&#233;duire la prolif&#233;ration d&#8217;armes l&#233;g&#232;res et de petit calibre &#8211; voir le paragraphe 80 des Directives pour la d&#233;finition des activit&#233;s couvertes. [Autre que dans le cadre d&#8217;une op&#233;ration internationale de maintien de la paix (15230) ou  enfants soldats (15261)].</description>
+            <description xml:lang="fr">R&#233;insertion du personnel militaire d&#233;mobilis&#233; dans la vie &#233;conomique et civile ; conversion des usines d&#8217;armes en usines de produits &#224; usage civil ; coop&#233;ration technique destin&#233;e &#224; contr&#244;ler, pr&#233;venir et/ou r&#233;duire la prolif&#233;ration d&#8217;armes l&#233;g&#232;res et de petit calibre &#8211; voir le paragraphe 80 des Directives pour la d&#233;finition des activit&#233;s couvertes. [Autre que dans le cadre d&#8217;une op&#233;ration internationale de maintien de la paix (15230) ou enfants soldats (15261)].</description>
         </codelist-item>
         <codelist-item status="active">
             <code>15250</code>
@@ -899,7 +923,7 @@
             <category>160</category>
             <name>Housing policy and administrative management</name>
             <name xml:lang="fr">Politique du logement et gestion administrative</name>
-            <description>Housing sector policy, planning and programmes;  excluding low-cost housing and slum clearance (16040).</description>
+            <description>Housing sector policy, planning and programmes; excluding low-cost housing and slum clearance (16040).</description>
             <description xml:lang="fr">Politique du logement, planification et programmes&#160;; &#224; l&#8217;exclusion du logement &#224; co&#251;t r&#233;duit (16040).</description>
         </codelist-item>
         <codelist-item status="active">
@@ -932,8 +956,8 @@
             <category>160</category>
             <name>Statistical capacity building</name>
             <name xml:lang="fr">Renforcement des capacit&#233;s statistiques</name>
-            <description>Both in national statistical offices and any other government ministries.</description>
-            <description xml:lang="fr">Dans les offices statistiques nationaux et les autres minist&#232;res concern&#233;s.</description>
+            <description>All statistical activities, such as data collection, processing, dissemination and analysis; support to development and management of official statistics including demographic, social, economic, environmental and multi-sectoral statistics; statistical quality frameworks; development of human and technological resources for statistics, investments in data innovation. Activities related to data and statistics in the sectors 120, 130 or 150 should preferably be coded under the voluntary purpose codes 12196, 13096 and 15196. Activities with the sole purpose of monitoring development co-operation activities, including if performed by third parties, should be coded under 91010 (Administrative costs).</description>
+            <description xml:lang="fr">Toutes les activit&#233;s statistiques, telles que la collecte, le traitement, la diffusion et l'analyse des donn&#233;es; appui au d&#233;veloppement et &#224; la gestion des statistiques officielles, y compris les statistiques d&#233;mographiques, sociales, &#233;conomiques, environnementales et multisectorielles; cadres de qualit&#233; des statistiques; d&#233;veloppement des ressources humaines et technologiques pour la statistique, investissements dans l'innovation des donn&#233;es. Les activit&#233;s li&#233;es aux donn&#233;es et aux statistiques dans les secteurs 120, 130 ou 150 devraient de pr&#233;f&#233;rence &#234;tre cod&#233;es sous les codes volontaire 12196, 13096 et 15196. Les activit&#233;s ayant pour seul objectif de surveiller les activit&#233;s de coop&#233;ration au d&#233;veloppement, y compris si elles sont men&#233;es par des tiers, devraient &#234;tre cod&#233; sous 91010 (Frais administratifs).</description>
         </codelist-item>
         <codelist-item status="active">
             <code>16063</code>
@@ -1151,7 +1175,7 @@
             <category>220</category>
             <name>Information and communication technology (ICT)</name>
             <name xml:lang="fr">Technologies de l'information et de la communication (TIC)</name>
-            <description>Computer hardware and software; internet access; IT training.  When sector cannot be specified.</description>
+            <description>Computer hardware and software; internet access; IT training. When sector cannot be specified.</description>
             <description xml:lang="fr">Mat&#233;riel informatique et logiciels ; acc&#232;s Internet ; formations aux TI. Lorsque le secteur ne peut pas &#234;tre sp&#233;cifi&#233;.</description>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -1293,8 +1317,8 @@
             <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Energy policy and administrative management</name>
             <name xml:lang="fr">Politique &#233;nerg&#233;tique et gestion administrative</name>
-            <description>Energy sector policy, planning; aid to energy ministries; institution capacity building and advice; unspecified energy activities.</description>
-            <description xml:lang="fr">Politique et planification du secteur de l&#8217;&#233;nergie ; aide aux minist&#232;res de l&#8217;&#233;nergie ; conseils et renforcement des capacit&#233;s institutionnelles ; activit&#233;s non pr&#233;cis&#233;es.</description>
+            <description>Energy sector policy, planning; aid to energy ministries and other governmental or nongovernmental institutions for activities related to the SDG7; institution capacity building and advice; tariffs, market building, unspecified energy activities; energy activities for which a more specific code cannot be assigned.</description>
+            <description xml:lang="fr">Politique et planification du secteur de l&#8217;&#233;nergie ; aide aux minist&#232;res de l&#8217;&#233;nergie et autres institutions gouvernementales et non-gouvernementales pour les activit&#233;s li&#233;es &#224; l'ODD7 ; conseil et renforcement des capacit&#233;s institutionnelles ; tarifs, construction du march&#233; ; activit&#233;s non pr&#233;cis&#233;es ou ne pouvant pas recevoir de code sp&#233;cifique.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>23111</code>
@@ -1333,8 +1357,8 @@
             <category>231</category>
             <name>Energy conservation and demand-side efficiency</name>
             <name xml:lang="fr">&#201;conomies d'&#233;nergie et efficacit&#233; du c&#244;t&#233; de la demande</name>
-            <description>All projects in support of energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. Also includes efficient cook-stoves and biogas projects.</description>
-            <description xml:lang="fr">Tous les projets visant la r&#233;duction de la demande d&#8217;&#233;nergie, par exemple : modernisation des b&#226;timents et des industries, r&#233;seaux intelligents, compteurs et tarifs. Comprend &#233;galement les cuisini&#232;res efficaces et les projets de biogaz.</description>
+            <description>Support for energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. For clean cooking appliances use code 32174.</description>
+            <description xml:lang="fr">Soutien &#224; la r&#233;duction de la demande &#233;nerg&#233;tique, par exemple : modernisation des b&#226;timents et des industries, r&#233;seaux intelligents, compteurs et tarifs. Pour l'usage des cuisini&#232;res efficaces utiliser le code 32174</description>
         </codelist-item>
         <codelist-item status="active">
             <code>23210</code>
@@ -1355,10 +1379,26 @@
         <codelist-item status="active">
             <code>23230</code>
             <category>232</category>
-            <name>Solar energy</name>
-            <name xml:lang="fr">&#201;nergie solaire</name>
-            <description>Including photo-voltaic cells, solar thermal applications and solar heating.</description>
-            <description xml:lang="fr">Solaire photovolta&#239;que, thermodynamique, chauffage solaire.</description>
+            <name>Solar energy for centralised grids</name>
+            <name xml:lang="fr">Energie solaire pour r&#233;seaux centralis&#233;s</name>
+            <description>Including photo-voltaic cells, concentrated solar power systems connected to the main grid and net-metered decentralised solutions.</description>
+            <description xml:lang="fr">Comprend les panneaux photovolta&#239;ques, les syst&#232;mes d'&#233;nergie solaire &#224; concentration connect&#233;s au r&#233;seau principal ainsi que les solutions d&#233;centralis&#233;es &#233;quip&#233;es de compteurs &#224; mesure nette.</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>23231</code>
+            <category>232</category>
+            <name>Solar energy for isolated grids and standalone systems</name>
+            <name xml:lang="fr">Energie solaire pour r&#233;seaux isol&#233;s et syst&#232;mes autonomes</name>
+            <description>Solar power generation for isolated mini-grids, solar home systems (including integrated wiring and related appliances), solar lanterns distribution and commercialisation. This code refers to the power generation component only.</description>
+            <description xml:lang="fr">Production &#233;lectrique solaire pour r&#233;seau isol&#233; et syst&#232;mes autonomes, syst&#232;mes solaires individuels (y compris c&#226;blage int&#233;gr&#233; et appareils li&#233;s), distribution et commercialisation de lampes solaires. Ce code traite exclusivement de production d'&#233;nergie.</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>23232</code>
+            <category>232</category>
+            <name>Solar energy - thermal applications</name>
+            <name xml:lang="fr">Energie solaire - usage thermique</name>
+            <description>Solar solutions for indoor space and water heating (except for solar cook stoves 32174).</description>
+            <description xml:lang="fr">Solutions solaires pour espaces int&#233;rieurs et chauffage de l'eau (sauf fours solaires 32174)</description>
         </codelist-item>
         <codelist-item status="active">
             <code>23240</code>
@@ -1389,7 +1429,7 @@
             <category>232</category>
             <name>Biofuel-fired power plants</name>
             <name xml:lang="fr">Centrales &#224; biocombustibles</name>
-            <description>Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste-fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non- renewable waste-fired power plants.</description>
+            <description>Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste-fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non-renewable waste-fired power plants.</description>
             <description xml:lang="fr">Utilisation de mati&#232;res solides et liquides issues de la biomasse pour la production directe d&#8217;&#233;lectricit&#233;. Comprend &#233;galement les biogaz produits par fermentation ana&#233;robie (ex. : gaz de d&#233;charge, gaz issus des boues d&#8217;&#233;puration, fermentation de v&#233;g&#233;taux des cultures &#233;nerg&#233;tiques et de d&#233;jections animales) et par traitements thermiques (&#233;galement connus sous l&#8217;appellation de gaz de synth&#232;se) ; centrales br&#251;lant des d&#233;chets municipaux biod&#233;gradables (d&#233;chets m&#233;nagers et d&#233;chets du tertiaire assimilables &#224; des d&#233;chets m&#233;nagers, collect&#233;s dans des installations sp&#233;cifiquement con&#231;ues pour leur &#233;limination et leur r&#233;cup&#233;ration sous forme de liquides ou de gaz combustibles ou de chaleur). Voir code 23360 pour la production d&#8217;&#233;lectricit&#233;, d&#233;chets non renouvelables.</description>
         </codelist-item>
         <codelist-item status="active">
@@ -1421,8 +1461,8 @@
             <category>233</category>
             <name>Natural gas-fired electric power plants</name>
             <name xml:lang="fr">Centrales au gaz naturel</name>
-            <description>Electric power plants that are fuelled by natural gas.</description>
-            <description xml:lang="fr">Centrales thermiques br&#251;lant du gaz naturel.</description>
+            <description>Electric power plants that are fuelled by natural gas; related feed-in infrastructure (LNG terminals, gasifiers, pipelines to feed the plant).</description>
+            <description xml:lang="fr">Centrales thermiques fonctionnant au gaz naturel. Infrastructures d'alimention (terminaux GNL, gaz&#233;ifieurs, gazoducs d'alimentation de la centrale)</description>
         </codelist-item>
         <codelist-item status="active">
             <code>23350</code>
@@ -1451,10 +1491,10 @@
         <codelist-item status="active">
             <code>23510</code>
             <category>235</category>
-            <name>Nuclear energy electric power plants</name>
+            <name>Nuclear energy electric power plants and nuclear safety</name>
             <name xml:lang="fr">Centrales nucl&#233;aires</name>
-            <description>Including nuclear safety.</description>
-            <description xml:lang="fr">Dont s&#251;ret&#233; nucl&#233;aire.</description>
+            <description>See note regarding ODA eligibility of nuclear energy.</description>
+            <description xml:lang="fr">Dont s&#251;ret&#233; nucl&#233;aire. Voir la note sur l'&#233;ligibilit&#233; &#224; l'APD de l'&#233;nergie nucl&#233;aire</description>
         </codelist-item>
         <codelist-item status="active">
             <code>23610</code>
@@ -1475,18 +1515,41 @@
         <codelist-item status="active">
             <code>23630</code>
             <category>236</category>
-            <name>Electric power transmission and distribution</name>
-            <name xml:lang="fr">Transport et distribution d'&#233;lectricit&#233;</name>
+            <name>Electric power transmission and distribution (centralised grids)</name>
+            <name xml:lang="fr">Transport et distribution d'&#233;lectricit&#233; (r&#233;seaux centralis&#233;s)</name>
             <description>Grid distribution from power source to end user; transmission lines. Also includes storage of energy to generate power (e.g. pumped hydro, batteries) and the extension of grid access, often to rural areas.</description>
-            <description xml:lang="fr">Distribution d&#8217;&#233;lectricit&#233; par le r&#233;seau, de la source au consommateur final ; lignes de transport. Inclut &#233;galement le stockage de l&#8217;&#233;nergie &#224; des fins de production d&#8217;&#233;lectricit&#233; (ex. : station de pompage, batteries) et l&#8217;extension de l&#8217;acc&#232;s au r&#233;seau, souvent dans des zones rurales.</description>
+            <description xml:lang="fr">R&#233;seau de distribution d&#8217;&#233;lectricit&#233; de la source d'&#233;nergie au consommateur final ; lignes de transport. Inclut &#233;galement le stockage de l&#8217;&#233;nergie &#224; des fins de production d&#8217;&#233;lectricit&#233; (ex. : station de pompage, batteries) et l&#8217;extension de l&#8217;acc&#232;s au r&#233;seau, souvent dans des zones rurales.</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>23631</code>
+            <category>236</category>
+            <name>Electric power transmission and distribution (isolated mini-grids)</name>
+            <name xml:lang="fr">Transport et distribution d'&#233;lectricit&#233; (petits r&#233;seaux isol&#233;s)</name>
+            <description>Includes village grids and other electricity distribution technologies to end users that are not connected to the main national grid. Also includes related electricity storage. This code refers to the network infrastructure only regardless of the power generation technologies.</description>
+            <description xml:lang="fr">Comprend les r&#233;seaux villageois et autres technologies de distribution d'&#233;lectricit&#233; &#224; destination des consommateurs finals non connect&#233;s au r&#233;seau national principal. Inclut &#233;galement le stockage d'&#233;lectricit&#233;. Ce code traite exclusivement de l'infrastructure du r&#233;seau ind&#233;pendamment de la technologie de production.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>23640</code>
             <category>236</category>
-            <name>Gas distribution</name>
-            <name xml:lang="fr">Distribution du gaz</name>
-            <description>Delivery for use by ultimate consumer.</description>
-            <description xml:lang="fr">Acheminement du gaz jusqu&#8217;au consommateur final.</description>
+            <name>Retail gas distribution</name>
+            <name xml:lang="fr">Distribution au d&#233;tail de gaz</name>
+            <description>Includes urban infrastructure for the delivery of urban gas and LPG cylinder production, distribution and refill. Excludes gas distribution for purposes of electricity generation (23340) and pipelines (32262).</description>
+            <description xml:lang="fr">Comprend l'infrastructure urbaine de livraison de gaz de ville et la production, distribution et recharge de bouteilles de GPL. Exclut l'acheminement de gaz &#224; des fins de production &#233;lectrique (23340) et les gazoducs (32262)</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>23641</code>
+            <category>236</category>
+            <name>Retail distribution of liquid or solid fossil fuels</name>
+            <name xml:lang="fr">Distribution au d&#233;tail de carburants fossiles liquide ou solides</name>
+            <description/>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>23642</code>
+            <category>236</category>
+            <name>Electric mobility infrastructures</name>
+            <name xml:lang="fr">Infrastructures &#233;lectriques &#224; l'usage de la mobilit&#233;</name>
+            <description>Includes electricity or hydrogen recharging stations for private and public transport systems and related infrastructure (except for rail transport 21030).</description>
+            <description xml:lang="fr">Inclut les stations de recharge &#233;lectrique ou &#224; hydrog&#232;ne pour les transports publics ou priv&#233;s et infrastructures connexes (sauf transport ferrovaire 21030)</description>
         </codelist-item>
         <codelist-item status="active">
             <code>24010</code>
@@ -1494,7 +1557,7 @@
             <name>Financial policy and administrative management</name>
             <name xml:lang="fr">Politique des finances et gestion administrative</name>
             <description>Finance sector policy, planning and programmes; institution capacity building and advice; financial markets and systems.</description>
-            <description xml:lang="fr">Politique des finances, planification et  programmes&#160;; renforcement des capacit&#233;s institutionnelles et conseils&#160;; march&#233;s et syst&#232;mes financiers.</description>
+            <description xml:lang="fr">Politique des finances, planification et programmes&#160;; renforcement des capacit&#233;s institutionnelles et conseils&#160;; march&#233;s et syst&#232;mes financiers.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>24020</code>
@@ -1573,7 +1636,7 @@
             <category>311</category>
             <name>Agricultural policy and administrative management</name>
             <name xml:lang="fr">Politique agricole et gestion administrative</name>
-            <description>Agricultural sector policy, planning and programmes; aid to agricultural ministries;  institution capacity building and advice; unspecified agriculture.</description>
+            <description>Agricultural sector policy, planning and programmes; aid to agricultural ministries; institution capacity building and advice; unspecified agriculture.</description>
             <description xml:lang="fr">Politique agricole, planification et programmes&#160;; aide aux minist&#232;res de l&#8217;agriculture&#160;; renforcement des capacit&#233;s institutionnelles et conseils&#160;; activit&#233;s d&#8217;agriculture non sp&#233;cifi&#233;es.</description>
         </codelist-item>
         <codelist-item status="active">
@@ -1621,8 +1684,8 @@
             <category>311</category>
             <name>Industrial crops/export crops</name>
             <name xml:lang="fr">Production industrielle de r&#233;coltes/r&#233;coltes destin&#233;es &#224; l&#8217;exportation</name>
-            <description>Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops; tobacco; rubber.  [Use code 32161 for agro-industries.]</description>
-            <description xml:lang="fr">Y compris sucre&#160;; caf&#233;, cacao, th&#233;&#160;; ol&#233;agineux, graines, noix, amandes&#160;; fibres&#160;; tabac&#160;; caoutchouc. [Utiliser le  code 32161 pour les agro-industries.]</description>
+            <description>Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops; tobacco; rubber. [Use code 32161 for agro-industries.]</description>
+            <description xml:lang="fr">Y compris sucre&#160;; caf&#233;, cacao, th&#233;&#160;; ol&#233;agineux, graines, noix, amandes&#160;; fibres&#160;; tabac&#160;; caoutchouc. [Utiliser le code 32161 pour les agro-industries.]</description>
         </codelist-item>
         <codelist-item status="active">
             <code>31163</code>
@@ -1733,8 +1796,8 @@
             <category>312</category>
             <name>Fuelwood/charcoal</name>
             <name xml:lang="fr">Reboisement (bois de chauffage et charbon de bois)</name>
-            <description>Forestry development whose primary purpose is production of fuelwood and charcoal.</description>
-            <description xml:lang="fr">D&#233;veloppement sylvicole visant &#224; la production de bois de chauffage et de charbon de bois.</description>
+            <description>Sustainable forestry development whose primary purpose is production of fuelwood and charcoal. Further transformation of biomass in biofuels is coded under 32173.</description>
+            <description xml:lang="fr">D&#233;veloppement sylvicole soutenable visant &#224; la production de bois de chauffage et de charbon de bois. La transformation ult&#233;rieure de biomasse en biocarburants est cod&#233;e 32173.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>31281</code>
@@ -1883,10 +1946,10 @@
         <codelist-item status="active">
             <code>32167</code>
             <category>321</category>
-            <name>Energy manufacturing</name>
+            <name>Energy manufacturing (fossil fuels)</name>
             <name xml:lang="fr">Fabrication d&#8217;&#233;nergie</name>
-            <description>Including gas liquefaction; petroleum refineries.</description>
-            <description xml:lang="fr">Y compris liqu&#233;faction du gaz&#160;; raffineries de p&#233;trole.</description>
+            <description>Including gas liquefaction; petroleum refineries, wholesale distribution of fossil fuels. (Use 23640 for retail distribution of gas and 23641 for retail distribution of liquid or solid fossil fuels.)</description>
+            <description xml:lang="fr">Y compris liqu&#233;faction du gaz&#160;; raffineries de p&#233;trole, distribution en gros de carburants fossiles. (Utiliser 23640 pour la distribution au d&#233;tail de gaz et 23461 pour la distribution au d&#233;tail de carburant fossiles liquides ou solides.)</description>
         </codelist-item>
         <codelist-item status="active">
             <code>32168</code>
@@ -1929,11 +1992,27 @@
             <description xml:lang="fr">Construction de navires, construction de bateaux de p&#234;che&#160;; construction de mat&#233;riel ferroviaire&#160;; v&#233;hicules automobiles et voitures particuli&#232;res&#160;; construction a&#233;ronautique&#160;; syst&#232;mes de navigation et de guidage.</description>
         </codelist-item>
         <codelist-item status="active">
+            <code>32173</code>
+            <category>321</category>
+            <name>Modern biofuels manufacturing</name>
+            <name xml:lang="fr">Production de biocarburants modernes</name>
+            <description>Includes biogas, liquid biofuels and pellets for domestic and non-domestic use. Excludes raw fuelwood and charcoal (31261).</description>
+            <description xml:lang="fr">Comprend le biogaz, les biocarburant liquides et les pellets &#224; usage domestique ou non. Exclut le bois de chauffe brut et le charbon de bois (32161)</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>32174</code>
+            <category>321</category>
+            <name>Clean cooking appliances manufacturing</name>
+            <name xml:lang="fr">Production d'appareils de cuisine propres</name>
+            <description>Includes manufacturing and distribution of efficient biomass cooking stoves, gasifiers, liquid biofuels stoves, solar stoves, gas and biogas stoves, electric stoves.</description>
+            <description xml:lang="fr">Comprend la fabrication et la distribution de fours efficaces &#224; biomasse, gaz&#233;ifieurs, fours &#224; biocarburants liquides, fours solaires, fours &#224; gaz et bio gaz fours &#233;lectriques</description>
+        </codelist-item>
+        <codelist-item status="active">
             <code>32182</code>
             <category>321</category>
             <name>Technological research and development</name>
             <name xml:lang="fr">Recherche et d&#233;veloppement technologiques</name>
-            <description>Including industrial standards; quality management; metrology;  testing;  accreditation;  certification.</description>
+            <description>Including industrial standards; quality management; metrology; testing; accreditation; certification.</description>
             <description xml:lang="fr">Y compris les standards industriels&#160;; gestion et contr&#244;le de qualit&#233;&#160;; m&#233;trologie&#160;; accr&#233;ditation&#160;; certification.</description>
         </codelist-item>
         <codelist-item status="active">
@@ -1941,7 +2020,7 @@
             <category>322</category>
             <name>Mineral/mining policy and administrative management</name>
             <name xml:lang="fr">Politique de l&#8217;industrie extractive et gestion administrative</name>
-            <description>Mineral and mining sector policy, planning and programmes;  mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice;  unspecified mineral resources exploitation.</description>
+            <description>Mineral and mining sector policy, planning and programmes; mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice; unspecified mineral resources exploitation.</description>
             <description xml:lang="fr">Politique du secteur des industries extractives, planification et programmes&#160;; l&#233;gislation et cadastre, recensement des richesses min&#233;rales, syst&#232;mes d&#8217;information&#160;; renforcement des capacit&#233;s institutionnelles et conseils&#160;; exploitation des ressources min&#233;rales non sp&#233;cifi&#233;es.</description>
         </codelist-item>
         <codelist-item status="active">
@@ -1949,7 +2028,7 @@
             <category>322</category>
             <name>Mineral prospection and exploration</name>
             <name xml:lang="fr">Prospection et exploration des minerais</name>
-            <description>Geology, geophysics, geochemistry;  excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</description>
+            <description>Geology, geophysics, geochemistry; excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</description>
             <description xml:lang="fr">G&#233;ologie, g&#233;ophysique et g&#233;ochimie&#160;; &#224; l&#8217;exclusion de hydrog&#233;ologie (14010) et g&#233;ologie de l&#8217;environnement (41010), production et extraction min&#233;rales, infrastructure, technologie, &#233;conomie, s&#233;curit&#233; et gestion de l&#8217;environnement.</description>
         </codelist-item>
         <codelist-item status="active">
@@ -1963,9 +2042,9 @@
         <codelist-item status="active">
             <code>32262</code>
             <category>322</category>
-            <name>Oil and gas</name>
+            <name>Oil and gas (upstream)</name>
             <name xml:lang="fr">P&#233;trole et gaz</name>
-            <description>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG);  including drilling and production, and oil and gas pipelines.</description>
+            <description>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG); including drilling and production, oil and gas pipelines.</description>
             <description xml:lang="fr">P&#233;trole, gaz naturel, condens&#233;s , GPL (Gaz de p&#233;trole liqu&#233;fi&#233;), GNL (Gaz naturel liqu&#233;fi&#233;); y compris derricks et plates-formes de forage, et ol&#233;oducs et gazoducs.</description>
         </codelist-item>
         <codelist-item status="active">
@@ -2037,7 +2116,7 @@
             <category>331</category>
             <name>Trade facilitation</name>
             <name xml:lang="fr">Facilitation du commerce</name>
-            <description>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments  and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</description>
+            <description>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</description>
             <description xml:lang="fr">Simplification et harmonisation des proc&#233;dures internationales d&#8217;importation et d&#8217;exportation (ex. &#233;valuations de douane, proc&#233;dures de licences, formalit&#233;s de transport, paiements, assurances) ; soutien aux d&#233;partements douaniers et autres agences frontali&#232;res y compris et en particulier la mise en oeuvre des dispositions de l'Accord sur la facilitation des &#233;changes de l'OMC ; r&#233;formes tarifaires.</description>
         </codelist-item>
         <codelist-item status="active">
@@ -2069,8 +2148,8 @@
             <category>331</category>
             <name>Trade education/training</name>
             <name xml:lang="fr">Education/formation dans le domaine du commerce</name>
-            <description>Human resources development in trade not included under any of the above codes.  Includes university programmes in trade.</description>
-            <description xml:lang="fr">D&#233;veloppement des ressources humaines dans le domaine du commerce non compris dans les codes ci-dessous.  Comprend les programmes universitaires dans le domaine du commerce.</description>
+            <description>Human resources development in trade not included under any of the above codes. Includes university programmes in trade.</description>
+            <description xml:lang="fr">D&#233;veloppement des ressources humaines dans le domaine du commerce non compris dans les codes ci-dessous. Comprend les programmes universitaires dans le domaine du commerce.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>33210</code>
@@ -2176,8 +2255,8 @@
             <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Rural development</name>
             <name xml:lang="fr">D&#233;veloppement rural</name>
-            <description>Integrated rural development projects;  e.g. regional development planning;  promotion of decentralised and multi-sectoral competence for planning, co-ordination and management;  implementation of regional development and measures (including natural reserve management);  land management;  land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas;  geographical information systems.</description>
-            <description xml:lang="fr">Projets int&#233;gr&#233;s de d&#233;veloppement rural, par exemple, planification du d&#233;veloppement r&#233;gional ; encouragement &#224; la d&#233;centralisation des comp&#233;tences plurisectorielles concernant la planification, la coordination et la gestion ; mise en &#339;uvre du d&#233;veloppement r&#233;gional et des mesures d&#8217;accompagnement (telle que gestion des ressources naturelles) ; gestion et planification des terres ; peuplement des terres et activit&#233;s de r&#233;installation des peuples [&#224; l&#8217;exclusion de la r&#233;installation des r&#233;fugi&#233;s et des personnes d&#233;plac&#233;es &#224;  l&#8217;int&#233;rieur  du  pays  (72010)]  projets  d&#8217;int&#233;gration des  zones rurales et urbaines ; syst&#232;mes d&#8217;information des zones g&#233;ographiques.</description>
+            <description>Integrated rural development projects; e.g. regional development planning; promotion of decentralised and multi-sectoral competence for planning, co-ordination and management; implementation of regional development and measures (including natural reserve management); land management; land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas; geographical information systems.</description>
+            <description xml:lang="fr">Projets int&#233;gr&#233;s de d&#233;veloppement rural, par exemple, planification du d&#233;veloppement r&#233;gional ; encouragement &#224; la d&#233;centralisation des comp&#233;tences plurisectorielles concernant la planification, la coordination et la gestion ; mise en &#339;uvre du d&#233;veloppement r&#233;gional et des mesures d&#8217;accompagnement (telle que gestion des ressources naturelles) ; gestion et planification des terres ; peuplement des terres et activit&#233;s de r&#233;installation des peuples [&#224; l&#8217;exclusion de la r&#233;installation des r&#233;fugi&#233;s et des personnes d&#233;plac&#233;es &#224; l&#8217;int&#233;rieur du pays (72010)] projets d&#8217;int&#233;gration des zones rurales et urbaines ; syst&#232;mes d&#8217;information des zones g&#233;ographiques.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>43041</code>
@@ -2348,16 +2427,32 @@
             <category>720</category>
             <name>Material relief assistance and services</name>
             <name xml:lang="fr">Assistance mat&#233;rielle et services d&#8217;urgence</name>
-            <description>Shelter, water, sanitation, education, health services including supply of medicines and malnutrition management, and other nonfood relief items (including cash and voucher delivery modalities) for the benefit of crisisaffected people, including refugees and internally displaced people in developing countries, Includes assistance delivered by or coordinated by international civil protection units in the immediate aftermath of a disaster (in-kind assistance, deployment of specially-equipped teams, logistics and transportation, or assessment and coordination by experts sent to the field). Also includes measures to promote and protect the safety, well-being, dignity and integrity of crisis-affected people including refugees and internally displaced persons in developing countries. (Activities designed to protect the security of persons or properties through the use or display of force are not reportable as ODA.)</description>
-            <description xml:lang="fr">Abris, eau, assainissement, &#233;ducation, services de sant&#233;, y compris la fourniture de m&#233;dicaments et la gestion de la malnutrition, et autres articles de secours non alimentaires (y compris les modalit&#233;s de remise en esp&#232;ces et de bons) au profit des personnes touch&#233;es par la crise, notamment des r&#233;fugi&#233;s et des personnes d&#233;plac&#233;es dans les pays en developement. Comprend l'assistance fournie ou coordonn&#233;e par les unit&#233;s internationales de la protection civile imm&#233;diatement apr&#232;s une catastrophe (assistance en nature, d&#233;ploiement d'&#233;quipes sp&#233;cialement &#233;quip&#233;es, logistique et transport, ou &#233;valuation et coordination d'experts envoy&#233;s sur le terrain). Comprend &#233;galement des mesures visant &#224; promouvoir et &#224; prot&#233;ger la s&#233;curit&#233;, le bien-&#234;tre, la dignit&#233; et l&#8217;int&#233;grit&#233; des personnes touch&#233;es par la crise, y compris des r&#233;fugi&#233;s et des personnes d&#233;plac&#233;es dans les pays en d&#233;veloppement. (Les activit&#233;s con&#231;ues pour prot&#233;ger la s&#233;curit&#233; des personnes ou des biens en recourant &#224; la force ou &#224; l'aide de la force ne sont pas d&#233;clarables en tant qu'APD.)</description>
+            <description>Shelter, water, sanitation, education, health services including supply of medicines and malnutrition management, including medical nutrition management; supply of other nonfood relief items (including cash and voucher delivery modalities) for the benefit of crisisaffected people, including refugees and internally displaced people in developing countries, Includes assistance delivered by or coordinated by international civil protection units in the immediate aftermath of a disaster (in-kind assistance, deployment of specially-equipped teams, logistics and transportation, or assessment and coordination by experts sent to the field). Also includes measures to promote and protect the safety, well-being, dignity and integrity of crisis-affected people including refugees and internally displaced persons in developing countries. (Activities designed to protect the security of persons or properties through the use or display of force are not reportable as ODA.)</description>
+            <description xml:lang="fr">Abris, eau, assainissement, &#233;ducation, services de sant&#233;, y compris la fourniture de m&#233;dicaments et la gestion de la malnutrition, y compris la gestion de la nutrition m&#233;dicale; fourniture d'autres articles de secours non alimentaires (y compris les modalit&#233;s de remise en esp&#232;ces et de bons) au profit des personnes touch&#233;es par la crise, notamment des r&#233;fugi&#233;s et des personnes d&#233;plac&#233;es dans les pays en developement. Comprend l'assistance fournie ou coordonn&#233;e par les unit&#233;s internationales de la protection civile imm&#233;diatement apr&#232;s une catastrophe (assistance en nature, d&#233;ploiement d'&#233;quipes sp&#233;cialement &#233;quip&#233;es, logistique et transport, ou &#233;valuation et coordination d'experts envoy&#233;s sur le terrain). Comprend &#233;galement des mesures visant &#224; promouvoir et &#224; prot&#233;ger la s&#233;curit&#233;, le bien-&#234;tre, la dignit&#233; et l&#8217;int&#233;grit&#233; des personnes touch&#233;es par la crise, y compris des r&#233;fugi&#233;s et des personnes d&#233;plac&#233;es dans les pays en d&#233;veloppement. (Les activit&#233;s con&#231;ues pour prot&#233;ger la s&#233;curit&#233; des personnes ou des biens en recourant &#224; la force ou &#224; l'aide de la force ne sonpas d&#233;clarables en tant qu'APD.)</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>72011</code>
+            <category>720</category>
+            <name>Basic Health Care Services in Emergencies</name>
+            <name xml:lang="fr">Services de soins de sant&#233; de base dans les situations d'urgence</name>
+            <description>Provision of health services (basic health services, mental health, sexual and reproductive health), medical nutritional intervention (therapeutic feeding and medical interventions for treating malnutrition) and supply of medicines for the benefit of affected people. Excludes supplemental feeding (72040).</description>
+            <description xml:lang="fr">Prestation de services de sant&#233; (services de sant&#233; de base, sant&#233; mentale, sant&#233; sexuelle et g&#233;n&#233;sique), intervention nutritionnelle m&#233;dicale (alimentation th&#233;rapeutique et interventions m&#233;dicales pour traiter la malnutrition) et fourniture de m&#233;dicaments au profit des personnes touch&#233;es. Exclut l'alimentation compl&#233;mentaire (72040).</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>72012</code>
+            <category>720</category>
+            <name>Education in emergencies</name>
+            <name xml:lang="fr">Education dans les situations d'urgence</name>
+            <description>Support for education facilities (including restoring pre-existing essential infrastructure and school facilities), teaching, training and learning materials (including digital technologies, as appropriate) and immediate access to quality basic and primary education (including formal and non-formal education), and secondary education (including vocational training and secondary level technical education) in emergencies for the benefit of affected children and youth, particularly targeting girls and women and refugees, life skills for youth and adults, and vocational training for youth and adults</description>
+            <description xml:lang="fr">Soutien aux &#233;tablissements d'enseignement (y compris la restauration des infrastructures essentielles et des installations scolaires pr&#233;existantes), du mat&#233;riel d'enseignement, de formation et d'apprentissage (y compris les technologies num&#233;riques, le cas &#233;ch&#233;ant) et un acc&#232;s imm&#233;diat &#224; une &#233;ducation de base et primaire de qualit&#233; (y compris l'&#233;ducation formelle et non formelle), et l'enseignement secondaire (y compris la formation professionnelle et l'enseignement technique de niveau secondaire) dans les situations d'urgence au profit des enfants et des jeunes touch&#233;s, en ciblant en particulier les filles et les femmes et les r&#233;fugi&#233;s, les comp&#233;tences de vie pour les jeunes et les adultes, et la formation professionnelle pour les jeunes et les adultes</description>
         </codelist-item>
         <codelist-item status="active">
             <code>72040</code>
             <category>720</category>
             <name>Emergency food assistance</name>
             <name xml:lang="fr">Assistance alimentaire d'urgence</name>
-            <description>Provision and distribution of food; cash and vouchers for the purchase of food; non-medical nutritional interventions for the benefit of crisis-affected people, including refugees and internally displaced people in developing countries in emergency situations. Includes logistical costs. Excludes non-emergency food assistance (52010), food security policy and administrative management (43071), household food programmes (43072) and medical nutrition interventions (therapeutic feeding) (72010).</description>
-            <description xml:lang="fr">Fourniture et distribution de nourriture; de l'argent et des bons pour l'achat de nourriture; interventions nutritionnelles non m&#233;dicales au profit des personnes touch&#233;es par la crise, notamment des r&#233;fugi&#233;s et des personnes d&#233;plac&#233;es &#224; l'int&#233;rieur de leur propre pays, dans des pays en d&#233;veloppement en situation d'urgence. Comprend les co&#251;ts logistiques. Sont exclus l'assistance alimentaire non urgente (52010), la politique de s&#233;curit&#233; alimentaire et la gestion administrative (43071), les programmes alimentaires des m&#233;nages (43072) et les interventions de nutrition m&#233;dicale (alimentation th&#233;rapeutique) (72010).</description>
+            <description>Provision and distribution of food; cash and vouchers for the purchase of food; non-medical nutritional interventions for the benefit of crisis-affected people, including refugees and internally displaced people in developing countries in emergency situations. Includes logistical costs. Excludes non-emergency food assistance (52010), food security policy and administrative management (43071), household food programmes (43072) and medical nutrition interventions (therapeutic feeding) (72010 and 72011).</description>
+            <description xml:lang="fr">Fourniture et distribution de nourriture; de l'argent et des bons pour l'achat de nourriture; interventions nutritionnelles non m&#233;dicales au profit des personnes touch&#233;es par la crise, notamment des r&#233;fugi&#233;s et des personnes d&#233;plac&#233;es &#224; l'int&#233;rieur de leur propre pays, dans des pays en d&#233;veloppement en situation d'urgence. Comprend les co&#251;ts logistiques. Sont exclus l'assistance alimentaire non urgente (52010), la politique de s&#233;curit&#233; alimentaire et la gestion administrative (43071), les programmes alimentaires des m&#233;nages (43072) et les interventions de nutrition m&#233;dicale (alimentation th&#233;rapeutique) (72010 et 72011).</description>
         </codelist-item>
         <codelist-item status="active">
             <code>72050</code>
@@ -2425,7 +2520,7 @@
         <codelist-item status="active">
             <code>93010</code>
             <category>930</category>
-            <name>Refugees/asylum seekers  in donor countries (non-sector allocable)</name>
+            <name>Refugees/asylum seekers in donor countries (non-sector allocable)</name>
             <name xml:lang="fr">Refugi&#233;s/demandeurs d&#8217;asile dans les pays donneurs (non allou&#233;s)</name>
             <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months, when costs cannot be disaggregated. See section II.6 and Annex 17.</description>
             <description xml:lang="fr">Co&#251;ts encourus dans les pays donneurs au titre de l&#8217;aide de base apport&#233;e aux demandeurs d&#8217;asile et aux r&#233;fugi&#233;s en provenance des pays en d&#233;veloppement pendant une p&#233;riode pouvant aller jusqu&#8217;&#224; 12 mois, quand les co&#251;ts ne peuvent pas &#234;tre d&#233;sagr&#233;g&#233;s. Voir section II.6 et Annexe 17.</description>
@@ -2459,7 +2554,7 @@
             <category>930</category>
             <name>Refugees/asylum seekers in donor countries - other temporary sustenance</name>
             <name xml:lang="fr">Refugi&#233;s/demandeurs d&#8217;asile dans les pays donneurs - autre entretien temporaire</name>
-            <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e.  cash &#8220;pocket money&#8221; to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</description>
+            <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e. cash &#8220;pocket money&#8221; to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</description>
             <description xml:lang="fr">Co&#251;ts encourus dans les pays donneurs au titre de l&#8217;aide de base apport&#233;e aux demandeurs d&#8217;asile et aux r&#233;fugi&#233;s en provenance des pays en d&#233;veloppement pendant une p&#233;riode pouvant aller jusqu&#8217;&#224; 12 mois : entretien temporaire autre que nourriture et h&#233;bergement (code 93011), formation (93012) et sant&#233; (93013), i.e. &#171; argent de poche &#187; en esp&#232;ces pour la prise en charge des frais d&#8217;entretien et accompagnement lors de la proc&#233;dure de demande d&#8217;asile : traduction des documents, conseil juridique et administratif, services d&#8217;interpr&#233;tation.</description>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">

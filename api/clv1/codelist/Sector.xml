@@ -1,4 +1,4 @@
-<codelist name="Sector" date-last-modified="2020-03-10T11:52:49.084044+00:00" version="" xml:lang="en">
+<codelist name="Sector" date-last-modified="2020-03-10T15:22:34.736425+00:00" version="" xml:lang="en">
   <Sector>
     <code>11110</code>
     <name>Education policy and administrative management</name>
@@ -164,6 +164,14 @@
     <category-name>Health, General</category-name>
   </Sector>
   <Sector>
+    <code>12196</code>
+    <name>Health statistics and data</name>
+    <language>en</language>
+    <description>Collection, production, management and dissemination of statistics and data related to health. Includes health surveys, establishment of health databases, data collection on epidemics, etc.</description>
+    <category>121</category>
+    <category-name>Health, General</category-name>
+  </Sector>
+  <Sector>
     <code>12220</code>
     <name>Basic health care</name>
     <language>en</language>
@@ -183,7 +191,7 @@
     <code>12240</code>
     <name>Basic nutrition</name>
     <language>en</language>
-    <description>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions.  Use code 11250 for school feeding and 43072 for household food security.</description>
+    <description>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions. Use code 11250 for school feeding and 43072 for household food security.</description>
     <category>122</category>
     <category-name>Basic Health</category-name>
   </Sector>
@@ -263,7 +271,7 @@
     <code>12350</code>
     <name>Other prevention and treatment of NCDs</name>
     <language>en</language>
-    <description>Population/individual measures to reduce exposure to unhealthy diets and physical inactivity and to strengthen capacity for prevention, early detection, treatment and sustained management of NCDs including:  Cardiovascular disease control: Prevention, screening and treatment of cardiovascular diseases (including hypertension, hyperlipidaemia, ischaemic heart diseases, stroke, rheumatic heart disease, congenital heart disease, heart failure, etc.).   Diabetes control: Prevention, screening, diagnosis, treatment and management of complications from all types of diabetes.  Exposure to physical inactivity: Promotion of physical activity through supportive built environment (urban design, transport), sports, health care, schools and community programmes and mass media campaign.  Exposure to unhealthy diet: Programmes and interventions that promote healthy diet through reduced consumption of salt, sugar and fats and increased consumption of fruits and vegetables e.g. food reformulation, nutrient labelling, food taxes, marketing restriction on unhealthy foods, nutrition education and counselling, and settings-based interventions (schools, workplaces, villages, communities).  Cancer control: Prevention (including immunisation, HPV and HBV), early diagnosis (including pathology), screening, treatment (e.g. radiotherapy, chemotherapy, surgery) and palliative care for all types of cancers. Implementation, maintenance and improvement of cancer registries are also included.  Chronic respiratory diseases: Prevention, early diagnosis and treatment of chronic respiratory diseases, including asthma. Excludes: Tobacco use control (12320), Control of harmful use of alcohol and drugs (12330), research for the prevention and control of NCDs (12382).</description>
+    <description>Population/individual measures to reduce exposure to unhealthy diets and physical inactivity and to strengthen capacity for prevention, early detection, treatment and sustained management of NCDs including: Cardiovascular disease control: Prevention, screening and treatment of cardiovascular diseases (including hypertension, hyperlipidaemia, ischaemic heart diseases, stroke, rheumatic heart disease, congenital heart disease, heart failure, etc.). Diabetes control: Prevention, screening, diagnosis, treatment and management of complications from all types of diabetes. Exposure to physical inactivity: Promotion of physical activity through supportive built environment (urban design, transport), sports, health care, schools and community programmes and mass media campaign. Exposure to unhealthy diet: Programmes and interventions that promote healthy diet through reduced consumption of salt, sugar and fats and increased consumption of fruits and vegetables e.g. food reformulation, nutrient labelling, food taxes, marketing restriction on unhealthy foods, nutrition education and counselling, and settings-based interventions (schools, workplaces, villages, communities). Cancer control: Prevention (including immunisation, HPV and HBV), early diagnosis (including pathology), screening, treatment (e.g. radiotherapy, chemotherapy, surgery) and palliative care for all types of cancers. Implementation, maintenance and improvement of cancer registries are also included. Chronic respiratory diseases: Prevention, early diagnosis and treatment of chronic respiratory diseases, including asthma. Excludes: Tobacco use control (12320), Control of harmful use of alcohol and drugs (12330), research for the prevention and control of NCDs (12382).</description>
     <category>123</category>
     <category-name>Non-communicable diseases (NCDs)</category-name>
   </Sector>
@@ -279,7 +287,7 @@
     <code>13010</code>
     <name>Population policy and administrative management</name>
     <language>en</language>
-    <description>Population/development policies; census work, vital registration; demographic research/analysis; reproductive health research; unspecified population activities. (Use purpose code 15190 for data on migration and refugees.)</description>
+    <description>Population/development policies; demographic research/analysis; reproductive health research; unspecified population activities. (Use purpose code 15190 for data on migration and refugees. Use code 13096 for census work, vital registration and migration data collection.)</description>
     <category>130</category>
     <category-name>Population Policies/Programmes &amp; Reproductive Health</category-name>
   </Sector>
@@ -316,10 +324,18 @@
     <category-name>Population Policies/Programmes &amp; Reproductive Health</category-name>
   </Sector>
   <Sector>
+    <code>13096</code>
+    <name>Population statistics and data</name>
+    <language>en</language>
+    <description>Collection, production, management and dissemination of statistics and data related to Population and Reproductive Health. Includes census work, vital registration, migration data collection, demographic data, etc.</description>
+    <category>130</category>
+    <category-name>Population Policies/Programmes &amp; Reproductive Health</category-name>
+  </Sector>
+  <Sector>
     <code>14010</code>
     <name>Water sector policy and administrative management</name>
     <language>en</language>
-    <description>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM:  see box below).</description>
+    <description>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM: see box below).</description>
     <category>140</category>
     <category-name>Water Supply &amp; Sanitation</category-name>
   </Sector>
@@ -335,7 +351,7 @@
     <code>14020</code>
     <name>Water supply and sanitation - large systems</name>
     <language>en</language>
-    <description>Programmes where components according to 14021 and 14022 cannot be identified.  When components are known, they should individually be reported under their respective purpose codes:  water supply [14021], sanitation [14022], and hygiene [12261].</description>
+    <description>Programmes where components according to 14021 and 14022 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14021], sanitation [14022], and hygiene [12261].</description>
     <category>140</category>
     <category-name>Water Supply &amp; Sanitation</category-name>
   </Sector>
@@ -359,7 +375,7 @@
     <code>14030</code>
     <name>Basic drinking water supply and basic sanitation</name>
     <language>en</language>
-    <description>Programmes where components according to 14031 and 14032 cannot be identified.  When components are known, they should individually be reported under their respective purpose codes:  water supply [14031], sanitation [14032], and hygiene [12261].</description>
+    <description>Programmes where components according to 14031 and 14032 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14031], sanitation [14032], and hygiene [12261].</description>
     <category>140</category>
     <category-name>Water Supply &amp; Sanitation</category-name>
   </Sector>
@@ -578,7 +594,7 @@
     <code>15130</code>
     <name>Legal and judicial development</name>
     <language>en</language>
-    <description>Support to institutions, systems and procedures of the justice sector, both formal and informal; support to ministries of justice, the interior and home affairs; judges and courts; legal drafting services; bar and lawyers associations; professional legal education; maintenance of law and order and public safety; border management; law enforcement agencies, police, prisons and their supervision; ombudsmen; alternative dispute resolution, arbitration and mediation; legal aid and counsel; traditional, indigenous and paralegal practices that fall outside the formal legal system. Measures that support the improvement of legal frameworks, constitutions, laws and regulations; legislative and constitutional drafting and review; legal reform; integration of formal and informal systems of law. Public legal education; dissemination of information on entitlements and remedies for injustice; awareness campaigns. (Use codes 152xx for activities that are primarily aimed at supporting security system reform or undertaken in connection with post-conflict and peace building activities. Use code 15130 for capacity building in border management related to migration.)</description>
+    <description>Support to institutions, systems and procedures of the justice sector, both formal and informal; support to ministries of justice, the interior and home affairs; judges and courts; legal drafting services; bar and lawyers associations; professional legal education; maintenance of law and order and public safety; border management; law enforcement agencies, police, prisons and their supervision; ombudsmen; alternative dispute resolution, arbitration and mediation; legal aid and counsel; traditional, indigenous and paralegal practices that fall outside the formal legal system. Measures that support the improvement of legal frameworks, constitutions, laws and regulations; legislative and constitutional drafting and review; legal reform; integration of formal and informal systems of law. Public legal education; dissemination of information on entitlements and remedies for injustice; awareness campaigns. (Use codes 152xx for activities that are primarily aimed at supporting security system reform or undertaken in connection with post-conflict and peace building activities. Use code 15190 for capacity building in border management related to migration.)</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -790,9 +806,9 @@
   </Sector>
   <Sector>
     <code>15170</code>
-    <name>Women's equality organisations and institutions</name>
+    <name>Women&#8217;s rights organisations and movements, and government institutions</name>
     <language>en</language>
-    <description>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women&#8217;s empowerment.</description>
+    <description>Support for feminist, women-led and women&#8217;s rights organisations and movements, and institutions (governmental and non-govermental) at all levels to enhance their effectiveness, influence and substainability (activities and core-funding). These organisations exist to bring about transformative change for gender equality and/or the rights of women and girls in developing countries. Their activities include agenda-setting, advocacy, policy dialogue, capacity development, awareness raising and prevention, service provision, conflict-prevention and peacebuilding, research, organising, and alliance and network building</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -820,6 +836,15 @@
     <name>Facilitation of orderly, safe, regular and responsible migration and mobility</name>
     <language>en</language>
     <description>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:&#8226; Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.&#8226; Measures to improve migrant labour recruitment systems in developing countries.&#8226; Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.&#8226; Support to effective strategies to ensure international protection and the right to asylum.&#8226; Support to effective strategies to ensure access to justice and assistance for displaced persons.&#8226; Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).&#8226; Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers&#8217; interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</description>
+    <category>151</category>
+    <category-name>Government &amp; Civil Society-general</category-name>
+    <category-description>N.B. Use code 51010 for general budget support.</category-description>
+  </Sector>
+  <Sector>
+    <code>15196</code>
+    <name>Government and civil society statistics and data</name>
+    <language>en</language>
+    <description>Collection, production, management and dissemination of statistics and data related to Government &amp; Civil Society. Includes macroeconomic statistics, government finance, fiscal and public sector statistics, support to development of administrative data infrastructure, civil society surveys.</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -938,7 +963,7 @@
     <code>16030</code>
     <name>Housing policy and administrative management</name>
     <language>en</language>
-    <description>Housing sector policy, planning and programmes;  excluding low-cost housing and slum clearance (16040).</description>
+    <description>Housing sector policy, planning and programmes; excluding low-cost housing and slum clearance (16040).</description>
     <category>160</category>
     <category-name>Other Social Infrastructure &amp; Services</category-name>
   </Sector>
@@ -970,7 +995,7 @@
     <code>16062</code>
     <name>Statistical capacity building</name>
     <language>en</language>
-    <description>Both in national statistical offices and any other government ministries.</description>
+    <description>All statistical activities, such as data collection, processing, dissemination and analysis; support to development and management of official statistics including demographic, social, economic, environmental and multi-sectoral statistics; statistical quality frameworks; development of human and technological resources for statistics, investments in data innovation. Activities related to data and statistics in the sectors 120, 130 or 150 should preferably be coded under the voluntary purpose codes 12196, 13096 and 15196. Activities with the sole purpose of monitoring development co-operation activities, including if performed by third parties, should be coded under 91010 (Administrative costs).</description>
     <category>160</category>
     <category-name>Other Social Infrastructure &amp; Services</category-name>
   </Sector>
@@ -1196,7 +1221,7 @@
     <code>22040</code>
     <name>Information and communication technology (ICT)</name>
     <language>en</language>
-    <description>Computer hardware and software; internet access; IT training.  When sector cannot be specified.</description>
+    <description>Computer hardware and software; internet access; IT training. When sector cannot be specified.</description>
     <category>220</category>
     <category-name>Communications</category-name>
   </Sector>
@@ -1354,7 +1379,7 @@
     <code>23110</code>
     <name>Energy policy and administrative management</name>
     <language>en</language>
-    <description>Energy sector policy, planning; aid to energy ministries; institution capacity building and advice; unspecified energy activities.</description>
+    <description>Energy sector policy, planning; aid to energy ministries and other governmental or nongovernmental institutions for activities related to the SDG7; institution capacity building and advice; tariffs, market building, unspecified energy activities; energy activities for which a more specific code cannot be assigned.</description>
     <category>231</category>
     <category-name>Energy Policy</category-name>
   </Sector>
@@ -1393,7 +1418,7 @@
     <code>23183</code>
     <name>Energy conservation and demand-side efficiency</name>
     <language>en</language>
-    <description>All projects in support of energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. Also includes efficient cook-stoves and biogas projects.</description>
+    <description>Support for energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. For clean cooking appliances use code 32174.</description>
     <category>231</category>
     <category-name>Energy Policy</category-name>
   </Sector>
@@ -1415,9 +1440,25 @@
   </Sector>
   <Sector>
     <code>23230</code>
-    <name>Solar energy</name>
+    <name>Solar energy for centralised grids</name>
     <language>en</language>
-    <description>Including photo-voltaic cells, solar thermal applications and solar heating.</description>
+    <description>Including photo-voltaic cells, concentrated solar power systems connected to the main grid and net-metered decentralised solutions.</description>
+    <category>232</category>
+    <category-name>Energy generation, renewable sources</category-name>
+  </Sector>
+  <Sector>
+    <code>23231</code>
+    <name>Solar energy for isolated grids and standalone systems</name>
+    <language>en</language>
+    <description>Solar power generation for isolated mini-grids, solar home systems (including integrated wiring and related appliances), solar lanterns distribution and commercialisation. This code refers to the power generation component only.</description>
+    <category>232</category>
+    <category-name>Energy generation, renewable sources</category-name>
+  </Sector>
+  <Sector>
+    <code>23232</code>
+    <name>Solar energy - thermal applications</name>
+    <language>en</language>
+    <description>Solar solutions for indoor space and water heating (except for solar cook stoves 32174).</description>
     <category>232</category>
     <category-name>Energy generation, renewable sources</category-name>
   </Sector>
@@ -1449,7 +1490,7 @@
     <code>23270</code>
     <name>Biofuel-fired power plants</name>
     <language>en</language>
-    <description>Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste-fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non- renewable waste-fired power plants.</description>
+    <description>Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste-fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non-renewable waste-fired power plants.</description>
     <category>232</category>
     <category-name>Energy generation, renewable sources</category-name>
   </Sector>
@@ -1481,7 +1522,7 @@
     <code>23340</code>
     <name>Natural gas-fired electric power plants</name>
     <language>en</language>
-    <description>Electric power plants that are fuelled by natural gas.</description>
+    <description>Electric power plants that are fuelled by natural gas; related feed-in infrastructure (LNG terminals, gasifiers, pipelines to feed the plant).</description>
     <category>233</category>
     <category-name>Energy generation, non-renewable sources</category-name>
   </Sector>
@@ -1511,9 +1552,9 @@
   </Sector>
   <Sector>
     <code>23510</code>
-    <name>Nuclear energy electric power plants</name>
+    <name>Nuclear energy electric power plants and nuclear safety</name>
     <language>en</language>
-    <description>Including nuclear safety.</description>
+    <description>See note regarding ODA eligibility of nuclear energy.</description>
     <category>235</category>
     <category-name>Nuclear energy plants</category-name>
   </Sector>
@@ -1535,17 +1576,40 @@
   </Sector>
   <Sector>
     <code>23630</code>
-    <name>Electric power transmission and distribution</name>
+    <name>Electric power transmission and distribution (centralised grids)</name>
     <language>en</language>
     <description>Grid distribution from power source to end user; transmission lines. Also includes storage of energy to generate power (e.g. pumped hydro, batteries) and the extension of grid access, often to rural areas.</description>
     <category>236</category>
     <category-name>Energy distribution</category-name>
   </Sector>
   <Sector>
-    <code>23640</code>
-    <name>Gas distribution</name>
+    <code>23631</code>
+    <name>Electric power transmission and distribution (isolated mini-grids)</name>
     <language>en</language>
-    <description>Delivery for use by ultimate consumer.</description>
+    <description>Includes village grids and other electricity distribution technologies to end users that are not connected to the main national grid. Also includes related electricity storage. This code refers to the network infrastructure only regardless of the power generation technologies.</description>
+    <category>236</category>
+    <category-name>Energy distribution</category-name>
+  </Sector>
+  <Sector>
+    <code>23640</code>
+    <name>Retail gas distribution</name>
+    <language>en</language>
+    <description>Includes urban infrastructure for the delivery of urban gas and LPG cylinder production, distribution and refill. Excludes gas distribution for purposes of electricity generation (23340) and pipelines (32262).</description>
+    <category>236</category>
+    <category-name>Energy distribution</category-name>
+  </Sector>
+  <Sector>
+    <code>23641</code>
+    <name>Retail distribution of liquid or solid fossil fuels</name>
+    <language>en</language>
+    <category>236</category>
+    <category-name>Energy distribution</category-name>
+  </Sector>
+  <Sector>
+    <code>23642</code>
+    <name>Electric mobility infrastructures</name>
+    <language>en</language>
+    <description>Includes electricity or hydrogen recharging stations for private and public transport systems and related infrastructure (except for rail transport 21030).</description>
     <category>236</category>
     <category-name>Energy distribution</category-name>
   </Sector>
@@ -1632,7 +1696,7 @@
     <code>31110</code>
     <name>Agricultural policy and administrative management</name>
     <language>en</language>
-    <description>Agricultural sector policy, planning and programmes; aid to agricultural ministries;  institution capacity building and advice; unspecified agriculture.</description>
+    <description>Agricultural sector policy, planning and programmes; aid to agricultural ministries; institution capacity building and advice; unspecified agriculture.</description>
     <category>311</category>
     <category-name>Agriculture</category-name>
   </Sector>
@@ -1680,7 +1744,7 @@
     <code>31162</code>
     <name>Industrial crops/export crops</name>
     <language>en</language>
-    <description>Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops; tobacco; rubber.  [Use code 32161 for agro-industries.]</description>
+    <description>Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops; tobacco; rubber. [Use code 32161 for agro-industries.]</description>
     <category>311</category>
     <category-name>Agriculture</category-name>
   </Sector>
@@ -1791,7 +1855,7 @@
     <code>31261</code>
     <name>Fuelwood/charcoal</name>
     <language>en</language>
-    <description>Forestry development whose primary purpose is production of fuelwood and charcoal.</description>
+    <description>Sustainable forestry development whose primary purpose is production of fuelwood and charcoal. Further transformation of biomass in biofuels is coded under 32173.</description>
     <category>312</category>
     <category-name>Forestry</category-name>
   </Sector>
@@ -1934,9 +1998,9 @@
   </Sector>
   <Sector>
     <code>32167</code>
-    <name>Energy manufacturing</name>
+    <name>Energy manufacturing (fossil fuels)</name>
     <language>en</language>
-    <description>Including gas liquefaction; petroleum refineries.</description>
+    <description>Including gas liquefaction; petroleum refineries, wholesale distribution of fossil fuels. (Use 23640 for retail distribution of gas and 23641 for retail distribution of liquid or solid fossil fuels.)</description>
     <category>321</category>
     <category-name>Industry</category-name>
   </Sector>
@@ -1980,10 +2044,26 @@
     <category-name>Industry</category-name>
   </Sector>
   <Sector>
+    <code>32173</code>
+    <name>Modern biofuels manufacturing</name>
+    <language>en</language>
+    <description>Includes biogas, liquid biofuels and pellets for domestic and non-domestic use. Excludes raw fuelwood and charcoal (31261).</description>
+    <category>321</category>
+    <category-name>Industry</category-name>
+  </Sector>
+  <Sector>
+    <code>32174</code>
+    <name>Clean cooking appliances manufacturing</name>
+    <language>en</language>
+    <description>Includes manufacturing and distribution of efficient biomass cooking stoves, gasifiers, liquid biofuels stoves, solar stoves, gas and biogas stoves, electric stoves.</description>
+    <category>321</category>
+    <category-name>Industry</category-name>
+  </Sector>
+  <Sector>
     <code>32182</code>
     <name>Technological research and development</name>
     <language>en</language>
-    <description>Including industrial standards; quality management; metrology;  testing;  accreditation;  certification.</description>
+    <description>Including industrial standards; quality management; metrology; testing; accreditation; certification.</description>
     <category>321</category>
     <category-name>Industry</category-name>
   </Sector>
@@ -1991,7 +2071,7 @@
     <code>32210</code>
     <name>Mineral/mining policy and administrative management</name>
     <language>en</language>
-    <description>Mineral and mining sector policy, planning and programmes;  mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice;  unspecified mineral resources exploitation.</description>
+    <description>Mineral and mining sector policy, planning and programmes; mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice; unspecified mineral resources exploitation.</description>
     <category>322</category>
     <category-name>Mineral Resources &amp; Mining</category-name>
   </Sector>
@@ -1999,7 +2079,7 @@
     <code>32220</code>
     <name>Mineral prospection and exploration</name>
     <language>en</language>
-    <description>Geology, geophysics, geochemistry;  excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</description>
+    <description>Geology, geophysics, geochemistry; excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</description>
     <category>322</category>
     <category-name>Mineral Resources &amp; Mining</category-name>
   </Sector>
@@ -2013,9 +2093,9 @@
   </Sector>
   <Sector>
     <code>32262</code>
-    <name>Oil and gas</name>
+    <name>Oil and gas (upstream)</name>
     <language>en</language>
-    <description>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG);  including drilling and production, and oil and gas pipelines.</description>
+    <description>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG); including drilling and production, oil and gas pipelines.</description>
     <category>322</category>
     <category-name>Mineral Resources &amp; Mining</category-name>
   </Sector>
@@ -2087,7 +2167,7 @@
     <code>33120</code>
     <name>Trade facilitation</name>
     <language>en</language>
-    <description>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments  and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</description>
+    <description>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</description>
     <category>331</category>
     <category-name>Trade Policies &amp; Regulations</category-name>
   </Sector>
@@ -2119,7 +2199,7 @@
     <code>33181</code>
     <name>Trade education/training</name>
     <language>en</language>
-    <description>Human resources development in trade not included under any of the above codes.  Includes university programmes in trade.</description>
+    <description>Human resources development in trade not included under any of the above codes. Includes university programmes in trade.</description>
     <category>331</category>
     <category-name>Trade Policies &amp; Regulations</category-name>
   </Sector>
@@ -2227,7 +2307,7 @@
     <code>43040</code>
     <name>Rural development</name>
     <language>en</language>
-    <description>Integrated rural development projects;  e.g. regional development planning;  promotion of decentralised and multi-sectoral competence for planning, co-ordination and management;  implementation of regional development and measures (including natural reserve management);  land management;  land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas;  geographical information systems.</description>
+    <description>Integrated rural development projects; e.g. regional development planning; promotion of decentralised and multi-sectoral competence for planning, co-ordination and management; implementation of regional development and measures (including natural reserve management); land management; land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas; geographical information systems.</description>
     <category>430</category>
     <category-name>Other Multisector</category-name>
   </Sector>
@@ -2396,7 +2476,25 @@
     <code>72010</code>
     <name>Material relief assistance and services</name>
     <language>en</language>
-    <description>Shelter, water, sanitation, education, health services including supply of medicines and malnutrition management, and other nonfood relief items (including cash and voucher delivery modalities) for the benefit of crisisaffected people, including refugees and internally displaced people in developing countries, Includes assistance delivered by or coordinated by international civil protection units in the immediate aftermath of a disaster (in-kind assistance, deployment of specially-equipped teams, logistics and transportation, or assessment and coordination by experts sent to the field). Also includes measures to promote and protect the safety, well-being, dignity and integrity of crisis-affected people including refugees and internally displaced persons in developing countries. (Activities designed to protect the security of persons or properties through the use or display of force are not reportable as ODA.)</description>
+    <description>Shelter, water, sanitation, education, health services including supply of medicines and malnutrition management, including medical nutrition management; supply of other nonfood relief items (including cash and voucher delivery modalities) for the benefit of crisisaffected people, including refugees and internally displaced people in developing countries, Includes assistance delivered by or coordinated by international civil protection units in the immediate aftermath of a disaster (in-kind assistance, deployment of specially-equipped teams, logistics and transportation, or assessment and coordination by experts sent to the field). Also includes measures to promote and protect the safety, well-being, dignity and integrity of crisis-affected people including refugees and internally displaced persons in developing countries. (Activities designed to protect the security of persons or properties through the use or display of force are not reportable as ODA.)</description>
+    <category>720</category>
+    <category-name>Emergency Response</category-name>
+    <category-description>An emergency is a situation which results from man made crises and/or natural disasters.</category-description>
+  </Sector>
+  <Sector>
+    <code>72011</code>
+    <name>Basic Health Care Services in Emergencies</name>
+    <language>en</language>
+    <description>Provision of health services (basic health services, mental health, sexual and reproductive health), medical nutritional intervention (therapeutic feeding and medical interventions for treating malnutrition) and supply of medicines for the benefit of affected people. Excludes supplemental feeding (72040).</description>
+    <category>720</category>
+    <category-name>Emergency Response</category-name>
+    <category-description>An emergency is a situation which results from man made crises and/or natural disasters.</category-description>
+  </Sector>
+  <Sector>
+    <code>72012</code>
+    <name>Education in emergencies</name>
+    <language>en</language>
+    <description>Support for education facilities (including restoring pre-existing essential infrastructure and school facilities), teaching, training and learning materials (including digital technologies, as appropriate) and immediate access to quality basic and primary education (including formal and non-formal education), and secondary education (including vocational training and secondary level technical education) in emergencies for the benefit of affected children and youth, particularly targeting girls and women and refugees, life skills for youth and adults, and vocational training for youth and adults</description>
     <category>720</category>
     <category-name>Emergency Response</category-name>
     <category-description>An emergency is a situation which results from man made crises and/or natural disasters.</category-description>
@@ -2405,7 +2503,7 @@
     <code>72040</code>
     <name>Emergency food assistance</name>
     <language>en</language>
-    <description>Provision and distribution of food; cash and vouchers for the purchase of food; non-medical nutritional interventions for the benefit of crisis-affected people, including refugees and internally displaced people in developing countries in emergency situations. Includes logistical costs. Excludes non-emergency food assistance (52010), food security policy and administrative management (43071), household food programmes (43072) and medical nutrition interventions (therapeutic feeding) (72010).</description>
+    <description>Provision and distribution of food; cash and vouchers for the purchase of food; non-medical nutritional interventions for the benefit of crisis-affected people, including refugees and internally displaced people in developing countries in emergency situations. Includes logistical costs. Excludes non-emergency food assistance (52010), food security policy and administrative management (43071), household food programmes (43072) and medical nutrition interventions (therapeutic feeding) (72010 and 72011).</description>
     <category>720</category>
     <category-name>Emergency Response</category-name>
     <category-description>An emergency is a situation which results from man made crises and/or natural disasters.</category-description>
@@ -2481,7 +2579,7 @@
   </Sector>
   <Sector>
     <code>93010</code>
-    <name>Refugees/asylum seekers  in donor countries (non-sector allocable)</name>
+    <name>Refugees/asylum seekers in donor countries (non-sector allocable)</name>
     <language>en</language>
     <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months, when costs cannot be disaggregated. See section II.6 and Annex 17.</description>
     <category>930</category>
@@ -2515,7 +2613,7 @@
     <code>93014</code>
     <name>Refugees/asylum seekers in donor countries - other temporary sustenance</name>
     <language>en</language>
-    <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e.  cash &#8220;pocket money&#8221; to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</description>
+    <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e. cash &#8220;pocket money&#8221; to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</description>
     <category>930</category>
     <category-name>Refugees in Donor Countries</category-name>
   </Sector>
