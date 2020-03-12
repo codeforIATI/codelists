@@ -49,6 +49,7 @@ code,name,description,category,url,status
 21062,The Nature Conservancy,,,,active
 21036,World University Service,,,,active
 21502,World Vision,,,,active
+21064,"Clinton Health Access Initiative, Inc.",,,,active
 22000,Donor country-based NGO,,,,active
 21047,AgriCord,,,,active
 21060,Association for the Prevention of Torture,,,,active
@@ -83,6 +84,7 @@ code,name,description,category,url,status
 30000,PUBLIC-PRIVATE PARTNERSHIPS (PPPs) and NETWORKS,,,,active
 31000,Public-Private Partnership (PPP),,,,active
 30008,Cities Alliance,,,,active
+31006,Coalition for Epidemic Preparedness Innovations,,,,active
 30016,European Fund for Southeast Europe,,,,active
 30007,Global Alliance for ICT and Development,,,,active
 30001,Global Alliance for Improved Nutrition,,,,active
@@ -129,12 +131,13 @@ code,name,description,category,url,status
 41145,International Maritime Organization - Technical Co-operation Fund,,,,active
 41303,International Telecommunications Union,,,,active
 41110,Joint United Nations Programme on HIV/AIDS,,,,active
+41320,Technology Bank for Least Developed Countries,,,,active
 41305,United Nations,,,,active
 41111,United Nations Capital Development Fund,,,,active
 41122,United Nations Children’s Fund,,,,active
 41112,United Nations Conference on Trade and Development,,,,active
 41142,United Nations Democracy Fund,,,,active
-41310,"United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",,,,active
+41310,"United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",,,,active
 41148,"United Nations Department of Political Affairs, Trust Fund in Support of Political Affairs",,,,active
 41114,United Nations Development Programme,,,,active
 41314,United Nations Economic Commission for Europe (extrabudgetary contributions only),,,,active
@@ -201,7 +204,7 @@ code,name,description,category,url,status
 46002,African Development Bank,,,,active
 46003,African Development Fund,,,,active
 46022,African Export Import Bank,,,,active
-46008,Andean Development Corporation,,,,active
+46008,Development Bank of Latin America,,,,active
 46004,Asian Development Bank,,,,active
 46005,Asian Development Fund,,,,active
 46026,Asian Infrastructure Investment Bank,,,,active
@@ -275,6 +278,10 @@ code,name,description,category,url,status
 47058,International Institute for Democracy and Electoral Assistance,,,,active
 47064,International Network for Bamboo and Rattan,,,,active
 47066,International Organisation for Migration,,,,active
+41149,United Nations Development Coordination Office,,,,active
+41150,United Nations Institute for Disarmament Research,,,,active
+46027,Financial Fund for the Development of the River Plate Basin,,,,active
+47400,European Space Agency (ESA) programme “Space in support of International Development Aid”,,,,active
 47046,International Organisation of the Francophonie,,,,active
 47073,International Tropical Timber Organisation,,,,active
 47074,International Vaccine Institute,,,,active
@@ -313,6 +320,9 @@ code,name,description,category,url,status
 47139,World Customs Organization Customs Co-operation Fund,,,,active
 47143,Global Community Engagement and Resilience Fund,,,,active
 47144,International Renewable Energy Agency,,,,active
+47146,International Investment Bank (IIB),,,,active
+47147,International Finance Facility for Education,,,,active
+47148,World Organisation for Animal Health,,,,active
 50000,Other,,,,withdrawn
 51000,"University, college or other teaching institution, research institute or think‑tank",,,,active
 47101,Africa Rice Centre,,,,active
@@ -346,15 +356,36 @@ code,name,description,category,url,status
 52000,Other,,,,withdrawn
 60000,Private sector institution,,,,active
 61000,Private sector in provider country,,,,active
-61001,Private bank in provider country,,,,active
-61002,Private exporter in provider country,,,,active
-61003,Private investor in provider country,,,,active
-61004,Other non-bank entity in provider country,,,,active
+61001,Banks (deposit taking corporations),,,,active
+61002,Private exporter in provider country,,,,withdrawn
+61003,Investment funds and other collective investment institutions,,,,active
+61004,"Holding companies, trusts and Special Purpose Vehicles",,,,active
+61005,Insurance Corporations,,,,active
+61006,Pension Funds,,,,active
+61007,Other financial corporations,,,,active
+61008,Exporters,,,,active
+61009,Other non-financial corporations,,,,active
+61010,Retail investors,,,,active
 62000,Private sector in recipient country,,,,active
-62001,Private bank in recipient country,,,,active
-62002,Joint-venture in recipient country,,,,active
-62003,Other non-bank in recipient country,,,,active
+62001,Banks (deposit taking corporations except Micro Finance Institutions),,,,active
+62002,Micro Finance Institutions (deposit and non-deposit),,,,active
+62003,Investment funds and other collective investment institutions,,,,active
+62004,"Holding companies, trusts and Special Purpose Vehicles",,,,active
+62005,Insurance Corporations,,,,active
+62006,Pension Funds,,,,active
+62007,Other financial corporations,,,,active
+62008,Importers/Exporters,,,,active
+62009,Other non-financial corporations,,,,active
+62010,Retail investors,,,,active
 63000,Private sector in third country,,,,active
-63001,Private bank in third country,,,,active
-63002,Private non-bank in third country,,,,active
+63001,Banks (deposit taking corporations except Micro Finance Institutions),,,,active
+63002,Micro Finance Institutions (deposit and non-deposit),,,,active
+63003,Investment funds and other collective investment institutions,,,,active
+63004,"Holding companies, trusts and Special Purpose Vehicles",,,,active
+63005,Insurance Corporations,,,,active
+63006,Pension Funds,,,,active
+63007,Other financial corporations,,,,active
+63008,Exporters,,,,active
+63009,Other non-financial corporations,,,,active
+63010,Retail investors,,,,active
 90000,Other,,,,active

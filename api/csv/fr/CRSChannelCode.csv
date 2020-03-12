@@ -49,6 +49,7 @@ code,name,description,category,url,status
 21062,The Nature Conservancy,,,,active
 21036,Entraide universitaire mondiale,,,,active
 21502,,,,,active
+21064,Initiative Clinton pour l'accès à la santé,,,,active
 22000,ONG basée dans un pays donneur,,,,active
 21047,AgriCord,,,,active
 21060,Association pour la prévention de la torture,,,,active
@@ -63,7 +64,7 @@ code,name,description,category,url,status
 21019,Fédération internationale des centres sociaux et communautaires,,,,active
 21025,Centre séismologique international,,,,active
 21026,Service International pour les Droits de l’Homme,,,,active
-21027,ITF Améliorer la sécurité humaine,,,,active
+21027,Fonds international d’affectation spéciale pour le déminage et l’assistance aux victimes des mines,,,,active
 21040,Centre de la tribune internationale de la femme,,,,active
 22501,,,,,active
 22502,,,,,active
@@ -77,12 +78,13 @@ code,name,description,category,url,status
 21051,Institut supérieur panafricaine d’economie coopérative,,,,active
 21028,Fonds international d’échanges universitaires - Échanges intéressant l’Afrique et l’Amérique latine,,,,active
 21003,Conseil latino-américain des sciences sociales,,,,active
-23501,,,,,active
+23501,Sociétés nationales de la Croix-Rouge et du Croissant-Rouge,,,,active
 21030,Institut panafricain pour le développement,,,,active
 21055,Réseau régional de formation sur le SIDA,,,,active
 30000,PARTENARIATS PUBLIC-PRIVÉ ET RÉSEAUX,,,,active
 31000,Partenariat public-privé (PPP),,,,active
 30008,Alliance pour les villes,,,,active
+31006,Coalition pour les innovations en matière de préparation,,,,active
 30016,European Fund for Southeast Europe,,,,active
 30007,Alliance mondiale pour les TIC et le développement,,,,active
 30001,Alliance mondiale pour une meilleure nutrition,,,,active
@@ -129,6 +131,7 @@ code,name,description,category,url,status
 41145,Organisation maritime internationale - Programme intégré de coopération technique,,,,active
 41303,Union internationale des télécommunications,,,,active
 41110,Programme commun des Nations Unies sur le VIH/SIDA,,,,active
+41320,Banque de Technologies en faveur des Pays les Moins Avancés,,,,active
 41305,Organisation des Nations Unies,,,,active
 41111,Fonds d’équipement des Nations Unies,,,,active
 41122,Fonds des Nations Unies pour l'enfance,,,,active
@@ -173,7 +176,7 @@ code,name,description,category,url,status
 41143,Organisation mondiale de la santé - compte de contributions volontaires sans objet désigné,,,,active
 41308,Organisation mondiale de la propriété intellectuelle,,,,active
 41309,Organisation météorologique mondiale,,,,active
-41319,,,,,active
+41319,Organisation mondiale du tourisme,,,,active
 42000,Institution de l’Union européenne (UE),,,,active
 42001,Commission européenne - partie du budget affectée au développement,,,,active
 42003,Commission européenne - Fonds européen de développement,,,,active
@@ -201,10 +204,10 @@ code,name,description,category,url,status
 46002,Banque africaine de développement,,,,active
 46003,Fonds africain de développement,,,,active
 46022,Banque Africaine d'Import-Export,,,,active
-46008,Société andine de développement,,,,active
+46008,Banque de développement de l'Amérique latine,,,,active
 46004,Banque asiatique de développement,,,,active
 46005,Fonds asiatique de développement,,,,active
-46026,,,,,active
+46026,Banque Asiatique d’Investissement dans les Infrastructures,,,,active
 46006,Black Sea Trade and Development Bank,,,,active
 46009,Banque de développement des Caraïbes,,,,active
 46020,Banque de développement des États de l'Afrique Centrale,,,,active
@@ -275,6 +278,10 @@ code,name,description,category,url,status
 47058,International Institute for Democracy and Electoral Assistance,,,,active
 47064,Réseau International sur le bambou et le rotin,,,,active
 47066,Organisation internationale des migrations,,,,active
+41149,Bureau de la coordination des activités de développement des Nations Unies,,,,active
+41150,Institut des Nations Unies pour la recherche sur le désarmement,,,,active
+46027,Fonds financier pour le développement du bassin fluvial de la Plata,,,,active
+47400,,,,,active
 47046,Organisation internationale de la Francophonie,,,,active
 47073,Organisation Internationale des Bois Tropicaux,,,,active
 47074,Institut international de vaccins,,,,active
@@ -313,6 +320,9 @@ code,name,description,category,url,status
 47139,Organisation Mondiale des Douanes Fonds de coopération douanière,,,,active
 47143,Fonds mondial pour l’engagement de la communauté et la résilience,,,,active
 47144,Agence internationale pour les energies renouvelables,,,,active
+47146,,,,,active
+47147,Facilité internationale de financement pour l'éducation,,,,active
+47148,Organisation mondiale de la santé animale,,,,active
 50000,Autre,,,,withdrawn
 51000,"Université, institut d’éducation et autre institution d’enseignement, institut de recherche ou groupe de réflexion",,,,active
 47101,Centre du riz pour l’Afrique,,,,active
@@ -346,15 +356,36 @@ code,name,description,category,url,status
 52000,Autre,,,,withdrawn
 60000,Institutions du Secteur Privé,,,,active
 61000,Secteur privé du pays donneur,,,,active
-61001,Banque privée dans le pays donneur,,,,active
-61002,Exportateur privé dans le pays donneur,,,,active
-61003,Investisseur privé dans le pays donneur,,,,active
-61004,Autre entité non-bancaire dans le pays donneur,,,,active
+61001,,,,,active
+61002,Exportateur privé dans le pays donneur,,,,withdrawn
+61003,,,,,active
+61004,,,,,active
+61005,,,,,active
+61006,,,,,active
+61007,,,,,active
+61008,,,,,active
+61009,,,,,active
+61010,,,,,active
 62000,Secteur privé du pays bénéficiaire,,,,active
-62001,Banque privée dans le pays bénéficiaire,,,,active
-62002,Co-entreprise dans le pays bénéficiaire,,,,active
-62003,Autre entité non-bancaire dans le pays bénéficiaire,,,,active
+62001,,,,,active
+62002,,,,,active
+62003,,,,,active
+62004,,,,,active
+62005,,,,,active
+62006,,,,,active
+62007,,,,,active
+62008,,,,,active
+62009,,,,,active
+62010,,,,,active
 63000,Secteur privé d'un pays tiers,,,,active
-63001,Banque privée d'un pays tiers,,,,active
-63002,Secteur privé non-bancaire dans un pays tiers,,,,active
+63001,,,,,active
+63002,,,,,active
+63003,,,,,active
+63004,,,,,active
+63005,,,,,active
+63006,,,,,active
+63007,,,,,active
+63008,,,,,active
+63009,,,,,active
+63010,,,,,active
 90000,Autre,,,,active

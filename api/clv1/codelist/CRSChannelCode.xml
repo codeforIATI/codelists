@@ -1,4 +1,4 @@
-<codelist name="CRSChannelCode" date-last-modified="2020-03-12T15:06:13.081162+00:00" version="" xml:lang="en">
+<codelist name="CRSChannelCode" date-last-modified="2020-03-12T15:09:27.929353+00:00" version="" xml:lang="en">
   <CRSChannelCode>
     <code>10000</code>
     <name>PUBLIC SECTOR INSTITUTIONS</name>
@@ -250,6 +250,11 @@
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
+    <code>21064</code>
+    <name>Clinton Health Access Initiative, Inc.</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
     <code>22000</code>
     <name>Donor country-based NGO</name>
     <language>en</language>
@@ -417,6 +422,11 @@
   <CRSChannelCode>
     <code>30008</code>
     <name>Cities Alliance</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>31006</code>
+    <name>Coalition for Epidemic Preparedness Innovations</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
@@ -650,6 +660,11 @@
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
+    <code>41320</code>
+    <name>Technology Bank&#160;for&#160;Least&#160;Developed Countries</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
     <code>41305</code>
     <name>United Nations</name>
     <language>en</language>
@@ -676,7 +691,7 @@
   </CRSChannelCode>
   <CRSChannelCode>
     <code>41310</code>
-    <name>United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</name>
+    <name>United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
@@ -1011,7 +1026,7 @@
   </CRSChannelCode>
   <CRSChannelCode>
     <code>46008</code>
-    <name>Andean Development Corporation</name>
+    <name>Development Bank of Latin America</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
@@ -1380,6 +1395,26 @@
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
+    <code>41149</code>
+    <name>United Nations Development Coordination Office</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>41150</code>
+    <name>United Nations Institute for Disarmament Research</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>46027</code>
+    <name>Financial Fund for the Development of the River Plate Basin</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>47400</code>
+    <name>European Space Agency (ESA) programme &#8220;Space in support of International Development Aid&#8221;</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
     <code>47046</code>
     <name>International Organisation of the Francophonie</name>
     <language>en</language>
@@ -1570,6 +1605,21 @@
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
+    <code>47146</code>
+    <name>International Investment Bank (IIB)</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>47147</code>
+    <name>International Finance Facility for Education</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>47148</code>
+    <name>World Organisation for Animal Health</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
     <code>50000</code>
     <name>Other</name>
     <language>en</language>
@@ -1736,7 +1786,7 @@
   </CRSChannelCode>
   <CRSChannelCode>
     <code>61001</code>
-    <name>Private bank in provider country</name>
+    <name>Banks (deposit taking corporations)</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
@@ -1746,12 +1796,42 @@
   </CRSChannelCode>
   <CRSChannelCode>
     <code>61003</code>
-    <name>Private investor in provider country</name>
+    <name>Investment funds and other collective investment institutions</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
     <code>61004</code>
-    <name>Other non-bank entity in provider country</name>
+    <name>Holding companies, trusts and Special Purpose Vehicles</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>61005</code>
+    <name>Insurance Corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>61006</code>
+    <name>Pension Funds</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>61007</code>
+    <name>Other financial corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>61008</code>
+    <name>Exporters</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>61009</code>
+    <name>Other non-financial corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>61010</code>
+    <name>Retail investors</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
@@ -1761,17 +1841,52 @@
   </CRSChannelCode>
   <CRSChannelCode>
     <code>62001</code>
-    <name>Private bank in recipient country</name>
+    <name>Banks (deposit taking corporations except Micro Finance Institutions)</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
     <code>62002</code>
-    <name>Joint-venture in recipient country</name>
+    <name>Micro Finance Institutions (deposit and non-deposit)</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
     <code>62003</code>
-    <name>Other non-bank in recipient country</name>
+    <name>Investment funds and other collective investment institutions</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>62004</code>
+    <name>Holding companies, trusts and Special Purpose Vehicles</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>62005</code>
+    <name>Insurance Corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>62006</code>
+    <name>Pension Funds</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>62007</code>
+    <name>Other financial corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>62008</code>
+    <name>Importers/Exporters</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>62009</code>
+    <name>Other non-financial corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>62010</code>
+    <name>Retail investors</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
@@ -1781,12 +1896,52 @@
   </CRSChannelCode>
   <CRSChannelCode>
     <code>63001</code>
-    <name>Private bank in third country</name>
+    <name>Banks (deposit taking corporations except Micro Finance Institutions)</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
     <code>63002</code>
-    <name>Private non-bank in third country</name>
+    <name>Micro Finance Institutions (deposit and non-deposit)</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>63003</code>
+    <name>Investment funds and other collective investment institutions</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>63004</code>
+    <name>Holding companies, trusts and Special Purpose Vehicles</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>63005</code>
+    <name>Insurance Corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>63006</code>
+    <name>Pension Funds</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>63007</code>
+    <name>Other financial corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>63008</code>
+    <name>Exporters</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>63009</code>
+    <name>Other non-financial corporations</name>
+    <language>en</language>
+  </CRSChannelCode>
+  <CRSChannelCode>
+    <code>63010</code>
+    <name>Retail investors</name>
     <language>en</language>
   </CRSChannelCode>
   <CRSChannelCode>
