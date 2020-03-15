@@ -1,12 +1,27 @@
-<codelist name="Currency" date-last-modified="2020-03-15T11:31:47.532219+00:00" version="" xml:lang="en">
+<codelist name="Currency" date-last-modified="2020-03-15T11:44:44.262653+00:00" version="" xml:lang="en">
+  <Currency>
+    <code>ADP</code>
+    <name>Andorran Peseta</name>
+    <language>en</language>
+  </Currency>
   <Currency>
     <code>AED</code>
     <name>UAE Dirham</name>
     <language>en</language>
   </Currency>
   <Currency>
+    <code>AFA</code>
+    <name>Afghani</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>AFN</code>
     <name>Afghani</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ALK</code>
+    <name>Old Lek</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -21,7 +36,7 @@
   </Currency>
   <Currency>
     <code>ANG</code>
-    <name>Netherlands Antillian Guilder</name>
+    <name>Netherlands Antillean Guilder</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -30,8 +45,43 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>AOK</code>
+    <name>Kwanza</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>AON</code>
+    <name>New Kwanza</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>AOR</code>
+    <name>Kwanza Reajustado</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ARA</code>
+    <name>Austral</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ARP</code>
+    <name>Peso Argentino</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>ARS</code>
     <name>Argentine Peso</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ARY</code>
+    <name>Peso</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ATS</code>
+    <name>Schilling</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -41,17 +91,32 @@
   </Currency>
   <Currency>
     <code>AWG</code>
-    <name>Aruban Guilder</name>
+    <name>Aruban Florin</name>
     <language>en</language>
   </Currency>
   <Currency>
-    <code>AZN</code>
+    <code>AYM</code>
+    <name>Azerbaijan Manat</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>AZM</code>
     <name>Azerbaijanian Manat</name>
     <language>en</language>
   </Currency>
   <Currency>
+    <code>AZN</code>
+    <name>Azerbaijan Manat</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BAD</code>
+    <name>Dinar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>BAM</code>
-    <name>Convertible Marks</name>
+    <name>Convertible Mark</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -62,6 +127,36 @@
   <Currency>
     <code>BDT</code>
     <name>Taka</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BEC</code>
+    <name>Convertible Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BEF</code>
+    <name>Belgian Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BEL</code>
+    <name>Financial Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BGJ</code>
+    <name>Lev A/52</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BGK</code>
+    <name>Lev A/62</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BGL</code>
+    <name>Lev</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -95,13 +190,43 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>BOP</code>
+    <name>Peso boliviano</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>BOV</code>
     <name>Mvdol</name>
     <language>en</language>
   </Currency>
   <Currency>
+    <code>BRB</code>
+    <name>Cruzeiro</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BRC</code>
+    <name>Cruzado</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BRE</code>
+    <name>Cruzeiro</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>BRL</code>
     <name>Brazilian Real</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BRN</code>
+    <name>New Cruzado</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BRR</code>
+    <name>Cruzeiro Real</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -115,20 +240,30 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>BUK</code>
+    <name>Kyat</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>BWP</code>
     <name>Pula</name>
     <language>en</language>
   </Currency>
   <Currency>
-    <code>BYR</code>
-    <name>Belarussian Ruble</name>
+    <code>BYB</code>
+    <name>Belarusian Ruble</name>
     <language>en</language>
-    <description>Withdrawn from ISO Currency codelist. Use code BYN.</description>
   </Currency>
   <Currency>
     <code>BYN</code>
-    <name>Belarussian Ruble</name>
+    <name>Belarusian Ruble</name>
     <language>en</language>
+  </Currency>
+  <Currency>
+    <code>BYR</code>
+    <name>Belarusian Ruble</name>
+    <language>en</language>
+    <description>Withdrawn from ISO Currency codelist. Use code BYN.</description>
   </Currency>
   <Currency>
     <code>BZD</code>
@@ -146,13 +281,28 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>CHC</code>
+    <name>WIR Franc (for electronic)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>CHE</code>
+    <name>WIR Euro</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>CHF</code>
     <name>Swiss Franc</name>
     <language>en</language>
   </Currency>
   <Currency>
+    <code>CHW</code>
+    <name>WIR Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>CLF</code>
-    <name>Unidades de fomento</name>
+    <name>Unidad de Fomento</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -181,6 +331,21 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>CSD</code>
+    <name>Serbian Dinar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>CSJ</code>
+    <name>Krona A/53</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>CSK</code>
+    <name>Koruna</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>CUC</code>
     <name>Peso Convertible</name>
     <language>en</language>
@@ -192,12 +357,27 @@
   </Currency>
   <Currency>
     <code>CVE</code>
-    <name>Cape Verde Escudo</name>
+    <name>Cabo Verde Escudo</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>CYP</code>
+    <name>Cyprus Pound</name>
     <language>en</language>
   </Currency>
   <Currency>
     <code>CZK</code>
     <name>Czech Koruna</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>DDM</code>
+    <name>Mark der DDR</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>DEM</code>
+    <name>Deutsche Mark</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -221,6 +401,16 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>ECS</code>
+    <name>Sucre</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ECV</code>
+    <name>Unidad de Valor Constante (UVC)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>EEK</code>
     <name>Kroon</name>
     <language>en</language>
@@ -237,6 +427,21 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>ESA</code>
+    <name>Spanish Peseta</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ESB</code>
+    <name>"A" Account (convertible Peseta Account)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ESP</code>
+    <name>Spanish Peseta</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>ETB</code>
     <name>Ethiopian Birr</name>
     <language>en</language>
@@ -244,6 +449,11 @@
   <Currency>
     <code>EUR</code>
     <name>Euro</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>FIM</code>
+    <name>Markka</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -257,8 +467,18 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>FRF</code>
+    <name>French Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>GBP</code>
     <name>Pound Sterling</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>GEK</code>
+    <name>Georgian Coupon</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -267,8 +487,18 @@
     <language>en</language>
   </Currency>
   <Currency>
-    <code>GHS</code>
+    <code>GHC</code>
     <name>Cedi</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>GHP</code>
+    <name>Ghana Cedi</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>GHS</code>
+    <name>Ghana Cedi</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -282,13 +512,43 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>GNE</code>
+    <name>Syli</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>GNF</code>
-    <name>Guinea Franc</name>
+    <name>Guinean Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>GNS</code>
+    <name>Syli</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>GQE</code>
+    <name>Ekwele</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>GRD</code>
+    <name>Drachma</name>
     <language>en</language>
   </Currency>
   <Currency>
     <code>GTQ</code>
     <name>Quetzal</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>GWE</code>
+    <name>Guinea Escudo</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>GWP</code>
+    <name>Guinea-Bissau Peso</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -307,8 +567,13 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>HRD</code>
+    <name>Croatian Dinar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>HRK</code>
-    <name>Kuna</name>
+    <name>Croatian Kuna</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -324,6 +589,21 @@
   <Currency>
     <code>IDR</code>
     <name>Rupiah</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>IEP</code>
+    <name>Irish Pound</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ILP</code>
+    <name>Pound</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ILR</code>
+    <name>Old Shekel</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -347,8 +627,18 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>ISJ</code>
+    <name>Old Krona</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>ISK</code>
     <name>Iceland Krona</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ITL</code>
+    <name>Italian Lira</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -383,7 +673,7 @@
   </Currency>
   <Currency>
     <code>KMF</code>
-    <name>Comoro Franc</name>
+    <name>Comorian Franc </name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -412,8 +702,13 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>LAJ</code>
+    <name>Pathet Lao Kip</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>LAK</code>
-    <name>Kip</name>
+    <name>Lao Kip</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -437,16 +732,46 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>LSM</code>
+    <name>Loti</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>LTL</code>
     <name>Lithuanian Litas</name>
     <language>en</language>
     <description>Withdrawn from ISO Currency codelist</description>
   </Currency>
   <Currency>
+    <code>LTT</code>
+    <name>Talonas</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>LUC</code>
+    <name>Luxembourg Convertible Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>LUF</code>
+    <name>Luxembourg Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>LUL</code>
+    <name>Luxembourg Financial Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>LVL</code>
     <name>Latvian Lats</name>
     <language>en</language>
     <description>Withdrawn from ISO Currency codelist</description>
+  </Currency>
+  <Currency>
+    <code>LVR</code>
+    <name>Latvian Ruble</name>
+    <language>en</language>
   </Currency>
   <Currency>
     <code>LYD</code>
@@ -469,8 +794,18 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>MGF</code>
+    <name>Malagasy Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>MKD</code>
     <name>Denar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>MLF</code>
+    <name>Mali Franc</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -500,8 +835,23 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>MTL</code>
+    <name>Maltese Lira</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>MTP</code>
+    <name>Maltese Pound</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>MUR</code>
     <name>Mauritius Rupee</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>MVQ</code>
+    <name>Maldive Rupee</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -511,11 +861,16 @@
   </Currency>
   <Currency>
     <code>MWK</code>
-    <name>Malawi Kwacha</name>
+    <name>Kwacha</name>
     <language>en</language>
   </Currency>
   <Currency>
     <code>MXN</code>
+    <name>Mexican Peso</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>MXP</code>
     <name>Mexican Peso</name>
     <language>en</language>
   </Currency>
@@ -530,8 +885,18 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>MZE</code>
+    <name>Mozambique Escudo</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>MZM</code>
+    <name>Mozambique Metical</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>MZN</code>
-    <name>Metical</name>
+    <name>Mozambique Metical</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -545,8 +910,18 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>NIC</code>
+    <name>Cordoba</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>NIO</code>
     <name>Cordoba Oro</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>NLG</code>
+    <name>Netherlands Guilder</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -575,8 +950,23 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>PEH</code>
+    <name>Sol</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>PEI</code>
+    <name>Inti</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>PEN</code>
-    <name>Nuevo Sol</name>
+    <name>Nuevo Sol </name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>PES</code>
+    <name>Sol</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -600,6 +990,16 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>PLZ</code>
+    <name>Zloty</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>PTE</code>
+    <name>Portuguese Escudo</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>PYG</code>
     <name>Guarani</name>
     <language>en</language>
@@ -610,8 +1010,23 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>RHD</code>
+    <name>Rhodesian Dollar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ROK</code>
+    <name>Leu A/52</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ROL</code>
+    <name>Old Leu</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>RON</code>
-    <name>Romanian Leu</name>
+    <name>New Romanian Leu </name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -621,6 +1036,11 @@
   </Currency>
   <Currency>
     <code>RUB</code>
+    <name>Russian Ruble</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>RUR</code>
     <name>Russian Ruble</name>
     <language>en</language>
   </Currency>
@@ -645,7 +1065,17 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>SDD</code>
+    <name>Sudanese Dinar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>SDG</code>
+    <name>Sudanese Pound</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>SDP</code>
     <name>Sudanese Pound</name>
     <language>en</language>
   </Currency>
@@ -665,6 +1095,16 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>SIT</code>
+    <name>Tolar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>SKK</code>
+    <name>Slovak Koruna</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>SLL</code>
     <name>Leone</name>
     <language>en</language>
@@ -675,13 +1115,18 @@
     <language>en</language>
   </Currency>
   <Currency>
-    <code>SSP</code>
-    <name>South Sudanese Pound</name>
+    <code>SRD</code>
+    <name>Surinam Dollar</name>
     <language>en</language>
   </Currency>
   <Currency>
-    <code>SRD</code>
-    <name>Surinam Dollar</name>
+    <code>SRG</code>
+    <name>Surinam Guilder</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>SSP</code>
+    <name>South Sudanese Pound</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -693,6 +1138,11 @@
   <Currency>
     <code>STN</code>
     <name>Dobra</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>SUR</code>
+    <name>Rouble</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -716,13 +1166,23 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>TJR</code>
+    <name>Tajik Ruble</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>TJS</code>
     <name>Somoni</name>
     <language>en</language>
   </Currency>
   <Currency>
+    <code>TMM</code>
+    <name>Turkmenistan Manat</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>TMT</code>
-    <name>Manat</name>
+    <name>Turkmenistan New Manat</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -732,12 +1192,22 @@
   </Currency>
   <Currency>
     <code>TOP</code>
-    <name>Paanga</name>
+    <name>Pa&#8217;anga</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>TPE</code>
+    <name>Timor Escudo</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>TRL</code>
+    <name>Old Turkish Lira</name>
     <language>en</language>
   </Currency>
   <Currency>
     <code>TRY</code>
-    <name>Turkish Lira</name>
+    <name>New Turkish Lira</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -758,6 +1228,21 @@
   <Currency>
     <code>UAH</code>
     <name>Hryvnia</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>UAK</code>
+    <name>Karbovanet</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>UGS</code>
+    <name>Uganda Shilling</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>UGW</code>
+    <name>Old Shilling</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -783,7 +1268,17 @@
   </Currency>
   <Currency>
     <code>UYI</code>
-    <name>Uruguay Peso en Unidades Indexadas</name>
+    <name>Uruguay Peso en Unidades Indexadas (UI)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>UYN</code>
+    <name>Old Uruguay Peso</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>UYP</code>
+    <name>Uruguayan Peso</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -792,18 +1287,33 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>UYW</code>
+    <name>Unidad Previsional</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>UZS</code>
     <name>Uzbekistan Sum</name>
     <language>en</language>
   </Currency>
   <Currency>
-    <code>VEF</code>
+    <code>VEB</code>
     <name>Bolivar</name>
     <language>en</language>
   </Currency>
   <Currency>
+    <code>VEF</code>
+    <name>Bol&#237;var</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>VES</code>
-    <name>Bolivar Soberano</name>
+    <name>Bol&#237;var Soberano</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>VNC</code>
+    <name>Old Dong</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -827,6 +1337,36 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>XAG</code>
+    <name>Silver</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XAU</code>
+    <name>Gold</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XBA</code>
+    <name>Bond Markets Unit European Composite Unit (EURCO)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XBB</code>
+    <name>Bond Markets Unit European Monetary Unit (E.M.U.-6)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XBC</code>
+    <name>Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XBD</code>
+    <name>Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>XBT</code>
     <name>Bitcoin</name>
     <language>en</language>
@@ -838,7 +1378,22 @@
   </Currency>
   <Currency>
     <code>XDR</code>
-    <name>International Monetary Fund (IMF) Special Drawing Right (SDR)</name>
+    <name>SDR (Special Drawing Right)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XEU</code>
+    <name>European Currency Unit (E.C.U)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XFO</code>
+    <name>Gold-Franc</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XFU</code>
+    <name>UIC-Franc</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -847,13 +1402,73 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>XPD</code>
+    <name>Palladium</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>XPF</code>
     <name>CFP Franc</name>
     <language>en</language>
   </Currency>
   <Currency>
+    <code>XPT</code>
+    <name>Platinum</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XRE</code>
+    <name>RINET Funds Code</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XSU</code>
+    <name>Sucre</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XTS</code>
+    <name>Codes specifically reserved for testing purposes</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XUA</code>
+    <name>ADB Unit of Account</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>XXX</code>
+    <name>The codes assigned for transactions where no currency is involved</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>YDD</code>
+    <name>Yemeni Dinar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>YER</code>
     <name>Yemeni Rial</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>YUD</code>
+    <name>New Yugoslavian Dinar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>YUM</code>
+    <name>New Dinar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>YUN</code>
+    <name>Yugoslavian Dinar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ZAL</code>
+    <name>Financial Rand</name>
     <language>en</language>
   </Currency>
   <Currency>
@@ -873,7 +1488,37 @@
     <language>en</language>
   </Currency>
   <Currency>
+    <code>ZRN</code>
+    <name>New Zaire</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ZRZ</code>
+    <name>Zaire</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ZWC</code>
+    <name>Rhodesian Dollar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ZWD</code>
+    <name>Zimbabwe Dollar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
     <code>ZWL</code>
+    <name>Zimbabwe Dollar</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ZWN</code>
+    <name>Zimbabwe Dollar (new)</name>
+    <language>en</language>
+  </Currency>
+  <Currency>
+    <code>ZWR</code>
     <name>Zimbabwe Dollar</name>
     <language>en</language>
   </Currency>

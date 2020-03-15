@@ -28,7 +28,7 @@ If org-id.guide does not contain an entry for the kind of organisation you need 
   <codelist>
     <name>Language</name>
     <description></description>
-    <count>181</count>
+    <count>184</count>
   </codelist>
   <codelist>
     <name>FinanceType</name>
@@ -105,7 +105,7 @@ On this codelist 'category' is used for the Feature Class.</description>
   <codelist>
     <name>Currency</name>
     <description>ISO 4217 Currency used for all transactions and budgets</description>
-    <count>174</count>
+    <count>303</count>
   </codelist>
   <codelist>
     <name>UNSDG-Goals</name>

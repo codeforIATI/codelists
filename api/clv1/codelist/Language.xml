@@ -1,4 +1,4 @@
-<codelist name="Language" date-last-modified="2020-03-15T11:31:46.589987+00:00" version="" xml:lang="en">
+<codelist name="Language" date-last-modified="2020-03-15T11:44:43.340488+00:00" version="" xml:lang="en">
   <Language>
     <code>aa</code>
     <name>Afar</name>
@@ -140,6 +140,11 @@
     <language>en</language>
   </Language>
   <Language>
+    <code>cu</code>
+    <name>Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic</name>
+    <language>en</language>
+  </Language>
+  <Language>
     <code>cv</code>
     <name>Chuvash</name>
     <language>en</language>
@@ -176,7 +181,7 @@
   </Language>
   <Language>
     <code>el</code>
-    <name>Greek</name>
+    <name>Greek, Modern (1453-)</name>
     <language>en</language>
   </Language>
   <Language>
@@ -315,8 +320,18 @@
     <language>en</language>
   </Language>
   <Language>
+    <code>ia</code>
+    <name>Interlingua (International Auxiliary Language Association)</name>
+    <language>en</language>
+  </Language>
+  <Language>
     <code>id</code>
     <name>Indonesian</name>
+    <language>en</language>
+  </Language>
+  <Language>
+    <code>ie</code>
+    <name>Interlingue; Occidental</name>
     <language>en</language>
   </Language>
   <Language>
@@ -591,7 +606,7 @@
   </Language>
   <Language>
     <code>oc</code>
-    <name>Occitan (post 1500)</name>
+    <name>Occitan (post 1500); Proven&#231;al</name>
     <language>en</language>
   </Language>
   <Language>
