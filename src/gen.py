@@ -6,6 +6,8 @@ import json
 from functools import partial
 import sys
 from collections import OrderedDict
+import git
+from datetime import date
 
 import xlsx
 
@@ -14,6 +16,11 @@ languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
 budget_alignment_namespace = {'budget-alignment': 'http://iatistandard.org/activity-standard/overview/country-budget-alignment/'}
+
+repo = git.Repo("IATI-Codelists-NonEmbedded/.git")
+tree = repo.tree()
+repo_extra = git.Repo("IATI-Codelists-Extra/.git")
+tree_extra = repo_extra.tree()
 
 OUTPUTDIR = sys.argv[1]
 
@@ -26,6 +33,16 @@ def normalize_whitespace(x):
     x = x.strip()
     x = re.sub(r'\s+', ' ', x)
     return x
+
+
+def get_last_updated_date(codelist_name):
+    try:
+        blob = tree["xml/{}.xml".format(codelist_name)]
+        commit=next(repo.iter_commits(paths=blob.path))
+    except KeyError:
+        blob = tree_extra["xml/{}.xml".format(codelist_name)]
+        commit=next(repo_extra.iter_commits(paths=blob.path))
+    return date.fromtimestamp(commit.committed_date).isoformat()
 
 
 def codelist_item_todict(codelist_item, default_lang='', lang='en', codelist_name=None):
@@ -170,7 +187,8 @@ for language in languages:
                     'name': name_elements[0].text if name_elements else '',
                     'description': description_elements[0].text if description_elements else '',
                     'category': category_elements[0].text if category_elements else '',
-                    'url': url_elements[0].text if url_elements else ''
+                    'url': url_elements[0].text if url_elements else '',
+                    'last-updated-date': get_last_updated_date(attrib["name"])
                 },
                 'data': codelist_dicts
             },

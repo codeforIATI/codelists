@@ -1,7 +1,12 @@
 <template>
   <div>
     <b-row>
-      <b-col md="8"><h2>{{ this.$frontmatter.title }}</h2></b-col>
+      <b-col md="8">
+        <h2>{{ this.$frontmatter.title }}</h2>
+        <p class="text-muted" v-if="lastUpdatedDate">
+          {{ this.$themeLocaleConfig.lastUpdated }}: {{ lastUpdatedDate }}
+        </p>
+      </b-col>
       <b-col md="4" class="text-right">
         <b-dropdown :text="this.$themeLocaleConfig.download" right>
           <b-dropdown-item v-for="downloadURL in downloadURLs" :href="downloadURL.url">{{ downloadURL.format }}</b-dropdown-item>
@@ -54,7 +59,8 @@
         url: null,
         codes: [],
         fields: [],
-        downloadURLs: []
+        downloadURLs: [],
+        lastUpdatedDate: null
       }
     },
     async beforeMount() {
@@ -72,6 +78,7 @@
       })
       this.codes = data.data.data
       this.description = (data.data.metadata.description != "") ? this.rstToHtml(data.data.metadata.description) : null
+      this.lastUpdatedDate = data.data.metadata["last-updated-date"] ? data.data.metadata["last-updated-date"] : null
       this.categoryCodelist = data.data.attributes["category-codelist"] ? data.data.attributes["category-codelist"] : null
       this.url = data.data.metadata.url ? data.data.metadata.url : null
       this.downloadURLs = [
