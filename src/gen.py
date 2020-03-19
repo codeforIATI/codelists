@@ -19,7 +19,7 @@ budget_alignment_namespace = {'budget-alignment': 'http://iatistandard.org/activ
 
 repo = git.Repo("IATI-Codelists-NonEmbedded/.git")
 tree = repo.tree()
-repo_extra = git.Repo("IATI-Codelists-Extra/.git")
+repo_extra = git.Repo("Unofficial-Codelists/.git")
 tree_extra = repo_extra.tree()
 
 OUTPUTDIR = sys.argv[1]
