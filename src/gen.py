@@ -16,6 +16,7 @@ languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
 budget_alignment_namespace = {'budget-alignment': 'http://iatistandard.org/activity-standard/overview/country-budget-alignment/'}
+nsmap = {"xml": "http://www.w3.org/XML/1998/namespace"}
 
 repo = git.Repo("IATI-Codelists-NonEmbedded/.git")
 tree = repo.tree()
@@ -59,7 +60,19 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='', lang='en', 
                 child.attrib.get(xml_lang) != lang and \
                 (child.attrib.get(xml_lang) is not None or lang != default_lang):
             continue
-        out[child.tag] = normalize_whitespace(child.text)
+        elif child.find('narrative') is not None:
+            if lang == default_lang:
+                narrative = child.xpath('narrative[not(@xml:lang)]',
+                    namespaces=nsmap)
+                if len(narrative) == 0: continue
+                out[child.tag] = normalize_whitespace(narrative[0].text)
+            else:
+                narrative = child.find('narrative[@xml:lang="{}"]'.format(lang),
+                    namespaces=nsmap)
+                if narrative == None: continue
+                out[child.tag] = normalize_whitespace(narrative.text)
+        else:
+            out[child.tag] = normalize_whitespace(child.text)
 
     if 'public-database' in codelist_item.attrib:
         if codelist_item.attrib['public-database'] in ['1', 'true']:
