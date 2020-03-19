@@ -48,6 +48,9 @@ def get_last_updated_date(codelist_name):
 def codelist_item_todict(codelist_item, fieldnames, default_lang='', lang='en', codelist_name=None):
     out = {}
     for child in codelist_item:
+        # Some tags are handled in special ways (below)
+        if child.tag in ['status']:
+            continue
         if child.tag not in fieldnames:
             continue
         if child.text is None:
