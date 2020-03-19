@@ -45,14 +45,7 @@ def get_last_updated_date(codelist_name):
     return date.fromtimestamp(commit.committed_date).isoformat()
 
 
-def codelist_item_todict(codelist_item, default_lang='', lang='en', codelist_name=None):
-    fieldnames = [
-        'code',
-        'name',
-        'description',
-        'category',
-        'url',
-    ]
+def codelist_item_todict(codelist_item, fieldnames, default_lang='', lang='en', codelist_name=None):
     out = {}
     for child in codelist_item:
         if child.tag not in fieldnames:
@@ -118,6 +111,14 @@ def write_json_api_data(codelists_list):
         },
         open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w'))
 
+fieldnames = [
+        'code',
+        'name',
+        'description',
+        'category',
+        'url',
+        'status'
+    ]
 
 for language in languages:
     codelists = ET.Element('codelists')
@@ -139,18 +140,11 @@ for language in languages:
         default_lang = root.attrib.get(xml_lang)
         codelist_items = root.find('codelist-items').findall('codelist-item')
         codelist_dicts = list(map(partial(codelist_item_todict,
+            fieldnames=fieldnames,
             default_lang=default_lang,
             lang=language,
             codelist_name=attrib['name']), codelist_items))
 
-        fieldnames = [
-            'code',
-            'name',
-            'description',
-            'category',
-            'url',
-            'status'
-        ]
         if attrib['name'] == 'Sector':
             fieldnames.append('budget_alignment_guidance')
 
