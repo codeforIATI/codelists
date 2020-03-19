@@ -155,7 +155,9 @@ for language in languages:
         root = codelist.getroot()
         default_lang = root.attrib.get(xml_lang)
         codelist_items = root.find('codelist-items').findall('codelist-item')
-        extra_fieldnames = set([n.tag for n in list(codelist_items[0])])
+        if len(codelist_items) == 0: extra_fieldnames = []
+        else:
+            extra_fieldnames = set([n.tag for n in list(codelist_items[0])])
         for extra_fieldname in extra_fieldnames:
             if extra_fieldname not in fieldnames: fieldnames.append(extra_fieldname)
         codelist_dicts = list(map(partial(codelist_item_todict,
