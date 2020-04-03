@@ -88,6 +88,11 @@ On this codelist 'category' is used for the Feature Class.</description>
     <count>323</count>
   </codelist>
   <codelist>
+    <name>AreaCodeM49</name>
+    <description>Standard country or area codes for statistical use</description>
+    <count>249</count>
+  </codelist>
+  <codelist>
     <name>FlowType</name>
     <description>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</description>
     <count>10</count>
