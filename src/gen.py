@@ -16,6 +16,7 @@ languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
 budget_alignment_namespace = {'budget-alignment': 'http://iatistandard.org/activity-standard/overview/country-budget-alignment/'}
+nsmap = {"xml": "http://www.w3.org/XML/1998/namespace"}
 
 repo = git.Repo("IATI-Codelists-NonEmbedded/.git")
 tree = repo.tree()
@@ -45,16 +46,12 @@ def get_last_updated_date(codelist_name):
     return date.fromtimestamp(commit.committed_date).isoformat()
 
 
-def codelist_item_todict(codelist_item, default_lang='', lang='en', codelist_name=None):
-    fieldnames = [
-        'code',
-        'name',
-        'description',
-        'category',
-        'url',
-    ]
+def codelist_item_todict(codelist_item, fieldnames, default_lang='', lang='en', codelist_name=None):
     out = {}
     for child in codelist_item:
+        # Some tags are handled in special ways (below)
+        if child.tag in ['status']:
+            continue
         if child.tag not in fieldnames:
             continue
         if child.text is None:
@@ -63,7 +60,19 @@ def codelist_item_todict(codelist_item, default_lang='', lang='en', codelist_nam
                 child.attrib.get(xml_lang) != lang and \
                 (child.attrib.get(xml_lang) is not None or lang != default_lang):
             continue
-        out[child.tag] = normalize_whitespace(child.text)
+        elif child.find('narrative') is not None:
+            if lang == default_lang:
+                narrative = child.xpath('narrative[not(@xml:lang)]',
+                    namespaces=nsmap)
+                if len(narrative) == 0: continue
+                out[child.tag] = normalize_whitespace(narrative[0].text)
+            else:
+                narrative = child.find('narrative[@xml:lang="{}"]'.format(lang),
+                    namespaces=nsmap)
+                if narrative == None: continue
+                out[child.tag] = normalize_whitespace(narrative.text)
+        else:
+            out[child.tag] = normalize_whitespace(child.text)
 
     if 'public-database' in codelist_item.attrib:
         if codelist_item.attrib['public-database'] in ['1', 'true']:
@@ -118,6 +127,14 @@ def write_json_api_data(codelists_list):
         },
         open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w'))
 
+fieldnames = [
+        'code',
+        'name',
+        'description',
+        'category',
+        'url',
+        'status'
+    ]
 
 for language in languages:
     codelists = ET.Element('codelists')
@@ -138,19 +155,17 @@ for language in languages:
         root = codelist.getroot()
         default_lang = root.attrib.get(xml_lang)
         codelist_items = root.find('codelist-items').findall('codelist-item')
+        if len(codelist_items) == 0: extra_fieldnames = []
+        else:
+            extra_fieldnames = set([n.tag for n in list(codelist_items[0])])
+        for extra_fieldname in extra_fieldnames:
+            if extra_fieldname not in fieldnames: fieldnames.append(extra_fieldname)
         codelist_dicts = list(map(partial(codelist_item_todict,
+            fieldnames=fieldnames,
             default_lang=default_lang,
             lang=language,
             codelist_name=attrib['name']), codelist_items))
 
-        fieldnames = [
-            'code',
-            'name',
-            'description',
-            'category',
-            'url',
-            'status'
-        ]
         if attrib['name'] == 'Sector':
             fieldnames.append('budget_alignment_guidance')
 
