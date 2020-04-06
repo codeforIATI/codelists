@@ -81,7 +81,6 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='', lang='en', 
             out['public-database'] = False
     out['status'] = codelist_item.get('status', 'active')
     if codelist_name == 'Sector':
-        fieldnames.append('budget_alignment_guidance')
         if codelist_item.find('budget-alignment:status',
             namespaces = budget_alignment_namespace) is not None:
             out['budget_alignment_guidance'] = codelist_item.find('budget-alignment:status',
@@ -127,14 +126,6 @@ def write_json_api_data(codelists_list):
         },
         open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w'))
 
-fieldnames = [
-        'code',
-        'name',
-        'description',
-        'category',
-        'url',
-        'status'
-    ]
 
 for language in languages:
     codelists = ET.Element('codelists')
@@ -148,6 +139,14 @@ for language in languages:
         pass
 
     for fname in os.listdir(os.path.join(OUTPUTDIR, 'xml')):
+        fieldnames = [
+            'code',
+            'name',
+            'description',
+            'category',
+            'url',
+            'status'
+        ]
         codelist = ET.parse(os.path.join(OUTPUTDIR, 'xml', fname))
         attrib = codelist.getroot().attrib
         assert attrib['name'] == fname.replace('.xml', '')
