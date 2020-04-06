@@ -100,41 +100,42 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='',
     return out
 
 
-def write_json_api_data(codelists_list):
+def write_json_api_data(sorted_codelists_list):
     with open(os.path.join(OUTPUTDIR, 'codelists.json'), 'w') as handler:
         json.dump(codelists_list, handler)
-    with open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w') as handler:
-        json.dump({
-            'formats': {
-                'xml': OrderedDict(map(lambda cl: (
-                    str(cl), '{}/api/xml/{}.xml'.format(BASE_URL, cl)),
-                    sorted(codelists_list))),
-                'csv': {
-                    'languages': dict([
-                        (lang, OrderedDict(map(lambda cl: (
-                         str(cl), '{}/api/csv/{}/{}.csv'.format(BASE_URL, lang, cl)),
-                         sorted(codelists_list))))
-                        for lang in languages
-                    ])
-                },
-                'xlsx': {
-                    'languages': dict([
-                        (lang, OrderedDict(map(lambda cl: (
-                         str(cl), '{}/api/xlsx/{}/{}.xlsx'.format(BASE_URL, lang, cl)),
-                         sorted(codelists_list))))
-                        for lang in languages
-                    ])
-                },
-                'json': {
-                    'languages': dict([
-                        (lang, OrderedDict(map(lambda cl: (
-                         str(cl), '{}/api/json/{}/{}.json'.format(BASE_URL, lang, cl)),
-                         sorted(codelists_list))))
-                        for lang in languages
-                    ])
-                }
+    api_data = {
+        'formats': {
+            'xml': OrderedDict(
+                [(cl, '{}/api/xml/{}.xml'.format(BASE_URL, cl))
+                 for cl in sorted_codelists_list]),
+            'csv': {
+                'languages': {
+                    lang: OrderedDict([
+                        (str(cl), '{}/api/csv/{}/{}.csv'.format(
+                            BASE_URL, lang, cl))
+                        for cl in sorted_codelists_list])
+                    for lang in languages}
+            },
+            'xlsx': {
+                'languages': {
+                    lang: OrderedDict([
+                        (str(cl), '{}/api/xlsx/{}/{}.xlsx'.format(
+                            BASE_URL, lang, cl))
+                        for cl in sorted_codelists_list])
+                    for lang in languages}
+            },
+            'json': {
+                'languages': {
+                    lang: OrderedDict([
+                        (str(cl), '{}/api/json/{}/{}.json'.format(
+                            BASE_URL, lang, cl))
+                        for cl in sorted_codelists_list])
+                    for lang in languages}
             }
-        }, handler)
+        }
+    }
+    with open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w') as handler:
+        json.dump(api_data, handler)
 
 
 fieldnames = [
@@ -237,4 +238,5 @@ for language in languages:
 
 tree = ET.ElementTree(codelists)
 tree.write(os.path.join(OUTPUTDIR, 'codelists.xml'), pretty_print=True)
-write_json_api_data(codelists_list)
+sorted_codelists_list = sorted(codelists_list)
+write_json_api_data(sorted_codelists_list)
