@@ -1,5 +1,6 @@
 from lxml import etree as ET
 import os
+from os.path import join
 import re
 import csv
 import json
@@ -100,7 +101,7 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='',
 
 
 def write_json_api_data(sorted_codelists_list):
-    with open(os.path.join(OUTPUTDIR, 'codelists.json'), 'w') as handler:
+    with open(join(OUTPUTDIR, 'codelists.json'), 'w') as handler:
         json.dump(codelists_list, handler)
     api_data = {
         'formats': {
@@ -110,30 +111,30 @@ def write_json_api_data(sorted_codelists_list):
             'csv': {
                 'languages': {
                     lang: OrderedDict([
-                        (str(cl), '{}/api/csv/{}/{}.csv'.format(
-                            BASE_URL, lang, cl))
+                        (cl, join(
+                            BASE_URL, 'api', 'csv', lang, cl + '.csv'))
                         for cl in sorted_codelists_list])
                     for lang in languages}
             },
             'xlsx': {
                 'languages': {
                     lang: OrderedDict([
-                        (str(cl), '{}/api/xlsx/{}/{}.xlsx'.format(
-                            BASE_URL, lang, cl))
+                        (cl, join(
+                            BASE_URL, 'api', 'xlsx', lang, cl + '.xlsx'))
                         for cl in sorted_codelists_list])
                     for lang in languages}
             },
             'json': {
                 'languages': {
                     lang: OrderedDict([
-                        (str(cl), '{}/api/json/{}/{}.json'.format(
-                            BASE_URL, lang, cl))
+                        (cl, join(
+                            BASE_URL, 'api', 'json', lang, cl + '.json'))
                         for cl in sorted_codelists_list])
                     for lang in languages}
             }
         }
     }
-    with open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w') as handler:
+    with open(join(OUTPUTDIR, '..', 'index.json'), 'w') as handler:
         json.dump(api_data, handler)
 
 
@@ -142,13 +143,13 @@ for language in languages:
     codelists_list = []
 
     try:
-        os.makedirs(os.path.join(OUTPUTDIR, 'json', language))
-        os.makedirs(os.path.join(OUTPUTDIR, 'csv', language))
-        os.makedirs(os.path.join(OUTPUTDIR, 'xlsx', language))
+        os.makedirs(join(OUTPUTDIR, 'json', language))
+        os.makedirs(join(OUTPUTDIR, 'csv', language))
+        os.makedirs(join(OUTPUTDIR, 'xlsx', language))
     except OSError:
         pass
 
-    for xml_filename in os.listdir(os.path.join(OUTPUTDIR, 'xml')):
+    for xml_filename in os.listdir(join(OUTPUTDIR, 'xml')):
         fieldnames = [
             'code',
             'name',
@@ -157,7 +158,7 @@ for language in languages:
             'url',
             'status'
         ]
-        codelist = ET.parse(os.path.join(OUTPUTDIR, 'xml', xml_filename))
+        codelist = ET.parse(join(OUTPUTDIR, 'xml', xml_filename))
         root = codelist.getroot()
         attrib = root.attrib
         assert attrib['name'] == xml_filename.replace('.xml', '')
@@ -182,7 +183,7 @@ for language in languages:
         if xml_filename == 'OrganisationRegistrationAgency.xml':
             fieldnames.append('public-database')
 
-        csv_filename = os.path.join(
+        csv_filename = join(
             OUTPUTDIR, 'csv', language, attrib['name'] + '.csv')
         with open(csv_filename, 'w') as handler:
             dw = csv.DictWriter(handler, fieldnames)
@@ -190,7 +191,7 @@ for language in languages:
             for row in codelist_dicts:
                 dw.writerow(row)
 
-        xlsx_filename = os.path.join(
+        xlsx_filename = join(
             OUTPUTDIR, 'xlsx', language, attrib['name'] + '.xlsx')
         xdw = xlsx.XLSXDictWriter(xlsx_filename, fieldnames=fieldnames)
         xdw.writeheader()
@@ -204,7 +205,7 @@ for language in languages:
         url_elements = root.xpath('/codelist/metadata/url')
 
         # JSON
-        json_filename = os.path.join(
+        json_filename = join(
             OUTPUTDIR, 'json', language, attrib['name'] + '.json')
         with open(json_filename, 'w') as handler:
             json.dump(
@@ -233,6 +234,6 @@ for language in languages:
         ET.SubElement(codelists, 'codelist').attrib['ref'] = attrib['name']
 
 tree = ET.ElementTree(codelists)
-tree.write(os.path.join(OUTPUTDIR, 'codelists.xml'), pretty_print=True)
+tree.write(join(OUTPUTDIR, 'codelists.xml'), pretty_print=True)
 sorted_codelists_list = sorted(codelists_list)
 write_json_api_data(sorted_codelists_list)
