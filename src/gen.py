@@ -54,18 +54,11 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='',
     out = {}
     for child in codelist_item:
         # Some tags are handled in special ways (below)
-        if child.tag in ['status']:
-            continue
-        if child.tag not in fieldnames:
+        if child.tag == 'status':
             continue
         if child.text is None:
             continue
-        if child.tag in ['name', 'description'] and \
-                child.attrib.get(xml_lang) != lang and \
-                (child.attrib.get(xml_lang) is not None or
-                 lang != default_lang):
-            continue
-        elif child.find('narrative') is not None:
+        if child.find('narrative') is not None:
             if lang == default_lang:
                 narrative = child.xpath(
                     'narrative[not(@xml:lang)]',
@@ -199,9 +192,9 @@ for language in languages:
             xdw.writerow(row)
         xdw.close()
 
-        name_elements = root.xpath('/codelist/metadata/name[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
-        description_elements = root.xpath('/codelist/metadata/description[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
-        category_elements = root.xpath('/codelist/metadata/category[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
+        name_elements = root.xpath('/codelist/metadata/name/narrative[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
+        description_elements = root.xpath('/codelist/metadata/description/narrative[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
+        category_elements = root.xpath('/codelist/metadata/category/narrative[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
         url_elements = root.xpath('/codelist/metadata/url')
 
         # JSON
