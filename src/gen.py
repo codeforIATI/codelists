@@ -158,19 +158,17 @@ for language in languages:
             'status'
         ]
         codelist = ET.parse(os.path.join(OUTPUTDIR, 'xml', xml_filename))
-        attrib = codelist.getroot().attrib
+        root = codelist.getroot()
+        attrib = root.attrib
         assert attrib['name'] == xml_filename.replace('.xml', '')
 
-        root = codelist.getroot()
-        default_lang = root.attrib.get(xml_lang)
+        default_lang = attrib.get(xml_lang)
         codelist_items = root.find('codelist-items').findall('codelist-item')
-        if len(codelist_items) == 0:
-            extra_fieldnames = []
-        else:
-            extra_fieldnames = set([n.tag for n in list(codelist_items[0])])
-        for extra_fieldname in extra_fieldnames:
-            if extra_fieldname not in fieldnames:
-                fieldnames.append(extra_fieldname)
+        codelist_item_els = root.xpath('codelist-items/codelist-item/*')
+        fieldnames += list(OrderedDict([
+            (x.tag, None)
+            for x in codelist_item_els
+            if x.tag not in fieldnames]).keys())
         codelist_dicts = list(
             map(partial(codelist_item_todict,
                 fieldnames=fieldnames,
@@ -200,10 +198,10 @@ for language in languages:
             xdw.writerow(row)
         xdw.close()
 
-        name_elements = codelist.getroot().xpath('/codelist/metadata/name[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
-        description_elements = codelist.getroot().xpath('/codelist/metadata/description[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
-        category_elements = codelist.getroot().xpath('/codelist/metadata/category[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
-        url_elements = codelist.getroot().xpath('/codelist/metadata/url')
+        name_elements = root.xpath('/codelist/metadata/name[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
+        description_elements = root.xpath('/codelist/metadata/description[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
+        category_elements = root.xpath('/codelist/metadata/category[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
+        url_elements = root.xpath('/codelist/metadata/url')
 
         # JSON
         json_filename = os.path.join(
