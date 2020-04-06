@@ -18,16 +18,16 @@ xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
 budget_alignment_namespace = {
     'budget-alignment': 'http://iatistandard.org/activity-standard/' +
                         'overview/country-budget-alignment/'}
-nsmap = {"xml": "http://www.w3.org/XML/1998/namespace"}
+nsmap = {'xml': 'http://www.w3.org/XML/1998/namespace'}
 
-repo = git.Repo("IATI-Codelists-NonEmbedded/.git")
+repo = git.Repo('IATI-Codelists-NonEmbedded/.git')
 tree = repo.tree()
-repo_extra = git.Repo("Unofficial-Codelists/.git")
+repo_extra = git.Repo('Unofficial-Codelists/.git')
 tree_extra = repo_extra.tree()
 
 OUTPUTDIR = sys.argv[1]
 
-BASE_URL = os.environ.get('CODELISTS_BASE_URL', "")
+BASE_URL = os.environ.get('CODELISTS_BASE_URL', '')
 
 
 def normalize_whitespace(x):
@@ -40,10 +40,10 @@ def normalize_whitespace(x):
 
 def get_last_updated_date(codelist_name):
     try:
-        blob = tree["xml/{}.xml".format(codelist_name)]
+        blob = tree['xml/{}.xml'.format(codelist_name)]
         commit = next(repo.iter_commits(paths=blob.path))
     except KeyError:
-        blob = tree_extra["xml/{}.xml".format(codelist_name)]
+        blob = tree_extra['xml/{}.xml'.format(codelist_name)]
         commit = next(repo_extra.iter_commits(paths=blob.path))
     return date.fromtimestamp(commit.committed_date).isoformat()
 
@@ -105,30 +105,30 @@ def write_json_api_data(codelists_list):
         json.dump(codelists_list, handler)
     with open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w') as handler:
         json.dump({
-            "formats": {
-                "xml": OrderedDict(map(lambda cl: (
-                    str(cl), "{}/api/xml/{}.xml".format(BASE_URL, cl)),
+            'formats': {
+                'xml': OrderedDict(map(lambda cl: (
+                    str(cl), '{}/api/xml/{}.xml'.format(BASE_URL, cl)),
                     sorted(codelists_list))),
-                "csv": {
-                    "languages": dict([
+                'csv': {
+                    'languages': dict([
                         (lang, OrderedDict(map(lambda cl: (
-                         str(cl), "{}/api/csv/{}/{}.csv".format(BASE_URL, lang, cl)),
+                         str(cl), '{}/api/csv/{}/{}.csv'.format(BASE_URL, lang, cl)),
                          sorted(codelists_list))))
                         for lang in languages
                     ])
                 },
-                "xlsx": {
-                    "languages": dict([
+                'xlsx': {
+                    'languages': dict([
                         (lang, OrderedDict(map(lambda cl: (
-                         str(cl), "{}/api/xlsx/{}/{}.xlsx".format(BASE_URL, lang, cl)),
+                         str(cl), '{}/api/xlsx/{}/{}.xlsx'.format(BASE_URL, lang, cl)),
                          sorted(codelists_list))))
                         for lang in languages
                     ])
                 },
-                "json": {
-                    "languages": dict([
+                'json': {
+                    'languages': dict([
                         (lang, OrderedDict(map(lambda cl: (
-                         str(cl), "{}/api/json/{}/{}.json".format(BASE_URL, lang, cl)),
+                         str(cl), '{}/api/json/{}/{}.json'.format(BASE_URL, lang, cl)),
                          sorted(codelists_list))))
                         for lang in languages
                     ])
@@ -223,7 +223,8 @@ for language in languages:
                         'description': description_elements[0].text if description_elements else '',
                         'category': category_elements[0].text if category_elements else '',
                         'url': url_elements[0].text if url_elements else '',
-                        'last-updated-date': get_last_updated_date(attrib["name"])
+                        'last-updated-date': get_last_updated_date(
+                            attrib['name'])
                     },
                     'data': codelist_dicts
                 },
