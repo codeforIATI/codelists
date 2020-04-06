@@ -15,7 +15,9 @@ import xlsx
 languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
-budget_alignment_namespace = {'budget-alignment': 'http://iatistandard.org/activity-standard/overview/country-budget-alignment/'}
+budget_alignment_namespace = {
+    'budget-alignment': 'http://iatistandard.org/activity-standard/' +
+                        'overview/country-budget-alignment/'}
 nsmap = {"xml": "http://www.w3.org/XML/1998/namespace"}
 
 repo = git.Repo("IATI-Codelists-NonEmbedded/.git")
@@ -39,14 +41,15 @@ def normalize_whitespace(x):
 def get_last_updated_date(codelist_name):
     try:
         blob = tree["xml/{}.xml".format(codelist_name)]
-        commit=next(repo.iter_commits(paths=blob.path))
+        commit = next(repo.iter_commits(paths=blob.path))
     except KeyError:
         blob = tree_extra["xml/{}.xml".format(codelist_name)]
-        commit=next(repo_extra.iter_commits(paths=blob.path))
+        commit = next(repo_extra.iter_commits(paths=blob.path))
     return date.fromtimestamp(commit.committed_date).isoformat()
 
 
-def codelist_item_todict(codelist_item, fieldnames, default_lang='', lang='en', codelist_name=None):
+def codelist_item_todict(codelist_item, fieldnames, default_lang='',
+                         lang='en', codelist_name=None):
     out = {}
     for child in codelist_item:
         # Some tags are handled in special ways (below)
@@ -58,18 +61,23 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='', lang='en', 
             continue
         if child.tag in ['name', 'description'] and \
                 child.attrib.get(xml_lang) != lang and \
-                (child.attrib.get(xml_lang) is not None or lang != default_lang):
+                (child.attrib.get(xml_lang) is not None or
+                 lang != default_lang):
             continue
         elif child.find('narrative') is not None:
             if lang == default_lang:
-                narrative = child.xpath('narrative[not(@xml:lang)]',
+                narrative = child.xpath(
+                    'narrative[not(@xml:lang)]',
                     namespaces=nsmap)
-                if len(narrative) == 0: continue
+                if len(narrative) == 0:
+                    continue
                 out[child.tag] = normalize_whitespace(narrative[0].text)
             else:
-                narrative = child.find('narrative[@xml:lang="{}"]'.format(lang),
+                narrative = child.find(
+                    'narrative[@xml:lang="{}"]'.format(lang),
                     namespaces=nsmap)
-                if narrative == None: continue
+                if narrative is None:
+                    continue
                 out[child.tag] = normalize_whitespace(narrative.text)
         else:
             out[child.tag] = normalize_whitespace(child.text)
@@ -81,50 +89,51 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='', lang='en', 
             out['public-database'] = False
     out['status'] = codelist_item.get('status', 'active')
     if codelist_name == 'Sector':
-        if codelist_item.find('budget-alignment:status',
-            namespaces = budget_alignment_namespace) is not None:
-            out['budget_alignment_guidance'] = codelist_item.find('budget-alignment:status',
-                    namespaces = budget_alignment_namespace).text
+        budget_alignment_status = codelist_item.find(
+            'budget-alignment:status',
+            namespaces=budget_alignment_namespace)
+        if budget_alignment_status is not None:
+            out['budget_alignment_guidance'] = budget_alignment_status.text
         else:
-            out['budget_alignment_guidance'] = ""
+            out['budget_alignment_guidance'] = ''
     return out
 
 
 def write_json_api_data(codelists_list):
-    json.dump(codelists_list, open(os.path.join(OUTPUTDIR, 'codelists.json'), 'w'))
-    json.dump({
-        "formats":
-            {
-            "xml": OrderedDict(map(lambda cl:
-                (str(cl), "{}/api/xml/{}.xml".format(BASE_URL, cl)),
-                sorted(codelists_list))),
-            "csv": {
-                "languages": dict([
-                    (lang, OrderedDict(map(lambda cl:
-                    (str(cl), "{}/api/csv/{}/{}.csv".format(BASE_URL, lang, cl)),
-                    sorted(codelists_list))))
-                    for lang in languages
-                ])
-            },
-            "xlsx": {
-                "languages": dict([
-                    (lang, OrderedDict(map(lambda cl:
-                    (str(cl), "{}/api/xlsx/{}/{}.xlsx".format(BASE_URL, lang, cl)),
-                    sorted(codelists_list))))
-                    for lang in languages
-                ])
-            },
-            "json": {
-                "languages": dict([
-                    (lang, OrderedDict(map(lambda cl:
-                    (str(cl), "{}/api/json/{}/{}.json".format(BASE_URL, lang, cl)),
-                    sorted(codelists_list))))
-                    for lang in languages
-                ])
+    with open(os.path.join(OUTPUTDIR, 'codelists.json'), 'w') as handler:
+        json.dump(codelists_list, handler)
+    with open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w') as handler:
+        json.dump({
+            "formats": {
+                "xml": OrderedDict(map(lambda cl: (
+                    str(cl), "{}/api/xml/{}.xml".format(BASE_URL, cl)),
+                    sorted(codelists_list))),
+                "csv": {
+                    "languages": dict([
+                        (lang, OrderedDict(map(lambda cl: (
+                         str(cl), "{}/api/csv/{}/{}.csv".format(BASE_URL, lang, cl)),
+                         sorted(codelists_list))))
+                        for lang in languages
+                    ])
+                },
+                "xlsx": {
+                    "languages": dict([
+                        (lang, OrderedDict(map(lambda cl: (
+                         str(cl), "{}/api/xlsx/{}/{}.xlsx".format(BASE_URL, lang, cl)),
+                         sorted(codelists_list))))
+                        for lang in languages
+                    ])
+                },
+                "json": {
+                    "languages": dict([
+                        (lang, OrderedDict(map(lambda cl: (
+                         str(cl), "{}/api/json/{}/{}.json".format(BASE_URL, lang, cl)),
+                         sorted(codelists_list))))
+                        for lang in languages
+                    ])
+                }
             }
-            }
-        },
-        open(os.path.join(OUTPUTDIR, '..', 'index.json'), 'w'))
+        }, handler)
 
 
 for language in languages:
@@ -138,7 +147,7 @@ for language in languages:
     except OSError:
         pass
 
-    for fname in os.listdir(os.path.join(OUTPUTDIR, 'xml')):
+    for xml_filename in os.listdir(os.path.join(OUTPUTDIR, 'xml')):
         fieldnames = [
             'code',
             'name',
@@ -147,37 +156,44 @@ for language in languages:
             'url',
             'status'
         ]
-        codelist = ET.parse(os.path.join(OUTPUTDIR, 'xml', fname))
+        codelist = ET.parse(os.path.join(OUTPUTDIR, 'xml', xml_filename))
         attrib = codelist.getroot().attrib
-        assert attrib['name'] == fname.replace('.xml', '')
+        assert attrib['name'] == xml_filename.replace('.xml', '')
 
         root = codelist.getroot()
         default_lang = root.attrib.get(xml_lang)
         codelist_items = root.find('codelist-items').findall('codelist-item')
-        if len(codelist_items) == 0: extra_fieldnames = []
+        if len(codelist_items) == 0:
+            extra_fieldnames = []
         else:
             extra_fieldnames = set([n.tag for n in list(codelist_items[0])])
         for extra_fieldname in extra_fieldnames:
-            if extra_fieldname not in fieldnames: fieldnames.append(extra_fieldname)
-        codelist_dicts = list(map(partial(codelist_item_todict,
-            fieldnames=fieldnames,
-            default_lang=default_lang,
-            lang=language,
-            codelist_name=attrib['name']), codelist_items))
+            if extra_fieldname not in fieldnames:
+                fieldnames.append(extra_fieldname)
+        codelist_dicts = list(
+            map(partial(codelist_item_todict,
+                fieldnames=fieldnames,
+                default_lang=default_lang,
+                lang=language,
+                codelist_name=attrib['name']), codelist_items))
 
         if attrib['name'] == 'Sector':
             fieldnames.append('budget_alignment_guidance')
 
-        if fname == 'OrganisationRegistrationAgency.xml':
+        if xml_filename == 'OrganisationRegistrationAgency.xml':
             fieldnames.append('public-database')
 
-        dw = csv.DictWriter(open(os.path.join(OUTPUTDIR, 'csv', language, attrib['name'] + '.csv'), 'w'), fieldnames)
-        dw.writeheader()
-        for row in codelist_dicts:
-            dw.writerow(row)
+        csv_filename = os.path.join(
+            OUTPUTDIR, 'csv', language, attrib['name'] + '.csv')
+        with open(csv_filename, 'w') as handler:
+            dw = csv.DictWriter(handler, fieldnames)
+            dw.writeheader()
+            for row in codelist_dicts:
+                dw.writerow(row)
 
-        fname = os.path.join(OUTPUTDIR, 'xlsx', language, attrib['name'] + '.xlsx')
-        xdw = xlsx.XLSXDictWriter(fname, fieldnames=fieldnames)
+        xlsx_filename = os.path.join(
+            OUTPUTDIR, 'xlsx', language, attrib['name'] + '.xlsx')
+        xdw = xlsx.XLSXDictWriter(xlsx_filename, fieldnames=fieldnames)
         xdw.writeheader()
         for row in codelist_dicts:
             xdw.writerow(row)
@@ -189,25 +205,28 @@ for language in languages:
         url_elements = codelist.getroot().xpath('/codelist/metadata/url')
 
         # JSON
-        json.dump(
-            {
-                'attributes': {
-                    'name': attrib['name'],
-                    'complete': attrib.get('complete'),
-                    'embedded': attrib.get('embedded'),
-                    'category-codelist': attrib.get('category-codelist'),
+        json_filename = os.path.join(
+            OUTPUTDIR, 'json', language, attrib['name'] + '.json')
+        with open(json_filename, 'w') as handler:
+            json.dump(
+                {
+                    'attributes': {
+                        'name': attrib['name'],
+                        'complete': attrib.get('complete'),
+                        'embedded': attrib.get('embedded'),
+                        'category-codelist': attrib.get('category-codelist'),
+                    },
+                    'metadata': {
+                        'name': name_elements[0].text if name_elements else '',
+                        'description': description_elements[0].text if description_elements else '',
+                        'category': category_elements[0].text if category_elements else '',
+                        'url': url_elements[0].text if url_elements else '',
+                        'last-updated-date': get_last_updated_date(attrib["name"])
+                    },
+                    'data': codelist_dicts
                 },
-                'metadata': {
-                    'name': name_elements[0].text if name_elements else '',
-                    'description': description_elements[0].text if description_elements else '',
-                    'category': category_elements[0].text if category_elements else '',
-                    'url': url_elements[0].text if url_elements else '',
-                    'last-updated-date': get_last_updated_date(attrib["name"])
-                },
-                'data': codelist_dicts
-            },
-            open(os.path.join(OUTPUTDIR, 'json', language, attrib['name'] + '.json'), 'w')
-        )
+                handler
+            )
 
         codelists_list.append(attrib['name'])
 
