@@ -164,7 +164,7 @@ for language in languages:
         for codelist_dict in codelist_dicts:
             for fieldname in fieldnames:
                 if fieldname not in codelist_dict:
-                    codelist_dict[fieldname] = ''
+                    codelist_dict[fieldname] = None
 
         csv_filename = join(
             OUTPUTDIR, 'csv', language, attrib['name'] + '.csv')
