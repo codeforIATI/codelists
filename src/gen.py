@@ -53,6 +53,7 @@ def codelist_item_todict(codelist_item, default_lang='',
                          lang='en', codelist_name=None):
     out = {}
     for child in codelist_item:
+        el_name = child.tag
         if child.find('narrative') is not None:
             if lang == default_lang:
                 narrative = child.xpath(
@@ -60,16 +61,16 @@ def codelist_item_todict(codelist_item, default_lang='',
                     namespaces=nsmap)
                 if len(narrative) == 0:
                     continue
-                out[child.tag] = normalize_whitespace(narrative[0].text)
+                out[el_name] = normalize_whitespace(narrative[0].text)
             else:
                 narrative = child.find(
                     'narrative[@xml:lang="{}"]'.format(lang),
                     namespaces=nsmap)
                 if narrative is None:
                     continue
-                out[child.tag] = normalize_whitespace(narrative.text)
+                out[el_name] = normalize_whitespace(narrative.text)
         else:
-            out[child.tag] = normalize_whitespace(child.text)
+            out[el_name] = normalize_whitespace(child.text)
 
     if 'public-database' in codelist_item.attrib:
         if codelist_item.attrib['public-database'] in ['1', 'true']:
