@@ -49,7 +49,7 @@ def get_last_updated_date(codelist_name):
     return date.fromtimestamp(commit.committed_date).isoformat()
 
 
-def codelist_item_todict(codelist_item, fieldnames, default_lang='',
+def codelist_item_todict(codelist_item, default_lang='',
                          lang='en', codelist_name=None):
     out = {}
     for child in codelist_item:
@@ -166,7 +166,6 @@ for language in languages:
             if x.tag not in fieldnames]).keys())
         codelist_dicts = list(
             map(partial(codelist_item_todict,
-                fieldnames=fieldnames,
                 default_lang=default_lang,
                 lang=language,
                 codelist_name=attrib['name']), codelist_items))
