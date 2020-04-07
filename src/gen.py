@@ -93,7 +93,7 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='',
     return out
 
 
-def write_json_api_data(sorted_codelists_list):
+def write_json_api_data(codelists_list):
     with open(join(OUTPUTDIR, 'codelists.json'), 'w') as handler:
         json.dump(codelists_list, handler)
     api_data = {
@@ -101,13 +101,13 @@ def write_json_api_data(sorted_codelists_list):
             'xml': OrderedDict(
                 [(cl, join(
                     BASE_URL, 'api', 'xml', cl + '.xml'))
-                 for cl in sorted_codelists_list]),
+                 for cl in codelists_list]),
             'csv': {
                 'languages': OrderedDict([
                     (lang, OrderedDict([
                         (cl, join(
                             BASE_URL, 'api', 'csv', lang, cl + '.csv'))
-                        for cl in sorted_codelists_list]))
+                        for cl in codelists_list]))
                     for lang in languages])
             },
             'xlsx': {
@@ -115,7 +115,7 @@ def write_json_api_data(sorted_codelists_list):
                     (lang, OrderedDict([
                         (cl, join(
                             BASE_URL, 'api', 'xlsx', lang, cl + '.xlsx'))
-                        for cl in sorted_codelists_list]))
+                        for cl in codelists_list]))
                     for lang in languages])
             },
             'json': {
@@ -123,7 +123,7 @@ def write_json_api_data(sorted_codelists_list):
                     (lang, OrderedDict([
                         (cl, join(
                             BASE_URL, 'api', 'json', lang, cl + '.json'))
-                        for cl in sorted_codelists_list]))
+                        for cl in codelists_list]))
                     for lang in languages])
             }
         }
