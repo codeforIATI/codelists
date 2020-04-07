@@ -53,11 +53,6 @@ def codelist_item_todict(codelist_item, default_lang='',
                          lang='en', codelist_name=None):
     out = {}
     for child in codelist_item:
-        # Some tags are handled in special ways (below)
-        if child.tag == 'status':
-            continue
-        if child.text is None:
-            continue
         if child.find('narrative') is not None:
             if lang == default_lang:
                 narrative = child.xpath(
