@@ -14,7 +14,7 @@
     "categorisedCodelist": "This codelist is grouped into categories, using the codelist",
     "source": "Original source",
     "headers": {
-      "budget_alignment_guidance": "Guidance"
+      "budget-alignment:status": "Guidance"
     }
   },
   "/fr/": {
@@ -37,7 +37,7 @@
       "category": "Catégorie",
       "description": "Description",
       "status": "Statut",
-      "budget_alignment_guidance": "Guidance"
+      "budget-alignment:status": "Guidance"
     },
     "columnValues": {
       "status": {
