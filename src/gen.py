@@ -93,7 +93,7 @@ def codelist_item_todict(codelist_item, fieldnames, default_lang='',
     return out
 
 
-def write_json_api_data(codelists_list):
+def write_json_api_root(codelists_list):
     with open(join(OUTPUTDIR, 'codelists.json'), 'w') as handler:
         json.dump(codelists_list, handler)
     api_data = {
@@ -236,4 +236,4 @@ for language in languages:
 tree = ET.ElementTree(codelists)
 tree.write(join(OUTPUTDIR, 'codelists.xml'), pretty_print=True)
 sorted_codelists_list = sorted(codelists_list)
-write_json_api_data(sorted_codelists_list)
+write_json_api_root(sorted_codelists_list)
