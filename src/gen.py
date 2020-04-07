@@ -99,7 +99,8 @@ def write_json_api_data(sorted_codelists_list):
     api_data = {
         'formats': {
             'xml': OrderedDict(
-                [(cl, '{}/api/xml/{}.xml'.format(BASE_URL, cl))
+                [(cl, join(
+                    BASE_URL, 'api', 'xml', cl + '.xml'))
                  for cl in sorted_codelists_list]),
             'csv': {
                 'languages': {
