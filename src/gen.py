@@ -193,35 +193,41 @@ for language in languages:
             xdw.writerow(row)
         xdw.close()
 
-        name_elements = root.xpath('/codelist/metadata/name/narrative[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
-        description_elements = root.xpath('/codelist/metadata/description/narrative[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
-        category_elements = root.xpath('/codelist/metadata/category/narrative[{}@xml:lang="{}"]'.format('not(@xml:lang) or ' if language == default_lang else '', language))
-        url_elements = root.xpath('/codelist/metadata/url')
+        if language == default_lang:
+            el_search = f'narrative[not(@xml:lang) or @xml:lang="{language}"]'
+        else:
+            el_search = f'narrative[@xml:lang="{language}"]'
+        el_search = '/codelist/metadata/{}/' + el_search
+        meta_name_el = root.xpath(el_search.format('name'))
+        meta_desc_el = root.xpath(el_search.format('description'))
+        meta_category_el = root.xpath(el_search.format('category'))
+        meta_url_el = root.xpath('/codelist/metadata/url')
+        meta_name = meta_name_el[0].text if meta_name_el else ''
+        meta_desc = meta_desc_el[0].text if meta_desc_el else ''
+        meta_category = meta_category_el[0].text if meta_category_el else ''
+        meta_url = meta_url_el[0].text if meta_url_el else ''
 
         # JSON
         json_filename = join(
             OUTPUTDIR, 'json', language, attrib['name'] + '.json')
         with open(json_filename, 'w') as handler:
-            json.dump(
-                {
-                    'attributes': {
-                        'name': attrib['name'],
-                        'complete': attrib.get('complete'),
-                        'embedded': attrib.get('embedded'),
-                        'category-codelist': attrib.get('category-codelist'),
-                    },
-                    'metadata': {
-                        'name': name_elements[0].text if name_elements else '',
-                        'description': description_elements[0].text if description_elements else '',
-                        'category': category_elements[0].text if category_elements else '',
-                        'url': url_elements[0].text if url_elements else '',
-                        'last-updated-date': get_last_updated_date(
-                            attrib['name'])
-                    },
-                    'data': codelist_dicts
+            json.dump({
+                'attributes': {
+                    'name': attrib['name'],
+                    'complete': attrib.get('complete'),
+                    'embedded': attrib.get('embedded'),
+                    'category-codelist': attrib.get('category-codelist'),
                 },
-                handler
-            )
+                'metadata': {
+                    'name': meta_name,
+                    'description': meta_desc,
+                    'category': meta_category,
+                    'url': meta_url,
+                    'last-updated-date': get_last_updated_date(
+                        attrib['name'])
+                },
+                'data': codelist_dicts
+            }, handler)
 
         codelists_list.append(attrib['name'])
 
