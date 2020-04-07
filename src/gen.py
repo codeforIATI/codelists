@@ -144,14 +144,6 @@ for language in languages:
         pass
 
     for xml_filename in os.listdir(join(OUTPUTDIR, 'xml')):
-        fieldnames = [
-            'code',
-            'name',
-            'description',
-            'category',
-            'url',
-            'status'
-        ]
         codelist = ET.parse(join(OUTPUTDIR, 'xml', xml_filename))
         root = codelist.getroot()
         attrib = root.attrib
@@ -159,22 +151,26 @@ for language in languages:
 
         default_lang = attrib.get(xml_lang)
         codelist_items = root.find('codelist-items').findall('codelist-item')
-        codelist_item_els = root.xpath('codelist-items/codelist-item/*')
-        fieldnames += list(OrderedDict([
-            (x.tag, None)
-            for x in codelist_item_els
-            if x.tag not in fieldnames]).keys())
         codelist_dicts = list(
             map(partial(codelist_item_todict,
                 default_lang=default_lang,
                 lang=language,
                 codelist_name=attrib['name']), codelist_items))
 
-        if attrib['name'] == 'Sector':
-            fieldnames.append('budget_alignment_guidance')
+        # make a list of fields
+        fieldnames = list(set(
+            fieldname
+            for codelist_dict in codelist_dicts
+            for fieldname in codelist_dict.keys()))
 
-        if xml_filename == 'OrganisationRegistrationAgency.xml':
-            fieldnames.append('public-database')
+        # sort the fields
+        fieldname_order = [
+            'code', 'name', 'description', 'category',
+            'url', 'status']
+        fieldnames = sorted(
+            fieldnames,
+            key=lambda x: (fieldname_order.index(x)
+                           if x in fieldname_order else 100))
 
         csv_filename = join(
             OUTPUTDIR, 'csv', language, attrib['name'] + '.csv')
