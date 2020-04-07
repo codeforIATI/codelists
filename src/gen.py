@@ -103,28 +103,28 @@ def write_json_api_data(sorted_codelists_list):
                     BASE_URL, 'api', 'xml', cl + '.xml'))
                  for cl in sorted_codelists_list]),
             'csv': {
-                'languages': {
-                    lang: OrderedDict([
+                'languages': OrderedDict([
+                    (lang, OrderedDict([
                         (cl, join(
                             BASE_URL, 'api', 'csv', lang, cl + '.csv'))
-                        for cl in sorted_codelists_list])
-                    for lang in languages}
+                        for cl in sorted_codelists_list]))
+                    for lang in languages])
             },
             'xlsx': {
-                'languages': {
-                    lang: OrderedDict([
+                'languages': OrderedDict([
+                    (lang, OrderedDict([
                         (cl, join(
                             BASE_URL, 'api', 'xlsx', lang, cl + '.xlsx'))
-                        for cl in sorted_codelists_list])
-                    for lang in languages}
+                        for cl in sorted_codelists_list]))
+                    for lang in languages])
             },
             'json': {
-                'languages': {
-                    lang: OrderedDict([
+                'languages': OrderedDict([
+                    (lang, OrderedDict([
                         (cl, join(
                             BASE_URL, 'api', 'json', lang, cl + '.json'))
-                        for cl in sorted_codelists_list])
-                    for lang in languages}
+                        for cl in sorted_codelists_list]))
+                    for lang in languages])
             }
         }
     }
