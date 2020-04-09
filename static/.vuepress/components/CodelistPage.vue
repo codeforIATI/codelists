@@ -91,7 +91,7 @@
         fields: [],
         downloadURLs: [],
         lastUpdatedDate: null,
-        perPage: 100,
+        perPage: 500,
         currentPage: 1,
         isBusy: true
       }
