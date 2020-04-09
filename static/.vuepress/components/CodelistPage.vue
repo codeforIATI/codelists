@@ -19,10 +19,30 @@
       <router-link :to="`../${categoryCodelist}`"><code>{{ categoryCodelist }}</code></router-link>.</p>
       <p v-if="url">{{ this.$themeLocaleConfig.source }}: <a :href="url">{{ url }}</a></p>
     </b-alert>
+    <b-pagination
+      v-model="currentPage"
+      :total-rows="totalRows"
+      :per-page="perPage"
+      align="fill"
+      size="sm"
+      class="my-0"
+      v-if="totalRows > 100"
+    ></b-pagination>
     <b-table
       :fields="fields"
       :items="codes"
-      :tbody-tr-class="rowClass">
+      :tbody-tr-class="rowClass"
+      :current-page="currentPage"
+      :per-page="perPage"
+      :busy="isBusy"
+      responsive>
+
+      <template v-slot:table-busy>
+        <div class="text-center">
+          <b-spinner class="align-middle" label="Loading..."></b-spinner>
+          <strong>Loading...</strong>
+        </div>
+      </template>
 
       <template v-slot:cell(code)="data">
         <a :id="data.item.code" style="visibility:hidden;padding-top:73px;"></a>
@@ -33,6 +53,16 @@
         <router-link :to="'../' + categoryCodelist + '/#' + data.item.category">{{ data.item.category }}</router-link>
       </template>
     </b-table>
+    <b-pagination
+      v-model="currentPage"
+      :total-rows="totalRows"
+      :per-page="perPage"
+      align="fill"
+      size="sm"
+      class="my-0"
+      v-if="totalRows > 100"
+      responsive
+    ></b-pagination>
   </div>
 </template>
 <style>
@@ -60,7 +90,10 @@
         codes: [],
         fields: [],
         downloadURLs: [],
-        lastUpdatedDate: null
+        lastUpdatedDate: null,
+        perPage: 100,
+        currentPage: 1,
+        isBusy: true
       }
     },
     async beforeMount() {
@@ -99,16 +132,33 @@
           "format": "JSON"
         }
       ]
+      this.isBusy = false
     },
-    mounted() {
-      if (this.$route.hash) {
-        setTimeout(() => {
-          var anchor = document.getElementById(this.$route.hash.split("#")[1])
-          VueScrollTo.scrollTo(anchor, 500)
-        }, 500)
+    watch: {
+      codes: {
+        handler: 'handleScroll'
+      }
+    },
+    computed: {
+      totalRows() {
+        return this.codes.length
       }
     },
     methods: {
+      handleScroll() {
+        var hash = this.$route.hash.split("#")[1]
+        if (this.totalRows > this.perPage) {
+          var codeIndex = this.codes.findIndex(code => code.code == hash)+1
+          var newPage = Math.ceil(codeIndex/parseFloat(this.perPage))
+          this.currentPage = newPage
+        }
+        if (this.$route.hash) {
+          setTimeout(() => {
+            var anchor = document.getElementById(hash)
+            VueScrollTo.scrollTo(anchor, 500)
+          }, 300)
+        }
+      },
       rowClass(item, type) {
         if (!item) return
         if (item.status === 'withdrawn') return 'withdrawn-code'
