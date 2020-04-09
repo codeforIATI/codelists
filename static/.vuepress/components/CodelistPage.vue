@@ -26,7 +26,7 @@
       align="fill"
       size="sm"
       class="my-0"
-      v-if="totalRows > 100"
+      v-if="totalRows > perPage"
     ></b-pagination>
     <b-table
       :fields="fields"
@@ -60,7 +60,7 @@
       align="fill"
       size="sm"
       class="my-0"
-      v-if="totalRows > 100"
+      v-if="totalRows > perPage"
       responsive
     ></b-pagination>
   </div>
