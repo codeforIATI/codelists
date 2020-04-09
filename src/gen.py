@@ -16,9 +16,6 @@ import xlsx
 languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
-budget_alignment_namespace = {
-    'budget-alignment': 'http://iatistandard.org/activity-standard/' +
-                        'overview/country-budget-alignment/'}
 nsmap = {'xml': 'http://www.w3.org/XML/1998/namespace'}
 
 repo = git.Repo('IATI-Codelists-NonEmbedded/.git')
@@ -54,6 +51,9 @@ def codelist_item_todict(codelist_item, default_lang='',
     out = {}
     for child in codelist_item:
         el_name = child.tag
+        if child.prefix is not None:
+            el_name = '{}:{}'.format(
+                child.prefix, child.tag.split('}')[1])
         if child.find('narrative') is not None:
             if lang == default_lang:
                 narrative = child.xpath(
@@ -78,14 +78,6 @@ def codelist_item_todict(codelist_item, default_lang='',
         else:
             out['public-database'] = False
     out['status'] = codelist_item.get('status', 'active')
-    if codelist_name == 'Sector':
-        budget_alignment_status = codelist_item.find(
-            'budget-alignment:status',
-            namespaces=budget_alignment_namespace)
-        if budget_alignment_status is not None:
-            out['budget_alignment_guidance'] = budget_alignment_status.text
-        else:
-            out['budget_alignment_guidance'] = ''
     return out
 
 
@@ -167,6 +159,12 @@ for language in languages:
             fieldnames,
             key=lambda x: (fieldname_order.index(x)
                            if x in fieldname_order else 100))
+
+        # ensure every codelist dict contains all fields
+        for codelist_dict in codelist_dicts:
+            for fieldname in fieldnames:
+                if fieldname not in codelist_dict:
+                    codelist_dict[fieldname] = None
 
         csv_filename = join(
             OUTPUTDIR, 'csv', language, attrib['name'] + '.csv')

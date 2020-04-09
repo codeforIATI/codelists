@@ -14,7 +14,18 @@
     "categorisedCodelist": "This codelist is grouped into categories, using the codelist",
     "source": "Original source",
     "headers": {
-      "budget_alignment_guidance": "Guidance"
+      "url": "URL",
+      "codeforiati:iso-alpha-2-code": "ISO alpha-2 code",
+      "codeforiati:iso-alpha-3-code": "ISO alpha-3 code",
+      "codeforiati:global-code": "Global code",
+      "codeforiati:global-name": "Global name",
+      "codeforiati:region-code": "Region code",
+      "codeforiati:region-name": "Region name",
+      "codeforiati:sub-region-code": "Sub-region code",
+      "codeforiati:sub-region-name": "Sub-region name",
+      "codeforiati:intermediate-region-code": "Intermediate region code",
+      "codeforiati:intermediate-region-name": "Intermediate region name",
+      "budget-alignment:status": "Guidance"
     }
   },
   "/fr/": {
@@ -36,8 +47,19 @@
       "name": "Nom",
       "category": "Catégorie",
       "description": "Description",
+      "url": "URL",
       "status": "Statut",
-      "budget_alignment_guidance": "Guidance"
+      "codeforiati:iso-alpha-2-code": "ISO alpha-2 code",
+      "codeforiati:iso-alpha-3-code": "ISO alpha-3 code",
+      "codeforiati:global-code": "Global code",
+      "codeforiati:global-name": "Global name",
+      "codeforiati:region-code": "Region code",
+      "codeforiati:region-name": "Region name",
+      "codeforiati:sub-region-code": "Sub-region code",
+      "codeforiati:sub-region-name": "Sub-region name",
+      "codeforiati:intermediate-region-code": "Intermediate region code",
+      "codeforiati:intermediate-region-name": "Intermediate region name",
+      "budget-alignment:status": "Guidance"
     },
     "columnValues": {
       "status": {
