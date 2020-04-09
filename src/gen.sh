@@ -24,10 +24,7 @@ mkdir codelists
 for f in ${codelists[*]}; do
     cp IATI-Codelists-NonEmbedded/xml/$f.xml codelists
 done
-unofficial_codelists=("HumanitarianGlobalClusters" "RegionM49" "GLIDENumber")
-for f in ${unofficial_codelists[*]}; do
-    cp Unofficial-Codelists/xml/$f.xml codelists
-done
+cp Unofficial-Codelists/xml/*.xml codelists
 
 rm -rf docs
 cp -r static docs
