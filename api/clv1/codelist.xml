@@ -68,6 +68,11 @@ On this codelist 'category' is used for the Feature Class.</description>
     <count>9</count>
   </codelist>
   <codelist>
+    <name>RegionM49</name>
+    <description>Standard country or area codes for statistical use</description>
+    <count>249</count>
+  </codelist>
+  <codelist>
     <name>PolicySignificance</name>
     <description></description>
     <count>5</count>
