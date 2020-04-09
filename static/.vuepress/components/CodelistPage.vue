@@ -7,8 +7,8 @@
           {{ this.$themeLocaleConfig.lastUpdated }}: {{ lastUpdatedDate }}
         </p>
       </b-col>
-      <b-col md="4" class="text-right">
-        <b-dropdown :text="this.$themeLocaleConfig.download" right>
+      <b-col md="4" class="md-text-right">
+        <b-dropdown :text="this.$themeLocaleConfig.download" right style="margin-bottom:10px">
           <b-dropdown-item v-for="downloadURL in downloadURLs" :href="downloadURL.url">{{ downloadURL.format }}</b-dropdown-item>
         </b-dropdown>
       </b-col>
@@ -72,6 +72,9 @@
   .withdrawn-code {
     font-style: italic;
     color: #bbbbbb;
+  }
+  table {
+    display: table;
   }
 </style>
 <script>
