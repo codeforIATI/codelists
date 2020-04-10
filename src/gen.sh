@@ -19,12 +19,19 @@ else
     git clone --branch master https://github.com/codeforIATI/Unofficial-Codelists.git
 fi
 
-codelists=("AidType-category" "AidType" "CollaborationType" "Country" "CRSChannelCode" "Currency" "EarmarkingCategory" "FileFormat" "FinanceType-category" "FinanceType" "FlowType" "Language" "LocationType-category" "LocationType" "OrganisationRegistrationAgency" "PolicyMarker" "PolicySignificance" "Region" "Sector" "SectorCategory" "UNSDG-Goals" "UNSDG-Targets")
+if [ -d IATI-Codelists ]; then
+    cd IATI-Codelists || exit 1
+    git pull
+    git checkout version-2.03
+    cd ..
+else
+    git clone --branch version-2.03 https://github.com/IATI/IATI-Codelists.git
+fi
+
 mkdir codelists
-for f in ${codelists[*]}; do
-    cp IATI-Codelists-NonEmbedded/xml/$f.xml codelists
-done
+cp IATI-Codelists-NonEmbedded/xml/*.xml codelists
 cp Unofficial-Codelists/xml/*.xml codelists
+cp IATI-Codelists/xml/*.xml codelists
 
 rm -rf docs
 cp -r static docs
