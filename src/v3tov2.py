@@ -2,11 +2,10 @@ from lxml import etree as ET
 import sys
 
 
-def update_from_narrative(parent, element_name):
-    element = parent.find(element_name)
+def update_from_narrative(parent, element):
     if element is not None and element.findall('narrative'):
         for narrative in element.findall('narrative'):
-            narrative.tag = element_name
+            narrative.tag = element.tag
             parent.append(narrative)
         parent.remove(element)
 
@@ -15,13 +14,12 @@ parser = ET.XMLParser(remove_blank_text=True)
 tree = ET.parse(sys.argv[1], parser)
 
 metadata = tree.find('metadata')
-update_from_narrative(metadata, 'name')
-update_from_narrative(metadata, 'description')
-update_from_narrative(metadata, 'category')
+for element in metadata.xpath('*/narrative/..'):
+    update_from_narrative(metadata, element)
 
 for codelist_item in tree.find('codelist-items').findall('codelist-item'):
-    update_from_narrative(codelist_item, 'name')
-    update_from_narrative(codelist_item, 'description')
+    for element in codelist_item.xpath('*/narrative/..'):
+        update_from_narrative(codelist_item, element)
 
 
 # Adapted from code at http://effbot.org/zone/element-lib.htm
