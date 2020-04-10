@@ -112,6 +112,9 @@
   </div>
 </template>
 <style>
+  body {
+    overflow-wrap: break-word;
+  }
   .download-dropdown {
     margin-bottom:10px;
     width:100%;
