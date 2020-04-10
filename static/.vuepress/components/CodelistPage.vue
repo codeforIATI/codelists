@@ -100,6 +100,8 @@
         lastUpdatedDate: null,
         perPage: 500,
         currentPage: 1,
+        totalRows: 0,
+        filter: null,
         isBusy: true
       }
     },
@@ -139,6 +141,7 @@
           "format": "JSON"
         }
       ]
+      this.totalRows = this.codes.length
       this.isBusy = false
     },
     watch: {
