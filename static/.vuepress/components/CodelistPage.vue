@@ -19,15 +19,53 @@
       <router-link :to="`../${categoryCodelist}`"><code>{{ categoryCodelist }}</code></router-link>.</p>
       <p v-if="url">{{ this.$themeLocaleConfig.source }}: <a :href="url">{{ url }}</a></p>
     </b-alert>
-    <b-pagination
-      v-model="currentPage"
-      :total-rows="totalRows"
-      :per-page="perPage"
-      align="fill"
-      size="sm"
-      class="my-0"
-      v-if="totalRows > perPage"
-    ></b-pagination>
+    <b-row v-if="codes">
+      <b-col class="my-1">
+        <b-form-group
+          label="Filter"
+          :label-cols-sm="false"
+          label-cols-lg="2"
+          label-cols-xl="1"
+          label-align-lg="right"
+          label-size="sm"
+          label-for="filterInput"
+          class="mb-0"
+        >
+          <b-input-group size="sm">
+            <b-form-input
+              v-model="filter"
+              type="search"
+              id="filterInput"
+              placeholder="Type to Search"
+            ></b-form-input>
+            <b-input-group-append>
+              <b-button :disabled="!filter" @click="filter = ''">Clear</b-button>
+            </b-input-group-append>
+          </b-input-group>
+        </b-form-group>
+      </b-col>
+      <b-col class="my-1"
+        v-if="totalRows > perPage">
+        <b-form-group
+          label="Page"
+          :label-cols-sm="false"
+          label-cols-lg="2"
+          label-cols-xl="1"
+          label-align-lg="right"
+          label-size="sm"
+          class="mb-0"
+        >
+          <b-pagination
+            v-model="currentPage"
+            :total-rows="totalRows"
+            :per-page="perPage"
+            align="fill"
+            size="sm"
+            class="my-0"
+          ></b-pagination>
+        </b-form-group>
+      </b-col>
+    </b-row>
     <b-table
       :fields="fields"
       :items="codes"
@@ -35,6 +73,8 @@
       :current-page="currentPage"
       :per-page="perPage"
       :busy="isBusy"
+      :filter="filter"
+      @filtered="onFiltered"
       responsive>
 
       <template v-slot:table-busy>
@@ -53,16 +93,22 @@
         <router-link :to="'../' + categoryCodelist + '/#' + data.item.category">{{ data.item.category }}</router-link>
       </template>
     </b-table>
-    <b-pagination
-      v-model="currentPage"
-      :total-rows="totalRows"
-      :per-page="perPage"
-      align="fill"
-      size="sm"
-      class="my-0"
-      v-if="totalRows > perPage"
-      responsive
-    ></b-pagination>
+    <b-form-group
+      label="Page"
+      label-cols-sm="1"
+      label-align-lg="right"
+      label-size="sm"
+      class="mb-0"
+      v-if="totalRows > perPage">
+      <b-pagination
+        v-model="currentPage"
+        :total-rows="totalRows"
+        :per-page="perPage"
+        align="fill"
+        size="sm"
+        class="my-0"
+      ></b-pagination>
+    </b-form-group>
   </div>
 </template>
 <style>
@@ -149,12 +195,12 @@
         handler: 'handleScroll'
       }
     },
-    computed: {
-      totalRows() {
-        return this.codes.length
-      }
-    },
     methods: {
+      onFiltered(filteredItems) {
+        // Trigger pagination to update the number of buttons/pages due to filtering
+        this.totalRows = filteredItems.length
+        this.currentPage = 1
+      },
       handleScroll() {
         var hash = this.$route.hash.split("#")[1]
         if (this.totalRows > this.perPage) {
