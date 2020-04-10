@@ -1,4 +1,4 @@
-# Replicated codelists interface builder
+# Replicated codelist viewer
 
 [![Build Status](https://travis-ci.com/codeforIATI/codelists.svg?branch=master)](https://travis-ci.com/codeforIATI/codelists)
 
