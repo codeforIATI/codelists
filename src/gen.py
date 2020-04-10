@@ -18,10 +18,15 @@ languages = ['en', 'fr']
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
 nsmap = {'xml': 'http://www.w3.org/XML/1998/namespace'}
 
-repo = git.Repo('IATI-Codelists-NonEmbedded/.git')
-tree = repo.tree()
-repo_extra = git.Repo('Unofficial-Codelists/.git')
-tree_extra = repo_extra.tree()
+repo_names = [
+    'IATI-Codelists-NonEmbedded',
+    'Unofficial-Codelists',
+    'IATI-Codelists']
+repos = []
+for repo_name in repo_names:
+    repo = git.Repo(repo_name + '/.git')
+    tree = repo.tree()
+    repos.append((repo, tree))
 
 OUTPUTDIR = sys.argv[1]
 
@@ -37,12 +42,13 @@ def normalize_whitespace(x):
 
 
 def get_last_updated_date(codelist_name):
-    try:
-        blob = tree['xml/{}.xml'.format(codelist_name)]
-        commit = next(repo.iter_commits(paths=blob.path))
-    except KeyError:
-        blob = tree_extra['xml/{}.xml'.format(codelist_name)]
-        commit = next(repo_extra.iter_commits(paths=blob.path))
+    for repo, tree in repos:
+        try:
+            blob = tree['xml/{}.xml'.format(codelist_name)]
+            commit = next(repo.iter_commits(paths=blob.path))
+            break
+        except KeyError:
+            pass
     return date.fromtimestamp(commit.committed_date).isoformat()
 
 
