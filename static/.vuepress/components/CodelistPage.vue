@@ -203,12 +203,12 @@
       },
       handleScroll() {
         var hash = this.$route.hash.split("#")[1]
-        if (this.totalRows > this.perPage) {
-          var codeIndex = this.codes.findIndex(code => code.code == hash)+1
-          var newPage = Math.ceil(codeIndex/parseFloat(this.perPage))
-          this.currentPage = newPage
-        }
         if (this.$route.hash) {
+          if (this.totalRows > this.perPage) {
+            var codeIndex = this.codes.findIndex(code => code.code == hash)+1
+            var newPage = Math.ceil(codeIndex/parseFloat(this.perPage))
+            this.currentPage = newPage
+          }
           setTimeout(() => {
             var anchor = document.getElementById(hash)
             VueScrollTo.scrollTo(anchor, 500)
