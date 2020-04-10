@@ -8,12 +8,12 @@
         </p>
       </b-col>
       <b-col md="4" class="md-text-right">
-        <b-dropdown :text="this.$themeLocaleConfig.download" right style="margin-bottom:10px">
+        <b-dropdown :text="this.$themeLocaleConfig.download" right class="download-dropdown">
           <b-dropdown-item v-for="downloadURL in downloadURLs" :href="downloadURL.url">{{ downloadURL.format }}</b-dropdown-item>
         </b-dropdown>
       </b-col>
     </b-row>
-    <b-alert show>
+    <b-alert :show="description || categoryCodeList || url">
       <p v-if="description"><i v-html="description"></i></p>
       <p v-if="categoryCodelist">{{ this.$themeLocaleConfig.categorisedCodelist }}
       <router-link :to="`../${categoryCodelist}`"><code>{{ categoryCodelist }}</code></router-link>.</p>
@@ -66,6 +66,10 @@
   </div>
 </template>
 <style>
+  .download-dropdown {
+    margin-bottom:10px;
+    width:100%;
+  }
   .theme-default-content:not(.custom) {
     max-width: inherit;
   }
