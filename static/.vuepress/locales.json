@@ -15,6 +15,7 @@
     "source": "Original source",
     "headers": {
       "url": "URL",
+      "public-database": "Public database",
       "codeforiati:iso-alpha-2-code": "ISO alpha-2 code",
       "codeforiati:iso-alpha-3-code": "ISO alpha-3 code",
       "codeforiati:global-code": "Global code",
@@ -54,6 +55,7 @@
       "category": "Catégorie",
       "description": "Description",
       "url": "URL",
+      "public-database": "Base de données publique",
       "status": "Statut",
       "codeforiati:iso-alpha-2-code": "ISO alpha-2 code",
       "codeforiati:iso-alpha-3-code": "ISO alpha-3 code",
@@ -77,6 +79,10 @@
       "status": {
         "active": "actif",
         "withdrawn": "retiré"
+      },
+      "public-database": {
+        "true": "vrai",
+        "false": "faux"
       }
     }
   }
