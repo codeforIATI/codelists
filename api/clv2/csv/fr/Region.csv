@@ -4,8 +4,8 @@ code,name,status
 189,"Nord du Sahara, régional",active
 289,"Sud du Sahara, régional",active
 298,"Afrique, régional",active
-380,"Indes occ., régional",active
-389,"Amérique N.& C., régional",active
+380,"Indes occ., régional",withdrawn
+389,"Caraïbes et Amérique centrale, régional",active
 489,"Amérique du Sud, régional",active
 498,"Amérique, régional",active
 589,"Moyen-Orient, régional",active
@@ -16,3 +16,12 @@ code,name,status
 798,"Asie, régional",active
 889,"Océanie, régional",active
 998,"Pays en développement, non spécifié",active
+1027,"Afrique de l'est, régional",active
+1028,"Afrique centrale, régional",active
+1029,"Afrique australe, régional",active
+1030,"Afrique occidentale, régional",active
+1031,"Caraïbes, régional",active
+1032,"Amérique centrale, régional",active
+1033,"Mélanésie, régional",active
+1034,"Micronésie, régional",active
+1035,"Polynésie, régional",active

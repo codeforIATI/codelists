@@ -1,4 +1,4 @@
-<codelist name="Region" date-last-modified="2020-04-23T08:24:20.249682+00:00" version="" xml:lang="en">
+<codelist name="Region" date-last-modified="2020-04-23T09:31:06.657127+00:00" version="" xml:lang="en">
   <Region>
     <code>88</code>
     <name>States Ex-Yugoslavia unspecified</name>
@@ -31,7 +31,7 @@
   </Region>
   <Region>
     <code>389</code>
-    <name>North &amp; Central America, regional</name>
+    <name>Caribbean &amp; Central America, regional</name>
     <language>en</language>
   </Region>
   <Region>
@@ -82,6 +82,51 @@
   <Region>
     <code>998</code>
     <name>Developing countries, unspecified</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1027</code>
+    <name>Eastern Africa, regional</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1028</code>
+    <name>Middle Africa, regional</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1029</code>
+    <name>Southern Africa, regional</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1030</code>
+    <name>Western Africa, regional</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1031</code>
+    <name>Caribbean, regional</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1032</code>
+    <name>Central America, regional</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1033</code>
+    <name>Melanesia, regional</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1034</code>
+    <name>Micronesia, regional</name>
+    <language>en</language>
+  </Region>
+  <Region>
+    <code>1035</code>
+    <name>Polynesia, regional</name>
     <language>en</language>
   </Region>
 </codelist>
