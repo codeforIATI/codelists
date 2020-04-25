@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000054-BDI</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>BDI</codeforiati:country-code>
+            <codeforiati:date>2020-04-19</codeforiati:date>
+            <codeforiati:glide-serial>2020-000054</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Burundi</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000051-FJI</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>FJI</codeforiati:country-code>
