@@ -16,6 +16,51 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FF-2020-000123-YEM</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>YEM</codeforiati:country-code>
+            <codeforiati:date>2020-03-24</codeforiati:date>
+            <codeforiati:glide-serial>2020-000123</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Yemen</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DR-2020-000122-LKA</code>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:country-code>LKA</codeforiati:country-code>
+            <codeforiati:date>2020-03-04</codeforiati:date>
+            <codeforiati:glide-serial>2020-000122</codeforiati:glide-serial>
+            <codeforiati:event>Drought</codeforiati:event>
+            <codeforiati:country>Sri Lanka</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2020-000120-CAF</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>CAF</codeforiati:country-code>
+            <codeforiati:date>2020-02-01</codeforiati:date>
+            <codeforiati:glide-serial>2020-000120</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Central African Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000069-LAO</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>LAO</codeforiati:country-code>
+            <codeforiati:date>2020-04-29</codeforiati:date>
+            <codeforiati:glide-serial>2020-000069</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Lao People's Democratic Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2020-000055-SOM</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>SOM</codeforiati:country-code>
+            <codeforiati:date>2020-04-23</codeforiati:date>
+            <codeforiati:glide-serial>2020-000055</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Somalia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000054-BDI</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>BDI</codeforiati:country-code>
@@ -23,6 +68,24 @@
             <codeforiati:glide-serial>2020-000054</codeforiati:glide-serial>
             <codeforiati:event>Flood</codeforiati:event>
             <codeforiati:country>Burundi</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2020-000053-DJI</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>DJI</codeforiati:country-code>
+            <codeforiati:date>2020-04-20</codeforiati:date>
+            <codeforiati:glide-serial>2020-000053</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Djibouti</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000052-COD</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>COD</codeforiati:country-code>
+            <codeforiati:date>2020-04-16</codeforiati:date>
+            <codeforiati:glide-serial>2020-000052</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Congo Democratic Republic</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
             <code>TC-2020-000051-FJI</code>
@@ -2572,6 +2635,15 @@
             <codeforiati:country>Maldives</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-2019-000121-IND</code>
+            <codeforiati:event-code>IN</codeforiati:event-code>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:date>2019-06-01</codeforiati:date>
+            <codeforiati:glide-serial>2019-000121</codeforiati:glide-serial>
+            <codeforiati:event>Insect Infestation</codeforiati:event>
+            <codeforiati:country>India</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2019-000120-PHL</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>PHL</codeforiati:country-code>
@@ -2590,6 +2662,15 @@
             <codeforiati:country>Indonesia</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2019-000119-CMR</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>CMR</codeforiati:country-code>
+            <codeforiati:date>2019-10-01</codeforiati:date>
+            <codeforiati:glide-serial>2019-000119</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Cameroon</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2019-000118-SEN</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>SEN</codeforiati:country-code>
@@ -2599,12 +2680,39 @@
             <codeforiati:country>Senegal</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>VO-2019-000118-PNG</code>
+            <codeforiati:event-code>VO</codeforiati:event-code>
+            <codeforiati:country-code>PNG</codeforiati:country-code>
+            <codeforiati:date>2019-06-26</codeforiati:date>
+            <codeforiati:glide-serial>2019-000118</codeforiati:glide-serial>
+            <codeforiati:event>Volcano</codeforiati:event>
+            <codeforiati:country>Papua New Guinea</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EQ-2019-000117-PAK</code>
             <codeforiati:event-code>EQ</codeforiati:event-code>
             <codeforiati:country-code>PAK</codeforiati:country-code>
             <codeforiati:date>2019-09-24</codeforiati:date>
             <codeforiati:glide-serial>2019-000117</codeforiati:glide-serial>
             <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Pakistan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2019-000117-SDN</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>SDN</codeforiati:country-code>
+            <codeforiati:date>2019-06-01</codeforiati:date>
+            <codeforiati:glide-serial>2019-000117</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Sudan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2019-000116-PAK</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>PAK</codeforiati:country-code>
+            <codeforiati:date>2019-05-01</codeforiati:date>
+            <codeforiati:glide-serial>2019-000116</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
             <codeforiati:country>Pakistan</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
@@ -2626,6 +2734,15 @@
             <codeforiati:country>South Africa</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EP-2019-000114-KEN</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>KEN</codeforiati:country-code>
+            <codeforiati:date>2019-01-15</codeforiati:date>
+            <codeforiati:glide-serial>2019-000114</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Kenya</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EQ-2019-000114-ALB</code>
             <codeforiati:event-code>EQ</codeforiati:event-code>
             <codeforiati:country-code>ALB</codeforiati:country-code>
@@ -2633,6 +2750,15 @@
             <codeforiati:glide-serial>2019-000114</codeforiati:glide-serial>
             <codeforiati:event>Earthquake</codeforiati:event>
             <codeforiati:country>Albania</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DR-2019-000113-PHL</code>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2019-03-03</codeforiati:date>
+            <codeforiati:glide-serial>2019-000113</codeforiati:glide-serial>
+            <codeforiati:event>Drought</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
             <code>EP-2019-000113-SDN</code>
@@ -2653,6 +2779,15 @@
             <codeforiati:country>Nigeria</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EP-2019-000112-PHL</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2019-02-06</codeforiati:date>
+            <codeforiati:glide-serial>2019-000112</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2019-000111-KHM</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>KHM</codeforiati:country-code>
@@ -2660,6 +2795,15 @@
             <codeforiati:glide-serial>2019-000111</codeforiati:glide-serial>
             <codeforiati:event>Flood</codeforiati:event>
             <codeforiati:country>Cambodia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ST-2019-000111-CUB</code>
+            <codeforiati:event-code>ST</codeforiati:event-code>
+            <codeforiati:country-code>CUB</codeforiati:country-code>
+            <codeforiati:date>2019-01-27</codeforiati:date>
+            <codeforiati:glide-serial>2019-000111</codeforiati:glide-serial>
+            <codeforiati:event>SEVERE LOCAL STORM</codeforiati:event>
+            <codeforiati:country>Cuba</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
             <code>EP-2019-000110-PHL</code>
@@ -4381,6 +4525,15 @@
             <codeforiati:country>Japan</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-2018-000115-IND</code>
+            <codeforiati:event-code>IN</codeforiati:event-code>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:date>2018-12-01</codeforiati:date>
+            <codeforiati:glide-serial>2018-000115</codeforiati:glide-serial>
+            <codeforiati:event>Insect Infestation</codeforiati:event>
+            <codeforiati:country>India</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EQ-2018-000114-IRN</code>
             <codeforiati:event-code>EQ</codeforiati:event-code>
             <codeforiati:country-code>IRN</codeforiati:country-code>
@@ -4417,6 +4570,15 @@
             <codeforiati:country>Ethiopia</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2018-000110-NIC</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>NIC</codeforiati:country-code>
+            <codeforiati:date>2018-10-05</codeforiati:date>
+            <codeforiati:glide-serial>2018-000110</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Nicaragua</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2018-000110-CHN</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>CHN</codeforiati:country-code>
@@ -4424,6 +4586,123 @@
             <codeforiati:glide-serial>2018-000110</codeforiati:glide-serial>
             <codeforiati:event>Tropical Cyclone</codeforiati:event>
             <codeforiati:country>China, People's Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2018-000109-TTO</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>TTO</codeforiati:country-code>
+            <codeforiati:date>2018-10-18</codeforiati:date>
+            <codeforiati:glide-serial>2018-000109</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Trinidad &amp; Tobago</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2018-000108-GTM</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>GTM</codeforiati:country-code>
+            <codeforiati:date>2018-10-05</codeforiati:date>
+            <codeforiati:glide-serial>2018-000108</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Guatemala</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2018-000107-NER</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>NER</codeforiati:country-code>
+            <codeforiati:date>2018-07-15</codeforiati:date>
+            <codeforiati:glide-serial>2018-000107</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Niger</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DR-2018-000106-SLV</code>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:country-code>SLV</codeforiati:country-code>
+            <codeforiati:date>2018-07-15</codeforiati:date>
+            <codeforiati:glide-serial>2018-000106</codeforiati:glide-serial>
+            <codeforiati:event>Drought</codeforiati:event>
+            <codeforiati:country>El Salvador</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2018-000105-BGD</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>BGD</codeforiati:country-code>
+            <codeforiati:date>2018-04-01</codeforiati:date>
+            <codeforiati:glide-serial>2018-000105</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Bangladesh</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2018-000104-COD</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>COD</codeforiati:country-code>
+            <codeforiati:date>2018-02-13</codeforiati:date>
+            <codeforiati:glide-serial>2018-000104</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Congo Democratic Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2018-000103-MWI</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>MWI</codeforiati:country-code>
+            <codeforiati:date>2018-01-01</codeforiati:date>
+            <codeforiati:glide-serial>2018-000103</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Malawi</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2018-000102-ASM</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>ASM</codeforiati:country-code>
+            <codeforiati:date>2018-02-05</codeforiati:date>
+            <codeforiati:glide-serial>2018-000102</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>American Samoa</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2018-000102-FJI</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>FJI</codeforiati:country-code>
+            <codeforiati:date>2018-02-05</codeforiati:date>
+            <codeforiati:glide-serial>2018-000102</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Fiji</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2018-000102-NIU</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>NIU</codeforiati:country-code>
+            <codeforiati:date>2018-02-05</codeforiati:date>
+            <codeforiati:glide-serial>2018-000102</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Niue</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2018-000102-TON</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>TON</codeforiati:country-code>
+            <codeforiati:date>2018-02-05</codeforiati:date>
+            <codeforiati:glide-serial>2018-000102</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Tonga</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2018-000102-WSM</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>WSM</codeforiati:country-code>
+            <codeforiati:date>2018-02-05</codeforiati:date>
+            <codeforiati:glide-serial>2018-000102</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Samoa</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2018-000101-NAM</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>NAM</codeforiati:country-code>
+            <codeforiati:date>2018-01-01</codeforiati:date>
+            <codeforiati:glide-serial>2018-000101</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Namibia</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
             <code>FL-2018-000092-MNG</code>

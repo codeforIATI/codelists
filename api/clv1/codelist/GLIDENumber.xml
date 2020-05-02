@@ -1,11 +1,46 @@
-<codelist name="GLIDENumber" date-last-modified="2020-05-02T08:23:15.420866+00:00" version="" xml:lang="en">
+<codelist name="GLIDENumber" date-last-modified="2020-05-02T11:44:20.626636+00:00" version="" xml:lang="en">
   <GLIDENumber>
     <code>EP-2020-000012-001</code>
     <name></name>
     <language>en</language>
   </GLIDENumber>
   <GLIDENumber>
+    <code>FF-2020-000123-YEM</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>DR-2020-000122-LKA</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>EP-2020-000120-CAF</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FL-2020-000069-LAO</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FF-2020-000055-SOM</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
     <code>FL-2020-000054-BDI</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FF-2020-000053-DJI</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FL-2020-000052-COD</code>
     <name></name>
     <language>en</language>
   </GLIDENumber>
@@ -1425,6 +1460,11 @@
     <language>en</language>
   </GLIDENumber>
   <GLIDENumber>
+    <code>IN-2019-000121-IND</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
     <code>FL-2019-000120-PHL</code>
     <name></name>
     <language>en</language>
@@ -1435,12 +1475,32 @@
     <language>en</language>
   </GLIDENumber>
   <GLIDENumber>
+    <code>FL-2019-000119-CMR</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
     <code>FL-2019-000118-SEN</code>
     <name></name>
     <language>en</language>
   </GLIDENumber>
   <GLIDENumber>
+    <code>VO-2019-000118-PNG</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
     <code>EQ-2019-000117-PAK</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FL-2019-000117-SDN</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>EP-2019-000116-PAK</code>
     <name></name>
     <language>en</language>
   </GLIDENumber>
@@ -1455,7 +1515,17 @@
     <language>en</language>
   </GLIDENumber>
   <GLIDENumber>
+    <code>EP-2019-000114-KEN</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
     <code>EQ-2019-000114-ALB</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>DR-2019-000113-PHL</code>
     <name></name>
     <language>en</language>
   </GLIDENumber>
@@ -1470,7 +1540,17 @@
     <language>en</language>
   </GLIDENumber>
   <GLIDENumber>
+    <code>EP-2019-000112-PHL</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
     <code>FL-2019-000111-KHM</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>ST-2019-000111-CUB</code>
     <name></name>
     <language>en</language>
   </GLIDENumber>
@@ -2430,6 +2510,11 @@
     <language>en</language>
   </GLIDENumber>
   <GLIDENumber>
+    <code>IN-2018-000115-IND</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
     <code>EQ-2018-000114-IRN</code>
     <name></name>
     <language>en</language>
@@ -2450,7 +2535,77 @@
     <language>en</language>
   </GLIDENumber>
   <GLIDENumber>
+    <code>FL-2018-000110-NIC</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
     <code>TC-2018-000110-CHN</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FL-2018-000109-TTO</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FL-2018-000108-GTM</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FL-2018-000107-NER</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>DR-2018-000106-SLV</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>FL-2018-000105-BGD</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>EP-2018-000104-COD</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>EP-2018-000103-MWI</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>TC-2018-000102-ASM</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>TC-2018-000102-FJI</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>TC-2018-000102-NIU</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>TC-2018-000102-TON</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>TC-2018-000102-WSM</code>
+    <name></name>
+    <language>en</language>
+  </GLIDENumber>
+  <GLIDENumber>
+    <code>EP-2018-000101-NAM</code>
     <name></name>
     <language>en</language>
   </GLIDENumber>
