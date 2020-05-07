@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000126-ETH</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>ETH</codeforiati:country-code>
+            <codeforiati:date>2020-05-05</codeforiati:date>
+            <codeforiati:glide-serial>2020-000126</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Ethiopia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000125-TZA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>TZA</codeforiati:country-code>
+            <codeforiati:date>2020-04-22</codeforiati:date>
+            <codeforiati:glide-serial>2020-000125</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Tanzania</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FF-2020-000123-YEM</code>
             <codeforiati:event-code>FF</codeforiati:event-code>
             <codeforiati:country-code>YEM</codeforiati:country-code>
