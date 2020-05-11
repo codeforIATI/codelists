@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000130-KAZ</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>KAZ</codeforiati:country-code>
+            <codeforiati:date>2020-05-01</codeforiati:date>
+            <codeforiati:glide-serial>2020-000130</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Kazakhstan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2020-000127-ZWE</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>ZWE</codeforiati:country-code>
+            <codeforiati:date>2020-05-07</codeforiati:date>
+            <codeforiati:glide-serial>2020-000127</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Zimbabwe</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000126-ETH</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>ETH</codeforiati:country-code>
