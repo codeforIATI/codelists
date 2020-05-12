@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EQ-2020-000131-CUB</code>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:country-code>CUB</codeforiati:country-code>
+            <codeforiati:date>2020-01-28</codeforiati:date>
+            <codeforiati:glide-serial>2020-000131</codeforiati:glide-serial>
+            <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Cuba</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000130-KAZ</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>KAZ</codeforiati:country-code>
