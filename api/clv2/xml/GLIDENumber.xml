@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2020-000134-PHL</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2020-05-14</codeforiati:date>
+            <codeforiati:glide-serial>2020-000134</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000133-BDI</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>BDI</codeforiati:country-code>
@@ -3178,7 +3187,7 @@
             <code>FL-2019-000075-HUN</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>HUN</codeforiati:country-code>
-            <codeforiati:date>2019/27/6</codeforiati:date>
+            <codeforiati:date>2019-06-27</codeforiati:date>
             <codeforiati:glide-serial>2019-000075</codeforiati:glide-serial>
             <codeforiati:event>Flood</codeforiati:event>
             <codeforiati:country>Hungary</codeforiati:country>
@@ -3952,7 +3961,7 @@
             <code>TC-2018-000427-FJI</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>FJI</codeforiati:country-code>
-            <codeforiati:date>2018/31/12</codeforiati:date>
+            <codeforiati:date>2018-12-31</codeforiati:date>
             <codeforiati:glide-serial>2018-000427</codeforiati:glide-serial>
             <codeforiati:event>Tropical Cyclone</codeforiati:event>
             <codeforiati:country>Fiji</codeforiati:country>
@@ -7804,7 +7813,7 @@
             <code>TC-2016-000106-LCA</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>LCA</codeforiati:country-code>
-            <codeforiati:date>2016/28/9</codeforiati:date>
+            <codeforiati:date>2016-09-28</codeforiati:date>
             <codeforiati:glide-serial>2016-000106</codeforiati:glide-serial>
             <codeforiati:event>Tropical Cyclone</codeforiati:event>
             <codeforiati:country>Saint Lucia</codeforiati:country>
@@ -12790,7 +12799,7 @@
             <code>OT-2013-000151-UKR</code>
             <codeforiati:event-code>OT</codeforiati:event-code>
             <codeforiati:country-code>UKR</codeforiati:country-code>
-            <codeforiati:date>2013/30/11</codeforiati:date>
+            <codeforiati:date>2013-11-30</codeforiati:date>
             <codeforiati:glide-serial>2013-000151</codeforiati:glide-serial>
             <codeforiati:event>Other</codeforiati:event>
             <codeforiati:country>Ukraine</codeforiati:country>
