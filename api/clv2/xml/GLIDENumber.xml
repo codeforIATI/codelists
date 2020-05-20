@@ -16,6 +16,33 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2020-000137-BGD</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>BGD</codeforiati:country-code>
+            <codeforiati:date>2020-05-18</codeforiati:date>
+            <codeforiati:glide-serial>2020-000137</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Bangladesh</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000136-MMR</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>MMR</codeforiati:country-code>
+            <codeforiati:date>2020-05-18</codeforiati:date>
+            <codeforiati:glide-serial>2020-000136</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Myanmar</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000135-IND</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:date>2020-05-16</codeforiati:date>
+            <codeforiati:glide-serial>2020-000135</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>India</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000134-PHL</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>PHL</codeforiati:country-code>
