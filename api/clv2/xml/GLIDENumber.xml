@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FF-2020-000138-TJK</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>TJK</codeforiati:country-code>
+            <codeforiati:date>2020-05-14</codeforiati:date>
+            <codeforiati:glide-serial>2020-000138</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Tajikistan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000137-BGD</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>BGD</codeforiati:country-code>
