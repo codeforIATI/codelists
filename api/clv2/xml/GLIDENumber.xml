@@ -16,6 +16,33 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2020-000145-IND</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:date>2020-06-03</codeforiati:date>
+            <codeforiati:glide-serial>2020-000145</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>India</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SS-2020-000143-CUB</code>
+            <codeforiati:event-code>SS</codeforiati:event-code>
+            <codeforiati:country-code>CUB</codeforiati:country-code>
+            <codeforiati:date>2020-01-27</codeforiati:date>
+            <codeforiati:glide-serial>2020-000143</codeforiati:glide-serial>
+            <codeforiati:event>Storm Surge</codeforiati:event>
+            <codeforiati:country>Cuba</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000142-SLV</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>SLV</codeforiati:country-code>
+            <codeforiati:date>2020-05-31</codeforiati:date>
+            <codeforiati:glide-serial>2020-000142</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>El Salvador</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000141-THA</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>THA</codeforiati:country-code>
