@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000147-CHN</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>CHN</codeforiati:country-code>
+            <codeforiati:date>2020-06-01</codeforiati:date>
+            <codeforiati:glide-serial>2020-000147</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>China, People's Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000146-SLV</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>SLV</codeforiati:country-code>
