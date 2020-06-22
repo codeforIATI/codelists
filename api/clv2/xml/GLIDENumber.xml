@@ -16,6 +16,42 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EP-2020-000151-COD</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>COD</codeforiati:country-code>
+            <codeforiati:date>2020-06-01</codeforiati:date>
+            <codeforiati:glide-serial>2020-000151</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Congo Democratic Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OT-2020-000150-LBY</code>
+            <codeforiati:event-code>OT</codeforiati:event-code>
+            <codeforiati:country-code>LBY</codeforiati:country-code>
+            <codeforiati:date>2020-06-17</codeforiati:date>
+            <codeforiati:glide-serial>2020-000150</codeforiati:glide-serial>
+            <codeforiati:event>Other</codeforiati:event>
+            <codeforiati:country>Libyan Arab Jamah</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000149-BFA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>BFA</codeforiati:country-code>
+            <codeforiati:date>2020-06-05</codeforiati:date>
+            <codeforiati:glide-serial>2020-000149</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Burkina Faso</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2020-000148-TUR</code>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:country-code>TUR</codeforiati:country-code>
+            <codeforiati:date>2020-06-14</codeforiati:date>
+            <codeforiati:glide-serial>2020-000148</codeforiati:glide-serial>
+            <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Turkey</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000147-CHN</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>CHN</codeforiati:country-code>
