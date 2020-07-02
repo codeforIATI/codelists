@@ -16,6 +16,33 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000157-MYS</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>MYS</codeforiati:country-code>
+            <codeforiati:date>2020-06-27</codeforiati:date>
+            <codeforiati:glide-serial>2020-000157</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Malaysia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2020-000156-UKR</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>UKR</codeforiati:country-code>
+            <codeforiati:date>2020-06-22</codeforiati:date>
+            <codeforiati:glide-serial>2020-000156</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Ukraine</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OT-2020-000155-IDN</code>
+            <codeforiati:event-code>OT</codeforiati:event-code>
+            <codeforiati:country-code>IDN</codeforiati:country-code>
+            <codeforiati:date>2020-06-24</codeforiati:date>
+            <codeforiati:glide-serial>2020-000155</codeforiati:glide-serial>
+            <codeforiati:event>Other</codeforiati:event>
+            <codeforiati:country>Indonesia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000154-CIV</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>CIV</codeforiati:country-code>
