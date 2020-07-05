@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>OT-2020-000159-MMR</code>
+            <codeforiati:event-code>OT</codeforiati:event-code>
+            <codeforiati:country-code>MMR</codeforiati:country-code>
+            <codeforiati:date>2020-07-02</codeforiati:date>
+            <codeforiati:glide-serial>2020-000159</codeforiati:glide-serial>
+            <codeforiati:event>Other</codeforiati:event>
+            <codeforiati:country>Myanmar</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2020-000158-SRB</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>SRB</codeforiati:country-code>
+            <codeforiati:date>2020-07-22</codeforiati:date>
+            <codeforiati:glide-serial>2020-000158</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Serbia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000157-MYS</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>MYS</codeforiati:country-code>
