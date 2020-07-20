@@ -16,6 +16,33 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FF-2020-000170-IDN</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>IDN</codeforiati:country-code>
+            <codeforiati:date>2020-07-16</codeforiati:date>
+            <codeforiati:glide-serial>2020-000170</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Indonesia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OT-2020-000169-PHL</code>
+            <codeforiati:event-code>OT</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2020-06-30</codeforiati:date>
+            <codeforiati:glide-serial>2020-000169</codeforiati:glide-serial>
+            <codeforiati:event>Other</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2020-000168-MNG</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>MNG</codeforiati:country-code>
+            <codeforiati:date>2020-06-17</codeforiati:date>
+            <codeforiati:glide-serial>2020-000168</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Mongolia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>DR-2020-000167-MRT</code>
             <codeforiati:event-code>DR</codeforiati:event-code>
             <codeforiati:country-code>MRT</codeforiati:country-code>
