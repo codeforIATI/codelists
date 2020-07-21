@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000171-ARM</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>ARM</codeforiati:country-code>
+            <codeforiati:date>2020-07-13</codeforiati:date>
+            <codeforiati:glide-serial>2020-000171</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Armenia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FF-2020-000170-IDN</code>
             <codeforiati:event-code>FF</codeforiati:event-code>
             <codeforiati:country-code>IDN</codeforiati:country-code>
