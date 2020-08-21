@@ -16,6 +16,42 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000182-CHN</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>CHN</codeforiati:country-code>
+            <codeforiati:date>2020-08-20</codeforiati:date>
+            <codeforiati:glide-serial>2020-000182</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>China, People's Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OT-2020-000181-BLR</code>
+            <codeforiati:event-code>OT</codeforiati:event-code>
+            <codeforiati:country-code>BLR</codeforiati:country-code>
+            <codeforiati:date>2020-08-11</codeforiati:date>
+            <codeforiati:glide-serial>2020-000181</codeforiati:glide-serial>
+            <codeforiati:event>Other</codeforiati:event>
+            <codeforiati:country>Belarus</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AC-2020-000180-MUS</code>
+            <codeforiati:event-code>AC</codeforiati:event-code>
+            <codeforiati:country-code>MUS</codeforiati:country-code>
+            <codeforiati:date>2020-08-07</codeforiati:date>
+            <codeforiati:glide-serial>2020-000180</codeforiati:glide-serial>
+            <codeforiati:event>Tech. Disaster</codeforiati:event>
+            <codeforiati:country>Mauritius</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2020-000179-IDN</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>IDN</codeforiati:country-code>
+            <codeforiati:date>2020-08-06</codeforiati:date>
+            <codeforiati:glide-serial>2020-000179</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Indonesia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000178-PRK</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>PRK</codeforiati:country-code>
