@@ -16,6 +16,87 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000190-NER</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>NER</codeforiati:country-code>
+            <codeforiati:date>2020-08-12</codeforiati:date>
+            <codeforiati:glide-serial>2020-000190</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Niger</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000189-HTI</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>HTI</codeforiati:country-code>
+            <codeforiati:date>2020-08-22</codeforiati:date>
+            <codeforiati:glide-serial>2020-000189</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Haiti</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000189-USA</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2020-08-27</codeforiati:date>
+            <codeforiati:glide-serial>2020-000189</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2020-000188-DZA</code>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:country-code>DZA</codeforiati:country-code>
+            <codeforiati:date>2020-08-07</codeforiati:date>
+            <codeforiati:glide-serial>2020-000188</codeforiati:glide-serial>
+            <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Algeria</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000187-KOR</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>KOR</codeforiati:country-code>
+            <codeforiati:date>2020-08-04</codeforiati:date>
+            <codeforiati:glide-serial>2020-000187</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Korea Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2020-000186-PHL</code>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2020-08-18</codeforiati:date>
+            <codeforiati:glide-serial>2020-000186</codeforiati:glide-serial>
+            <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000185-PAK</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>PAK</codeforiati:country-code>
+            <codeforiati:date>2020-08-10</codeforiati:date>
+            <codeforiati:glide-serial>2020-000185</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Pakistan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2020-000184-USA</code>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2020-08-18</codeforiati:date>
+            <codeforiati:glide-serial>2020-000184</codeforiati:glide-serial>
+            <codeforiati:event>Wild fire</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HT-2020-000183-JPN</code>
+            <codeforiati:event-code>HT</codeforiati:event-code>
+            <codeforiati:country-code>JPN</codeforiati:country-code>
+            <codeforiati:date>2020-08-12</codeforiati:date>
+            <codeforiati:glide-serial>2020-000183</codeforiati:glide-serial>
+            <codeforiati:event>Heat Wave</codeforiati:event>
+            <codeforiati:country>Japan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000182-CHN</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>CHN</codeforiati:country-code>
@@ -473,6 +554,15 @@
             <codeforiati:glide-serial>2020-000130</codeforiati:glide-serial>
             <codeforiati:event>Flood</codeforiati:event>
             <codeforiati:country>Kazakhstan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2020-000129-SDN</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>SDN</codeforiati:country-code>
+            <codeforiati:date>2020-08-09</codeforiati:date>
+            <codeforiati:glide-serial>2020-000129</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Sudan</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
             <code>EP-2020-000127-ZWE</code>
