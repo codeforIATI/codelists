@@ -16,6 +16,60 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000196-NGA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>NGA</codeforiati:country-code>
+            <codeforiati:date>2020-08-02</codeforiati:date>
+            <codeforiati:glide-serial>2020-000196</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Nigeria</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000195-CMR</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>CMR</codeforiati:country-code>
+            <codeforiati:date>2020-08-01</codeforiati:date>
+            <codeforiati:glide-serial>2020-000195</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Cameroon</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000194-BLZ</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>BLZ</codeforiati:country-code>
+            <codeforiati:date>2020-09-01</codeforiati:date>
+            <codeforiati:glide-serial>2020-000194</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Belize</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000193-SSD</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>SSD</codeforiati:country-code>
+            <codeforiati:date>2020-08-04</codeforiati:date>
+            <codeforiati:glide-serial>2020-000193</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>South Sudan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000192-TCD</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>TCD</codeforiati:country-code>
+            <codeforiati:date>2020-08-25</codeforiati:date>
+            <codeforiati:glide-serial>2020-000192</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Chad</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2020-000191-AFG</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>AFG</codeforiati:country-code>
+            <codeforiati:date>2020-08-26</codeforiati:date>
+            <codeforiati:glide-serial>2020-000191</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Afghanistan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000190-NER</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>NER</codeforiati:country-code>
