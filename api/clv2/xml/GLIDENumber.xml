@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000198-SEN</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>SEN</codeforiati:country-code>
+            <codeforiati:date>2020-09-07</codeforiati:date>
+            <codeforiati:glide-serial>2020-000198</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Senegal</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000197-JPN</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>JPN</codeforiati:country-code>
+            <codeforiati:date>2020-09-06</codeforiati:date>
+            <codeforiati:glide-serial>2020-000197</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Japan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000196-NGA</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>NGA</codeforiati:country-code>
