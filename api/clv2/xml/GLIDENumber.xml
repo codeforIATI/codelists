@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000200-BFA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>BFA</codeforiati:country-code>
+            <codeforiati:date>2020-09-05</codeforiati:date>
+            <codeforiati:glide-serial>2020-000200</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Burkina Faso</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000199-MRT</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>MRT</codeforiati:country-code>
+            <codeforiati:date>2020-09-07</codeforiati:date>
+            <codeforiati:glide-serial>2020-000199</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Mauritania</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000198-SEN</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>SEN</codeforiati:country-code>
