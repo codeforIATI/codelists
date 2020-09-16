@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000202-GIN</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>GIN</codeforiati:country-code>
+            <codeforiati:date>2020-09-06</codeforiati:date>
+            <codeforiati:glide-serial>2020-000202</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Guinea</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2020-000201-YEM</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>YEM</codeforiati:country-code>
+            <codeforiati:date>2020-08-14</codeforiati:date>
+            <codeforiati:glide-serial>2020-000201</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Yemen</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000200-BFA</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>BFA</codeforiati:country-code>
