@@ -3,14 +3,11 @@
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
-    "bootstrap": "^4.3.1",
-    "bootstrap-vue": "^2.0.4",
+    "axios": "^0.19.2",
+    "bootstrap-vue": "^2.17.3",
     "fs-extra": "^8.1.0",
-    "vue": "^2.6.10",
     "vue-scrollto": "^2.17.1",
-    "vuepress": "^1.1.0",
-    "xml2js": "^0.4.22"
+    "vuepress": "^1.5.4"
   },
   "engines": {
     "node": ">= 8"
