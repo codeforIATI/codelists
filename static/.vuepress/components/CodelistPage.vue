@@ -13,7 +13,7 @@
         </b-dropdown>
       </b-col>
     </b-row>
-    <b-alert :show="description || categoryCodelist || url">
+    <b-alert :show="(description != null) || (categoryCodelist != null) || (url != null)">
       <p v-if="description"><i v-html="description"></i></p>
       <p v-if="categoryCodelist">{{ this.$themeLocaleConfig.categorisedCodelist }}
       <router-link :to="`../${categoryCodelist}`"><code>{{ categoryCodelist }}</code></router-link>.</p>
