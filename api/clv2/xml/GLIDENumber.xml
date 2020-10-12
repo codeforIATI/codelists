@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000206-COD</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>COD</codeforiati:country-code>
+            <codeforiati:date>2020-10-01</codeforiati:date>
+            <codeforiati:glide-serial>2020-000206</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Congo Democratic Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VO-2020-000205-ECU</code>
+            <codeforiati:event-code>VO</codeforiati:event-code>
+            <codeforiati:country-code>ECU</codeforiati:country-code>
+            <codeforiati:date>2020-09-20</codeforiati:date>
+            <codeforiati:glide-serial>2020-000205</codeforiati:glide-serial>
+            <codeforiati:event>Volcano</codeforiati:event>
+            <codeforiati:country>Ecuador</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FF-2020-000204-TUN</code>
             <codeforiati:event-code>FF</codeforiati:event-code>
             <codeforiati:country-code>TUN</codeforiati:country-code>
