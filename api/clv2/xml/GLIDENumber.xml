@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FR-2020-000208-SYR</code>
+            <codeforiati:event-code>FR</codeforiati:event-code>
+            <codeforiati:country-code>SYR</codeforiati:country-code>
+            <codeforiati:date>2020-10-08</codeforiati:date>
+            <codeforiati:glide-serial>2020-000208</codeforiati:glide-serial>
+            <codeforiati:event>Fire</codeforiati:event>
+            <codeforiati:country>Syrian Arab Rep</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000207-NGA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>NGA</codeforiati:country-code>
+            <codeforiati:date>2020-10-06</codeforiati:date>
+            <codeforiati:glide-serial>2020-000207</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Nigeria</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000206-COD</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>COD</codeforiati:country-code>
