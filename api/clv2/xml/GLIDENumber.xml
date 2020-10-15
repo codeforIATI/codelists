@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000210-VNM</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:date>2020-09-18</codeforiati:date>
+            <codeforiati:glide-serial>2020-000210</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Viet Nam</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OT-2020-000209-AZE</code>
+            <codeforiati:event-code>OT</codeforiati:event-code>
+            <codeforiati:country-code>AZE</codeforiati:country-code>
+            <codeforiati:date>2020-09-27</codeforiati:date>
+            <codeforiati:glide-serial>2020-000209</codeforiati:glide-serial>
+            <codeforiati:event>Other</codeforiati:event>
+            <codeforiati:country>Azerbaijan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FR-2020-000208-SYR</code>
             <codeforiati:event-code>FR</codeforiati:event-code>
             <codeforiati:country-code>SYR</codeforiati:country-code>
