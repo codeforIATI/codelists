@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2020-000211-VNM</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:date>2020-10-17</codeforiati:date>
+            <codeforiati:glide-serial>2020-000211</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Viet Nam</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000210-VNM</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>VNM</codeforiati:country-code>
