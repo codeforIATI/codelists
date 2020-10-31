@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2020-000214-PHL</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2020-10-29</codeforiati:date>
+            <codeforiati:glide-serial>2020-000214</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000213-LAO</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>LAO</codeforiati:country-code>
