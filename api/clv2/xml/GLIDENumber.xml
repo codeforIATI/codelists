@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EQ-2020-000215-TUR</code>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:country-code>TUR</codeforiati:country-code>
+            <codeforiati:date>2020-10-30</codeforiati:date>
+            <codeforiati:glide-serial>2020-000215</codeforiati:glide-serial>
+            <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Turkey</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000214-PHL</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>PHL</codeforiati:country-code>
