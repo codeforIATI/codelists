@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>LS-2020-000219-SLV</code>
+            <codeforiati:event-code>LS</codeforiati:event-code>
+            <codeforiati:country-code>SLV</codeforiati:country-code>
+            <codeforiati:date>2020-10-30</codeforiati:date>
+            <codeforiati:glide-serial>2020-000219</codeforiati:glide-serial>
+            <codeforiati:event>Land Slide</codeforiati:event>
+            <codeforiati:country>El Salvador</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000218-NIC</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>NIC</codeforiati:country-code>
+            <codeforiati:date>2020-11-02</codeforiati:date>
+            <codeforiati:glide-serial>2020-000218</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Nicaragua</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EP-2020-000217-VCT</code>
             <codeforiati:event-code>EP</codeforiati:event-code>
             <codeforiati:country-code>VCT</codeforiati:country-code>
