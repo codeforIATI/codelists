@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FF-2020-000221-SOM</code>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:country-code>SOM</codeforiati:country-code>
+            <codeforiati:date>2020-10-24</codeforiati:date>
+            <codeforiati:glide-serial>2020-000221</codeforiati:glide-serial>
+            <codeforiati:event>Flash Flood</codeforiati:event>
+            <codeforiati:country>Somalia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000220-HND</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>HND</codeforiati:country-code>
+            <codeforiati:date>2020-11-05</codeforiati:date>
+            <codeforiati:glide-serial>2020-000220</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Honduras</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>LS-2020-000219-SLV</code>
             <codeforiati:event-code>LS</codeforiati:event-code>
             <codeforiati:country-code>SLV</codeforiati:country-code>
