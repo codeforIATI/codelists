@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2020-000222-GTM</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>GTM</codeforiati:country-code>
+            <codeforiati:date>2020-11-08</codeforiati:date>
+            <codeforiati:glide-serial>2020-000222</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Guatemala</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FF-2020-000221-SOM</code>
             <codeforiati:event-code>FF</codeforiati:event-code>
             <codeforiati:country-code>SOM</codeforiati:country-code>
