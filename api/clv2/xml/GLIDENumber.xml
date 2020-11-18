@@ -16,6 +16,69 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>CE-2020-000229-ETH</code>
+            <codeforiati:event-code>CE</codeforiati:event-code>
+            <codeforiati:country-code>ETH</codeforiati:country-code>
+            <codeforiati:date>2020-11-04</codeforiati:date>
+            <codeforiati:glide-serial>2020-000229</codeforiati:glide-serial>
+            <codeforiati:event>Complex Emergency</codeforiati:event>
+            <codeforiati:country>Ethiopia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CE-2020-000228-SDN</code>
+            <codeforiati:event-code>CE</codeforiati:event-code>
+            <codeforiati:country-code>SDN</codeforiati:country-code>
+            <codeforiati:date>2020-11-03</codeforiati:date>
+            <codeforiati:glide-serial>2020-000228</codeforiati:glide-serial>
+            <codeforiati:event>Complex Emergency</codeforiati:event>
+            <codeforiati:country>Sudan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000227-NIC</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>NIC</codeforiati:country-code>
+            <codeforiati:date>2020-11-13</codeforiati:date>
+            <codeforiati:glide-serial>2020-000227</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Nicaragua</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000226-CRI</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>CRI</codeforiati:country-code>
+            <codeforiati:date>2020-11-10</codeforiati:date>
+            <codeforiati:glide-serial>2020-000226</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Costa Rica</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000225-PHL</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2020-11-10</codeforiati:date>
+            <codeforiati:glide-serial>2020-000225</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000224-BLZ</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>BLZ</codeforiati:country-code>
+            <codeforiati:date>2020-11-09</codeforiati:date>
+            <codeforiati:glide-serial>2020-000224</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Belize</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-2020-000223-ZMB</code>
+            <codeforiati:event-code>IN</codeforiati:event-code>
+            <codeforiati:country-code>ZMB</codeforiati:country-code>
+            <codeforiati:date>2020-09-01</codeforiati:date>
+            <codeforiati:glide-serial>2020-000223</codeforiati:glide-serial>
+            <codeforiati:event>Insect Infestation</codeforiati:event>
+            <codeforiati:country>Zambia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000222-GTM</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>GTM</codeforiati:country-code>
