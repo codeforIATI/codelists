@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EP-2020-000230-NGA</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>NGA</codeforiati:country-code>
+            <codeforiati:date>2020-11-12</codeforiati:date>
+            <codeforiati:glide-serial>2020-000230</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Nigeria</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CE-2020-000229-ETH</code>
             <codeforiati:event-code>CE</codeforiati:event-code>
             <codeforiati:country-code>ETH</codeforiati:country-code>
