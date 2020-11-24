@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2020-000232-SOM</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>SOM</codeforiati:country-code>
+            <codeforiati:date>2020-11-22</codeforiati:date>
+            <codeforiati:glide-serial>2020-000232</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Somalia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DR-2020-000231-MDG</code>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:country-code>MDG</codeforiati:country-code>
+            <codeforiati:date>2020-11-14</codeforiati:date>
+            <codeforiati:glide-serial>2020-000231</codeforiati:glide-serial>
+            <codeforiati:event>Drought</codeforiati:event>
+            <codeforiati:country>Madagascar</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EP-2020-000230-NGA</code>
             <codeforiati:event-code>EP</codeforiati:event-code>
             <codeforiati:country-code>NGA</codeforiati:country-code>
