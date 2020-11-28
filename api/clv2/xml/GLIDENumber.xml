@@ -16,6 +16,33 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2020-000235-VNM</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:date>2020-11-15</codeforiati:date>
+            <codeforiati:glide-serial>2020-000235</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Viet Nam</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000234-VNM</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:date>2020-10-28</codeforiati:date>
+            <codeforiati:glide-serial>2020-000234</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Viet Nam</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2020-000233-IND</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:date>2020-11-25</codeforiati:date>
+            <codeforiati:glide-serial>2020-000233</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>India</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000232-SOM</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>SOM</codeforiati:country-code>
