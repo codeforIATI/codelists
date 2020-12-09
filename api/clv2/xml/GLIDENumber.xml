@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>VO-2020-000236-IDN</code>
+            <codeforiati:event-code>VO</codeforiati:event-code>
+            <codeforiati:country-code>IDN</codeforiati:country-code>
+            <codeforiati:date>2020-12-07</codeforiati:date>
+            <codeforiati:glide-serial>2020-000236</codeforiati:glide-serial>
+            <codeforiati:event>Volcano</codeforiati:event>
+            <codeforiati:country>Indonesia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000235-VNM</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>VNM</codeforiati:country-code>
