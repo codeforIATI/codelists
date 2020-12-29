@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2020-000239-MDG</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>MDG</codeforiati:country-code>
+            <codeforiati:date>2020-12-23</codeforiati:date>
+            <codeforiati:glide-serial>2020-000239</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Madagascar</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2020-000238-FJI</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>FJI</codeforiati:country-code>
