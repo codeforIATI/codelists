@@ -1,6 +1,6 @@
 # Replicated codelist viewer
 
-[![Build Status](https://travis-ci.com/codeforIATI/codelists.svg?branch=master)](https://travis-ci.com/codeforIATI/codelists)
+[![Build Status](https://github.com/codeforIATI/codelists/workflows/CI/badge.svg?branch=main)](https://github.com/codeforIATI/codelists/actions?query=workflow%3ACI)
 
 Replicated codelists, useful for those using IATI data.
 
