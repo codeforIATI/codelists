@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2021-000001-MYS</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>MYS</codeforiati:country-code>
+            <codeforiati:date>2021-01-04</codeforiati:date>
+            <codeforiati:glide-serial>2021-000001</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Malaysia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2020-000242-COL</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>COL</codeforiati:country-code>
+            <codeforiati:date>2020-11-16</codeforiati:date>
+            <codeforiati:glide-serial>2020-000242</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Colombia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EQ-2020-000241-HRV</code>
             <codeforiati:event-code>EQ</codeforiati:event-code>
             <codeforiati:country-code>HRV</codeforiati:country-code>
