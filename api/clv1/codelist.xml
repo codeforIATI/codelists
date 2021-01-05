@@ -245,6 +245,11 @@ If org-id.guide does not contain an entry for the kind of organisation you need 
     <count>18</count>
   </codelist>
   <codelist>
+    <name>ReportingOrganisation</name>
+    <description></description>
+    <count>1239</count>
+  </codelist>
+  <codelist>
     <name>LocationType-category</name>
     <description>This category is equivalent to US NGA's "Feature Class"</description>
     <count>9</count>
