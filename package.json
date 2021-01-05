@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.17.3",
     "fs-extra": "^8.1.0",
     "vue-scrollto": "^2.17.1",
