@@ -25,6 +25,15 @@
             <codeforiati:country>Malaysia</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>CW-2020-000243-MNG</code>
+            <codeforiati:event-code>CW</codeforiati:event-code>
+            <codeforiati:country-code>MNG</codeforiati:country-code>
+            <codeforiati:date>2020-12-18</codeforiati:date>
+            <codeforiati:glide-serial>2020-000243</codeforiati:glide-serial>
+            <codeforiati:event>Cold Wave</codeforiati:event>
+            <codeforiati:country>Mongolia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2020-000242-COL</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>COL</codeforiati:country-code>
