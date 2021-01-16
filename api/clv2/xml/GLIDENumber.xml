@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>CW-2021-000002-JPN</code>
+            <codeforiati:event-code>CW</codeforiati:event-code>
+            <codeforiati:country-code>JPN</codeforiati:country-code>
+            <codeforiati:date>2021-01-11</codeforiati:date>
+            <codeforiati:glide-serial>2021-000002</codeforiati:glide-serial>
+            <codeforiati:event>Cold Wave</codeforiati:event>
+            <codeforiati:country>Japan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2021-000001-MYS</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>MYS</codeforiati:country-code>
