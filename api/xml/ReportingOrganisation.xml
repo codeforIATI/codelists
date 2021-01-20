@@ -8428,7 +8428,7 @@
         <codelist-item status="active">
             <code>DK-CVR-12006004</code>
             <name>
-                <narrative>Dansk MissionrÃ¥ds Udviklingsafdeling</narrative>
+                <narrative>Center for Church-Based Development</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -10991,6 +10991,15 @@
             <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-KHF</code>
+            <name>
+                <narrative>King Hussein Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1158838</code>
             <name>
                 <narrative>The Freedom Fund</narrative>
@@ -11142,6 +11151,15 @@
             <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG-RSB-197310</code>
+            <name>
+                <narrative>Financial Sector Deepening Uganda</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
             <code>ZM-PCR-12015013762</code>

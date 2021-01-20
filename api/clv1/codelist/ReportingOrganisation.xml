@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2021-01-20T07:59:19.781333+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2021-01-20T14:00:59.991567+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -4676,7 +4676,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>DK-CVR-12006004</code>
-    <name>Dansk Missionr&#195;&#165;ds Udviklingsafdeling</name>
+    <name>Center for Church-Based Development</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -6100,6 +6100,11 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>XI-IATI-KHF</code>
+    <name>King Hussein Foundation</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>GB-CHC-1158838</code>
     <name>The Freedom Fund</name>
     <language>en</language>
@@ -6182,6 +6187,11 @@
   <ReportingOrganisation>
     <code>XM-DAC-47015</code>
     <name>CGIAR</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>UG-RSB-197310</code>
+    <name>Financial Sector Deepening Uganda</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>

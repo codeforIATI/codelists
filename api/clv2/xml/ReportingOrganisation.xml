@@ -6556,7 +6556,7 @@
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
-            <name>Dansk Missionr&#195;&#165;ds Udviklingsafdeling</name>
+            <name>Center for Church-Based Development</name>
         </codelist-item>
         <codelist-item status="active">
             <code>XI-GRID-grid.9829.a</code>
@@ -8547,6 +8547,13 @@
             <name>University of Cape Town</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-KHF</code>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <name>King Hussein Foundation</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1158838</code>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -8664,6 +8671,13 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
             <name>CGIAR</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG-RSB-197310</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <name>Financial Sector Deepening Uganda</name>
         </codelist-item>
         <codelist-item status="active">
             <code>ZM-PCR-12015013762</code>
