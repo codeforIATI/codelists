@@ -11179,5 +11179,14 @@
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
         </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-042103594</code>
+            <name>
+                <narrative>Abdul Latif Jameel Poverty Action Lab at MIT</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+        </codelist-item>
     </codelist-items>
 </codelist>

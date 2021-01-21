@@ -8693,6 +8693,13 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <name>United Nations Development Coordination Office</name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-042103594</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <name>Abdul Latif Jameel Poverty Action Lab at MIT</name>
+        </codelist-item>
     </codelist-items>
 </codelist>
 
