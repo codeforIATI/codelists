@@ -10262,6 +10262,15 @@
             <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-06581421</code>
+            <name>
+                <narrative>The Institute for Strategic Dialogue</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ML-NIF-055000335T</code>
             <name>
                 <narrative>Near East Foundation Mali (NEF Mali)</narrative>
@@ -10314,6 +10323,15 @@
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BD-NAB-2004</code>
+            <name>
+                <narrative>Centre for Injury Prevention and Research, Bangladesh (CIPRB)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
             <code>XI-BRIDGE-1812689272</code>

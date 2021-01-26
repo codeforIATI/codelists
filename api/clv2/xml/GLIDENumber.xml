@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2021-000008-MOZ</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>MOZ</codeforiati:country-code>
+            <codeforiati:date>2021-01-23</codeforiati:date>
+            <codeforiati:glide-serial>2021-000008</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Mozambique</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2021-000007-SYR</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>SYR</codeforiati:country-code>
+            <codeforiati:date>2021-01-19</codeforiati:date>
+            <codeforiati:glide-serial>2021-000007</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Syrian Arab Rep</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2021-000006-MDG</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>MDG</codeforiati:country-code>
