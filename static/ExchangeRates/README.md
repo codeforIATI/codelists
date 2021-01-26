@@ -17,7 +17,6 @@ There are a number of publicly available sources for exchange rates data. You ca
 | Currency | The currency code for this currency (according to `ISO 4217`) |
 | Frequency | Whether this currency is a daily date (`D`) or a monthly average (`M`) |
 | Source | The source of this data, currently OECD (`OECD`) or the [Federal Reserve Bank of St Louis](https://fred.stlouisfed.org) (`FRED`) |
-| RateFirstSeen | The date/time when the rate was first seen by the scraper API |
 
 ### Selecting the best date
 
