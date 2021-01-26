@@ -1,0 +1,310 @@
+<codelist xmlns:codeforiati="https://codeforiati.org/" name="SectorGroup" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <url>https://stats.oecd.org/viewhtml.aspx?datasetcode=CRS1</url>
+        <name>DAC Sector Groupings</name>
+        <name xml:lang="fr">Secteur du CAD (Groupements)</name>
+        <description>Hierarchical groupings of DAC CRS Purpose Codes.</description>
+        <description xml:lang="fr">Groupements des Secteurs du CAD avec niveaux hi&#233;rarchiques.</description>
+        <category>Replicated</category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>110</code>
+            <codeforiati:category-code>114</codeforiati:category-code>
+            <codeforiati:sector-code>11430</codeforiati:sector-code>
+            <name>Education</name>
+            <name xml:lang="fr">Education</name>
+            <codeforiati:category-name>Post-Secondary Education</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Education Post Secondaire</codeforiati:category-name>
+            <codeforiati:sector-name>Advanced technical and managerial training</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Formation technique sup&#233;rieure de gestion</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>120</code>
+            <codeforiati:category-code>123</codeforiati:category-code>
+            <codeforiati:sector-code>12382</codeforiati:sector-code>
+            <name>Health</name>
+            <name xml:lang="fr">Sant&#233;</name>
+            <codeforiati:category-name>Non-communicable diseases (NCDs)</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Maladies non-transmissibles (MNT)</codeforiati:category-name>
+            <codeforiati:sector-name>Research for prevention and control of NCDs</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Recherche pour la pr&#233;vention et le contr&#244;le des MNT</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>130</code>
+            <codeforiati:category-code>130</codeforiati:category-code>
+            <codeforiati:sector-code>13081</codeforiati:sector-code>
+            <name>Population Policies/Programmes &amp; Reproductive Health</name>
+            <name xml:lang="fr">Politique en Mati&#232;re de Population/Sant&#233;&amp;Fertilit&#233;</name>
+            <codeforiati:category-name>Population Policies/Programmes &amp; Reproductive Health</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Politique en Mati&#232;re de Population/Sant&#233;&amp;Fertilit&#233;</codeforiati:category-name>
+            <codeforiati:sector-name>Personnel development for population and reproductive health</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Formation de personnel en mati&#232;re de population et de sant&#233; et fertilit&#233;</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>140</code>
+            <codeforiati:category-code>140</codeforiati:category-code>
+            <codeforiati:sector-code>14081</codeforiati:sector-code>
+            <name>Water Supply &amp; Sanitation</name>
+            <name xml:lang="fr">Distribution d'Eau et Assainissement</name>
+            <codeforiati:category-name>Water Supply &amp; Sanitation</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Distribution d'Eau et Assainissement</codeforiati:category-name>
+            <codeforiati:sector-name>Education and training in water supply and sanitation</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Education et formation dans la distribution d'eau et d'assainissement</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>150</code>
+            <codeforiati:category-code>152</codeforiati:category-code>
+            <codeforiati:sector-code>15261</codeforiati:sector-code>
+            <name>Government &amp; Civil Society</name>
+            <name xml:lang="fr">Gouvernement &amp; Soci&#233;t&#233; Civile</name>
+            <codeforiati:category-name>Conflict, Peace &amp; Security</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Conflits, Paix et S&#233;curit&#233;</codeforiati:category-name>
+            <codeforiati:sector-name>Child soldiers (prevention and demobilisation)</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Enfants soldats (Pr&#233;vention et d&#233;mobilisation)</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>160</code>
+            <codeforiati:category-code>160</codeforiati:category-code>
+            <codeforiati:sector-code>16080</codeforiati:sector-code>
+            <name>Other Social Infrastructure &amp; Services</name>
+            <name xml:lang="fr">Infrastructure et Services Sociaux Divers</name>
+            <codeforiati:category-name>Other Social Infrastructure &amp; Services</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Infrastructure et Services Sociaux Divers</codeforiati:category-name>
+            <codeforiati:sector-name>Social dialogue</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Dialogue social</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>210</code>
+            <codeforiati:category-code>210</codeforiati:category-code>
+            <codeforiati:sector-code>21081</codeforiati:sector-code>
+            <name>Transport &amp; Storage</name>
+            <name xml:lang="fr">Transports et Entreposage</name>
+            <codeforiati:category-name>Transport &amp; Storage</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Transports et Entreposage</codeforiati:category-name>
+            <codeforiati:sector-name>Education and training in transport and storage</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Education/formation dans les transports et le stockage</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>220</code>
+            <codeforiati:category-code>220</codeforiati:category-code>
+            <codeforiati:sector-code>22040</codeforiati:sector-code>
+            <name>Communications</name>
+            <name xml:lang="fr">Communications</name>
+            <codeforiati:category-name>Communications</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Communications</codeforiati:category-name>
+            <codeforiati:sector-name>Information and communication technology (ICT)</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Technologies de l'information et de la communication (TIC)</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>230</code>
+            <codeforiati:category-code>236</codeforiati:category-code>
+            <codeforiati:sector-code>23642</codeforiati:sector-code>
+            <name>Energy</name>
+            <name xml:lang="fr">Energie</name>
+            <codeforiati:category-name>Energy distribution</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Distribution de l'&#233;nergie</codeforiati:category-name>
+            <codeforiati:sector-name>Electric mobility infrastructures</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Infrastructures &#233;lectriques &#224; l'usage de la mobilit&#233;</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>240</code>
+            <codeforiati:category-code>240</codeforiati:category-code>
+            <codeforiati:sector-code>24081</codeforiati:sector-code>
+            <name>Banking &amp; Financial Services</name>
+            <name xml:lang="fr">Banques et Services Financiers</name>
+            <codeforiati:category-name>Banking &amp; Financial Services</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Banques et Services Financiers</codeforiati:category-name>
+            <codeforiati:sector-name>Education/training in banking and financial services</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Education/formation bancaire et dans les services financiers</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>250</code>
+            <codeforiati:category-code>250</codeforiati:category-code>
+            <codeforiati:sector-code>25040</codeforiati:sector-code>
+            <name>Business &amp; Other Services</name>
+            <name xml:lang="fr">Entreprises et Autres Services</name>
+            <codeforiati:category-name>Business &amp; Other Services</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Entreprises et Autres Services</codeforiati:category-name>
+            <codeforiati:sector-name>Responsible business conduct</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Code de conduite responsable</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>310</code>
+            <codeforiati:category-code>313</codeforiati:category-code>
+            <codeforiati:sector-code>31391</codeforiati:sector-code>
+            <name>Agriculture, Forestry, Fishing</name>
+            <name xml:lang="fr">Agriculture, Sylviculture, P&#234;che</name>
+            <codeforiati:category-name>Fishing</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">P&#234;che</codeforiati:category-name>
+            <codeforiati:sector-name>Fishery services</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Services dans le domaine de la p&#234;che</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>320</code>
+            <codeforiati:category-code>323</codeforiati:category-code>
+            <codeforiati:sector-code>32310</codeforiati:sector-code>
+            <name>Industry, Mining, Construction</name>
+            <name xml:lang="fr">Industries Manufacturi&#232;res, Extractives, Construct</name>
+            <codeforiati:category-name>Construction</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Construction</codeforiati:category-name>
+            <codeforiati:sector-name>Construction policy and administrative management</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Politique de la construction et gestion administrative</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>331</code>
+            <codeforiati:category-code>331</codeforiati:category-code>
+            <codeforiati:sector-code>33181</codeforiati:sector-code>
+            <name>Trade Policies &amp; Regulations</name>
+            <name xml:lang="fr">Politique Commerciale et R&#233;glementations</name>
+            <codeforiati:category-name>Trade Policies &amp; Regulations</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Politique Commerciale et R&#233;glementations</codeforiati:category-name>
+            <codeforiati:sector-name>Trade education/training</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Education/formation dans le domaine du commerce</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>332</code>
+            <codeforiati:category-code>332</codeforiati:category-code>
+            <codeforiati:sector-code>33210</codeforiati:sector-code>
+            <name>Tourism</name>
+            <name xml:lang="fr">Tourisme</name>
+            <codeforiati:category-name>Tourism</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Tourisme</codeforiati:category-name>
+            <codeforiati:sector-name>Tourism policy and administrative management</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Politique du tourisme et gestion administrative</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>410</code>
+            <codeforiati:category-code>410</codeforiati:category-code>
+            <codeforiati:sector-code>41082</codeforiati:sector-code>
+            <name>General Environment Protection</name>
+            <name xml:lang="fr">Protection de l'Environnement G&#233;n&#233;ral</name>
+            <codeforiati:category-name>General Environment Protection</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Protection de l'Environnement G&#233;n&#233;ral</codeforiati:category-name>
+            <codeforiati:sector-name>Environmental research</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Recherche environnementale</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>430</code>
+            <codeforiati:category-code>430</codeforiati:category-code>
+            <codeforiati:sector-code>43082</codeforiati:sector-code>
+            <name>Other Multisector</name>
+            <name xml:lang="fr">Autres Multisecteurs</name>
+            <codeforiati:category-name>Other Multisector</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Autres Multisecteurs</codeforiati:category-name>
+            <codeforiati:sector-name>Research/scientific institutions</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Institutions scientifiques et de recherche</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>510</code>
+            <codeforiati:category-code>510</codeforiati:category-code>
+            <codeforiati:sector-code>51010</codeforiati:sector-code>
+            <name>General Budget Support</name>
+            <name xml:lang="fr">Soutien Budg&#233;taire</name>
+            <codeforiati:category-name>General Budget Support</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Soutien Budg&#233;taire</codeforiati:category-name>
+            <codeforiati:sector-name>General budget support-related aid</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Aide relative au soutien budg&#233;taire g&#233;n&#233;ral</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>520</code>
+            <codeforiati:category-code>520</codeforiati:category-code>
+            <codeforiati:sector-code>52010</codeforiati:sector-code>
+            <name>Development Food Assistance</name>
+            <name xml:lang="fr">Aide Alimentaire D&#233;velopmentale</name>
+            <codeforiati:category-name>Development Food Assistance</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Aide Alimentaire D&#233;velopmentale</codeforiati:category-name>
+            <codeforiati:sector-name>Food assistance</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Assistance alimentaire</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>530</code>
+            <codeforiati:category-code>530</codeforiati:category-code>
+            <codeforiati:sector-code>53040</codeforiati:sector-code>
+            <name>Other Commodity Assistance</name>
+            <name xml:lang="fr">Aide sous forme de Produits, Autre</name>
+            <codeforiati:category-name>Other Commodity Assistance</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Aide sous forme de Produits, Autre</codeforiati:category-name>
+            <codeforiati:sector-name>Import support (commodities)</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Subventions &#224; l'importation (produits)</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>600</code>
+            <codeforiati:category-code>600</codeforiati:category-code>
+            <codeforiati:sector-code>60063</codeforiati:sector-code>
+            <name>Action Relating to Debt</name>
+            <name xml:lang="fr">Actions se Rapportant a la Dette</name>
+            <codeforiati:category-name>Action Relating to Debt</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Actions se Rapportant a la Dette</codeforiati:category-name>
+            <codeforiati:sector-name>Debt buy-back</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Rachat de la dette</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>720</code>
+            <codeforiati:category-code>720</codeforiati:category-code>
+            <codeforiati:sector-code>72050</codeforiati:sector-code>
+            <name>Emergency Response</name>
+            <name xml:lang="fr">Intervention d'Urgence</name>
+            <codeforiati:category-name>Emergency Response</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Intervention d'Urgence</codeforiati:category-name>
+            <codeforiati:sector-name>Relief co-ordination and support services</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Coordination des secours et services de soutien</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>730</code>
+            <codeforiati:category-code>730</codeforiati:category-code>
+            <codeforiati:sector-code>73010</codeforiati:sector-code>
+            <name>Reconstruction Relief &amp; Rehabilitation</name>
+            <name xml:lang="fr">Reconstruction &amp; R&#233;habilitation</name>
+            <codeforiati:category-name>Reconstruction Relief &amp; Rehabilitation</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Reconstruction &amp; R&#233;habilitation</codeforiati:category-name>
+            <codeforiati:sector-name>Immediate post-emergency reconstruction and rehabilitation</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Reconstruction et r&#233;habilitation imm&#233;diate post-urgence</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>740</code>
+            <codeforiati:category-code>740</codeforiati:category-code>
+            <codeforiati:sector-code>74020</codeforiati:sector-code>
+            <name>Disaster Prevention &amp; Preparedness</name>
+            <name xml:lang="fr">Pr&#233;vention catastrophes/Pr&#233;paration &#224; leur survenue</name>
+            <codeforiati:category-name>Disaster Prevention &amp; Preparedness</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Pr&#233;vention catastrophes/Pr&#233;paration &#224; leur survenue</codeforiati:category-name>
+            <codeforiati:sector-name>Multi-hazard response preparedness</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Pr&#233;paration aux interventions multi-risques</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>910</code>
+            <codeforiati:category-code>910</codeforiati:category-code>
+            <codeforiati:sector-code>91010</codeforiati:sector-code>
+            <name>Administrative Costs of Donors</name>
+            <name xml:lang="fr">Frais Administratifs des Donneurs</name>
+            <codeforiati:category-name>Administrative Costs of Donors</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Frais Administratifs des Donneurs</codeforiati:category-name>
+            <codeforiati:sector-name>Administrative costs (non-sector allocable)</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Frais administratifs (non allou&#233;s par secteur)</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>930</code>
+            <codeforiati:category-code>930</codeforiati:category-code>
+            <codeforiati:sector-code>93010</codeforiati:sector-code>
+            <name>Refugees in Donor Countries</name>
+            <name xml:lang="fr">Refugi&#233;s dans les Pays Donneurs</name>
+            <codeforiati:category-name>Refugees in Donor Countries</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Refugi&#233;s dans les Pays Donneurs</codeforiati:category-name>
+            <codeforiati:sector-name>Refugees/asylum seekers  in donor countries (non-sector allocable)</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Refugi&#233;s/demandeurs d'asile dans les pays donneurs (non allou&#233;s)</codeforiati:sector-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>998</code>
+            <codeforiati:category-code>998</codeforiati:category-code>
+            <codeforiati:sector-code>99820</codeforiati:sector-code>
+            <name>Unallocated / Unspecified</name>
+            <name xml:lang="fr">Non Affect&#233; / Non Specifi&#233;</name>
+            <codeforiati:category-name>Unallocated / Unspecified</codeforiati:category-name>
+            <codeforiati:category-name xml:lang="fr">Non Affect&#233; / Non Specifi&#233;</codeforiati:category-name>
+            <codeforiati:sector-name>Promotion of development awareness (non-sector allocable)</codeforiati:sector-name>
+            <codeforiati:sector-name xml:lang="fr">Sensibilisation au d&#233;veloppement (non allou&#233;s par secteur)</codeforiati:sector-name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+
