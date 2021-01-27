@@ -1,28 +1,28 @@
-code,name,status,codeforiati:sector-name,codeforiati:category-name,codeforiati:category-code,codeforiati:sector-code
-110,Education,active,Formation technique supérieure de gestion,Education Post Secondaire,114,11430
-120,Santé,active,Recherche pour la prévention et le contrôle des MNT,Maladies non-transmissibles (MNT),123,12382
-130,Politique en Matière de Population/Santé&Fertilité,active,Formation de personnel en matière de population et de santé et fertilité,Politique en Matière de Population/Santé&Fertilité,130,13081
-140,Distribution d'Eau et Assainissement,active,Education et formation dans la distribution d'eau et d'assainissement,Distribution d'Eau et Assainissement,140,14081
-150,Gouvernement & Société Civile,active,Enfants soldats (Prévention et démobilisation),"Conflits, Paix et Sécurité",152,15261
-160,Infrastructure et Services Sociaux Divers,active,Dialogue social,Infrastructure et Services Sociaux Divers,160,16080
-210,Transports et Entreposage,active,Education/formation dans les transports et le stockage,Transports et Entreposage,210,21081
-220,Communications,active,Technologies de l'information et de la communication (TIC),Communications,220,22040
-230,Energie,active,Infrastructures électriques à l'usage de la mobilité,Distribution de l'énergie,236,23642
-240,Banques et Services Financiers,active,Education/formation bancaire et dans les services financiers,Banques et Services Financiers,240,24081
-250,Entreprises et Autres Services,active,Code de conduite responsable,Entreprises et Autres Services,250,25040
-310,"Agriculture, Sylviculture, Pêche",active,Services dans le domaine de la pêche,Pêche,313,31391
-320,"Industries Manufacturières, Extractives, Construct",active,Politique de la construction et gestion administrative,Construction,323,32310
-331,Politique Commerciale et Réglementations,active,Education/formation dans le domaine du commerce,Politique Commerciale et Réglementations,331,33181
-332,Tourisme,active,Politique du tourisme et gestion administrative,Tourisme,332,33210
-410,Protection de l'Environnement Général,active,Recherche environnementale,Protection de l'Environnement Général,410,41082
-430,Autres Multisecteurs,active,Institutions scientifiques et de recherche,Autres Multisecteurs,430,43082
-510,Soutien Budgétaire,active,Aide relative au soutien budgétaire général,Soutien Budgétaire,510,51010
-520,Aide Alimentaire Dévelopmentale,active,Assistance alimentaire,Aide Alimentaire Dévelopmentale,520,52010
-530,"Aide sous forme de Produits, Autre",active,Subventions à l'importation (produits),"Aide sous forme de Produits, Autre",530,53040
-600,Actions se Rapportant a la Dette,active,Rachat de la dette,Actions se Rapportant a la Dette,600,60063
-720,Intervention d'Urgence,active,Coordination des secours et services de soutien,Intervention d'Urgence,720,72050
-730,Reconstruction & Réhabilitation,active,Reconstruction et réhabilitation immédiate post-urgence,Reconstruction & Réhabilitation,730,73010
-740,Prévention catastrophes/Préparation à leur survenue,active,Préparation aux interventions multi-risques,Prévention catastrophes/Préparation à leur survenue,740,74020
-910,Frais Administratifs des Donneurs,active,Frais administratifs (non alloués par secteur),Frais Administratifs des Donneurs,910,91010
-930,Refugiés dans les Pays Donneurs,active,Refugiés/demandeurs d'asile dans les pays donneurs (non alloués),Refugiés dans les Pays Donneurs,930,93010
-998,Non Affecté / Non Specifié,active,Sensibilisation au développement (non alloués par secteur),Non Affecté / Non Specifié,998,99820
+code,name,status,codeforiati:sector-name,codeforiati:sector-code,codeforiati:category-name,codeforiati:category-code
+110,Education,active,Formation technique supérieure de gestion,11430,Education Post Secondaire,114
+120,Santé,active,Recherche pour la prévention et le contrôle des MNT,12382,Maladies non-transmissibles (MNT),123
+130,Politique en Matière de Population/Santé&Fertilité,active,Formation de personnel en matière de population et de santé et fertilité,13081,Politique en Matière de Population/Santé&Fertilité,130
+140,Distribution d'Eau et Assainissement,active,Education et formation dans la distribution d'eau et d'assainissement,14081,Distribution d'Eau et Assainissement,140
+150,Gouvernement & Société Civile,active,Enfants soldats (Prévention et démobilisation),15261,"Conflits, Paix et Sécurité",152
+160,Infrastructure et Services Sociaux Divers,active,Dialogue social,16080,Infrastructure et Services Sociaux Divers,160
+210,Transports et Entreposage,active,Education/formation dans les transports et le stockage,21081,Transports et Entreposage,210
+220,Communications,active,Technologies de l'information et de la communication (TIC),22040,Communications,220
+230,Energie,active,Infrastructures électriques à l'usage de la mobilité,23642,Distribution de l'énergie,236
+240,Banques et Services Financiers,active,Education/formation bancaire et dans les services financiers,24081,Banques et Services Financiers,240
+250,Entreprises et Autres Services,active,Code de conduite responsable,25040,Entreprises et Autres Services,250
+310,"Agriculture, Sylviculture, Pêche",active,Services dans le domaine de la pêche,31391,Pêche,313
+320,"Industries Manufacturières, Extractives, Construct",active,Politique de la construction et gestion administrative,32310,Construction,323
+331,Politique Commerciale et Réglementations,active,Education/formation dans le domaine du commerce,33181,Politique Commerciale et Réglementations,331
+332,Tourisme,active,Politique du tourisme et gestion administrative,33210,Tourisme,332
+410,Protection de l'Environnement Général,active,Recherche environnementale,41082,Protection de l'Environnement Général,410
+430,Autres Multisecteurs,active,Institutions scientifiques et de recherche,43082,Autres Multisecteurs,430
+510,Soutien Budgétaire,active,Aide relative au soutien budgétaire général,51010,Soutien Budgétaire,510
+520,Aide Alimentaire Dévelopmentale,active,Assistance alimentaire,52010,Aide Alimentaire Dévelopmentale,520
+530,"Aide sous forme de Produits, Autre",active,Subventions à l'importation (produits),53040,"Aide sous forme de Produits, Autre",530
+600,Actions se Rapportant a la Dette,active,Rachat de la dette,60063,Actions se Rapportant a la Dette,600
+720,Intervention d'Urgence,active,Coordination des secours et services de soutien,72050,Intervention d'Urgence,720
+730,Reconstruction & Réhabilitation,active,Reconstruction et réhabilitation immédiate post-urgence,73010,Reconstruction & Réhabilitation,730
+740,Prévention catastrophes/Préparation à leur survenue,active,Préparation aux interventions multi-risques,74020,Prévention catastrophes/Préparation à leur survenue,740
+910,Frais Administratifs des Donneurs,active,Frais administratifs (non alloués par secteur),91010,Frais Administratifs des Donneurs,910
+930,Refugiés dans les Pays Donneurs,active,Refugiés/demandeurs d'asile dans les pays donneurs (non alloués),93010,Refugiés dans les Pays Donneurs,930
+998,Non Affecté / Non Specifié,active,Sensibilisation au développement (non alloués par secteur),99820,Non Affecté / Non Specifié,998
