@@ -329,11 +329,6 @@ For general guidance about constructing Organisation Identifiers, please see htt
     <count>3</count>
   </codelist>
   <codelist>
-    <name>SectorGroup</name>
-    <description>Hierarchical groupings of DAC CRS Purpose Codes.</description>
-    <count>27</count>
-  </codelist>
-  <codelist>
     <name>UNSDG-Goals</name>
     <description>A value from the top-level list of UN sustainable development goals (SDGs) (e.g. &#8216;1&#8217;)</description>
     <count>17</count>
