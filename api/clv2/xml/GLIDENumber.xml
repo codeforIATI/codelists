@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2021-000009-ZWE</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>ZWE</codeforiati:country-code>
+            <codeforiati:date>2021-01-23</codeforiati:date>
+            <codeforiati:glide-serial>2021-000009</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Zimbabwe</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2021-000008-MOZ</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>MOZ</codeforiati:country-code>
