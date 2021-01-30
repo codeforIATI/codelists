@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2021-000011-ZAF</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>ZAF</codeforiati:country-code>
+            <codeforiati:date>2021-01-25</codeforiati:date>
+            <codeforiati:glide-serial>2021-000011</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>South Africa</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OT-2021-000010-IRQ</code>
+            <codeforiati:event-code>OT</codeforiati:event-code>
+            <codeforiati:country-code>IRQ</codeforiati:country-code>
+            <codeforiati:date>2021-01-21</codeforiati:date>
+            <codeforiati:glide-serial>2021-000010</codeforiati:glide-serial>
+            <codeforiati:event>Other</codeforiati:event>
+            <codeforiati:country>Iraq</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2021-000009-ZWE</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>ZWE</codeforiati:country-code>
