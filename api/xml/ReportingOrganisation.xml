@@ -2180,6 +2180,15 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-CHSA</code>
+            <name>
+                <narrative>Association CHS Alliance</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-40535338</code>
             <name>
                 <narrative>Friends of the Earth International</narrative>

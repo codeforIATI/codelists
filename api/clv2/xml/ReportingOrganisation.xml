@@ -1694,6 +1694,13 @@
             <name>Amref Health Africa - UK</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-CHSA</code>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <name>Association CHS Alliance</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-40535338</code>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
