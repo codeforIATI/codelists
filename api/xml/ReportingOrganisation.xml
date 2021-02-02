@@ -11171,6 +11171,15 @@
             <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-GRID-grid.11835.3e</code>
+            <name>
+                <narrative>The University of Sheffield</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-47015</code>
             <name>
                 <narrative>CGIAR</narrative>
