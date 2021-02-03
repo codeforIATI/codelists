@@ -1526,6 +1526,13 @@
             <name>Lepra</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>JO-CCD-50544</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <name>Arab Reporters for Investigative Journalism</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41188664</code>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -6440,6 +6447,13 @@
             <name>Deloitte Touche Tohmatsu India LLP</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-NGO-1406</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <name>DefendDefenders</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-2180511703310709</code>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -8573,6 +8587,13 @@
             <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
             <name>King Hussein Foundation</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-04465125</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <name>Imperial College of Science, Technology and Medicine</name>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1158838</code>

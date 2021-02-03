@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2021-02-02T10:22:46.216999+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2021-02-03T07:33:04.453684+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -1082,6 +1082,11 @@
   <ReportingOrganisation>
     <code>GB-CHC-213251</code>
     <name>Lepra</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>JO-CCD-50544</code>
+    <name>Arab Reporters for Investigative Journalism</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -4595,6 +4600,11 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>UG-NGO-1406</code>
+    <name>DefendDefenders</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>KE-NCB-2180511703310709</code>
     <name>Send a Cow Kenya</name>
     <language>en</language>
@@ -6117,6 +6127,11 @@
   <ReportingOrganisation>
     <code>XI-IATI-KHF</code>
     <name>King Hussein Foundation</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>GB-COH-04465125</code>
+    <name>Imperial College of Science, Technology and Medicine</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>

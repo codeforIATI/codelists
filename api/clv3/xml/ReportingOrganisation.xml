@@ -1964,6 +1964,15 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>JO-CCD-50544</code>
+            <name>
+                <narrative>Arab Reporters for Investigative Journalism</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41188664</code>
             <name>
                 <narrative>ICS</narrative>
@@ -8282,6 +8291,15 @@
             <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-NGO-1406</code>
+            <name>
+                <narrative>DefendDefenders</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-2180511703310709</code>
             <name>
                 <narrative>Send a Cow Kenya</narrative>
@@ -11025,6 +11043,15 @@
             <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-04465125</code>
+            <name>
+                <narrative>Imperial College of Science, Technology and Medicine</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1158838</code>
