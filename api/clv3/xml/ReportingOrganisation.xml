@@ -11251,5 +11251,14 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
         </codelist-item>
+        <codelist-item status="active">
+            <code>UA-EDR-9795443</code>
+            <name>
+                <narrative>Centre for Economic Strategy Ukraine</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+        </codelist-item>
     </codelist-items>
 </codelist>
