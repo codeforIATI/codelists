@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2021-02-06T12:05:37.034685+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2021-02-06T12:18:27.342301+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -6057,6 +6057,11 @@
   <ReportingOrganisation>
     <code>MX-RFC-ICM160118IZ1</code>
     <name>Iniciativa Climatica de Mexico</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>XM-DAC-7-PPR-4000002938</code>
+    <name>Global Water Partnership</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>

@@ -10919,6 +10919,15 @@
             <codeforiati:hq-country-or-region>Mexico</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-7-PPR-4000002938</code>
+            <name>
+                <narrative>Global Water Partnership</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>JO-CCD-200006694</code>
             <name>
                 <narrative>Entiqal lel Tadreeb "Partners for Good"</narrative>
