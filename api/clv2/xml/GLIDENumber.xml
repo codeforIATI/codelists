@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EP-2021-000014-COD</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>COD</codeforiati:country-code>
+            <codeforiati:date>2021-02-07</codeforiati:date>
+            <codeforiati:glide-serial>2021-000014</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Congo Democratic Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CE-2021-000013-TCD</code>
             <codeforiati:event-code>CE</codeforiati:event-code>
             <codeforiati:country-code>TCD</codeforiati:country-code>
