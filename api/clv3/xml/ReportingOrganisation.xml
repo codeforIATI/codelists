@@ -10892,6 +10892,15 @@
             <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>ET-CSA-1351</code>
+            <name>
+                <narrative>Ethiopian Public Health Association</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-729081140000</code>
             <name>
                 <narrative>The AGRI3 Fund</narrative>

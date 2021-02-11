@@ -8470,6 +8470,13 @@
             <name>CANADEM</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>ET-CSA-1351</code>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <name>Ethiopian Public Health Association</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-729081140000</code>
             <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
