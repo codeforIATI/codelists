@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EP-2021-000016-GIN</code>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:country-code>GIN</codeforiati:country-code>
+            <codeforiati:date>2021-02-14</codeforiati:date>
+            <codeforiati:glide-serial>2021-000016</codeforiati:glide-serial>
+            <codeforiati:event>Epidemic</codeforiati:event>
+            <codeforiati:country>Guinea</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2021-000015-JPN</code>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:country-code>JPN</codeforiati:country-code>
+            <codeforiati:date>2021-02-13</codeforiati:date>
+            <codeforiati:glide-serial>2021-000015</codeforiati:glide-serial>
+            <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Japan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EP-2021-000014-COD</code>
             <codeforiati:event-code>EP</codeforiati:event-code>
             <codeforiati:country-code>COD</codeforiati:country-code>
