@@ -1273,7 +1273,7 @@
         <codelist-item status="active">
             <code>IE-CHY-6410</code>
             <name>
-                <narrative>DÃ³chas - Irish Association of Non Governmental Development Organisations</narrative>
+                <narrative>Dóchas - Irish Association of Non Governmental Development Organisations</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -1849,7 +1849,7 @@
         <codelist-item status="active">
             <code>FR-3</code>
             <name>
-                <narrative>Agence FranÃ§aise de DÃ©veloppement</narrative>
+                <narrative>Agence Française de Développement</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -1885,7 +1885,7 @@
         <codelist-item status="active">
             <code>GB-COH-03580586-GEC</code>
             <name>
-                <narrative>Girlsâ Education Challenge â Fund Manager PwC</narrative>
+                <narrative>Girls’ Education Challenge – Fund Manager PwC</narrative>
             </name>
             <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
@@ -2110,7 +2110,7 @@
         <codelist-item status="active">
             <code>CA-4</code>
             <name>
-                <narrative>Canada Department of Finance / MinistÃ¨re des Finances Canada</narrative>
+                <narrative>Canada Department of Finance / Ministère des Finances Canada</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -2299,7 +2299,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0447404580</code>
             <name>
-                <narrative>Avocats Sans FrontiÃ¨res</narrative>
+                <narrative>Avocats Sans Frontières</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -2632,7 +2632,7 @@
         <codelist-item status="active">
             <code>XM-DAC-301-2</code>
             <name>
-                <narrative>Canada - International Development Research Centre/Centre de recherches pour le dÃ©veloppement international</narrative>
+                <narrative>Canada - International Development Research Centre/Centre de recherches pour le développement international</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -4306,7 +4306,7 @@
         <codelist-item status="active">
             <code>NL-KVK-41180885</code>
             <name>
-                <narrative>IUCN Nederlands ComitÃ©</narrative>
+                <narrative>IUCN Nederlands Comité</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -5132,6 +5132,15 @@
             <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>CH-FDJP-66006990023</code>
+            <name>
+                <narrative>ACT Alliance</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-47064</code>
             <name>
                 <narrative>International Network for Bamboo and Rattan (INBAR)</narrative>
@@ -5152,7 +5161,7 @@
         <codelist-item status="active">
             <code>XM-DAC-236</code>
             <name>
-                <narrative>MinistÃ¨re de l'Economie et des Finances du BÃ©nin</narrative>
+                <narrative>Ministère de l'Economie et des Finances du Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -5188,7 +5197,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-3200700033415</code>
             <name>
-                <narrative>SociÃ©tÃ© Nationale des eaux du BÃ©nin (SONEB)</narrative>
+                <narrative>Société Nationale des eaux du Bénin (SONEB)</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -5449,7 +5458,7 @@
         <codelist-item status="active">
             <code>ML-NIF-400100027H</code>
             <name>
-                <narrative>DNH Mali (Direction Nationale de lâHydraulique du Mali)</narrative>
+                <narrative>DNH Mali (Direction Nationale de l’Hydraulique du Mali)</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -5602,7 +5611,7 @@
         <codelist-item status="active">
             <code>AR-CENOC-16969-A</code>
             <name>
-                <narrative>FundaciÃ³n Fondo Mujeres del Sur</narrative>
+                <narrative>Fundación Fondo Mujeres del Sur</narrative>
             </name>
             <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
@@ -5647,7 +5656,7 @@
         <codelist-item status="active">
             <code>MZ-NUIT-700098168</code>
             <name>
-                <narrative>AdministraÃ§Ã£o de Infra-Estruturas de Ãguas e Saneamento</narrative>
+                <narrative>Administração de Infra-Estruturas de Águas e Saneamento</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -5674,7 +5683,7 @@
         <codelist-item status="active">
             <code>MZ-NUIT-50039061</code>
             <name>
-                <narrative>AgÃªncia de Desenvolvimento do Vale do Zambeze</narrative>
+                <narrative>Agência de Desenvolvimento do Vale do Zambeze</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -5755,7 +5764,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0408643875</code>
             <name>
-                <narrative>Oxfam SolidaritÃ©-Solidariteit</narrative>
+                <narrative>Oxfam Solidarité-Solidariteit</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6007,7 +6016,7 @@
         <codelist-item status="active">
             <code>MZ-NUIT-600000381</code>
             <name>
-                <narrative>Fundo de Investimento e Patrimonio do Abastecimento de Ãgua (FIPAG)</narrative>
+                <narrative>Fundo de Investimento e Patrimonio do Abastecimento de Água (FIPAG)</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -6088,7 +6097,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0448755949</code>
             <name>
-                <narrative>Collectif StratÃ©gies Alimentaires</narrative>
+                <narrative>Collectif Stratégies Alimentaires</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6214,7 +6223,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0418015461</code>
             <name>
-                <narrative>Entraide et FraternitÃ©</narrative>
+                <narrative>Entraide et Fraternité</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6232,7 +6241,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0422717486</code>
             <name>
-                <narrative>Louvain CoopÃ©ration</narrative>
+                <narrative>Louvain Coopération</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6250,7 +6259,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0421207751</code>
             <name>
-                <narrative>Centre National de CoopÃ©ration au DÃ©veloppement (CNCD-11.11.11)</narrative>
+                <narrative>Centre National de Coopération au Développement (CNCD-11.11.11)</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6349,7 +6358,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0413986102</code>
             <name>
-                <narrative>Wereldsolidariteit-SolidaritÃ© Mondiale (WSM)</narrative>
+                <narrative>Wereldsolidariteit-Solidarité Mondiale (WSM)</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6412,7 +6421,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0415627875</code>
             <name>
-                <narrative>ULB-CoopÃ©ration</narrative>
+                <narrative>ULB-Coopération</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6466,7 +6475,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0408628435</code>
             <name>
-                <narrative>SOS Kinderdorpen BelgiÃ« / SOS Villages d'Enfants Belgique</narrative>
+                <narrative>SOS Kinderdorpen België / SOS Villages d'Enfants Belgique</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -6511,7 +6520,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0462132150</code>
             <name>
-                <narrative>Croix-Rouge de Belgique CommunautÃ© francophone - ActivitÃ©s internationales ASBL</narrative>
+                <narrative>Croix-Rouge de Belgique Communauté francophone - Activités internationales ASBL</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6529,7 +6538,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0415880570</code>
             <name>
-                <narrative>Association pour la Promotion de l'Education et de la Formation Ã  l'Etranger</narrative>
+                <narrative>Association pour la Promotion de l'Education et de la Formation à l'Etranger</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -6538,7 +6547,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0433439550</code>
             <name>
-                <narrative>DÃ©fi Belgique Afrique</narrative>
+                <narrative>Défi Belgique Afrique</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6547,7 +6556,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0463455904</code>
             <name>
-                <narrative>ChaÃ®ne de l'Espoir Belgique / Keten van Hoop BelgiÃ« / Chain of Hope Belgium</narrative>
+                <narrative>Chaîne de l'Espoir Belgique / Keten van Hoop België / Chain of Hope Belgium</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6601,7 +6610,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0454555163</code>
             <name>
-                <narrative>RCN Justice &amp; DÃ©mocratie</narrative>
+                <narrative>RCN Justice &amp; Démocratie</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6610,7 +6619,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0460162753</code>
             <name>
-                <narrative>Medecins du Monde Belgique - Dokters van de Wereld BelgÃ¯e</narrative>
+                <narrative>Medecins du Monde Belgique - Dokters van de Wereld Belgïe</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6691,7 +6700,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0478060441</code>
             <name>
-                <narrative>Beweging voor Internationale Solidariteit - Mouvement pour la SolidaritÃ© Internationale</narrative>
+                <narrative>Beweging voor Internationale Solidariteit - Mouvement pour la Solidarité Internationale</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6736,7 +6745,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0408095925</code>
             <name>
-                <narrative>Auto-DÃ©veloppement Afrique (ADA)</narrative>
+                <narrative>Auto-Développement Afrique (ADA)</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6745,7 +6754,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0416934803</code>
             <name>
-                <narrative>Forum Universitaire pour la CoopÃ©ration Internationale au DÃ©veloppement -FUCID ASBL</narrative>
+                <narrative>Forum Universitaire pour la Coopération Internationale au Développement -FUCID ASBL</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6907,7 +6916,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0546740696</code>
             <name>
-                <narrative>AcadÃ©mie de recherche et d'enseignement supÃ©rieur</narrative>
+                <narrative>Académie de recherche et d'enseignement supérieur</narrative>
             </name>
             <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
@@ -6943,7 +6952,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0448723978</code>
             <name>
-                <narrative>MÃ©decins Sans Vacances</narrative>
+                <narrative>Médecins Sans Vacances</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6952,7 +6961,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0446340550</code>
             <name>
-                <narrative>ComitÃ© pour l'abolition des dettes illÃ©gitimes</narrative>
+                <narrative>Comité pour l'abolition des dettes illégitimes</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -6961,7 +6970,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0415499795</code>
             <name>
-                <narrative>ITECO - Centre de formation pour le dÃ©veloppement</narrative>
+                <narrative>ITECO - Centre de formation pour le développement</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -7051,7 +7060,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0417549465</code>
             <name>
-                <narrative>CoopÃ©ration par l'Education et la Culture</narrative>
+                <narrative>Coopération par l'Education et la Culture</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -7078,7 +7087,7 @@
         <codelist-item status="active">
             <code>CO-RUE-860049972</code>
             <name>
-                <narrative>FundaciÃ³n OriÃ©ntame</narrative>
+                <narrative>Fundación Oriéntame</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -7339,7 +7348,7 @@
         <codelist-item status="active">
             <code>ES-CIF-G-8236803</code>
             <name>
-                <narrative>Oxfam IntermÃ³n</narrative>
+                <narrative>Oxfam Intermón</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -7627,7 +7636,7 @@
         <codelist-item status="active">
             <code>GB-GOV-14</code>
             <name>
-                <narrative>UK â Department for Education</narrative>
+                <narrative>UK – Department for Education</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -8077,7 +8086,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201810251129</code>
             <name>
-                <narrative>Commune de Adjarra - BÃ©nin</narrative>
+                <narrative>Commune de Adjarra - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8086,7 +8095,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201000068802</code>
             <name>
-                <narrative>Commune de Parakou - BÃ©nin</narrative>
+                <narrative>Commune de Parakou - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8095,7 +8104,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-5200081145006</code>
             <name>
-                <narrative>Commune de Toffo - BÃ©nin</narrative>
+                <narrative>Commune de Toffo - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8104,7 +8113,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6200901945503</code>
             <name>
-                <narrative>Commune de Toviklin - BÃ©nin</narrative>
+                <narrative>Commune de Toviklin - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8113,7 +8122,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201101182902</code>
             <name>
-                <narrative>Commune de KpomassÃ¨ - BÃ©nin</narrative>
+                <narrative>Commune de Kpomassè - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8122,7 +8131,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6200801257400</code>
             <name>
-                <narrative>Commune de ZÃ¨ - BÃ©nin</narrative>
+                <narrative>Commune de Zè - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8131,7 +8140,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201501755307</code>
             <name>
-                <narrative>Commune de Allada - BÃ©nin</narrative>
+                <narrative>Commune de Allada - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8140,7 +8149,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201001076902</code>
             <name>
-                <narrative>Commune de AplahouÃ© - BÃ©nin</narrative>
+                <narrative>Commune de Aplahoué - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8149,7 +8158,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6200901944805</code>
             <name>
-                <narrative>Commune de Lalo - BÃ©nin</narrative>
+                <narrative>Commune de Lalo - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8158,7 +8167,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6200901851300</code>
             <name>
-                <narrative>Commune de KÃ©tou - BÃ©nin</narrative>
+                <narrative>Commune de Kétou - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8167,7 +8176,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-5200801335602</code>
             <name>
-                <narrative>Commune de Adjohoun - BÃ©nin</narrative>
+                <narrative>Commune de Adjohoun - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8176,7 +8185,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6200901944008</code>
             <name>
-                <narrative>Commune de Adja-Ouere - BÃ©nin</narrative>
+                <narrative>Commune de Adja-Ouere - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8185,7 +8194,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201200579608</code>
             <name>
-                <narrative>Commune de PobÃ¨ - BÃ©nin</narrative>
+                <narrative>Commune de Pobè - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8194,7 +8203,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6200901944209</code>
             <name>
-                <narrative>Commune de Bopa - BÃ©nin</narrative>
+                <narrative>Commune de Bopa - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8203,7 +8212,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201001843703</code>
             <name>
-                <narrative>Commune de Akpro-MissÃ©rÃ©tÃ© - BÃ©nin</narrative>
+                <narrative>Commune de Akpro-Missérété - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8212,7 +8221,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201000370801</code>
             <name>
-                <narrative>Commune de ComÃ¨ - BÃ©nin</narrative>
+                <narrative>Commune de Comè - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8221,7 +8230,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201300688700</code>
             <name>
-                <narrative>Commune de Avrankou - BÃ©nin</narrative>
+                <narrative>Commune de Avrankou - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8230,7 +8239,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201100143407</code>
             <name>
-                <narrative>Commune de Ifangni - BÃ©nin</narrative>
+                <narrative>Commune de Ifangni - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8248,7 +8257,7 @@
         <codelist-item status="active">
             <code>BJ-IFU-6201100034408</code>
             <name>
-                <narrative>Commune de KlouÃ©kanmÃ¨ - BÃ©nin</narrative>
+                <narrative>Commune de Klouékanmè - Bénin</narrative>
             </name>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -8536,7 +8545,7 @@
         <codelist-item status="active">
             <code>MZ-NUIT-500004037</code>
             <name>
-                <narrative>DirecÃ§Ã£o Provincial de SaÃºde de Nampula</narrative>
+                <narrative>Direcção Provincial de Saúde de Nampula</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -8635,7 +8644,7 @@
         <codelist-item status="active">
             <code>DK-CVR-14723692</code>
             <name>
-                <narrative>Mission Ãst</narrative>
+                <narrative>Mission Øst</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -8649,6 +8658,15 @@
             <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DK-CVR-16077593</code>
+            <name>
+                <narrative>Confederation of Danish Industry</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
             <code>NL-KVK-50130536</code>
@@ -8914,7 +8932,7 @@
         <codelist-item status="active">
             <code>ML-NIF-082208943A</code>
             <name>
-                <narrative>Groupe Pivot SantÃ© Population</narrative>
+                <narrative>Groupe Pivot Santé Population</narrative>
             </name>
             <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
@@ -8923,7 +8941,7 @@
         <codelist-item status="active">
             <code>MZ-NUIT-700179850</code>
             <name>
-                <narrative>Plataforma MoÃ§ambicana da Ãgua (PLAMA)</narrative>
+                <narrative>Plataforma Moçambicana da Água (PLAMA)</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -9022,7 +9040,7 @@
         <codelist-item status="active">
             <code>DK-CVR-20356731</code>
             <name>
-                <narrative>PlanBÃ¸rnefonden</narrative>
+                <narrative>PlanBørnefonden</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -9418,7 +9436,7 @@
         <codelist-item status="active">
             <code>FR-RCS-78049888700022</code>
             <name>
-                <narrative>Centre International de DÃ©veloppement et de Recherche</narrative>
+                <narrative>Centre International de Développement et de Recherche</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -9517,7 +9535,7 @@
         <codelist-item status="active">
             <code>MZ-MOJ-100717344</code>
             <name>
-                <narrative>IMD MoÃ§ambique</narrative>
+                <narrative>IMD Moçambique</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -9922,7 +9940,7 @@
         <codelist-item status="active">
             <code>FR-RCS-40885667200030</code>
             <name>
-                <narrative>Triangle GÃ©nÃ©ration Humanitaire</narrative>
+                <narrative>Triangle Génération Humanitaire</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -10003,7 +10021,7 @@
         <codelist-item status="active">
             <code>CH-FDJP-CHE106823242</code>
             <name>
-                <narrative>Terre des hommes- Aide Ã  l'enfance dans le monde- Fondation</narrative>
+                <narrative>Terre des hommes- Aide à l'enfance dans le monde- Fondation</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -10327,7 +10345,7 @@
         <codelist-item status="active">
             <code>FR-RCS-49962201700014</code>
             <name>
-                <narrative>BibliothÃ¨ques Sans FrontiÃ¨res</narrative>
+                <narrative>Bibliothèques Sans Frontières</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -10741,7 +10759,7 @@
         <codelist-item status="active">
             <code>NL-KVK-64460789</code>
             <name>
-                <narrative>CoÃ¶peratief Climate Fund Managers U.A.</narrative>
+                <narrative>Coöperatief Climate Fund Managers U.A.</narrative>
             </name>
             <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
@@ -10795,7 +10813,7 @@
         <codelist-item status="active">
             <code>GB-CHC-1187935</code>
             <name>
-                <narrative>International Campaign WomenÂ´s Right to Safe Abortion</narrative>
+                <narrative>International Campaign Women´s Right to Safe Abortion</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -10867,7 +10885,7 @@
         <codelist-item status="active">
             <code>ML-NIF-084106436R</code>
             <name>
-                <narrative>Conseil et Appui pour l'Education Ã  la Base Mali</narrative>
+                <narrative>Conseil et Appui pour l'Education à la Base Mali</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -11029,7 +11047,7 @@
         <codelist-item status="active">
             <code>US-EIN-82-0644678</code>
             <name>
-                <narrative>SynergÃ­a - Initiatives for Human Rights</narrative>
+                <narrative>Synergía - Initiatives for Human Rights</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -11110,7 +11128,7 @@
         <codelist-item status="active">
             <code>MX-RFC-SLP1412039F3</code>
             <name>
-                <narrative>Soluciones en LegislaciÃ³n y PolÃ­tica Ambiental AC</narrative>
+                <narrative>Soluciones en Legislación y Política Ambiental AC</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
