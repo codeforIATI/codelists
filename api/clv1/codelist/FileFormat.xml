@@ -1,4 +1,4 @@
-<codelist name="FileFormat" date-last-modified="2021-02-17T16:26:23.575069+00:00" version="" xml:lang="en">
+<codelist name="FileFormat" date-last-modified="2021-02-18T11:54:00.751813+00:00" version="" xml:lang="en">
   <FileFormat>
     <code>application/1d-interleaved-parityfec</code>
     <name></name>
@@ -22,13 +22,6 @@
   </FileFormat>
   <FileFormat>
     <code>application/A2L</code>
-    <name></name>
-    <language>en</language>
-    <category>application</category>
-    <category-name></category-name>
-  </FileFormat>
-  <FileFormat>
-    <code>application/activemessage</code>
     <name></name>
     <language>en</language>
     <category>application</category>
@@ -238,7 +231,7 @@
     <category-name></category-name>
   </FileFormat>
   <FileFormat>
-    <code>application/CALS-1840</code>
+    <code>application/cals-1840</code>
     <name></name>
     <language>en</language>
     <category>application</category>
@@ -2086,6 +2079,13 @@
     <category-name></category-name>
   </FileFormat>
   <FileFormat>
+    <code>application/smil - OBSOLETED in favor of application/smil+xml</code>
+    <name></name>
+    <language>en</language>
+    <category>application</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
     <code>application/smil</code>
     <name></name>
     <language>en</language>
@@ -2703,6 +2703,13 @@
   </FileFormat>
   <FileFormat>
     <code>application/vnd.apple.installer+xml</code>
+    <name></name>
+    <language>en</language>
+    <category>application</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
+    <code>application/vnd.arastra.swi - OBSOLETED in favor of application/vnd.aristanetworks.swi</code>
     <name></name>
     <language>en</language>
     <category>application</category>
@@ -4018,6 +4025,13 @@
     <category-name></category-name>
   </FileFormat>
   <FileFormat>
+    <code>application/vnd.geocube+xml - OBSOLETED by request</code>
+    <name></name>
+    <language>en</language>
+    <category>application</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
     <code>application/vnd.geocube+xml</code>
     <name></name>
     <language>en</language>
@@ -4082,6 +4096,13 @@
   </FileFormat>
   <FileFormat>
     <code>application/vnd.globalplatform.card-content-mgt-response</code>
+    <name></name>
+    <language>en</language>
+    <category>application</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
+    <code>application/vnd.gmx - DEPRECATED</code>
     <name></name>
     <language>en</language>
     <category>application</category>
@@ -4488,6 +4509,13 @@
   </FileFormat>
   <FileFormat>
     <code>application/vnd.informedcontrol.rms+xml</code>
+    <name></name>
+    <language>en</language>
+    <category>application</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
+    <code>application/vnd.informix-visionary - OBSOLETED in favor of application/vnd.visionary</code>
     <name></name>
     <language>en</language>
     <category>application</category>
@@ -4915,13 +4943,6 @@
   </FileFormat>
   <FileFormat>
     <code>application/vnd.lotus-wordpro</code>
-    <name></name>
-    <language>en</language>
-    <category>application</category>
-    <category-name></category-name>
-  </FileFormat>
-  <FileFormat>
-    <code>application/vnd.macports.portpkg</code>
     <name></name>
     <language>en</language>
     <category>application</category>
@@ -5706,6 +5727,13 @@
   </FileFormat>
   <FileFormat>
     <code>application/vnd.nokia.n-gage.data</code>
+    <name></name>
+    <language>en</language>
+    <category>application</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
+    <code>application/vnd.nokia.n-gage.symbian.install - OBSOLETE; no replacement given</code>
     <name></name>
     <language>en</language>
     <category>application</category>
@@ -8498,6 +8526,13 @@
     <category-name></category-name>
   </FileFormat>
   <FileFormat>
+    <code>application/xhtml-voice+xml - OBSOLETE; no replacement given</code>
+    <name></name>
+    <language>en</language>
+    <category>application</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
     <code>application/xhtml-voice+xml</code>
     <name></name>
     <language>en</language>
@@ -9604,6 +9639,13 @@
     <category-name></category-name>
   </FileFormat>
   <FileFormat>
+    <code>audio/vnd.qcelp - DEPRECATED in favor of audio/qcelp</code>
+    <name></name>
+    <language>en</language>
+    <category>audio</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
     <code>audio/vnd.qcelp</code>
     <name></name>
     <language>en</language>
@@ -10171,6 +10213,13 @@
     <category-name></category-name>
   </FileFormat>
   <FileFormat>
+    <code>message/news - OBSOLETED by RFC5537</code>
+    <name></name>
+    <language>en</language>
+    <category>message</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
     <code>message/news</code>
     <name></name>
     <language>en</language>
@@ -10214,6 +10263,13 @@
   </FileFormat>
   <FileFormat>
     <code>message/tracking-status</code>
+    <name></name>
+    <language>en</language>
+    <category>message</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
+    <code>message/vnd.si.simp - OBSOLETED by request</code>
     <name></name>
     <language>en</language>
     <category>message</category>
@@ -10549,6 +10605,13 @@
     <category-name></category-name>
   </FileFormat>
   <FileFormat>
+    <code>text/directory - DEPRECATED by RFC6350</code>
+    <name></name>
+    <language>en</language>
+    <category>text</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
     <code>text/directory</code>
     <name></name>
     <language>en</language>
@@ -10557,6 +10620,13 @@
   </FileFormat>
   <FileFormat>
     <code>text/dns</code>
+    <name></name>
+    <language>en</language>
+    <category>text</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
+    <code>text/ecmascript - OBSOLETED in favor of application/ecmascript</code>
     <name></name>
     <language>en</language>
     <category>text</category>
@@ -10612,6 +10682,13 @@
     <category-name></category-name>
   </FileFormat>
   <FileFormat>
+    <code>text/javascript - OBSOLETED in favor of application/javascript</code>
+    <name></name>
+    <language>en</language>
+    <category>text</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
     <code>text/javascript</code>
     <name></name>
     <language>en</language>
@@ -10620,6 +10697,13 @@
   </FileFormat>
   <FileFormat>
     <code>text/jcr-cnd</code>
+    <name></name>
+    <language>en</language>
+    <category>text</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
+    <code>text/markdown (TEMPORARY - registered 2014-11-11, expires 2015-11-11)</code>
     <name></name>
     <language>en</language>
     <category>text</category>
@@ -10949,6 +11033,13 @@
   </FileFormat>
   <FileFormat>
     <code>text/vnd.radisys.msml-basic-layout</code>
+    <name></name>
+    <language>en</language>
+    <category>text</category>
+    <category-name></category-name>
+  </FileFormat>
+  <FileFormat>
+    <code>text/vnd.si.uricatalogue - OBSOLETED by request</code>
     <name></name>
     <language>en</language>
     <category>text</category>
