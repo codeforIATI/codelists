@@ -8498,6 +8498,13 @@
             <name>Ethiopian Public Health Association</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-72908114</code>
+            <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <name>The AGRI3 Fund</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>NL-KVK-729081140000</code>
             <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
@@ -8783,6 +8790,13 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <name>Abdul Latif Jameel Poverty Action Lab at MIT</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BI-NIF-4000742330</code>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
+            <name>AUXFIN Burundi</name>
         </codelist-item>
         <codelist-item status="active">
             <code>UA-EDR-9795443</code>

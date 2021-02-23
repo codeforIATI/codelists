@@ -10928,6 +10928,15 @@
             <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-72908114</code>
+            <name>
+                <narrative>The AGRI3 Fund</narrative>
+            </name>
+            <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>NL-KVK-729081140000</code>
             <name>
                 <narrative>The AGRI3 Fund</narrative>
@@ -11295,6 +11304,15 @@
             <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BI-NIF-4000742330</code>
+            <name>
+                <narrative>AUXFIN Burundi</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
             <code>UA-EDR-9795443</code>
