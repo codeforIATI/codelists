@@ -1,4 +1,4 @@
-<codelist name="SectorCategory" date-last-modified="2021-02-23T10:13:30.856164+00:00" version="" xml:lang="en">
+<codelist name="SectorCategory" date-last-modified="2021-02-23T10:55:42.251950+00:00" version="" xml:lang="en">
   <SectorCategory>
     <code>111</code>
     <name>Education, Level Unspecified</name>
@@ -208,7 +208,7 @@
     <code>740</code>
     <name>Disaster Prevention &amp; Preparedness</name>
     <language>en</language>
-    <description>See codes 41050 and 15220 for prevention of floods and conflicts.</description>
+    <description>See code 43060 for disaster risk reduction.</description>
   </SectorCategory>
   <SectorCategory>
     <code>910</code>

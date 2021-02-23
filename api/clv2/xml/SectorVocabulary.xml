@@ -39,7 +39,7 @@
         </codelist-item>
         <codelist-item>
             <code>5</code>
-            <url>http://nccs.urban.org/classification/NTEE.cfm</url>
+            <url>https://nccs.urban.org/publication/irs-activity-codes</url>
             <name>National Taxonomy for Exempt Entities (USA)</name>
             <name xml:lang="fr">Taxonomie nationale des entit&#233;s exemptes (&#201;tats-Unis)</name>
             <description>The sector reported corresponds to the National Taxonomy for Exempt Entities (NTEE) - USA</description>
@@ -54,7 +54,7 @@
         </codelist-item>
         <codelist-item>
             <code>7</code>
-            <url>https://sustainabledevelopment.un.org/?menu=1300</url>
+            <url>http://reference.iatistandard.org/codelists/unsdg-goals</url>
             <name>SDG Goal</name>
             <name xml:lang="fr">ODD (objectif)</name>
             <description>A value from the top-level list of UN sustainable development goals (SDGs) (e.g. &#8216;1&#8217;)</description>
@@ -62,7 +62,7 @@
         </codelist-item>
         <codelist-item>
             <code>8</code>
-            <url>http://unstats.un.org/sdgs/indicators/indicators-list/</url>
+            <url>http://reference.iatistandard.org/codelists/unsdg-targets</url>
             <name>SDG Target</name>
             <name xml:lang="fr">ODD (cible)</name>
             <description>A value from the second-level list of UN sustainable development goals (SDGs) (e.g. &#8216;1.1&#8217;)</description>

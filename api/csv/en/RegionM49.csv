@@ -1,250 +1,250 @@
-code,name,status,codeforiati:iso-alpha-2-code,codeforiati:global-code,codeforiati:region-name,codeforiati:sub-region-code,codeforiati:least-developed-countries,codeforiati:developed-developing,codeforiati:land-locked-developing-countries,codeforiati:global-name,codeforiati:small-island-developing-states,codeforiati:iso-alpha-3-code,codeforiati:sub-region-name,codeforiati:region-code,codeforiati:intermediate-region-code,codeforiati:intermediate-region-name
-012,Algeria,active,DZ,001,Africa,015,0,Developing,0,World,0,DZA,Northern Africa,002,,
-818,Egypt,active,EG,001,Africa,015,0,Developing,0,World,0,EGY,Northern Africa,002,,
-434,Libya,active,LY,001,Africa,015,0,Developing,0,World,0,LBY,Northern Africa,002,,
-504,Morocco,active,MA,001,Africa,015,0,Developing,0,World,0,MAR,Northern Africa,002,,
-729,Sudan,active,SD,001,Africa,015,1,Developing,0,World,0,SDN,Northern Africa,002,,
-788,Tunisia,active,TN,001,Africa,015,0,Developing,0,World,0,TUN,Northern Africa,002,,
-732,Western Sahara,active,EH,001,Africa,015,0,Developing,0,World,0,ESH,Northern Africa,002,,
-086,British Indian Ocean Territory,active,IO,001,Africa,202,0,Developing,0,World,0,IOT,Sub-Saharan Africa,002,014,Eastern Africa
-108,Burundi,active,BI,001,Africa,202,1,Developing,1,World,0,BDI,Sub-Saharan Africa,002,014,Eastern Africa
-174,Comoros,active,KM,001,Africa,202,1,Developing,0,World,1,COM,Sub-Saharan Africa,002,014,Eastern Africa
-262,Djibouti,active,DJ,001,Africa,202,1,Developing,0,World,0,DJI,Sub-Saharan Africa,002,014,Eastern Africa
-232,Eritrea,active,ER,001,Africa,202,1,Developing,0,World,0,ERI,Sub-Saharan Africa,002,014,Eastern Africa
-231,Ethiopia,active,ET,001,Africa,202,1,Developing,1,World,0,ETH,Sub-Saharan Africa,002,014,Eastern Africa
-260,French Southern Territories,active,TF,001,Africa,202,0,Developing,0,World,0,ATF,Sub-Saharan Africa,002,014,Eastern Africa
-404,Kenya,active,KE,001,Africa,202,0,Developing,0,World,0,KEN,Sub-Saharan Africa,002,014,Eastern Africa
-450,Madagascar,active,MG,001,Africa,202,1,Developing,0,World,0,MDG,Sub-Saharan Africa,002,014,Eastern Africa
-454,Malawi,active,MW,001,Africa,202,1,Developing,1,World,0,MWI,Sub-Saharan Africa,002,014,Eastern Africa
-480,Mauritius,active,MU,001,Africa,202,0,Developing,0,World,1,MUS,Sub-Saharan Africa,002,014,Eastern Africa
-175,Mayotte,active,YT,001,Africa,202,0,Developing,0,World,0,MYT,Sub-Saharan Africa,002,014,Eastern Africa
-508,Mozambique,active,MZ,001,Africa,202,1,Developing,0,World,0,MOZ,Sub-Saharan Africa,002,014,Eastern Africa
-638,Réunion,active,RE,001,Africa,202,0,Developing,0,World,0,REU,Sub-Saharan Africa,002,014,Eastern Africa
-646,Rwanda,active,RW,001,Africa,202,1,Developing,1,World,0,RWA,Sub-Saharan Africa,002,014,Eastern Africa
-690,Seychelles,active,SC,001,Africa,202,0,Developing,0,World,1,SYC,Sub-Saharan Africa,002,014,Eastern Africa
-706,Somalia,active,SO,001,Africa,202,1,Developing,0,World,0,SOM,Sub-Saharan Africa,002,014,Eastern Africa
-728,South Sudan,active,SS,001,Africa,202,1,Developing,1,World,0,SSD,Sub-Saharan Africa,002,014,Eastern Africa
-800,Uganda,active,UG,001,Africa,202,1,Developing,1,World,0,UGA,Sub-Saharan Africa,002,014,Eastern Africa
-834,United Republic of Tanzania,active,TZ,001,Africa,202,1,Developing,0,World,0,TZA,Sub-Saharan Africa,002,014,Eastern Africa
-894,Zambia,active,ZM,001,Africa,202,1,Developing,1,World,0,ZMB,Sub-Saharan Africa,002,014,Eastern Africa
-716,Zimbabwe,active,ZW,001,Africa,202,0,Developing,1,World,0,ZWE,Sub-Saharan Africa,002,014,Eastern Africa
-024,Angola,active,AO,001,Africa,202,1,Developing,0,World,0,AGO,Sub-Saharan Africa,002,017,Middle Africa
-120,Cameroon,active,CM,001,Africa,202,0,Developing,0,World,0,CMR,Sub-Saharan Africa,002,017,Middle Africa
-140,Central African Republic,active,CF,001,Africa,202,1,Developing,1,World,0,CAF,Sub-Saharan Africa,002,017,Middle Africa
-148,Chad,active,TD,001,Africa,202,1,Developing,1,World,0,TCD,Sub-Saharan Africa,002,017,Middle Africa
-178,Congo,active,CG,001,Africa,202,0,Developing,0,World,0,COG,Sub-Saharan Africa,002,017,Middle Africa
-180,Democratic Republic of the Congo,active,CD,001,Africa,202,1,Developing,0,World,0,COD,Sub-Saharan Africa,002,017,Middle Africa
-226,Equatorial Guinea,active,GQ,001,Africa,202,0,Developing,0,World,0,GNQ,Sub-Saharan Africa,002,017,Middle Africa
-266,Gabon,active,GA,001,Africa,202,0,Developing,0,World,0,GAB,Sub-Saharan Africa,002,017,Middle Africa
-678,Sao Tome and Principe,active,ST,001,Africa,202,1,Developing,0,World,1,STP,Sub-Saharan Africa,002,017,Middle Africa
-072,Botswana,active,BW,001,Africa,202,0,Developing,1,World,0,BWA,Sub-Saharan Africa,002,018,Southern Africa
-748,Eswatini,active,SZ,001,Africa,202,0,Developing,1,World,0,SWZ,Sub-Saharan Africa,002,018,Southern Africa
-426,Lesotho,active,LS,001,Africa,202,1,Developing,1,World,0,LSO,Sub-Saharan Africa,002,018,Southern Africa
-516,Namibia,active,NA,001,Africa,202,0,Developing,0,World,0,NAM,Sub-Saharan Africa,002,018,Southern Africa
-710,South Africa,active,ZA,001,Africa,202,0,Developing,0,World,0,ZAF,Sub-Saharan Africa,002,018,Southern Africa
-204,Benin,active,BJ,001,Africa,202,1,Developing,0,World,0,BEN,Sub-Saharan Africa,002,011,Western Africa
-854,Burkina Faso,active,BF,001,Africa,202,1,Developing,1,World,0,BFA,Sub-Saharan Africa,002,011,Western Africa
-132,Cabo Verde,active,CV,001,Africa,202,0,Developing,0,World,1,CPV,Sub-Saharan Africa,002,011,Western Africa
-384,Côte d’Ivoire,active,CI,001,Africa,202,0,Developing,0,World,0,CIV,Sub-Saharan Africa,002,011,Western Africa
-270,Gambia,active,GM,001,Africa,202,1,Developing,0,World,0,GMB,Sub-Saharan Africa,002,011,Western Africa
-288,Ghana,active,GH,001,Africa,202,0,Developing,0,World,0,GHA,Sub-Saharan Africa,002,011,Western Africa
-324,Guinea,active,GN,001,Africa,202,1,Developing,0,World,0,GIN,Sub-Saharan Africa,002,011,Western Africa
-624,Guinea-Bissau,active,GW,001,Africa,202,1,Developing,0,World,1,GNB,Sub-Saharan Africa,002,011,Western Africa
-430,Liberia,active,LR,001,Africa,202,1,Developing,0,World,0,LBR,Sub-Saharan Africa,002,011,Western Africa
-466,Mali,active,ML,001,Africa,202,1,Developing,1,World,0,MLI,Sub-Saharan Africa,002,011,Western Africa
-478,Mauritania,active,MR,001,Africa,202,1,Developing,0,World,0,MRT,Sub-Saharan Africa,002,011,Western Africa
-562,Niger,active,NE,001,Africa,202,1,Developing,1,World,0,NER,Sub-Saharan Africa,002,011,Western Africa
-566,Nigeria,active,NG,001,Africa,202,0,Developing,0,World,0,NGA,Sub-Saharan Africa,002,011,Western Africa
-654,Saint Helena,active,SH,001,Africa,202,0,Developing,0,World,0,SHN,Sub-Saharan Africa,002,011,Western Africa
-686,Senegal,active,SN,001,Africa,202,1,Developing,0,World,0,SEN,Sub-Saharan Africa,002,011,Western Africa
-694,Sierra Leone,active,SL,001,Africa,202,1,Developing,0,World,0,SLE,Sub-Saharan Africa,002,011,Western Africa
-768,Togo,active,TG,001,Africa,202,1,Developing,0,World,0,TGO,Sub-Saharan Africa,002,011,Western Africa
-660,Anguilla,active,AI,001,Americas,419,0,Developing,0,World,1,AIA,Latin America and the Caribbean,019,029,Caribbean
-028,Antigua and Barbuda,active,AG,001,Americas,419,0,Developing,0,World,1,ATG,Latin America and the Caribbean,019,029,Caribbean
-533,Aruba,active,AW,001,Americas,419,0,Developing,0,World,1,ABW,Latin America and the Caribbean,019,029,Caribbean
-044,Bahamas,active,BS,001,Americas,419,0,Developing,0,World,1,BHS,Latin America and the Caribbean,019,029,Caribbean
-052,Barbados,active,BB,001,Americas,419,0,Developing,0,World,1,BRB,Latin America and the Caribbean,019,029,Caribbean
-535,"Bonaire, Sint Eustatius and Saba",active,BQ,001,Americas,419,0,Developing,0,World,1,BES,Latin America and the Caribbean,019,029,Caribbean
-092,British Virgin Islands,active,VG,001,Americas,419,0,Developing,0,World,1,VGB,Latin America and the Caribbean,019,029,Caribbean
-136,Cayman Islands,active,KY,001,Americas,419,0,Developing,0,World,0,CYM,Latin America and the Caribbean,019,029,Caribbean
-192,Cuba,active,CU,001,Americas,419,0,Developing,0,World,1,CUB,Latin America and the Caribbean,019,029,Caribbean
-531,Curaçao,active,CW,001,Americas,419,0,Developing,0,World,1,CUW,Latin America and the Caribbean,019,029,Caribbean
-212,Dominica,active,DM,001,Americas,419,0,Developing,0,World,1,DMA,Latin America and the Caribbean,019,029,Caribbean
-214,Dominican Republic,active,DO,001,Americas,419,0,Developing,0,World,1,DOM,Latin America and the Caribbean,019,029,Caribbean
-308,Grenada,active,GD,001,Americas,419,0,Developing,0,World,1,GRD,Latin America and the Caribbean,019,029,Caribbean
-312,Guadeloupe,active,GP,001,Americas,419,0,Developing,0,World,0,GLP,Latin America and the Caribbean,019,029,Caribbean
-332,Haiti,active,HT,001,Americas,419,1,Developing,0,World,1,HTI,Latin America and the Caribbean,019,029,Caribbean
-388,Jamaica,active,JM,001,Americas,419,0,Developing,0,World,1,JAM,Latin America and the Caribbean,019,029,Caribbean
-474,Martinique,active,MQ,001,Americas,419,0,Developing,0,World,0,MTQ,Latin America and the Caribbean,019,029,Caribbean
-500,Montserrat,active,MS,001,Americas,419,0,Developing,0,World,1,MSR,Latin America and the Caribbean,019,029,Caribbean
-630,Puerto Rico,active,PR,001,Americas,419,0,Developing,0,World,1,PRI,Latin America and the Caribbean,019,029,Caribbean
-652,Saint Barthélemy,active,BL,001,Americas,419,0,Developing,0,World,0,BLM,Latin America and the Caribbean,019,029,Caribbean
-659,Saint Kitts and Nevis,active,KN,001,Americas,419,0,Developing,0,World,1,KNA,Latin America and the Caribbean,019,029,Caribbean
-662,Saint Lucia,active,LC,001,Americas,419,0,Developing,0,World,1,LCA,Latin America and the Caribbean,019,029,Caribbean
-663,Saint Martin (French Part),active,MF,001,Americas,419,0,Developing,0,World,0,MAF,Latin America and the Caribbean,019,029,Caribbean
-670,Saint Vincent and the Grenadines,active,VC,001,Americas,419,0,Developing,0,World,1,VCT,Latin America and the Caribbean,019,029,Caribbean
-534,Sint Maarten (Dutch part),active,SX,001,Americas,419,0,Developing,0,World,1,SXM,Latin America and the Caribbean,019,029,Caribbean
-780,Trinidad and Tobago,active,TT,001,Americas,419,0,Developing,0,World,1,TTO,Latin America and the Caribbean,019,029,Caribbean
-796,Turks and Caicos Islands,active,TC,001,Americas,419,0,Developing,0,World,0,TCA,Latin America and the Caribbean,019,029,Caribbean
-850,United States Virgin Islands,active,VI,001,Americas,419,0,Developing,0,World,1,VIR,Latin America and the Caribbean,019,029,Caribbean
-084,Belize,active,BZ,001,Americas,419,0,Developing,0,World,1,BLZ,Latin America and the Caribbean,019,013,Central America
-188,Costa Rica,active,CR,001,Americas,419,0,Developing,0,World,0,CRI,Latin America and the Caribbean,019,013,Central America
-222,El Salvador,active,SV,001,Americas,419,0,Developing,0,World,0,SLV,Latin America and the Caribbean,019,013,Central America
-320,Guatemala,active,GT,001,Americas,419,0,Developing,0,World,0,GTM,Latin America and the Caribbean,019,013,Central America
-340,Honduras,active,HN,001,Americas,419,0,Developing,0,World,0,HND,Latin America and the Caribbean,019,013,Central America
-484,Mexico,active,MX,001,Americas,419,0,Developing,0,World,0,MEX,Latin America and the Caribbean,019,013,Central America
-558,Nicaragua,active,NI,001,Americas,419,0,Developing,0,World,0,NIC,Latin America and the Caribbean,019,013,Central America
-591,Panama,active,PA,001,Americas,419,0,Developing,0,World,0,PAN,Latin America and the Caribbean,019,013,Central America
-032,Argentina,active,AR,001,Americas,419,0,Developing,0,World,0,ARG,Latin America and the Caribbean,019,005,South America
-068,Bolivia (Plurinational State of),active,BO,001,Americas,419,0,Developing,1,World,0,BOL,Latin America and the Caribbean,019,005,South America
-074,Bouvet Island,active,BV,001,Americas,419,0,Developing,0,World,0,BVT,Latin America and the Caribbean,019,005,South America
-076,Brazil,active,BR,001,Americas,419,0,Developing,0,World,0,BRA,Latin America and the Caribbean,019,005,South America
-152,Chile,active,CL,001,Americas,419,0,Developing,0,World,0,CHL,Latin America and the Caribbean,019,005,South America
-170,Colombia,active,CO,001,Americas,419,0,Developing,0,World,0,COL,Latin America and the Caribbean,019,005,South America
-218,Ecuador,active,EC,001,Americas,419,0,Developing,0,World,0,ECU,Latin America and the Caribbean,019,005,South America
-238,Falkland Islands (Malvinas),active,FK,001,Americas,419,0,Developing,0,World,0,FLK,Latin America and the Caribbean,019,005,South America
-254,French Guiana,active,GF,001,Americas,419,0,Developing,0,World,0,GUF,Latin America and the Caribbean,019,005,South America
-328,Guyana,active,GY,001,Americas,419,0,Developing,0,World,1,GUY,Latin America and the Caribbean,019,005,South America
-600,Paraguay,active,PY,001,Americas,419,0,Developing,1,World,0,PRY,Latin America and the Caribbean,019,005,South America
-604,Peru,active,PE,001,Americas,419,0,Developing,0,World,0,PER,Latin America and the Caribbean,019,005,South America
-239,South Georgia and the South Sandwich Islands,active,GS,001,Americas,419,0,Developing,0,World,0,SGS,Latin America and the Caribbean,019,005,South America
-740,Suriname,active,SR,001,Americas,419,0,Developing,0,World,1,SUR,Latin America and the Caribbean,019,005,South America
-858,Uruguay,active,UY,001,Americas,419,0,Developing,0,World,0,URY,Latin America and the Caribbean,019,005,South America
-862,Venezuela (Bolivarian Republic of),active,VE,001,Americas,419,0,Developing,0,World,0,VEN,Latin America and the Caribbean,019,005,South America
-060,Bermuda,active,BM,001,Americas,021,0,Developed,0,World,0,BMU,Northern America,019,,
-124,Canada,active,CA,001,Americas,021,0,Developed,0,World,0,CAN,Northern America,019,,
-304,Greenland,active,GL,001,Americas,021,0,Developed,0,World,0,GRL,Northern America,019,,
-666,Saint Pierre and Miquelon,active,PM,001,Americas,021,0,Developed,0,World,0,SPM,Northern America,019,,
-840,United States of America,active,US,001,Americas,021,0,Developed,0,World,0,USA,Northern America,019,,
-010,Antarctica,active,AQ,001,,,0,,0,World,0,ATA,,,,
-398,Kazakhstan,active,KZ,001,Asia,143,0,Developing,1,World,0,KAZ,Central Asia,142,,
-417,Kyrgyzstan,active,KG,001,Asia,143,0,Developing,1,World,0,KGZ,Central Asia,142,,
-762,Tajikistan,active,TJ,001,Asia,143,0,Developing,1,World,0,TJK,Central Asia,142,,
-795,Turkmenistan,active,TM,001,Asia,143,0,Developing,1,World,0,TKM,Central Asia,142,,
-860,Uzbekistan,active,UZ,001,Asia,143,0,Developing,1,World,0,UZB,Central Asia,142,,
-156,China,active,CN,001,Asia,030,0,Developing,0,World,0,CHN,Eastern Asia,142,,
-344,"China, Hong Kong Special Administrative Region",active,HK,001,Asia,030,0,Developing,0,World,0,HKG,Eastern Asia,142,,
-446,"China, Macao Special Administrative Region",active,MO,001,Asia,030,0,Developing,0,World,0,MAC,Eastern Asia,142,,
-408,Democratic People's Republic of Korea,active,KP,001,Asia,030,0,Developing,0,World,0,PRK,Eastern Asia,142,,
-392,Japan,active,JP,001,Asia,030,0,Developed,0,World,0,JPN,Eastern Asia,142,,
-496,Mongolia,active,MN,001,Asia,030,0,Developing,1,World,0,MNG,Eastern Asia,142,,
-410,Republic of Korea,active,KR,001,Asia,030,0,Developing,0,World,0,KOR,Eastern Asia,142,,
-096,Brunei Darussalam,active,BN,001,Asia,035,0,Developing,0,World,0,BRN,South-eastern Asia,142,,
-116,Cambodia,active,KH,001,Asia,035,1,Developing,0,World,0,KHM,South-eastern Asia,142,,
-360,Indonesia,active,ID,001,Asia,035,0,Developing,0,World,0,IDN,South-eastern Asia,142,,
-418,Lao People's Democratic Republic,active,LA,001,Asia,035,1,Developing,1,World,0,LAO,South-eastern Asia,142,,
-458,Malaysia,active,MY,001,Asia,035,0,Developing,0,World,0,MYS,South-eastern Asia,142,,
-104,Myanmar,active,MM,001,Asia,035,1,Developing,0,World,0,MMR,South-eastern Asia,142,,
-608,Philippines,active,PH,001,Asia,035,0,Developing,0,World,0,PHL,South-eastern Asia,142,,
-702,Singapore,active,SG,001,Asia,035,0,Developing,0,World,1,SGP,South-eastern Asia,142,,
-764,Thailand,active,TH,001,Asia,035,0,Developing,0,World,0,THA,South-eastern Asia,142,,
-626,Timor-Leste,active,TL,001,Asia,035,1,Developing,0,World,1,TLS,South-eastern Asia,142,,
-704,Viet Nam,active,VN,001,Asia,035,0,Developing,0,World,0,VNM,South-eastern Asia,142,,
-004,Afghanistan,active,AF,001,Asia,034,1,Developing,1,World,0,AFG,Southern Asia,142,,
-050,Bangladesh,active,BD,001,Asia,034,1,Developing,0,World,0,BGD,Southern Asia,142,,
-064,Bhutan,active,BT,001,Asia,034,1,Developing,1,World,0,BTN,Southern Asia,142,,
-356,India,active,IN,001,Asia,034,0,Developing,0,World,0,IND,Southern Asia,142,,
-364,Iran (Islamic Republic of),active,IR,001,Asia,034,0,Developing,0,World,0,IRN,Southern Asia,142,,
-462,Maldives,active,MV,001,Asia,034,0,Developing,0,World,1,MDV,Southern Asia,142,,
-524,Nepal,active,NP,001,Asia,034,1,Developing,1,World,0,NPL,Southern Asia,142,,
-586,Pakistan,active,PK,001,Asia,034,0,Developing,0,World,0,PAK,Southern Asia,142,,
-144,Sri Lanka,active,LK,001,Asia,034,0,Developing,0,World,0,LKA,Southern Asia,142,,
-051,Armenia,active,AM,001,Asia,145,0,Developing,1,World,0,ARM,Western Asia,142,,
-031,Azerbaijan,active,AZ,001,Asia,145,0,Developing,1,World,0,AZE,Western Asia,142,,
-048,Bahrain,active,BH,001,Asia,145,0,Developing,0,World,0,BHR,Western Asia,142,,
-196,Cyprus,active,CY,001,Asia,145,0,Developed,0,World,0,CYP,Western Asia,142,,
-268,Georgia,active,GE,001,Asia,145,0,Developing,0,World,0,GEO,Western Asia,142,,
-368,Iraq,active,IQ,001,Asia,145,0,Developing,0,World,0,IRQ,Western Asia,142,,
-376,Israel,active,IL,001,Asia,145,0,Developed,0,World,0,ISR,Western Asia,142,,
-400,Jordan,active,JO,001,Asia,145,0,Developing,0,World,0,JOR,Western Asia,142,,
-414,Kuwait,active,KW,001,Asia,145,0,Developing,0,World,0,KWT,Western Asia,142,,
-422,Lebanon,active,LB,001,Asia,145,0,Developing,0,World,0,LBN,Western Asia,142,,
-512,Oman,active,OM,001,Asia,145,0,Developing,0,World,0,OMN,Western Asia,142,,
-634,Qatar,active,QA,001,Asia,145,0,Developing,0,World,0,QAT,Western Asia,142,,
-682,Saudi Arabia,active,SA,001,Asia,145,0,Developing,0,World,0,SAU,Western Asia,142,,
-275,State of Palestine,active,PS,001,Asia,145,0,Developing,0,World,0,PSE,Western Asia,142,,
-760,Syrian Arab Republic,active,SY,001,Asia,145,0,Developing,0,World,0,SYR,Western Asia,142,,
-792,Turkey,active,TR,001,Asia,145,0,Developing,0,World,0,TUR,Western Asia,142,,
-784,United Arab Emirates,active,AE,001,Asia,145,0,Developing,0,World,0,ARE,Western Asia,142,,
-887,Yemen,active,YE,001,Asia,145,1,Developing,0,World,0,YEM,Western Asia,142,,
-112,Belarus,active,BY,001,Europe,151,0,Developed,0,World,0,BLR,Eastern Europe,150,,
-100,Bulgaria,active,BG,001,Europe,151,0,Developed,0,World,0,BGR,Eastern Europe,150,,
-203,Czechia,active,CZ,001,Europe,151,0,Developed,0,World,0,CZE,Eastern Europe,150,,
-348,Hungary,active,HU,001,Europe,151,0,Developed,0,World,0,HUN,Eastern Europe,150,,
-616,Poland,active,PL,001,Europe,151,0,Developed,0,World,0,POL,Eastern Europe,150,,
-498,Republic of Moldova,active,MD,001,Europe,151,0,Developed,1,World,0,MDA,Eastern Europe,150,,
-642,Romania,active,RO,001,Europe,151,0,Developed,0,World,0,ROU,Eastern Europe,150,,
-643,Russian Federation,active,RU,001,Europe,151,0,Developed,0,World,0,RUS,Eastern Europe,150,,
-703,Slovakia,active,SK,001,Europe,151,0,Developed,0,World,0,SVK,Eastern Europe,150,,
-804,Ukraine,active,UA,001,Europe,151,0,Developed,0,World,0,UKR,Eastern Europe,150,,
-248,Åland Islands,active,AX,001,Europe,154,0,Developed,0,World,0,ALA,Northern Europe,150,,
-831,Guernsey,active,GG,001,Europe,154,0,Developed,0,World,0,GGY,Northern Europe,150,830,Channel Islands
-832,Jersey,active,JE,001,Europe,154,0,Developed,0,World,0,JEY,Northern Europe,150,830,Channel Islands
-680,Sark,active,,001,Europe,154,0,Developed,0,World,0,,Northern Europe,150,830,Channel Islands
-208,Denmark,active,DK,001,Europe,154,0,Developed,0,World,0,DNK,Northern Europe,150,,
-233,Estonia,active,EE,001,Europe,154,0,Developed,0,World,0,EST,Northern Europe,150,,
-234,Faroe Islands,active,FO,001,Europe,154,0,Developed,0,World,0,FRO,Northern Europe,150,,
-246,Finland,active,FI,001,Europe,154,0,Developed,0,World,0,FIN,Northern Europe,150,,
-352,Iceland,active,IS,001,Europe,154,0,Developed,0,World,0,ISL,Northern Europe,150,,
-372,Ireland,active,IE,001,Europe,154,0,Developed,0,World,0,IRL,Northern Europe,150,,
-833,Isle of Man,active,IM,001,Europe,154,0,Developed,0,World,0,IMN,Northern Europe,150,,
-428,Latvia,active,LV,001,Europe,154,0,Developed,0,World,0,LVA,Northern Europe,150,,
-440,Lithuania,active,LT,001,Europe,154,0,Developed,0,World,0,LTU,Northern Europe,150,,
-578,Norway,active,NO,001,Europe,154,0,Developed,0,World,0,NOR,Northern Europe,150,,
-744,Svalbard and Jan Mayen Islands,active,SJ,001,Europe,154,0,Developed,0,World,0,SJM,Northern Europe,150,,
-752,Sweden,active,SE,001,Europe,154,0,Developed,0,World,0,SWE,Northern Europe,150,,
-826,United Kingdom of Great Britain and Northern Ireland,active,GB,001,Europe,154,0,Developed,0,World,0,GBR,Northern Europe,150,,
-008,Albania,active,AL,001,Europe,039,0,Developed,0,World,0,ALB,Southern Europe,150,,
-020,Andorra,active,AD,001,Europe,039,0,Developed,0,World,0,AND,Southern Europe,150,,
-070,Bosnia and Herzegovina,active,BA,001,Europe,039,0,Developed,0,World,0,BIH,Southern Europe,150,,
-191,Croatia,active,HR,001,Europe,039,0,Developed,0,World,0,HRV,Southern Europe,150,,
-292,Gibraltar,active,GI,001,Europe,039,0,Developed,0,World,0,GIB,Southern Europe,150,,
-300,Greece,active,GR,001,Europe,039,0,Developed,0,World,0,GRC,Southern Europe,150,,
-336,Holy See,active,VA,001,Europe,039,0,Developed,0,World,0,VAT,Southern Europe,150,,
-380,Italy,active,IT,001,Europe,039,0,Developed,0,World,0,ITA,Southern Europe,150,,
-470,Malta,active,MT,001,Europe,039,0,Developed,0,World,0,MLT,Southern Europe,150,,
-499,Montenegro,active,ME,001,Europe,039,0,Developed,0,World,0,MNE,Southern Europe,150,,
-807,North Macedonia,active,MK,001,Europe,039,0,Developed,1,World,0,MKD,Southern Europe,150,,
-620,Portugal,active,PT,001,Europe,039,0,Developed,0,World,0,PRT,Southern Europe,150,,
-674,San Marino,active,SM,001,Europe,039,0,Developed,0,World,0,SMR,Southern Europe,150,,
-688,Serbia,active,RS,001,Europe,039,0,Developed,0,World,0,SRB,Southern Europe,150,,
-705,Slovenia,active,SI,001,Europe,039,0,Developed,0,World,0,SVN,Southern Europe,150,,
-724,Spain,active,ES,001,Europe,039,0,Developed,0,World,0,ESP,Southern Europe,150,,
-040,Austria,active,AT,001,Europe,155,0,Developed,0,World,0,AUT,Western Europe,150,,
-056,Belgium,active,BE,001,Europe,155,0,Developed,0,World,0,BEL,Western Europe,150,,
-250,France,active,FR,001,Europe,155,0,Developed,0,World,0,FRA,Western Europe,150,,
-276,Germany,active,DE,001,Europe,155,0,Developed,0,World,0,DEU,Western Europe,150,,
-438,Liechtenstein,active,LI,001,Europe,155,0,Developed,0,World,0,LIE,Western Europe,150,,
-442,Luxembourg,active,LU,001,Europe,155,0,Developed,0,World,0,LUX,Western Europe,150,,
-492,Monaco,active,MC,001,Europe,155,0,Developed,0,World,0,MCO,Western Europe,150,,
-528,Netherlands,active,NL,001,Europe,155,0,Developed,0,World,0,NLD,Western Europe,150,,
-756,Switzerland,active,CH,001,Europe,155,0,Developed,0,World,0,CHE,Western Europe,150,,
-036,Australia,active,AU,001,Oceania,053,0,Developed,0,World,0,AUS,Australia and New Zealand,009,,
-162,Christmas Island,active,CX,001,Oceania,053,0,Developed,0,World,0,CXR,Australia and New Zealand,009,,
-166,Cocos (Keeling) Islands,active,CC,001,Oceania,053,0,Developed,0,World,0,CCK,Australia and New Zealand,009,,
-334,Heard Island and McDonald Islands,active,HM,001,Oceania,053,0,Developed,0,World,0,HMD,Australia and New Zealand,009,,
-554,New Zealand,active,NZ,001,Oceania,053,0,Developed,0,World,0,NZL,Australia and New Zealand,009,,
-574,Norfolk Island,active,NF,001,Oceania,053,0,Developed,0,World,0,NFK,Australia and New Zealand,009,,
-242,Fiji,active,FJ,001,Oceania,054,0,Developing,0,World,1,FJI,Melanesia,009,,
-540,New Caledonia,active,NC,001,Oceania,054,0,Developing,0,World,1,NCL,Melanesia,009,,
-598,Papua New Guinea,active,PG,001,Oceania,054,0,Developing,0,World,1,PNG,Melanesia,009,,
-090,Solomon Islands,active,SB,001,Oceania,054,1,Developing,0,World,1,SLB,Melanesia,009,,
-548,Vanuatu,active,VU,001,Oceania,054,1,Developing,0,World,1,VUT,Melanesia,009,,
-316,Guam,active,GU,001,Oceania,057,0,Developing,0,World,1,GUM,Micronesia,009,,
-296,Kiribati,active,KI,001,Oceania,057,1,Developing,0,World,1,KIR,Micronesia,009,,
-584,Marshall Islands,active,MH,001,Oceania,057,0,Developing,0,World,1,MHL,Micronesia,009,,
-583,Micronesia (Federated States of),active,FM,001,Oceania,057,0,Developing,0,World,1,FSM,Micronesia,009,,
-520,Nauru,active,NR,001,Oceania,057,0,Developing,0,World,1,NRU,Micronesia,009,,
-580,Northern Mariana Islands,active,MP,001,Oceania,057,0,Developing,0,World,1,MNP,Micronesia,009,,
-585,Palau,active,PW,001,Oceania,057,0,Developing,0,World,1,PLW,Micronesia,009,,
-581,United States Minor Outlying Islands,active,UM,001,Oceania,057,0,Developing,0,World,0,UMI,Micronesia,009,,
-016,American Samoa,active,AS,001,Oceania,061,0,Developing,0,World,1,ASM,Polynesia,009,,
-184,Cook Islands,active,CK,001,Oceania,061,0,Developing,0,World,1,COK,Polynesia,009,,
-258,French Polynesia,active,PF,001,Oceania,061,0,Developing,0,World,1,PYF,Polynesia,009,,
-570,Niue,active,NU,001,Oceania,061,0,Developing,0,World,1,NIU,Polynesia,009,,
-612,Pitcairn,active,PN,001,Oceania,061,0,Developing,0,World,0,PCN,Polynesia,009,,
-882,Samoa,active,WS,001,Oceania,061,0,Developing,0,World,1,WSM,Polynesia,009,,
-772,Tokelau,active,TK,001,Oceania,061,0,Developing,0,World,0,TKL,Polynesia,009,,
-776,Tonga,active,TO,001,Oceania,061,0,Developing,0,World,1,TON,Polynesia,009,,
-798,Tuvalu,active,TV,001,Oceania,061,1,Developing,0,World,1,TUV,Polynesia,009,,
-876,Wallis and Futuna Islands,active,WF,001,Oceania,061,0,Developing,0,World,0,WLF,Polynesia,009,,
+code,name,status,codeforiati:least-developed-countries,codeforiati:intermediate-region-name,codeforiati:developed-developing,codeforiati:sub-region-name,codeforiati:intermediate-region-code,codeforiati:small-island-developing-states,codeforiati:iso-alpha-3-code,codeforiati:iso-alpha-2-code,codeforiati:global-name,codeforiati:land-locked-developing-countries,codeforiati:global-code,codeforiati:sub-region-code,codeforiati:region-code,codeforiati:region-name
+012,Algeria,active,0,,Developing,Northern Africa,,0,DZA,DZ,World,0,001,015,002,Africa
+818,Egypt,active,0,,Developing,Northern Africa,,0,EGY,EG,World,0,001,015,002,Africa
+434,Libya,active,0,,Developing,Northern Africa,,0,LBY,LY,World,0,001,015,002,Africa
+504,Morocco,active,0,,Developing,Northern Africa,,0,MAR,MA,World,0,001,015,002,Africa
+729,Sudan,active,1,,Developing,Northern Africa,,0,SDN,SD,World,0,001,015,002,Africa
+788,Tunisia,active,0,,Developing,Northern Africa,,0,TUN,TN,World,0,001,015,002,Africa
+732,Western Sahara,active,0,,Developing,Northern Africa,,0,ESH,EH,World,0,001,015,002,Africa
+086,British Indian Ocean Territory,active,0,Eastern Africa,Developing,Sub-Saharan Africa,014,0,IOT,IO,World,0,001,202,002,Africa
+108,Burundi,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,BDI,BI,World,1,001,202,002,Africa
+174,Comoros,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,1,COM,KM,World,0,001,202,002,Africa
+262,Djibouti,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,DJI,DJ,World,0,001,202,002,Africa
+232,Eritrea,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,ERI,ER,World,0,001,202,002,Africa
+231,Ethiopia,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,ETH,ET,World,1,001,202,002,Africa
+260,French Southern Territories,active,0,Eastern Africa,Developing,Sub-Saharan Africa,014,0,ATF,TF,World,0,001,202,002,Africa
+404,Kenya,active,0,Eastern Africa,Developing,Sub-Saharan Africa,014,0,KEN,KE,World,0,001,202,002,Africa
+450,Madagascar,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,MDG,MG,World,0,001,202,002,Africa
+454,Malawi,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,MWI,MW,World,1,001,202,002,Africa
+480,Mauritius,active,0,Eastern Africa,Developing,Sub-Saharan Africa,014,1,MUS,MU,World,0,001,202,002,Africa
+175,Mayotte,active,0,Eastern Africa,Developing,Sub-Saharan Africa,014,0,MYT,YT,World,0,001,202,002,Africa
+508,Mozambique,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,MOZ,MZ,World,0,001,202,002,Africa
+638,Réunion,active,0,Eastern Africa,Developing,Sub-Saharan Africa,014,0,REU,RE,World,0,001,202,002,Africa
+646,Rwanda,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,RWA,RW,World,1,001,202,002,Africa
+690,Seychelles,active,0,Eastern Africa,Developing,Sub-Saharan Africa,014,1,SYC,SC,World,0,001,202,002,Africa
+706,Somalia,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,SOM,SO,World,0,001,202,002,Africa
+728,South Sudan,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,SSD,SS,World,1,001,202,002,Africa
+800,Uganda,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,UGA,UG,World,1,001,202,002,Africa
+834,United Republic of Tanzania,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,TZA,TZ,World,0,001,202,002,Africa
+894,Zambia,active,1,Eastern Africa,Developing,Sub-Saharan Africa,014,0,ZMB,ZM,World,1,001,202,002,Africa
+716,Zimbabwe,active,0,Eastern Africa,Developing,Sub-Saharan Africa,014,0,ZWE,ZW,World,1,001,202,002,Africa
+024,Angola,active,1,Middle Africa,Developing,Sub-Saharan Africa,017,0,AGO,AO,World,0,001,202,002,Africa
+120,Cameroon,active,0,Middle Africa,Developing,Sub-Saharan Africa,017,0,CMR,CM,World,0,001,202,002,Africa
+140,Central African Republic,active,1,Middle Africa,Developing,Sub-Saharan Africa,017,0,CAF,CF,World,1,001,202,002,Africa
+148,Chad,active,1,Middle Africa,Developing,Sub-Saharan Africa,017,0,TCD,TD,World,1,001,202,002,Africa
+178,Congo,active,0,Middle Africa,Developing,Sub-Saharan Africa,017,0,COG,CG,World,0,001,202,002,Africa
+180,Democratic Republic of the Congo,active,1,Middle Africa,Developing,Sub-Saharan Africa,017,0,COD,CD,World,0,001,202,002,Africa
+226,Equatorial Guinea,active,0,Middle Africa,Developing,Sub-Saharan Africa,017,0,GNQ,GQ,World,0,001,202,002,Africa
+266,Gabon,active,0,Middle Africa,Developing,Sub-Saharan Africa,017,0,GAB,GA,World,0,001,202,002,Africa
+678,Sao Tome and Principe,active,1,Middle Africa,Developing,Sub-Saharan Africa,017,1,STP,ST,World,0,001,202,002,Africa
+072,Botswana,active,0,Southern Africa,Developing,Sub-Saharan Africa,018,0,BWA,BW,World,1,001,202,002,Africa
+748,Eswatini,active,0,Southern Africa,Developing,Sub-Saharan Africa,018,0,SWZ,SZ,World,1,001,202,002,Africa
+426,Lesotho,active,1,Southern Africa,Developing,Sub-Saharan Africa,018,0,LSO,LS,World,1,001,202,002,Africa
+516,Namibia,active,0,Southern Africa,Developing,Sub-Saharan Africa,018,0,NAM,NA,World,0,001,202,002,Africa
+710,South Africa,active,0,Southern Africa,Developing,Sub-Saharan Africa,018,0,ZAF,ZA,World,0,001,202,002,Africa
+204,Benin,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,BEN,BJ,World,0,001,202,002,Africa
+854,Burkina Faso,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,BFA,BF,World,1,001,202,002,Africa
+132,Cabo Verde,active,0,Western Africa,Developing,Sub-Saharan Africa,011,1,CPV,CV,World,0,001,202,002,Africa
+384,Côte d’Ivoire,active,0,Western Africa,Developing,Sub-Saharan Africa,011,0,CIV,CI,World,0,001,202,002,Africa
+270,Gambia,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,GMB,GM,World,0,001,202,002,Africa
+288,Ghana,active,0,Western Africa,Developing,Sub-Saharan Africa,011,0,GHA,GH,World,0,001,202,002,Africa
+324,Guinea,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,GIN,GN,World,0,001,202,002,Africa
+624,Guinea-Bissau,active,1,Western Africa,Developing,Sub-Saharan Africa,011,1,GNB,GW,World,0,001,202,002,Africa
+430,Liberia,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,LBR,LR,World,0,001,202,002,Africa
+466,Mali,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,MLI,ML,World,1,001,202,002,Africa
+478,Mauritania,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,MRT,MR,World,0,001,202,002,Africa
+562,Niger,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,NER,NE,World,1,001,202,002,Africa
+566,Nigeria,active,0,Western Africa,Developing,Sub-Saharan Africa,011,0,NGA,NG,World,0,001,202,002,Africa
+654,Saint Helena,active,0,Western Africa,Developing,Sub-Saharan Africa,011,0,SHN,SH,World,0,001,202,002,Africa
+686,Senegal,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,SEN,SN,World,0,001,202,002,Africa
+694,Sierra Leone,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,SLE,SL,World,0,001,202,002,Africa
+768,Togo,active,1,Western Africa,Developing,Sub-Saharan Africa,011,0,TGO,TG,World,0,001,202,002,Africa
+660,Anguilla,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,AIA,AI,World,0,001,419,019,Americas
+028,Antigua and Barbuda,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,ATG,AG,World,0,001,419,019,Americas
+533,Aruba,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,ABW,AW,World,0,001,419,019,Americas
+044,Bahamas,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,BHS,BS,World,0,001,419,019,Americas
+052,Barbados,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,BRB,BB,World,0,001,419,019,Americas
+535,"Bonaire, Sint Eustatius and Saba",active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,BES,BQ,World,0,001,419,019,Americas
+092,British Virgin Islands,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,VGB,VG,World,0,001,419,019,Americas
+136,Cayman Islands,active,0,Caribbean,Developing,Latin America and the Caribbean,029,0,CYM,KY,World,0,001,419,019,Americas
+192,Cuba,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,CUB,CU,World,0,001,419,019,Americas
+531,Curaçao,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,CUW,CW,World,0,001,419,019,Americas
+212,Dominica,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,DMA,DM,World,0,001,419,019,Americas
+214,Dominican Republic,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,DOM,DO,World,0,001,419,019,Americas
+308,Grenada,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,GRD,GD,World,0,001,419,019,Americas
+312,Guadeloupe,active,0,Caribbean,Developing,Latin America and the Caribbean,029,0,GLP,GP,World,0,001,419,019,Americas
+332,Haiti,active,1,Caribbean,Developing,Latin America and the Caribbean,029,1,HTI,HT,World,0,001,419,019,Americas
+388,Jamaica,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,JAM,JM,World,0,001,419,019,Americas
+474,Martinique,active,0,Caribbean,Developing,Latin America and the Caribbean,029,0,MTQ,MQ,World,0,001,419,019,Americas
+500,Montserrat,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,MSR,MS,World,0,001,419,019,Americas
+630,Puerto Rico,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,PRI,PR,World,0,001,419,019,Americas
+652,Saint Barthélemy,active,0,Caribbean,Developing,Latin America and the Caribbean,029,0,BLM,BL,World,0,001,419,019,Americas
+659,Saint Kitts and Nevis,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,KNA,KN,World,0,001,419,019,Americas
+662,Saint Lucia,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,LCA,LC,World,0,001,419,019,Americas
+663,Saint Martin (French Part),active,0,Caribbean,Developing,Latin America and the Caribbean,029,0,MAF,MF,World,0,001,419,019,Americas
+670,Saint Vincent and the Grenadines,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,VCT,VC,World,0,001,419,019,Americas
+534,Sint Maarten (Dutch part),active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,SXM,SX,World,0,001,419,019,Americas
+780,Trinidad and Tobago,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,TTO,TT,World,0,001,419,019,Americas
+796,Turks and Caicos Islands,active,0,Caribbean,Developing,Latin America and the Caribbean,029,0,TCA,TC,World,0,001,419,019,Americas
+850,United States Virgin Islands,active,0,Caribbean,Developing,Latin America and the Caribbean,029,1,VIR,VI,World,0,001,419,019,Americas
+084,Belize,active,0,Central America,Developing,Latin America and the Caribbean,013,1,BLZ,BZ,World,0,001,419,019,Americas
+188,Costa Rica,active,0,Central America,Developing,Latin America and the Caribbean,013,0,CRI,CR,World,0,001,419,019,Americas
+222,El Salvador,active,0,Central America,Developing,Latin America and the Caribbean,013,0,SLV,SV,World,0,001,419,019,Americas
+320,Guatemala,active,0,Central America,Developing,Latin America and the Caribbean,013,0,GTM,GT,World,0,001,419,019,Americas
+340,Honduras,active,0,Central America,Developing,Latin America and the Caribbean,013,0,HND,HN,World,0,001,419,019,Americas
+484,Mexico,active,0,Central America,Developing,Latin America and the Caribbean,013,0,MEX,MX,World,0,001,419,019,Americas
+558,Nicaragua,active,0,Central America,Developing,Latin America and the Caribbean,013,0,NIC,NI,World,0,001,419,019,Americas
+591,Panama,active,0,Central America,Developing,Latin America and the Caribbean,013,0,PAN,PA,World,0,001,419,019,Americas
+032,Argentina,active,0,South America,Developing,Latin America and the Caribbean,005,0,ARG,AR,World,0,001,419,019,Americas
+068,Bolivia (Plurinational State of),active,0,South America,Developing,Latin America and the Caribbean,005,0,BOL,BO,World,1,001,419,019,Americas
+074,Bouvet Island,active,0,South America,Developing,Latin America and the Caribbean,005,0,BVT,BV,World,0,001,419,019,Americas
+076,Brazil,active,0,South America,Developing,Latin America and the Caribbean,005,0,BRA,BR,World,0,001,419,019,Americas
+152,Chile,active,0,South America,Developing,Latin America and the Caribbean,005,0,CHL,CL,World,0,001,419,019,Americas
+170,Colombia,active,0,South America,Developing,Latin America and the Caribbean,005,0,COL,CO,World,0,001,419,019,Americas
+218,Ecuador,active,0,South America,Developing,Latin America and the Caribbean,005,0,ECU,EC,World,0,001,419,019,Americas
+238,Falkland Islands (Malvinas),active,0,South America,Developing,Latin America and the Caribbean,005,0,FLK,FK,World,0,001,419,019,Americas
+254,French Guiana,active,0,South America,Developing,Latin America and the Caribbean,005,0,GUF,GF,World,0,001,419,019,Americas
+328,Guyana,active,0,South America,Developing,Latin America and the Caribbean,005,1,GUY,GY,World,0,001,419,019,Americas
+600,Paraguay,active,0,South America,Developing,Latin America and the Caribbean,005,0,PRY,PY,World,1,001,419,019,Americas
+604,Peru,active,0,South America,Developing,Latin America and the Caribbean,005,0,PER,PE,World,0,001,419,019,Americas
+239,South Georgia and the South Sandwich Islands,active,0,South America,Developing,Latin America and the Caribbean,005,0,SGS,GS,World,0,001,419,019,Americas
+740,Suriname,active,0,South America,Developing,Latin America and the Caribbean,005,1,SUR,SR,World,0,001,419,019,Americas
+858,Uruguay,active,0,South America,Developing,Latin America and the Caribbean,005,0,URY,UY,World,0,001,419,019,Americas
+862,Venezuela (Bolivarian Republic of),active,0,South America,Developing,Latin America and the Caribbean,005,0,VEN,VE,World,0,001,419,019,Americas
+060,Bermuda,active,0,,Developed,Northern America,,0,BMU,BM,World,0,001,021,019,Americas
+124,Canada,active,0,,Developed,Northern America,,0,CAN,CA,World,0,001,021,019,Americas
+304,Greenland,active,0,,Developed,Northern America,,0,GRL,GL,World,0,001,021,019,Americas
+666,Saint Pierre and Miquelon,active,0,,Developed,Northern America,,0,SPM,PM,World,0,001,021,019,Americas
+840,United States of America,active,0,,Developed,Northern America,,0,USA,US,World,0,001,021,019,Americas
+010,Antarctica,active,0,,,,,0,ATA,AQ,World,0,001,,,
+398,Kazakhstan,active,0,,Developing,Central Asia,,0,KAZ,KZ,World,1,001,143,142,Asia
+417,Kyrgyzstan,active,0,,Developing,Central Asia,,0,KGZ,KG,World,1,001,143,142,Asia
+762,Tajikistan,active,0,,Developing,Central Asia,,0,TJK,TJ,World,1,001,143,142,Asia
+795,Turkmenistan,active,0,,Developing,Central Asia,,0,TKM,TM,World,1,001,143,142,Asia
+860,Uzbekistan,active,0,,Developing,Central Asia,,0,UZB,UZ,World,1,001,143,142,Asia
+156,China,active,0,,Developing,Eastern Asia,,0,CHN,CN,World,0,001,030,142,Asia
+344,"China, Hong Kong Special Administrative Region",active,0,,Developing,Eastern Asia,,0,HKG,HK,World,0,001,030,142,Asia
+446,"China, Macao Special Administrative Region",active,0,,Developing,Eastern Asia,,0,MAC,MO,World,0,001,030,142,Asia
+408,Democratic People's Republic of Korea,active,0,,Developing,Eastern Asia,,0,PRK,KP,World,0,001,030,142,Asia
+392,Japan,active,0,,Developed,Eastern Asia,,0,JPN,JP,World,0,001,030,142,Asia
+496,Mongolia,active,0,,Developing,Eastern Asia,,0,MNG,MN,World,1,001,030,142,Asia
+410,Republic of Korea,active,0,,Developing,Eastern Asia,,0,KOR,KR,World,0,001,030,142,Asia
+096,Brunei Darussalam,active,0,,Developing,South-eastern Asia,,0,BRN,BN,World,0,001,035,142,Asia
+116,Cambodia,active,1,,Developing,South-eastern Asia,,0,KHM,KH,World,0,001,035,142,Asia
+360,Indonesia,active,0,,Developing,South-eastern Asia,,0,IDN,ID,World,0,001,035,142,Asia
+418,Lao People's Democratic Republic,active,1,,Developing,South-eastern Asia,,0,LAO,LA,World,1,001,035,142,Asia
+458,Malaysia,active,0,,Developing,South-eastern Asia,,0,MYS,MY,World,0,001,035,142,Asia
+104,Myanmar,active,1,,Developing,South-eastern Asia,,0,MMR,MM,World,0,001,035,142,Asia
+608,Philippines,active,0,,Developing,South-eastern Asia,,0,PHL,PH,World,0,001,035,142,Asia
+702,Singapore,active,0,,Developing,South-eastern Asia,,1,SGP,SG,World,0,001,035,142,Asia
+764,Thailand,active,0,,Developing,South-eastern Asia,,0,THA,TH,World,0,001,035,142,Asia
+626,Timor-Leste,active,1,,Developing,South-eastern Asia,,1,TLS,TL,World,0,001,035,142,Asia
+704,Viet Nam,active,0,,Developing,South-eastern Asia,,0,VNM,VN,World,0,001,035,142,Asia
+004,Afghanistan,active,1,,Developing,Southern Asia,,0,AFG,AF,World,1,001,034,142,Asia
+050,Bangladesh,active,1,,Developing,Southern Asia,,0,BGD,BD,World,0,001,034,142,Asia
+064,Bhutan,active,1,,Developing,Southern Asia,,0,BTN,BT,World,1,001,034,142,Asia
+356,India,active,0,,Developing,Southern Asia,,0,IND,IN,World,0,001,034,142,Asia
+364,Iran (Islamic Republic of),active,0,,Developing,Southern Asia,,0,IRN,IR,World,0,001,034,142,Asia
+462,Maldives,active,0,,Developing,Southern Asia,,1,MDV,MV,World,0,001,034,142,Asia
+524,Nepal,active,1,,Developing,Southern Asia,,0,NPL,NP,World,1,001,034,142,Asia
+586,Pakistan,active,0,,Developing,Southern Asia,,0,PAK,PK,World,0,001,034,142,Asia
+144,Sri Lanka,active,0,,Developing,Southern Asia,,0,LKA,LK,World,0,001,034,142,Asia
+051,Armenia,active,0,,Developing,Western Asia,,0,ARM,AM,World,1,001,145,142,Asia
+031,Azerbaijan,active,0,,Developing,Western Asia,,0,AZE,AZ,World,1,001,145,142,Asia
+048,Bahrain,active,0,,Developing,Western Asia,,0,BHR,BH,World,0,001,145,142,Asia
+196,Cyprus,active,0,,Developed,Western Asia,,0,CYP,CY,World,0,001,145,142,Asia
+268,Georgia,active,0,,Developing,Western Asia,,0,GEO,GE,World,0,001,145,142,Asia
+368,Iraq,active,0,,Developing,Western Asia,,0,IRQ,IQ,World,0,001,145,142,Asia
+376,Israel,active,0,,Developed,Western Asia,,0,ISR,IL,World,0,001,145,142,Asia
+400,Jordan,active,0,,Developing,Western Asia,,0,JOR,JO,World,0,001,145,142,Asia
+414,Kuwait,active,0,,Developing,Western Asia,,0,KWT,KW,World,0,001,145,142,Asia
+422,Lebanon,active,0,,Developing,Western Asia,,0,LBN,LB,World,0,001,145,142,Asia
+512,Oman,active,0,,Developing,Western Asia,,0,OMN,OM,World,0,001,145,142,Asia
+634,Qatar,active,0,,Developing,Western Asia,,0,QAT,QA,World,0,001,145,142,Asia
+682,Saudi Arabia,active,0,,Developing,Western Asia,,0,SAU,SA,World,0,001,145,142,Asia
+275,State of Palestine,active,0,,Developing,Western Asia,,0,PSE,PS,World,0,001,145,142,Asia
+760,Syrian Arab Republic,active,0,,Developing,Western Asia,,0,SYR,SY,World,0,001,145,142,Asia
+792,Turkey,active,0,,Developing,Western Asia,,0,TUR,TR,World,0,001,145,142,Asia
+784,United Arab Emirates,active,0,,Developing,Western Asia,,0,ARE,AE,World,0,001,145,142,Asia
+887,Yemen,active,1,,Developing,Western Asia,,0,YEM,YE,World,0,001,145,142,Asia
+112,Belarus,active,0,,Developed,Eastern Europe,,0,BLR,BY,World,0,001,151,150,Europe
+100,Bulgaria,active,0,,Developed,Eastern Europe,,0,BGR,BG,World,0,001,151,150,Europe
+203,Czechia,active,0,,Developed,Eastern Europe,,0,CZE,CZ,World,0,001,151,150,Europe
+348,Hungary,active,0,,Developed,Eastern Europe,,0,HUN,HU,World,0,001,151,150,Europe
+616,Poland,active,0,,Developed,Eastern Europe,,0,POL,PL,World,0,001,151,150,Europe
+498,Republic of Moldova,active,0,,Developed,Eastern Europe,,0,MDA,MD,World,1,001,151,150,Europe
+642,Romania,active,0,,Developed,Eastern Europe,,0,ROU,RO,World,0,001,151,150,Europe
+643,Russian Federation,active,0,,Developed,Eastern Europe,,0,RUS,RU,World,0,001,151,150,Europe
+703,Slovakia,active,0,,Developed,Eastern Europe,,0,SVK,SK,World,0,001,151,150,Europe
+804,Ukraine,active,0,,Developed,Eastern Europe,,0,UKR,UA,World,0,001,151,150,Europe
+248,Åland Islands,active,0,,Developed,Northern Europe,,0,ALA,AX,World,0,001,154,150,Europe
+831,Guernsey,active,0,Channel Islands,Developed,Northern Europe,830,0,GGY,GG,World,0,001,154,150,Europe
+832,Jersey,active,0,Channel Islands,Developed,Northern Europe,830,0,JEY,JE,World,0,001,154,150,Europe
+680,Sark,active,0,Channel Islands,Developed,Northern Europe,830,0,,,World,0,001,154,150,Europe
+208,Denmark,active,0,,Developed,Northern Europe,,0,DNK,DK,World,0,001,154,150,Europe
+233,Estonia,active,0,,Developed,Northern Europe,,0,EST,EE,World,0,001,154,150,Europe
+234,Faroe Islands,active,0,,Developed,Northern Europe,,0,FRO,FO,World,0,001,154,150,Europe
+246,Finland,active,0,,Developed,Northern Europe,,0,FIN,FI,World,0,001,154,150,Europe
+352,Iceland,active,0,,Developed,Northern Europe,,0,ISL,IS,World,0,001,154,150,Europe
+372,Ireland,active,0,,Developed,Northern Europe,,0,IRL,IE,World,0,001,154,150,Europe
+833,Isle of Man,active,0,,Developed,Northern Europe,,0,IMN,IM,World,0,001,154,150,Europe
+428,Latvia,active,0,,Developed,Northern Europe,,0,LVA,LV,World,0,001,154,150,Europe
+440,Lithuania,active,0,,Developed,Northern Europe,,0,LTU,LT,World,0,001,154,150,Europe
+578,Norway,active,0,,Developed,Northern Europe,,0,NOR,NO,World,0,001,154,150,Europe
+744,Svalbard and Jan Mayen Islands,active,0,,Developed,Northern Europe,,0,SJM,SJ,World,0,001,154,150,Europe
+752,Sweden,active,0,,Developed,Northern Europe,,0,SWE,SE,World,0,001,154,150,Europe
+826,United Kingdom of Great Britain and Northern Ireland,active,0,,Developed,Northern Europe,,0,GBR,GB,World,0,001,154,150,Europe
+008,Albania,active,0,,Developed,Southern Europe,,0,ALB,AL,World,0,001,039,150,Europe
+020,Andorra,active,0,,Developed,Southern Europe,,0,AND,AD,World,0,001,039,150,Europe
+070,Bosnia and Herzegovina,active,0,,Developed,Southern Europe,,0,BIH,BA,World,0,001,039,150,Europe
+191,Croatia,active,0,,Developed,Southern Europe,,0,HRV,HR,World,0,001,039,150,Europe
+292,Gibraltar,active,0,,Developed,Southern Europe,,0,GIB,GI,World,0,001,039,150,Europe
+300,Greece,active,0,,Developed,Southern Europe,,0,GRC,GR,World,0,001,039,150,Europe
+336,Holy See,active,0,,Developed,Southern Europe,,0,VAT,VA,World,0,001,039,150,Europe
+380,Italy,active,0,,Developed,Southern Europe,,0,ITA,IT,World,0,001,039,150,Europe
+470,Malta,active,0,,Developed,Southern Europe,,0,MLT,MT,World,0,001,039,150,Europe
+499,Montenegro,active,0,,Developed,Southern Europe,,0,MNE,ME,World,0,001,039,150,Europe
+807,North Macedonia,active,0,,Developed,Southern Europe,,0,MKD,MK,World,1,001,039,150,Europe
+620,Portugal,active,0,,Developed,Southern Europe,,0,PRT,PT,World,0,001,039,150,Europe
+674,San Marino,active,0,,Developed,Southern Europe,,0,SMR,SM,World,0,001,039,150,Europe
+688,Serbia,active,0,,Developed,Southern Europe,,0,SRB,RS,World,0,001,039,150,Europe
+705,Slovenia,active,0,,Developed,Southern Europe,,0,SVN,SI,World,0,001,039,150,Europe
+724,Spain,active,0,,Developed,Southern Europe,,0,ESP,ES,World,0,001,039,150,Europe
+040,Austria,active,0,,Developed,Western Europe,,0,AUT,AT,World,0,001,155,150,Europe
+056,Belgium,active,0,,Developed,Western Europe,,0,BEL,BE,World,0,001,155,150,Europe
+250,France,active,0,,Developed,Western Europe,,0,FRA,FR,World,0,001,155,150,Europe
+276,Germany,active,0,,Developed,Western Europe,,0,DEU,DE,World,0,001,155,150,Europe
+438,Liechtenstein,active,0,,Developed,Western Europe,,0,LIE,LI,World,0,001,155,150,Europe
+442,Luxembourg,active,0,,Developed,Western Europe,,0,LUX,LU,World,0,001,155,150,Europe
+492,Monaco,active,0,,Developed,Western Europe,,0,MCO,MC,World,0,001,155,150,Europe
+528,Netherlands,active,0,,Developed,Western Europe,,0,NLD,NL,World,0,001,155,150,Europe
+756,Switzerland,active,0,,Developed,Western Europe,,0,CHE,CH,World,0,001,155,150,Europe
+036,Australia,active,0,,Developed,Australia and New Zealand,,0,AUS,AU,World,0,001,053,009,Oceania
+162,Christmas Island,active,0,,Developed,Australia and New Zealand,,0,CXR,CX,World,0,001,053,009,Oceania
+166,Cocos (Keeling) Islands,active,0,,Developed,Australia and New Zealand,,0,CCK,CC,World,0,001,053,009,Oceania
+334,Heard Island and McDonald Islands,active,0,,Developed,Australia and New Zealand,,0,HMD,HM,World,0,001,053,009,Oceania
+554,New Zealand,active,0,,Developed,Australia and New Zealand,,0,NZL,NZ,World,0,001,053,009,Oceania
+574,Norfolk Island,active,0,,Developed,Australia and New Zealand,,0,NFK,NF,World,0,001,053,009,Oceania
+242,Fiji,active,0,,Developing,Melanesia,,1,FJI,FJ,World,0,001,054,009,Oceania
+540,New Caledonia,active,0,,Developing,Melanesia,,1,NCL,NC,World,0,001,054,009,Oceania
+598,Papua New Guinea,active,0,,Developing,Melanesia,,1,PNG,PG,World,0,001,054,009,Oceania
+090,Solomon Islands,active,1,,Developing,Melanesia,,1,SLB,SB,World,0,001,054,009,Oceania
+548,Vanuatu,active,1,,Developing,Melanesia,,1,VUT,VU,World,0,001,054,009,Oceania
+316,Guam,active,0,,Developing,Micronesia,,1,GUM,GU,World,0,001,057,009,Oceania
+296,Kiribati,active,1,,Developing,Micronesia,,1,KIR,KI,World,0,001,057,009,Oceania
+584,Marshall Islands,active,0,,Developing,Micronesia,,1,MHL,MH,World,0,001,057,009,Oceania
+583,Micronesia (Federated States of),active,0,,Developing,Micronesia,,1,FSM,FM,World,0,001,057,009,Oceania
+520,Nauru,active,0,,Developing,Micronesia,,1,NRU,NR,World,0,001,057,009,Oceania
+580,Northern Mariana Islands,active,0,,Developing,Micronesia,,1,MNP,MP,World,0,001,057,009,Oceania
+585,Palau,active,0,,Developing,Micronesia,,1,PLW,PW,World,0,001,057,009,Oceania
+581,United States Minor Outlying Islands,active,0,,Developing,Micronesia,,0,UMI,UM,World,0,001,057,009,Oceania
+016,American Samoa,active,0,,Developing,Polynesia,,1,ASM,AS,World,0,001,061,009,Oceania
+184,Cook Islands,active,0,,Developing,Polynesia,,1,COK,CK,World,0,001,061,009,Oceania
+258,French Polynesia,active,0,,Developing,Polynesia,,1,PYF,PF,World,0,001,061,009,Oceania
+570,Niue,active,0,,Developing,Polynesia,,1,NIU,NU,World,0,001,061,009,Oceania
+612,Pitcairn,active,0,,Developing,Polynesia,,0,PCN,PN,World,0,001,061,009,Oceania
+882,Samoa,active,0,,Developing,Polynesia,,1,WSM,WS,World,0,001,061,009,Oceania
+772,Tokelau,active,0,,Developing,Polynesia,,0,TKL,TK,World,0,001,061,009,Oceania
+776,Tonga,active,0,,Developing,Polynesia,,1,TON,TO,World,0,001,061,009,Oceania
+798,Tuvalu,active,1,,Developing,Polynesia,,1,TUV,TV,World,0,001,061,009,Oceania
+876,Wallis and Futuna Islands,active,0,,Developing,Polynesia,,0,WLF,WF,World,0,001,061,009,Oceania

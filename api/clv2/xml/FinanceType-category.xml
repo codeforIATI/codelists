@@ -19,15 +19,11 @@
             <code>100</code>
             <name>GRANTS</name>
             <name xml:lang="fr">DONS</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>1000</code>
             <name>GUARANTEES AND OTHER UNFUNDED CONTINGENT LIABILITIES</name>
             <name xml:lang="fr">GARANTIES ET AUTRES ENGAGEMENTS CONDITIONNELS NON PROVISIONN&#201;S</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>200</code>
@@ -54,22 +50,16 @@
             <code>420</code>
             <name>DEBT INSTRUMENTS</name>
             <name xml:lang="fr">INSTRUMENTS DE DETTE</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>430</code>
             <name>MEZZANINE FINANCE INSTRUMENTS</name>
             <name xml:lang="fr">INSTRUMENTS DE DETTE</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>500</code>
             <name>EQUITY  AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</name>
             <name xml:lang="fr">ACTIONS ET  PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>600</code>
@@ -96,8 +86,6 @@
             <code>900</code>
             <name>OTHER SECURITIES/CLAIMS</name>
             <name xml:lang="fr">AUTRES TITRES/CREANCES</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
     </codelist-items>
 </codelist>

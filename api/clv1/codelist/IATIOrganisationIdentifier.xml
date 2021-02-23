@@ -1,4 +1,4 @@
-<codelist name="IATIOrganisationIdentifier" date-last-modified="2021-02-23T10:13:35.229988+00:00" version="" xml:lang="en">
+<codelist name="IATIOrganisationIdentifier" date-last-modified="2021-02-23T10:55:43.863485+00:00" version="" xml:lang="en">
   <IATIOrganisationIdentifier>
     <code>XI-IATI-1001</code>
     <name>The Coca-Cola Export Corporation</name>
@@ -38,10 +38,22 @@
                 AIAS manages the property of the secondary public systems for water supply and for the residual water drainage public systems in Mozambique promoting their autonomous efficient and financially feasible operational management through assignment to private operators or other third party entities.</description>
   </IATIOrganisationIdentifier>
   <IATIOrganisationIdentifier>
+    <code>XI-IATI-AJS</code>
+    <name>Associations des Juristes S&#233;n&#233;galaises (AJS)</name>
+    <language>en</language>
+    <description>The Association des Juristes S&#233;n&#233;galaises (AJS) is an association of women lawyers who promote and contribute to the protection of the rights of individuals, particularly women and children.</description>
+  </IATIOrganisationIdentifier>
+  <IATIOrganisationIdentifier>
     <code>XI-IATI-ATTIC</code>
     <name>Association of Technicians in Information Technology and Communication (ATTIC)</name>
     <language>en</language>
     <description>ATTIC, a non-political non-profit association in Republic of Chad, aims to help develop and integrate the promotion of information and communication technologies in the development policy of the formal and non-formal sectors, to fight against food insecurity and poverty, by strengthening the means of vulnerable households, refugees, returnees and internally displaced persons, and by providing socio-professional training and integration for vulnerable groups.</description>
+  </IATIOrganisationIdentifier>
+  <IATIOrganisationIdentifier>
+    <code>XI-IATI-BBDN</code>
+    <name>Bangladesh Business &amp; Disability Network</name>
+    <language>en</language>
+    <description>The Bangladesh Business and Disability Network (BBDN) is a voluntary group of representatives from business, industry, employers&#8217; organizations and selected non-governmental and disabled peoples&#8217; organizations. BBDN has a primary purpose of facilitating disability and work place diversity in Bangladesh from the perspective of the business and human rights cases.</description>
   </IATIOrganisationIdentifier>
   <IATIOrganisationIdentifier>
     <code>XI-IATI-EBRD</code>
@@ -142,6 +154,12 @@
     <description>Since 2008, the International Climate Initiative (IKI) of the Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety (BMUB) has been financing climate and biodiversity projects in developing and newly industrialising countries, as well as in countries in transition.</description>
   </IATIOrganisationIdentifier>
   <IATIOrganisationIdentifier>
+    <code>XI-IATI-KHF</code>
+    <name>The King Hussein Foundation (KHF)</name>
+    <language>en</language>
+    <description>Their mission is to build upon King Hussein&#8217;s lifelong commitment to peace, sustainable community development and cross-cultural understanding through national and regional programs that promote education and leadership, economic empowerment and participatory decision-making.</description>
+  </IATIOrganisationIdentifier>
+  <IATIOrganisationIdentifier>
     <code>XI-IATI-LPI</code>
     <name>Living Peace Institute</name>
     <language>en</language>
@@ -206,5 +224,17 @@
     <name>WASH Alliance International</name>
     <language>en</language>
     <description>The WASH Alliance International is a consortium of member organisations in the Netherlands and partner organisations worldwide, working on sustainable WASH for everyone.</description>
+  </IATIOrganisationIdentifier>
+  <IATIOrganisationIdentifier>
+    <code>XI-IATI-WBTF</code>
+    <name>World Bank Trust Funds (WBTF)</name>
+    <language>en</language>
+    <description>A trust fund (TF) is a financing arrangement established with contributions from one or more external development partner(s)/partners, and in some cases, from the World Bank Group, to support development-related activities. The World Bank acts as a trustee/administrator for development partners (donors) funds and implements the activities financed through trust funds in accordance with the signed agreements with donors. As part of fiduciary obligations, the World Bank as Trustee/administrator of trust funds maintains the records for trust funds activities distinct and separate from the activities of IBRD and IDA. The Bank also provides periodic report on the financial situation and results of the individual trust funds to donors.</description>
+  </IATIOrganisationIdentifier>
+  <IATIOrganisationIdentifier>
+    <code>XI-IATI-WVDRC</code>
+    <name>World Vision DRC</name>
+    <language>en</language>
+    <description>Our teams have been working in the DRC since 1984. Today, we are working to contribute to the measurable and sustainable improvement of well-being for 5,311,208 children and their communities through transformational development and humanitarian relief programmes focused on: health and nutrition, education, water and sanitation, protecting children, livelihoods and resilience, food aid, psychosocial support and the reintegration if displaced people.</description>
   </IATIOrganisationIdentifier>
 </codelist>

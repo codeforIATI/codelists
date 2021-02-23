@@ -1,4 +1,4 @@
-<codelist name="Sector" date-last-modified="2021-02-23T10:13:35.684331+00:00" version="" xml:lang="en">
+<codelist name="Sector" date-last-modified="2021-02-23T10:55:43.887483+00:00" version="" xml:lang="en">
   <Sector>
     <code>11110</code>
     <name>Education policy and administrative management</name>
@@ -45,9 +45,9 @@
   </Sector>
   <Sector>
     <code>11230</code>
-    <name>Basic life skills for youth and adults</name>
+    <name>Basic life skills for adults</name>
     <language>en</language>
-    <description>Formal and non-formal education for basic life skills for young people and adults (adults education); literacy and numeracy training. Excludes health education (12261) and activities related to prevention of noncommunicable diseases. (123xx).</description>
+    <description>Formal and non-formal education for basic life skills for adults (adults education); literacy and numeracy training. Excludes health education (12261) and activities related to prevention of noncommunicable diseases. (123xx).</description>
     <category>112</category>
     <category-name>Basic Education</category-name>
   </Sector>
@@ -79,15 +79,23 @@
     <code>11250</code>
     <name>School feeding</name>
     <language>en</language>
-    <description>Provision of meals or snacks at school; other uses of food for the achievement of educational outcomes including &#8220;take-home&#8221; food rations provided as economic incentives to families (or foster families, or other child care institutions) in return for a child&#8217;s regular attendance at school; food provided to adults or youth who attend literacy or vocational training programmes; food for pre-school activities with an educational component. These activities may help reduce children&#8217;s hunger during the school day if provision of food/meals contains bioavailable nutrients to address specific nutrition needs and have nutrition expected outcomes in school children, or if the rationale mainstream nutrition or expected outcome is nutrition-linked.</description>
+    <description>Provision of meals or snacks at school; other uses of food for the achievement of educational outcomes including 'take-home' food rations provided as economic incentives to families (or foster families, or other child care institutions) in return for a child's regular attendance at school; food provided to adults or youth who attend literacy or vocational training programmes; food for pre-school activities with an educational component. These activities may help reduce children's hunger during the school day if provision of food/meals contains bioavailable nutrients to address specific nutrition needs and have nutrition expected outcomes in school children, or if the rationale mainstream nutrition or expected outcome is nutrition-linked.</description>
+    <category>112</category>
+    <category-name>Basic Education</category-name>
+  </Sector>
+  <Sector>
+    <code>11260</code>
+    <name>Lower secondary education</name>
+    <language>en</language>
+    <description>Second cycle systematic instruction at junior level.</description>
     <category>112</category>
     <category-name>Basic Education</category-name>
   </Sector>
   <Sector>
     <code>11320</code>
-    <name>Secondary education</name>
+    <name>Upper Secondary Education (modified and includes data from 11322)</name>
     <language>en</language>
-    <description>Second cycle systematic instruction at both junior and senior levels.</description>
+    <description>Second cycle systematic instruction at senior levels.</description>
     <category>113</category>
     <category-name>Secondary Education</category-name>
   </Sector>
@@ -172,6 +180,14 @@
     <category-name>Health, General</category-name>
   </Sector>
   <Sector>
+    <code>12196</code>
+    <name>Health statistics and data</name>
+    <language>en</language>
+    <description>Collection, production, management and dissemination of statistics and data related to health. Includes health surveys, establishment of health databases, data collection on epidemics, etc.</description>
+    <category>121</category>
+    <category-name>Health, General</category-name>
+  </Sector>
+  <Sector>
     <code>12220</code>
     <name>Basic health care</name>
     <language>en</language>
@@ -191,7 +207,7 @@
     <code>12240</code>
     <name>Basic nutrition</name>
     <language>en</language>
-    <description>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions. Use code 11250 for school feeding and 43072 for household food security.</description>
+    <description>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions.  Use code 11250 for school feeding and 43072 for household food security.</description>
     <category>122</category>
     <category-name>Basic Health</category-name>
   </Sector>
@@ -199,7 +215,7 @@
     <code>12250</code>
     <name>Infectious disease control</name>
     <language>en</language>
-    <description>Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm),&#160;viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc.</description>
+    <description>Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), COVID-19 (12264), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm),&#160;viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc.</description>
     <category>122</category>
     <category-name>Basic Health</category-name>
   </Sector>
@@ -224,6 +240,14 @@
     <name>Tuberculosis control</name>
     <language>en</language>
     <description>Immunisation, prevention and control of tuberculosis.</description>
+    <category>122</category>
+    <category-name>Basic Health</category-name>
+  </Sector>
+  <Sector>
+    <code>12264</code>
+    <name>COVID-19 control</name>
+    <language>en</language>
+    <description>All activities related to COVID-19 control e.g. information, education and communication; testing; prevention; immunisation, treatment, care.</description>
     <category>122</category>
     <category-name>Basic Health</category-name>
   </Sector>
@@ -335,7 +359,7 @@
     <code>14010</code>
     <name>Water sector policy and administrative management</name>
     <language>en</language>
-    <description>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM: see box below).</description>
+    <description>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM:  see box below).</description>
     <category>140</category>
     <category-name>Water Supply &amp; Sanitation</category-name>
   </Sector>
@@ -450,7 +474,7 @@
     <code>15113</code>
     <name>Anti-corruption organisations and institutions</name>
     <language>en</language>
-    <description>Specialised organisations, institutions and frameworks for the prevention of and combat against corruption, bribery, money-laundering and other aspects of organised crime, with or without law enforcement powers, e.g. anti-corruption commissions and monitoring bodies, special investigation services, institutions and initiatives of integrity and ethics oversight, specialised NGOs, other civil society and citizens&#8217; organisations directly concerned with corruption.</description>
+    <description>Specialised organisations, institutions and frameworks for the prevention of and combat against corruption, bribery, money-laundering and other aspects of organised crime, with or without law enforcement powers, e.g. anti-corruption commissions and monitoring bodies, special investigation services, institutions and initiatives of integrity and ethics oversight, specialised NGOs, other civil society and citizens' organisations directly concerned with corruption.</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -701,7 +725,7 @@
     <code>15150</code>
     <name>Democratic participation and civil society</name>
     <language>en</language>
-    <description>Support to the exercise of democracy and diverse forms of participation of citizens beyond elections (15151); direct democracy instruments such as referenda and citizens&#8217; initiatives; support to organisations to represent and advocate for their members, to monitor, engage and hold governments to account, and to help citizens learn to act in the public sphere; curricula and teaching for civic education at various levels. (This purpose code is restricted to activities targeting governance issues. When assistance to civil society is for non-governance purposes use other appropriate purpose codes.)</description>
+    <description>Support to the exercise of democracy and diverse forms of participation of citizens beyond elections (15151); direct democracy instruments such as referenda and citizens' initiatives; support to organisations to represent and advocate for their members, to monitor, engage and hold governments to account, and to help citizens learn to act in the public sphere; curricula and teaching for civic education at various levels. (This purpose code is restricted to activities targeting governance issues. When assistance to civil society is for non-governance purposes use other appropriate purpose codes.)</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -719,7 +743,7 @@
     <code>15152</code>
     <name>Legislatures and political parties</name>
     <language>en</language>
-    <description>Assistance to strengthen key functions of legislatures/ parliaments including subnational assemblies and councils (representation; oversight; legislation), such as improving the capacity of legislative bodies, improving legislatures&#8217; committees and administrative procedures,; research and information management systems; providing training programmes for legislators and support personnel. Assistance to political parties and strengthening of party systems.</description>
+    <description>Assistance to strengthen key functions of legislatures/ parliaments including subnational assemblies and councils (representation; oversight; legislation), such as improving the capacity of legislative bodies, improving legislatures' committees and administrative procedures,; research and information management systems; providing training programmes for legislators and support personnel. Assistance to political parties and strengthening of party systems.</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -806,9 +830,9 @@
   </Sector>
   <Sector>
     <code>15170</code>
-    <name>Women&#8217;s rights organisations and movements, and government institutions</name>
+    <name>Women's rights organisations and movements, and government institutions</name>
     <language>en</language>
-    <description>Support for feminist, women-led and women&#8217;s rights organisations and movements, and institutions (governmental and non-govermental) at all levels to enhance their effectiveness, influence and substainability (activities and core-funding). These organisations exist to bring about transformative change for gender equality and/or the rights of women and girls in developing countries. Their activities include agenda-setting, advocacy, policy dialogue, capacity development, awareness raising and prevention, service provision, conflict-prevention and peacebuilding, research, organising, and alliance and network building</description>
+    <description>Support for feminist, women-led and women's rights organisations and movements, and institutions (governmental and non-govermental) at all levels to enhance their effectiveness, influence and substainability (activities and core-funding). These organisations exist to bring about transformative change for gender equality and/or the rights of women and girls in developing countries. Their activities include agenda-setting, advocacy, policy dialogue, capacity development, awareness raising and prevention, service provision, conflict-prevention and peacebuilding, research, organising, and alliance and network building</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -835,7 +859,16 @@
     <code>15190</code>
     <name>Facilitation of orderly, safe, regular and responsible migration and mobility</name>
     <language>en</language>
-    <description>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:&#8226; Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.&#8226; Measures to improve migrant labour recruitment systems in developing countries.&#8226; Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.&#8226; Support to effective strategies to ensure international protection and the right to asylum.&#8226; Support to effective strategies to ensure access to justice and assistance for displaced persons.&#8226; Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).&#8226; Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers&#8217; interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</description>
+    <description>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:&#8226; Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.&#8226; Measures to improve migrant labour recruitment systems in developing countries.&#8226; Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.&#8226; Support to effective strategies to ensure international protection and the right to asylum.&#8226; Support to effective strategies to ensure access to justice and assistance for displaced persons.&#8226; Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).&#8226; Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers' interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</description>
+    <category>151</category>
+    <category-name>Government &amp; Civil Society-general</category-name>
+    <category-description>N.B. Use code 51010 for general budget support.</category-description>
+  </Sector>
+  <Sector>
+    <code>15196</code>
+    <name>Government and civil society statistics and data</name>
+    <language>en</language>
+    <description>Collection, production, management and dissemination of statistics and data related to Government &amp; Civil Society. Includes macroeconomic statistics, government finance, fiscal and public sector statistics, support to development of administrative data infrastructure, civil society surveys.</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -963,7 +996,7 @@
     <code>16030</code>
     <name>Housing policy and administrative management</name>
     <language>en</language>
-    <description>Housing sector policy, planning and programmes; excluding low-cost housing and slum clearance (16040).</description>
+    <description>Housing sector policy, planning and programmes;  excluding low-cost housing and slum clearance (16040).</description>
     <category>160</category>
     <category-name>Other Social Infrastructure &amp; Services</category-name>
   </Sector>
@@ -1031,7 +1064,7 @@
   </Sector>
   <Sector>
     <code>16070</code>
-    <name>Labour Rights</name>
+    <name>Labour rights</name>
     <language>en</language>
     <description>Advocacy for international labour standards, labour law, fundamental principles and rights at work (child labour, forced labour, non-discrimination in the workplace, freedom of association and collective bargaining); formalisation of informal work, occupational safety and health.</description>
     <category>160</category>
@@ -1039,7 +1072,7 @@
   </Sector>
   <Sector>
     <code>16080</code>
-    <name>Social Dialogue</name>
+    <name>Social dialogue</name>
     <language>en</language>
     <description>Capacity building and advice in support of social dialogue; support to social dialogue institutions, bodies and mechanisms; capacity building of workers' and employers' organisations.</description>
     <category>160</category>
@@ -1662,7 +1695,7 @@
   </Sector>
   <Sector>
     <code>25010</code>
-    <name>Business Policy and Administration</name>
+    <name>Business policy and administration</name>
     <language>en</language>
     <description>Public sector policies and institution support to the business environment and investment climate, including business regulations, property rights, non-discrimination, investment promotion, competition policy, enterprises law, private-public partnerships.</description>
     <category>250</category>
@@ -1686,9 +1719,9 @@
   </Sector>
   <Sector>
     <code>25040</code>
-    <name>Responsible Business Conduct</name>
+    <name>Responsible business conduct</name>
     <language>en</language>
-    <description>Support to policy reform, implementation and enforcement of responsible business conduct (RBC) principles and standards as well as facilitation of responsible business practices by companies. Includes establishing and enforcing a legal and regulatory framework to protect stakeholder rights and the environment, rewarding best performers; exemplifying RBC in government economic activities, such as state-owned enterprises&#8217; operations or public procurement; support to the implementation of the OECD Guidelines for MNEs, including disclosure, human rights, employment and industrial relations, environment, combating bribery, consumer interests, science and technology, competition and taxation.</description>
+    <description>Support to policy reform, implementation and enforcement of responsible business conduct (RBC) principles and standards as well as facilitation of responsible business practices by companies. Includes establishing and enforcing a legal and regulatory framework to protect stakeholder rights and the environment, rewarding best performers; exemplifying RBC in government economic activities, such as state-owned enterprises' operations or public procurement; support to the implementation of the OECD Guidelines for MNEs, including disclosure, human rights, employment and industrial relations, environment, combating bribery, consumer interests, science and technology, competition and taxation.</description>
     <category>250</category>
     <category-name>Business &amp; Other Services</category-name>
   </Sector>
@@ -1696,7 +1729,7 @@
     <code>31110</code>
     <name>Agricultural policy and administrative management</name>
     <language>en</language>
-    <description>Agricultural sector policy, planning and programmes; aid to agricultural ministries; institution capacity building and advice; unspecified agriculture.</description>
+    <description>Agricultural sector policy, planning and programmes; aid to agricultural ministries;  institution capacity building and advice; unspecified agriculture.</description>
     <category>311</category>
     <category-name>Agriculture</category-name>
   </Sector>
@@ -1823,7 +1856,7 @@
     <code>31194</code>
     <name>Agricultural co-operatives</name>
     <language>en</language>
-    <description>Including farmers&#8217; organisations.</description>
+    <description>Including farmers' organisations.</description>
     <category>311</category>
     <category-name>Agriculture</category-name>
   </Sector>
@@ -2071,7 +2104,7 @@
     <code>32210</code>
     <name>Mineral/mining policy and administrative management</name>
     <language>en</language>
-    <description>Mineral and mining sector policy, planning and programmes; mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice; unspecified mineral resources exploitation.</description>
+    <description>Mineral and mining sector policy, planning and programmes;  mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice;  unspecified mineral resources exploitation.</description>
     <category>322</category>
     <category-name>Mineral Resources &amp; Mining</category-name>
   </Sector>
@@ -2079,7 +2112,7 @@
     <code>32220</code>
     <name>Mineral prospection and exploration</name>
     <language>en</language>
-    <description>Geology, geophysics, geochemistry; excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</description>
+    <description>Geology, geophysics, geochemistry;  excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</description>
     <category>322</category>
     <category-name>Mineral Resources &amp; Mining</category-name>
   </Sector>
@@ -2167,7 +2200,7 @@
     <code>33120</code>
     <name>Trade facilitation</name>
     <language>en</language>
-    <description>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</description>
+    <description>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments  and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</description>
     <category>331</category>
     <category-name>Trade Policies &amp; Regulations</category-name>
   </Sector>
@@ -2183,7 +2216,7 @@
     <code>33140</code>
     <name>Multilateral trade negotiations</name>
     <language>en</language>
-    <description>Support developing countries&#8217; effective participation in multilateral trade negotiations, including training of negotiators, assessing impacts of negotiations; accession to the World Trade Organisation (WTO) and other multilateral trade-related organisations.</description>
+    <description>Support developing countries' effective participation in multilateral trade negotiations, including training of negotiators, assessing impacts of negotiations; accession to the World Trade Organisation (WTO) and other multilateral trade-related organisations.</description>
     <category>331</category>
     <category-name>Trade Policies &amp; Regulations</category-name>
   </Sector>
@@ -2230,7 +2263,7 @@
   </Sector>
   <Sector>
     <code>41030</code>
-    <name>Bio-diversity</name>
+    <name>Biodiversity</name>
     <language>en</language>
     <description>Including natural reserves and actions in the surrounding areas; other measures to protect endangered or vulnerable species and their habitats (e.g. wetlands preservation).</description>
     <category>410</category>
@@ -2307,7 +2340,7 @@
     <code>43040</code>
     <name>Rural development</name>
     <language>en</language>
-    <description>Integrated rural development projects; e.g. regional development planning; promotion of decentralised and multi-sectoral competence for planning, co-ordination and management; implementation of regional development and measures (including natural reserve management); land management; land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas; geographical information systems.</description>
+    <description>Integrated rural development projects;  e.g. regional development planning;  promotion of decentralised and multi-sectoral competence for planning, co-ordination and management;  implementation of regional development and measures (including natural reserve management);  land management;  land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas;  geographical information systems.</description>
     <category>430</category>
     <category-name>Other Multisector</category-name>
   </Sector>
@@ -2521,7 +2554,7 @@
     <code>73010</code>
     <name>Immediate post-emergency reconstruction and rehabilitation</name>
     <language>en</language>
-    <description>Social and economic rehabilitation in the aftermath of emergencies to facilitate recovery and resilience building and enable populations to restore their livelihoods in the wake of an emergency situation (e.g. trauma counselling and treatment, employment programmes). Includes infrastructure necessary for the delivery of humanitarian aid; restoring pre-existing essential infrastructure and facilities (e.g. water and sanitation, shelter, health care services, education); rehabilitation of basic agricultural inputs and livestock. Excludes longer-term reconstruction (&#8220;build back better&#8221;) which is reportable against relevant sectors.</description>
+    <description>Social and economic rehabilitation in the aftermath of emergencies to facilitate recovery and resilience building and enable populations to restore their livelihoods in the wake of an emergency situation (e.g. trauma counselling and treatment, employment programmes). Includes infrastructure necessary for the delivery of humanitarian aid; restoring pre-existing essential infrastructure and facilities (e.g. water and sanitation, shelter, health care services, education); rehabilitation of basic agricultural inputs and livestock. Excludes longer-term reconstruction ('build back better') which is reportable against relevant sectors.</description>
     <category>730</category>
     <category-name>Reconstruction Relief &amp; Rehabilitation</category-name>
     <category-description>This relates to activities during and in the aftermath of an emergency situation.  Longer-term activities to improve the level of infrastructure or social services should be reported under the relevant economic and social sector codes. See also guideline on distinguishing humanitarian from sector-allocable aid.</category-description>
@@ -2533,7 +2566,7 @@
     <description>Disaster risk reduction activities (e.g. developing knowledge, natural risks cartography, legal norms for construction); early warning systems; emergency contingency stocks and contingency planning including preparations for forced displacement.</description>
     <category>740</category>
     <category-name>Disaster Prevention &amp; Preparedness</category-name>
-    <category-description>See codes 41050 and 15220 for prevention of floods and conflicts.</category-description>
+    <category-description>See code 43060 for disaster risk reduction.</category-description>
   </Sector>
   <Sector>
     <code>74020</code>
@@ -2542,7 +2575,7 @@
     <description>Building the responsiveness, capability and capacity of international, regional and national humanitarian actors to disasters. Support to the institutional capacities of national and local government, specialised humanitarian bodies, and civil society organisations to anticipate, respond and recover from the impact of potential, imminent and current hazardous events and emergency situations that pose humanitarian threats and could call for a humanitarian response. This includes risk analysis and assessment, mitigation, preparedness, such as stockpiling of emergency items and training and capacity building aimed to increase the speed and effectiveness of lifesaving assistance delivered in the occurrence of crisis.</description>
     <category>740</category>
     <category-name>Disaster Prevention &amp; Preparedness</category-name>
-    <category-description>See codes 41050 and 15220 for prevention of floods and conflicts.</category-description>
+    <category-description>See code 43060 for disaster risk reduction.</category-description>
   </Sector>
   <Sector>
     <code>91010</code>
@@ -2579,7 +2612,7 @@
   </Sector>
   <Sector>
     <code>93010</code>
-    <name>Refugees/asylum seekers in donor countries (non-sector allocable)</name>
+    <name>Refugees/asylum seekers  in donor countries (non-sector allocable)</name>
     <language>en</language>
     <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months, when costs cannot be disaggregated. See section II.6 and Annex 17.</description>
     <category>930</category>
@@ -2613,7 +2646,7 @@
     <code>93014</code>
     <name>Refugees/asylum seekers in donor countries - other temporary sustenance</name>
     <language>en</language>
-    <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e. cash &#8220;pocket money&#8221; to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</description>
+    <description>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e.  cash 'pocket money' to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</description>
     <category>930</category>
     <category-name>Refugees in Donor Countries</category-name>
   </Sector>

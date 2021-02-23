@@ -269,7 +269,7 @@ For general guidance about constructing Organisation Identifiers, please see htt
   <codelist>
     <name>AidType</name>
     <description></description>
-    <count>18</count>
+    <count>21</count>
   </codelist>
   <codelist>
     <name>LoanRepaymentType</name>
@@ -354,7 +354,7 @@ For general guidance about constructing Organisation Identifiers, please see htt
   <codelist>
     <name>CRSChannelCode</name>
     <description></description>
-    <count>391</count>
+    <count>420</count>
   </codelist>
   <codelist>
     <name>VerificationStatus</name>
@@ -386,7 +386,7 @@ If a bona fide organisation is not registered with any recognised or appropriate
 While some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.
 
 For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/</description>
-    <count>34</count>
+    <count>39</count>
   </codelist>
   <codelist>
     <name>AidType-category</name>
@@ -396,6 +396,6 @@ For general guidance about constructing Organisation Identifiers, please see htt
   <codelist>
     <name>Sector</name>
     <description></description>
-    <count>323</count>
+    <count>327</count>
   </codelist>
 </codelists>

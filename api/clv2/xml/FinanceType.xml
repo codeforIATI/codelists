@@ -13,8 +13,6 @@
             <category>0</category>
             <name>GNI: Gross National Income</name>
             <name xml:lang="fr">RNB : Revenu national brut</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>110</code>
@@ -29,24 +27,18 @@
             <category>1000</category>
             <name>Guarantees/insurance</name>
             <name xml:lang="fr">Garanties/assurances</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>111</code>
             <category>100</category>
             <name>Subsidies to national private investors</name>
             <name xml:lang="fr">Don hors r&#233;organisation de la dette (y compris quasi-dons)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>2</code>
             <category>0</category>
             <name>ODA % GNI</name>
             <name xml:lang="fr">APD en % du RNB</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>210</code>
@@ -61,16 +53,12 @@
             <category>100</category>
             <name>Interest subsidy to national private exporters</name>
             <name xml:lang="fr">Bonification d&#8217;int&#233;r&#234;t octroy&#233;e aux exportateurs priv&#233;s nationaux</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>3</code>
             <category>0</category>
             <name>Total Flows % GNI</name>
             <name xml:lang="fr">Apports totaux en % du RNB</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>310</code>
@@ -93,48 +81,36 @@
             <category>0</category>
             <name>Population</name>
             <name xml:lang="fr">Population</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>410</code>
             <category>400</category>
             <name>Aid loan excluding debt reorganisation</name>
             <name xml:lang="fr">Pr&#234;t d&#8217;aide hors r&#233;organisation de la dette</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>411</code>
             <category>400</category>
             <name>Investment-related loan to developing countries</name>
             <name xml:lang="fr">Pr&#234;t li&#233; &#224; un investissement dans les pays en d&#233;veloppement</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>412</code>
             <category>400</category>
             <name>Loan in a joint venture with the recipient</name>
             <name xml:lang="fr">Pr&#234;t dans une coentreprise avec le pays b&#233;n&#233;ficiaire</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>413</code>
             <category>400</category>
             <name>Loan to national private investor</name>
             <name xml:lang="fr">Pr&#234;t &#224; un investisseur priv&#233; national</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>414</code>
             <category>400</category>
             <name>Loan to national private exporter</name>
             <name xml:lang="fr">Pr&#234;t &#224; un exportateur priv&#233; national</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>421</code>
@@ -173,8 +149,6 @@
             <category>420</category>
             <name>Other debt securities</name>
             <name xml:lang="fr">Autres actifs de dette</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>431</code>
@@ -205,24 +179,18 @@
             <category>450</category>
             <name>Non-banks guaranteed export credits</name>
             <name xml:lang="fr">Cr&#233;dits &#224; l'exportation garantis du secteur non bancaire</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>452</code>
             <category>400</category>
             <name>Non-banks non-guaranteed portions of guaranteed export credits</name>
             <name xml:lang="fr">Fraction non garantie des cr&#233;dits &#224; l'exportation garantis du secteur bancaire</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>453</code>
             <category>400</category>
             <name>Bank export credits</name>
             <name xml:lang="fr">Cr&#233;dits &#224; l'exportation du secteur bancaire</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>510</code>
@@ -237,16 +205,12 @@
             <category>500</category>
             <name>Acquisition of equity not part of joint venture in developing countries</name>
             <name xml:lang="fr">Acquisition de prises de participation en dehors des coentreprises avec les pays en d&#233;veloppement</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>512</code>
             <category>500</category>
             <name>Other acquisition of equity</name>
             <name xml:lang="fr">Autre acquisition de prises de participation</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>520</code>
@@ -269,288 +233,216 @@
             <category>600</category>
             <name>Debt forgiveness:  ODA claims (P)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance APD (P)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>611</code>
             <category>600</category>
             <name>Debt forgiveness: ODA claims (I)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance APD (I)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>612</code>
             <category>600</category>
             <name>Debt forgiveness: OOF claims (P)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance AASP (P)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>613</code>
             <category>600</category>
             <name>Debt forgiveness: OOF claims (I)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance AASP (I)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>614</code>
             <category>600</category>
             <name>Debt forgiveness:  Private claims (P)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance du secteur priv&#233; (P)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>615</code>
             <category>600</category>
             <name>Debt forgiveness:  Private claims (I)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance du secteur priv&#233; (I)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>616</code>
             <category>600</category>
             <name>Debt forgiveness: OOF claims (DSR)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance AASP (DSR)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>617</code>
             <category>600</category>
             <name>Debt forgiveness:  Private claims (DSR)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance du secteur priv&#233; (DSR)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>618</code>
             <category>600</category>
             <name>Debt forgiveness: Other</name>
             <name xml:lang="fr">Annulation/conversion de la dette : autre</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>620</code>
             <category>600</category>
             <name>Debt rescheduling: ODA claims (P)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance APD (P)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>621</code>
             <category>600</category>
             <name>Debt rescheduling: ODA claims (I)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance APD (I)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>622</code>
             <category>600</category>
             <name>Debt rescheduling: OOF claims (P)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance AASP (P)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>623</code>
             <category>600</category>
             <name>Debt rescheduling: OOF claims (I)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance AASP (I)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>624</code>
             <category>600</category>
             <name>Debt rescheduling:  Private claims (P)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance du secteur priv&#233; (P)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>625</code>
             <category>600</category>
             <name>Debt rescheduling:  Private claims (I)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance du secteur priv&#233; (I)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>626</code>
             <category>600</category>
             <name>Debt rescheduling: OOF claims (DSR)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance AASP (RSD)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>627</code>
             <category>600</category>
             <name>Debt rescheduling:  Private claims (DSR)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance du secteur priv&#233; (RSD)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>630</code>
             <category>600</category>
             <name>Debt rescheduling: OOF claim (DSR &#8211; original loan principal)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance AASP (RSD &#8211; principal du pr&#234;t d&#8217;origine)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>631</code>
             <category>600</category>
             <name>Debt rescheduling: OOF claim (DSR &#8211; original loan interest)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance AASP (RSD &#8211; int&#233;r&#234;ts du pr&#234;t d&#8217;origine)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active">
             <code>632</code>
             <category>600</category>
             <name>Debt rescheduling: Private claim (DSR &#8211; original loan principal)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance du secteur priv&#233; (RSD &#8211; principal du pr&#234;t d&#8217;origine)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>633</code>
             <category>600</category>
             <name>Debt forgiveness/conversion: export credit claims (P)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance de cr&#233;dit &#224; l'exportation (P)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>634</code>
             <category>600</category>
             <name>Debt forgiveness/conversion:  export credit claims (I)</name>
             <name xml:lang="fr">Annulation/conversion de la dette : cr&#233;ance de cr&#233;dit &#224; l'exportation (I)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>635</code>
             <category>600</category>
             <name>Debt forgiveness:  export credit claims (DSR)</name>
             <name xml:lang="fr">Annulation de la dette : cr&#233;ance de cr&#233;dit &#224; l'exportation (DSR)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>636</code>
             <category>600</category>
             <name>Debt rescheduling:  export credit claims (P)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance de cr&#233;dit &#224;  l'exportation (P)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>637</code>
             <category>600</category>
             <name>Debt rescheduling:  export credit claims (I)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance de cr&#233;dit &#224;  l'exportation (I)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>638</code>
             <category>600</category>
             <name>Debt rescheduling:  export credit claims (DSR)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance de cr&#233;dit &#224;  l'exportation (DSR)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>639</code>
             <category>600</category>
             <name>Debt rescheduling:  export credit claim (DSR &#8211; original loan principal)</name>
             <name xml:lang="fr">R&#233;&#233;chelonnement de la dette : cr&#233;ance de cr&#233;dit &#224;  l'exportation (DSR - principal du pr&#234;t originel)</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>710</code>
             <category>700</category>
             <name>Foreign direct investment, new capital outflow (includes reinvested earnings if separate identification not available)</name>
             <name xml:lang="fr">Investissement direct international</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>711</code>
             <category>700</category>
             <name>Other foreign direct investment, including reinvested earnings</name>
             <name xml:lang="fr">Autre investissement direct international , y compris les b&#233;n&#233;fices r&#233;investis</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>712</code>
             <category>700</category>
             <name>Foreign direct investment, reinvested earnings</name>
             <name xml:lang="fr"/>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>810</code>
             <category>800</category>
             <name>Bank bonds</name>
             <name xml:lang="fr">Obligations du secteur bancaire</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>811</code>
             <category>800</category>
             <name>Non-bank  bonds</name>
             <name xml:lang="fr">Obligations du secteur non bancaire</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>910</code>
             <category>900</category>
             <name>Other bank securities/claims</name>
             <name xml:lang="fr">Autres titres/cr&#233;ances du secteur bancaire</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>911</code>
             <category>900</category>
             <name>Other non-bank securities/claims</name>
             <name xml:lang="fr">Autres titres/cr&#233;ances du secteur non bancaire</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>912</code>
             <category>900</category>
             <name>Purchase of securities from issuing agencies</name>
             <name xml:lang="fr">Titres et autres instruments &#233;mis par les agences multilat&#233;rales</name>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>913</code>
             <category>900</category>
             <name>Securities and other instruments originally issued by multilateral agencies</name>
             <name xml:lang="fr"/>
-            <description/>
-            <description xml:lang="fr"/>
         </codelist-item>
     </codelist-items>
 </codelist>
