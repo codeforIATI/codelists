@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>EQ-2021-000018-IRN</code>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:country-code>IRN</codeforiati:country-code>
+            <codeforiati:date>2021-02-17</codeforiati:date>
+            <codeforiati:glide-serial>2021-000018</codeforiati:glide-serial>
+            <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Iran, Islamic Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2021-000017-PHL</code>
             <codeforiati:event-code>TC</codeforiati:event-code>
             <codeforiati:country-code>PHL</codeforiati:country-code>
