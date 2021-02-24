@@ -11315,6 +11315,15 @@
             <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>MY-SSM-1172311D</code>
+            <name>
+                <narrative>Forever Sabah</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malaysia</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>UA-EDR-9795443</code>
             <name>
                 <narrative>Centre for Economic Strategy Ukraine</narrative>
@@ -11322,6 +11331,15 @@
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FR-INSEE-31827645800037</code>
+            <name>
+                <narrative>Association de solidarité internationale, Agriculteurs français et développement international (Afdi) France</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
         </codelist-item>
     </codelist-items>
 </codelist>

@@ -8799,11 +8799,25 @@
             <name>AUXFIN Burundi</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>MY-SSM-1172311D</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malaysia</codeforiati:hq-country-or-region>
+            <name>Forever Sabah</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>UA-EDR-9795443</code>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
             <name>Centre for Economic Strategy Ukraine</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FR-INSEE-31827645800037</code>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
+            <name>Association de solidarit&#233; internationale, Agriculteurs fran&#231;ais et d&#233;veloppement international (Afdi) France</name>
         </codelist-item>
     </codelist-items>
 </codelist>
