@@ -11288,6 +11288,15 @@
             <codeforiati:hq-country-or-region>Zambia</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-RC000679</code>
+            <name>
+                <narrative>University of York</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-41149</code>
             <name>
                 <narrative>United Nations Development Coordination Office</narrative>
