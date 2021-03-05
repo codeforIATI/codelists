@@ -10991,6 +10991,15 @@
             <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1076722</code>
+            <name>
+                <narrative>TRAFFIC International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-81-2339233</code>
             <name>
                 <narrative>Youth Development Labs Inc</narrative>
