@@ -11315,6 +11315,15 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-02871809</code>
+            <name>
+                <narrative>Global Witness</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-042103594</code>
             <name>
                 <narrative>Abdul Latif Jameel Poverty Action Lab at MIT</narrative>
