@@ -8840,6 +8840,13 @@
             <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
             <name>Association de solidarit&#233; internationale, Agriculteurs fran&#231;ais et d&#233;veloppement international (Afdi) France</name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1137523</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <name>The Proforest Initiative UK</name>
+        </codelist-item>
     </codelist-items>
 </codelist>
 
