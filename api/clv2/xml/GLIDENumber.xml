@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2021-000019-PER</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>PER</codeforiati:country-code>
+            <codeforiati:date>2021-02-15</codeforiati:date>
+            <codeforiati:glide-serial>2021-000019</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Peru</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EQ-2021-000018-IRN</code>
             <codeforiati:event-code>EQ</codeforiati:event-code>
             <codeforiati:country-code>IRN</codeforiati:country-code>
