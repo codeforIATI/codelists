@@ -11369,6 +11369,15 @@
             <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>BR-CNPJ-14.563.354/0001-50</code>
+            <name>
+                <narrative>Instituto BVRio</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1137523</code>
             <name>
                 <narrative>The Proforest Initiative UK</narrative>
