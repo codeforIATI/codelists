@@ -9956,6 +9956,15 @@
             <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>AU-ABN-42097054165</code>
+            <name>
+                <narrative>Land Equity International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Australia</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-20-8530747</code>
             <name>
                 <narrative>Results for Development</narrative>
