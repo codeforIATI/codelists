@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2021-000021-IND</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:date>2021-02-07</codeforiati:date>
+            <codeforiati:glide-serial>2021-000021</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>India</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AC-2021-000020-GNQ</code>
+            <codeforiati:event-code>AC</codeforiati:event-code>
+            <codeforiati:country-code>GNQ</codeforiati:country-code>
+            <codeforiati:date>2021-03-07</codeforiati:date>
+            <codeforiati:glide-serial>2021-000020</codeforiati:glide-serial>
+            <codeforiati:event>Tech. Disaster</codeforiati:event>
+            <codeforiati:country>Equatorial Guinea</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2021-000019-PER</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>PER</codeforiati:country-code>
@@ -3335,6 +3353,123 @@
             <codeforiati:glide-serial>2020-000001</codeforiati:glide-serial>
             <codeforiati:event>Earthquake</codeforiati:event>
             <codeforiati:country>Puerto Rico</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ST-2019-000199-USA</code>
+            <codeforiati:event-code>ST</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-02-23</codeforiati:date>
+            <codeforiati:glide-serial>2019-000199</codeforiati:glide-serial>
+            <codeforiati:event>SEVERE LOCAL STORM</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ST-2019-000197-USA</code>
+            <codeforiati:event-code>ST</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-07-04</codeforiati:date>
+            <codeforiati:glide-serial>2019-000197</codeforiati:glide-serial>
+            <codeforiati:event>SEVERE LOCAL STORM</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ST-2019-000196-USA</code>
+            <codeforiati:event-code>ST</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-03-22</codeforiati:date>
+            <codeforiati:glide-serial>2019-000196</codeforiati:glide-serial>
+            <codeforiati:event>SEVERE LOCAL STORM</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TO-2019-000195-USA</code>
+            <codeforiati:event-code>TO</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-10-20</codeforiati:date>
+            <codeforiati:glide-serial>2019-000195</codeforiati:glide-serial>
+            <codeforiati:event>Tornadoes</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2019-000194-USA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-05-20</codeforiati:date>
+            <codeforiati:glide-serial>2019-000194</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2019-000193-USA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-03-15</codeforiati:date>
+            <codeforiati:glide-serial>2019-000193</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2019-000192-USA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-03-14</codeforiati:date>
+            <codeforiati:glide-serial>2019-000192</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ST-2019-000191-USA</code>
+            <codeforiati:event-code>ST</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-04-13</codeforiati:date>
+            <codeforiati:glide-serial>2019-000191</codeforiati:glide-serial>
+            <codeforiati:event>SEVERE LOCAL STORM</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TO-2019-000190-USA</code>
+            <codeforiati:event-code>TO</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-05-26</codeforiati:date>
+            <codeforiati:glide-serial>2019-000190</codeforiati:glide-serial>
+            <codeforiati:event>Tornadoes</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ST-2019-000189-USA</code>
+            <codeforiati:event-code>ST</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-05-16</codeforiati:date>
+            <codeforiati:glide-serial>2019-000189</codeforiati:glide-serial>
+            <codeforiati:event>SEVERE LOCAL STORM</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ST-2019-000188-USA</code>
+            <codeforiati:event-code>ST</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-05-07</codeforiati:date>
+            <codeforiati:glide-serial>2019-000188</codeforiati:glide-serial>
+            <codeforiati:event>SEVERE LOCAL STORM</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2019-000187-USA</code>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-06-01</codeforiati:date>
+            <codeforiati:glide-serial>2019-000187</codeforiati:glide-serial>
+            <codeforiati:event>Wild fire</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2019-000186-USA</code>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:date>2019-09-17</codeforiati:date>
+            <codeforiati:glide-serial>2019-000186</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>United States</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
             <code>EP-2019-000184-BGD</code>
