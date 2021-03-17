@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2021-03-16T10:05:04.348081+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2021-03-17T03:48:08.392055+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -5875,6 +5875,11 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>CH-FDJP-CHE296622304</code>
+    <name>The Global Initiative Against Transnational Organized Crime</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>LB-MOI-1-100</code>
     <name>Al Majmoua</name>
     <language>en</language>
@@ -6312,6 +6317,11 @@
   <ReportingOrganisation>
     <code>FR-INSEE-31827645800037</code>
     <name>Association de solidarit&#233; internationale, Agriculteurs fran&#231;ais et d&#233;veloppement international (Afdi) France</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>GB-CHC-1188731</code>
+    <name>Sustainable Hospitality Alliance</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>

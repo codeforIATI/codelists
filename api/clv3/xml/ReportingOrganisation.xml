@@ -10586,6 +10586,15 @@
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>CH-FDJP-CHE296622304</code>
+            <name>
+                <narrative>The Global Initiative Against Transnational Organized Crime</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>LB-MOI-1-100</code>
             <name>
                 <narrative>Al Majmoua</narrative>
@@ -11376,6 +11385,15 @@
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1188731</code>
+            <name>
+                <narrative>Sustainable Hospitality Alliance</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
             <code>BR-CNPJ-14.563.354/0001-50</code>
