@@ -16,6 +16,24 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2021-000023-DZA</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>DZA</codeforiati:country-code>
+            <codeforiati:date>2021-03-06</codeforiati:date>
+            <codeforiati:glide-serial>2021-000023</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Algeria</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DR-2021-000022-AFG</code>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:country-code>AFG</codeforiati:country-code>
+            <codeforiati:date>2021-03-16</codeforiati:date>
+            <codeforiati:glide-serial>2021-000022</codeforiati:glide-serial>
+            <codeforiati:event>Drought</codeforiati:event>
+            <codeforiati:country>Afghanistan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2021-000021-IND</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>IND</codeforiati:country-code>
