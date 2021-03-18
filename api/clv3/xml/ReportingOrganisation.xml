@@ -11405,6 +11405,15 @@
             <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-861193660</code>
+            <name>
+                <narrative>OurLoop Stitchting</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1137523</code>
             <name>
                 <narrative>The Proforest Initiative UK</narrative>
