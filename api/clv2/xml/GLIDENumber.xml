@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>ST-2021-000024-MNG</code>
+            <codeforiati:event-code>ST</codeforiati:event-code>
+            <codeforiati:country-code>MNG</codeforiati:country-code>
+            <codeforiati:date>2021-03-17</codeforiati:date>
+            <codeforiati:glide-serial>2021-000024</codeforiati:glide-serial>
+            <codeforiati:event>SEVERE LOCAL STORM</codeforiati:event>
+            <codeforiati:country>Mongolia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2021-000023-DZA</code>
             <codeforiati:event-code>FL</codeforiati:event-code>
             <codeforiati:country-code>DZA</codeforiati:country-code>
