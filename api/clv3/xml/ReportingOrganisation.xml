@@ -9776,6 +9776,15 @@
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>RW-RRA-103197639</code>
+            <name>
+                <narrative>Greater Virunga Transboundary Collaboration</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Rwanda</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NP-SWC-37725</code>
             <name>
                 <narrative>South Asian Women Development Forum</narrative>
@@ -10575,6 +10584,15 @@
             <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BD-NAB-0918</code>
+            <name>
+                <narrative>Centre for Policy Dialogue</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
             <code>KE-KRA-P000634725S</code>
