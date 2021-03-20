@@ -11297,6 +11297,15 @@
             <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-09108013</code>
+            <name>
+                <narrative>Advance Consulting</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-GRID-grid.11835.3e</code>
             <name>
                 <narrative>The University of Sheffield</narrative>
