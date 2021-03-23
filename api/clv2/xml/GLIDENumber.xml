@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2021-000025-AUS</code>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>AUS</codeforiati:country-code>
+            <codeforiati:date>2021-03-21</codeforiati:date>
+            <codeforiati:glide-serial>2021-000025</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Australia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ST-2021-000024-MNG</code>
             <codeforiati:event-code>ST</codeforiati:event-code>
             <codeforiati:country-code>MNG</codeforiati:country-code>
@@ -230,6 +239,15 @@
             <codeforiati:glide-serial>2021-000001</codeforiati:glide-serial>
             <codeforiati:event>Flood</codeforiati:event>
             <codeforiati:country>Malaysia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VO-2020-000244-VCT</code>
+            <codeforiati:event-code>VO</codeforiati:event-code>
+            <codeforiati:country-code>VCT</codeforiati:country-code>
+            <codeforiati:date>2020-12-29</codeforiati:date>
+            <codeforiati:glide-serial>2020-000244</codeforiati:glide-serial>
+            <codeforiati:event>Volcano</codeforiati:event>
+            <codeforiati:country>Saint Vincent &amp; The Grenadines</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
             <code>CW-2020-000243-MNG</code>
