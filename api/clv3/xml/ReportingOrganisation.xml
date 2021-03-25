@@ -11423,6 +11423,15 @@
             <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1017336</code>
+            <name>
+                <narrative>Elton John AIDS Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1188731</code>
             <name>
                 <narrative>Sustainable Hospitality Alliance</narrative>
