@@ -16,6 +16,15 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>FR-2021-000027-BGD</code>
+            <codeforiati:event-code>FR</codeforiati:event-code>
+            <codeforiati:country-code>BGD</codeforiati:country-code>
+            <codeforiati:date>2021-03-24</codeforiati:date>
+            <codeforiati:glide-serial>2021-000027</codeforiati:glide-serial>
+            <codeforiati:event>Fire</codeforiati:event>
+            <codeforiati:country>Bangladesh</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CE-2021-000026-GMB</code>
             <codeforiati:event-code>CE</codeforiati:event-code>
             <codeforiati:country-code>GMB</codeforiati:country-code>
