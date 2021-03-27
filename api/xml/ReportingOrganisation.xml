@@ -785,6 +785,15 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1115482</code>
+            <name>
+                <narrative>BRAC UK</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ZA-CIPC-2001/005850/08</code>
             <name>
                 <narrative>Gender Links</narrative>
