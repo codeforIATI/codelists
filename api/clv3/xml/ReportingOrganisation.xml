@@ -11476,5 +11476,14 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
         </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-13-4052259</code>
+            <name>
+                <narrative>Media Development Investment Fund</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+        </codelist-item>
     </codelist-items>
 </codelist>
