@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2021-03-30T08:25:56.941112+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2021-03-31T06:54:12.764593+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -6367,6 +6367,11 @@
   <ReportingOrganisation>
     <code>GB-CHC-1137523</code>
     <name>The Proforest Initiative UK</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>US-EIN-52-2135531</code>
+    <name>Forest Trends Association</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
