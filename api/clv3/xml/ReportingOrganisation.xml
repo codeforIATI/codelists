@@ -11486,6 +11486,15 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-02515034</code>
+            <name>
+                <narrative>Timber Trade Federation Ltd.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-13-4052259</code>
             <name>
                 <narrative>Media Development Investment Fund</narrative>
