@@ -2765,6 +2765,15 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
         </codelist-item>
         <codelist-item status="active">
+            <code>ML-NIF-086108989R</code>
+            <name>
+                <narrative>Association de Soutien au Développement des Activités de Population</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mali</codeforiati:hq-country-or-region>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1069182</code>
             <name>
                 <narrative>International Service</narrative>
