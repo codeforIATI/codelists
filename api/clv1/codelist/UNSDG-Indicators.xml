@@ -1,4 +1,4 @@
-<codelist name="UNSDG-Indicators" date-last-modified="2021-04-06T18:50:22.335539+00:00" version="" xml:lang="en">
+<codelist name="UNSDG-Indicators" date-last-modified="2021-04-06T22:31:06.704016+00:00" version="" xml:lang="en">
   <UNSDG-Indicators>
     <code>1.1.1</code>
     <name>Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)</name>
@@ -70,6 +70,13 @@
     <category-name>By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>1.a.1</code>
+    <name>Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country&#8217;s gross national income</name>
+    <language>en</language>
+    <category>1.a</category>
+    <category-name>Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>1.a.2</code>
     <name>Proportion of total government spending on essential services (education, health and social protection)</name>
     <language>en</language>
@@ -77,11 +84,11 @@
     <category-name>Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>1.a.1</code>
-    <name>Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country&#8217;s gross national income</name>
+    <code>1.b.1</code>
+    <name>Pro-poor public social spending</name>
     <language>en</language>
-    <category>1.a</category>
-    <category-name>Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</category-name>
+    <category>1.b</category>
+    <category-name>Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
     <code>2.1.1</code>
@@ -131,6 +138,13 @@
     <language>en</language>
     <category>2.3</category>
     <category-name>By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>2.4.1</code>
+    <name>Proportion of agricultural area under productive and sustainable agriculture</name>
+    <language>en</language>
+    <category>2.4</category>
+    <category-name>By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
     <code>2.5.1</code>
@@ -224,15 +238,15 @@
     <category-name>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>3.3.5</code>
-    <name>Number of people requiring interventions against neglected tropical diseases</name>
+    <code>3.3.4</code>
+    <name>Hepatitis B incidence per 100,000 population</name>
     <language>en</language>
     <category>3.3</category>
     <category-name>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>3.3.4</code>
-    <name>Hepatitis B incidence per 100,000 population</name>
+    <code>3.3.5</code>
+    <name>Number of people requiring interventions against neglected tropical diseases</name>
     <language>en</language>
     <category>3.3</category>
     <category-name>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases</category-name>
@@ -252,15 +266,15 @@
     <category-name>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>3.5.2</code>
-    <name>Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</name>
+    <code>3.5.1</code>
+    <name>Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders</name>
     <language>en</language>
     <category>3.5</category>
     <category-name>Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>3.5.1</code>
-    <name>Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders</name>
+    <code>3.5.2</code>
+    <name>Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</name>
     <language>en</language>
     <category>3.5</category>
     <category-name>Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol</category-name>
@@ -287,15 +301,15 @@
     <category-name>By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>3.8.2</code>
-    <name>Proportion of population with large household expenditures on health as a share of total household expenditure or income</name>
+    <code>3.8.1</code>
+    <name>Coverage of essential health services</name>
     <language>en</language>
     <category>3.8</category>
     <category-name>Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>3.8.1</code>
-    <name>Coverage of essential health services</name>
+    <code>3.8.2</code>
+    <name>Proportion of population with large household expenditures on health as a share of total household expenditure or income</name>
     <language>en</language>
     <category>3.8</category>
     <category-name>Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</category-name>
@@ -329,15 +343,15 @@
     <category-name>Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>3.b.2</code>
-    <name>Total net official development assistance to medical research and basic health sectors</name>
+    <code>3.b.1</code>
+    <name>Proportion of the target population covered by all vaccines included in their national programme</name>
     <language>en</language>
     <category>3.b</category>
     <category-name>Support the research and development of vaccines and medicines for the communicable and non&#8209;communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>3.b.1</code>
-    <name>Proportion of the target population covered by all vaccines included in their national programme</name>
+    <code>3.b.2</code>
+    <name>Total net official development assistance to medical research and basic health sectors</name>
     <language>en</language>
     <category>3.b</category>
     <category-name>Support the research and development of vaccines and medicines for the communicable and non&#8209;communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all</category-name>
@@ -427,6 +441,13 @@
     <category-name>By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>4.7.1</code>
+    <name>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</name>
+    <language>en</language>
+    <category>4.7</category>
+    <category-name>By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#8217;s contribution to sustainable development</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>4.a.1</code>
     <name>Proportion of schools offering basic services, by type of service</name>
     <language>en</language>
@@ -457,6 +478,13 @@
   <UNSDG-Indicators>
     <code>5.2.1</code>
     <name>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</name>
+    <language>en</language>
+    <category>5.2</category>
+    <category-name>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>5.2.2</code>
+    <name>Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</name>
     <language>en</language>
     <category>5.2</category>
     <category-name>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation</category-name>
@@ -553,13 +581,6 @@
     <category-name>By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>6.3.2</code>
-    <name>Proportion of bodies of water with good ambient water quality</name>
-    <language>en</language>
-    <category>6.3</category>
-    <category-name>By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</category-name>
-  </UNSDG-Indicators>
-  <UNSDG-Indicators>
     <code>6.3.1</code>
     <name>Proportion of domestic and industrial wastewater flows safely treated</name>
     <language>en</language>
@@ -567,15 +588,22 @@
     <category-name>By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>6.4.2</code>
-    <name>Level of water stress: freshwater withdrawal as a proportion of available freshwater resources</name>
+    <code>6.3.2</code>
+    <name>Proportion of bodies of water with good ambient water quality</name>
+    <language>en</language>
+    <category>6.3</category>
+    <category-name>By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>6.4.1</code>
+    <name>Change in water-use efficiency over time</name>
     <language>en</language>
     <category>6.4</category>
     <category-name>By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>6.4.1</code>
-    <name>Change in water-use efficiency over time</name>
+    <code>6.4.2</code>
+    <name>Level of water stress: freshwater withdrawal as a proportion of available freshwater resources</name>
     <language>en</language>
     <category>6.4</category>
     <category-name>By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity</category-name>
@@ -658,6 +686,13 @@
     <category-name>By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>8.1.1</code>
+    <name>Annual growth rate of real GDP per capita</name>
+    <language>en</language>
+    <category>8.1</category>
+    <category-name>Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7&#160;per&#160;cent gross domestic product growth per annum in the least developed countries</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>8.2.1</code>
     <name>Annual growth rate of real GDP per employed person</name>
     <language>en</language>
@@ -714,13 +749,6 @@
     <category-name>Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms </category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>8.1.1</code>
-    <name>Annual growth rate of real GDP per capita</name>
-    <language>en</language>
-    <category>8.1</category>
-    <category-name>Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7&#160;per&#160;cent gross domestic product growth per annum in the least developed countries</category-name>
-  </UNSDG-Indicators>
-  <UNSDG-Indicators>
     <code>8.8.1</code>
     <name>Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status</name>
     <language>en</language>
@@ -770,15 +798,15 @@
     <category-name>By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>9.1.2</code>
-    <name>Passenger and freight volumes, by mode of transport</name>
+    <code>9.1.1</code>
+    <name>Proportion of the rural population who live within 2 km of an all-season road</name>
     <language>en</language>
     <category>9.1</category>
     <category-name>Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>9.1.1</code>
-    <name>Proportion of the rural population who live within 2 km of an all-season road</name>
+    <code>9.1.2</code>
+    <name>Passenger and freight volumes, by mode of transport</name>
     <language>en</language>
     <category>9.1</category>
     <category-name>Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all</category-name>
@@ -903,6 +931,13 @@
     <category-name>Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>10.7.1</code>
+    <name>Recruitment cost borne by employee as a proportion of monthly income earned in country of destination</name>
+    <language>en</language>
+    <category>10.7</category>
+    <category-name>Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>10.7.2</code>
     <name>Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people</name>
     <language>en</language>
@@ -952,6 +987,34 @@
     <category-name>By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>11.2.1</code>
+    <name>Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities</name>
+    <language>en</language>
+    <category>11.2</category>
+    <category-name>By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>11.3.1</code>
+    <name>Ratio of land consumption rate to population growth rate</name>
+    <language>en</language>
+    <category>11.3</category>
+    <category-name>By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>11.3.2</code>
+    <name>Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically</name>
+    <language>en</language>
+    <category>11.3</category>
+    <category-name>By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>11.4.1</code>
+    <name>Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)</name>
+    <language>en</language>
+    <category>11.4</category>
+    <category-name>Strengthen efforts to protect and safeguard the world&#8217;s cultural and natural heritage</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>11.5.1</code>
     <name>Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</name>
     <language>en</language>
@@ -978,6 +1041,20 @@
     <language>en</language>
     <category>11.6</category>
     <category-name>By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>11.7.1</code>
+    <name>Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities</name>
+    <language>en</language>
+    <category>11.7</category>
+    <category-name>By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>11.7.2</code>
+    <name>Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months</name>
+    <language>en</language>
+    <category>11.7</category>
+    <category-name>By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
     <code>11.a.1</code>
@@ -1064,6 +1141,13 @@
     <category-name>Promote public procurement practices that are sustainable, in accordance with national policies and priorities</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>12.8.1</code>
+    <name>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</name>
+    <language>en</language>
+    <category>12.8</category>
+    <category-name>By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>12.a.1</code>
     <name>Installed renewable energy-generating capacity in developing countries (in watts per capita)</name>
     <language>en</language>
@@ -1106,6 +1190,13 @@
     <category-name>Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>13.2.1</code>
+    <name>Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change</name>
+    <language>en</language>
+    <category>13.2</category>
+    <category-name>Integrate climate change measures into national policies, strategies and planning</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>13.2.2</code>
     <name>Total greenhouse gas emissions per year</name>
     <language>en</language>
@@ -1113,11 +1204,11 @@
     <category-name>Integrate climate change measures into national policies, strategies and planning</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>13.2.1</code>
-    <name>Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change</name>
+    <code>13.3.1</code>
+    <name>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</name>
     <language>en</language>
-    <category>13.2</category>
-    <category-name>Integrate climate change measures into national policies, strategies and planning</category-name>
+    <category>13.3</category>
+    <category-name>Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
     <code>13.a.1</code>
@@ -1141,6 +1232,34 @@
     <category-name>By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>14.2.1</code>
+    <name>Number of countries using ecosystem-based approaches to managing marine areas</name>
+    <language>en</language>
+    <category>14.2</category>
+    <category-name>By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>14.3.1</code>
+    <name>Average marine acidity (pH) measured at agreed suite of representative sampling stations</name>
+    <language>en</language>
+    <category>14.3</category>
+    <category-name>Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>14.4.1</code>
+    <name>Proportion of fish stocks within biologically sustainable levels</name>
+    <language>en</language>
+    <category>14.4</category>
+    <category-name>By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>14.5.1</code>
+    <name>Coverage of protected areas in relation to marine areas</name>
+    <language>en</language>
+    <category>14.5</category>
+    <category-name>By 2020, conserve at least 10&#160;per&#160;cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>14.6.1</code>
     <name>Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</name>
     <language>en</language>
@@ -1155,13 +1274,6 @@
     <category-name>By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>14.3.1</code>
-    <name>Average marine acidity (pH) measured at agreed suite of representative sampling stations</name>
-    <language>en</language>
-    <category>14.3</category>
-    <category-name>Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels</category-name>
-  </UNSDG-Indicators>
-  <UNSDG-Indicators>
     <code>14.a.1</code>
     <name>Proportion of total research budget allocated to research in the field of marine technology</name>
     <language>en</language>
@@ -1169,25 +1281,11 @@
     <category-name>Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>14.4.1</code>
-    <name>Proportion of fish stocks within biologically sustainable levels</name>
-    <language>en</language>
-    <category>14.4</category>
-    <category-name>By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics</category-name>
-  </UNSDG-Indicators>
-  <UNSDG-Indicators>
     <code>14.b.1</code>
-    <name>Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries</name>
+    <name>Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries</name>
     <language>en</language>
     <category>14.b</category>
     <category-name>Provide access for small-scale artisanal fishers to marine resources and markets</category-name>
-  </UNSDG-Indicators>
-  <UNSDG-Indicators>
-    <code>14.5.1</code>
-    <name>Coverage of protected areas in relation to marine areas</name>
-    <language>en</language>
-    <category>14.5</category>
-    <category-name>By 2020, conserve at least 10&#160;per&#160;cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
     <code>14.c.1</code>
@@ -1253,6 +1351,13 @@
     <category-name>Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>15.7.1</code>
+    <name>Proportion of traded wildlife that was poached or illicitly trafficked</name>
+    <language>en</language>
+    <category>15.7</category>
+    <category-name>Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>15.8.1</code>
     <name>Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species</name>
     <language>en</language>
@@ -1281,6 +1386,13 @@
     <category-name>Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>15.c.1</code>
+    <name>Proportion of traded wildlife that was poached or illicitly trafficked</name>
+    <language>en</language>
+    <category>15.c</category>
+    <category-name>Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>16.1.1</code>
     <name>Number of victims of intentional homicide per 100,000 population, by sex and age</name>
     <language>en</language>
@@ -1288,8 +1400,15 @@
     <category-name>Significantly reduce all forms of violence and related death rates everywhere</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>16.1.2</code>
+    <name>Conflict-related deaths per 100,000 population, by sex, age and cause</name>
+    <language>en</language>
+    <category>16.1</category>
+    <category-name>Significantly reduce all forms of violence and related death rates everywhere</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>16.1.3</code>
-    <name>Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12&#160;months</name>
+    <name>Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</name>
     <language>en</language>
     <category>16.1</category>
     <category-name>Significantly reduce all forms of violence and related death rates everywhere</category-name>
@@ -1297,13 +1416,6 @@
   <UNSDG-Indicators>
     <code>16.1.4</code>
     <name>Proportion of population that feel safe walking alone around the area they live</name>
-    <language>en</language>
-    <category>16.1</category>
-    <category-name>Significantly reduce all forms of violence and related death rates everywhere</category-name>
-  </UNSDG-Indicators>
-  <UNSDG-Indicators>
-    <code>16.1.2</code>
-    <name>Conflict-related deaths per 100,000 population, by sex, age and cause</name>
     <language>en</language>
     <category>16.1</category>
     <category-name>Significantly reduce all forms of violence and related death rates everywhere</category-name>
@@ -1330,6 +1442,13 @@
     <category-name>End abuse, exploitation, trafficking and all forms of violence against and torture of children</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>16.3.1</code>
+    <name>Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms</name>
+    <language>en</language>
+    <category>16.3</category>
+    <category-name>Promote the rule of law at the national and international levels and ensure equal access to justice for all</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>16.3.2</code>
     <name>Unsentenced detainees as a proportion of overall prison population</name>
     <language>en</language>
@@ -1337,11 +1456,18 @@
     <category-name>Promote the rule of law at the national and international levels and ensure equal access to justice for all</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>16.3.1</code>
-    <name>Proportion of victims of violence in the previous 12&#160;months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms</name>
+    <code>16.3.3</code>
+    <name>Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism</name>
     <language>en</language>
     <category>16.3</category>
     <category-name>Promote the rule of law at the national and international levels and ensure equal access to justice for all</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>16.4.1</code>
+    <name>Total value of inward and outward illicit financial flows (in current United States dollars)</name>
+    <language>en</language>
+    <category>16.4</category>
+    <category-name>By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
     <code>16.4.2</code>
@@ -1351,15 +1477,15 @@
     <category-name>By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>16.5.2</code>
-    <name>Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</name>
+    <code>16.5.1</code>
+    <name>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</name>
     <language>en</language>
     <category>16.5</category>
     <category-name>Substantially reduce corruption and bribery in all their forms</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>16.5.1</code>
-    <name>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12&#160;months</name>
+    <code>16.5.2</code>
+    <name>Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</name>
     <language>en</language>
     <category>16.5</category>
     <category-name>Substantially reduce corruption and bribery in all their forms</category-name>
@@ -1372,8 +1498,22 @@
     <category-name>Develop effective, accountable and transparent institutions at all levels</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>16.6.2</code>
+    <name>Proportion of population satisfied with their last experience of public services</name>
+    <language>en</language>
+    <category>16.6</category>
+    <category-name>Develop effective, accountable and transparent institutions at all levels</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>16.7.1</code>
     <name>Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups</name>
+    <language>en</language>
+    <category>16.7</category>
+    <category-name>Ensure responsive, inclusive, participatory and representative decision-making at all levels</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>16.7.2</code>
+    <name>Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group</name>
     <language>en</language>
     <category>16.7</category>
     <category-name>Ensure responsive, inclusive, participatory and representative decision-making at all levels</category-name>
@@ -1442,15 +1582,15 @@
     <category-name>Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7&#160;per&#160;cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20&#160;per&#160;cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20&#160;per&#160;cent of ODA/GNI to least developed countries</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>17.3.2</code>
-    <name>Volume of remittances (in United States dollars) as a proportion of total GDP</name>
+    <code>17.3.1</code>
+    <name>Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income</name>
     <language>en</language>
     <category>17.3</category>
     <category-name>Mobilize additional financial resources for developing countries from multiple sources</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
-    <code>17.3.1</code>
-    <name>Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income</name>
+    <code>17.3.2</code>
+    <name>Volume of remittances (in United States dollars) as a proportion of total GDP</name>
     <language>en</language>
     <category>17.3</category>
     <category-name>Mobilize additional financial resources for developing countries from multiple sources</category-name>
@@ -1475,6 +1615,13 @@
     <language>en</language>
     <category>17.6</category>
     <category-name>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>17.7.1</code>
+    <name>Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies</name>
+    <language>en</language>
+    <category>17.7</category>
+    <category-name>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
     <code>17.8.1</code>
@@ -1512,6 +1659,13 @@
     <category-name>Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
+    <code>17.13.1</code>
+    <name>Macroeconomic Dashboard</name>
+    <language>en</language>
+    <category>17.13</category>
+    <category-name>Enhance global macroeconomic stability, including through policy coordination and policy coherence</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
     <code>17.14.1</code>
     <name>Number of countries with mechanisms in place to enhance policy coherence of sustainable development</name>
     <language>en</language>
@@ -1538,6 +1692,13 @@
     <language>en</language>
     <category>17.17</category>
     <category-name>Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships</category-name>
+  </UNSDG-Indicators>
+  <UNSDG-Indicators>
+    <code>17.18.1</code>
+    <name>Statistical capacity indicator for Sustainable Development Goal monitoring</name>
+    <language>en</language>
+    <category>17.18</category>
+    <category-name>By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts</category-name>
   </UNSDG-Indicators>
   <UNSDG-Indicators>
     <code>17.18.2</code>
