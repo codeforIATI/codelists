@@ -1,0 +1,97 @@
+<codelist category-codelist="EarmarkingCategory" name="EarmarkingModality" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <name>
+            <narrative>Earmarking Modality</narrative>
+        </name>
+        <url>https://reliefweb.int/sites/reliefweb.int/files/resources/Grand_Bargain_final_22_May_FINAL-2.pdf</url>
+        <category>
+            <narrative>Replicated</narrative>
+        </category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>A</code>
+            <name>
+                <narrative>Fully flexible core contribution</narrative>
+            </name>
+            <category>1</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>B</code>
+            <name>
+                <narrative>Fully flexible core contribution to the CERF</narrative>
+            </name>
+            <category>1</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>C</code>
+            <name>
+                <narrative>Core contribution</narrative>
+            </name>
+            <category>1</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>D</code>
+            <name>
+                <narrative>Core contribution with limitations</narrative>
+            </name>
+            <category>2</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>E</code>
+            <name>
+                <narrative>Directed to a geographical region or a strategic objective</narrative>
+            </name>
+            <category>2</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>F</code>
+            <name>
+                <narrative>Directed to a Country-Based Pooled Fund</narrative>
+            </name>
+            <category>2</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>G</code>
+            <name>
+                <narrative>Directed to an aid organisation's country operations</narrative>
+            </name>
+            <category>3</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>H</code>
+            <name>
+                <narrative>Directed to a sub-objective/target</narrative>
+            </name>
+            <category>3</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>I</code>
+            <name>
+                <narrative>Directed to a specific project</narrative>
+            </name>
+            <category>4</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>J</code>
+            <name>
+                <narrative>Directed geographically and thematically, tied financially</narrative>
+            </name>
+            <category>4</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>K</code>
+            <name>
+                <narrative>Directed geographically and thematically, in kind</narrative>
+            </name>
+            <category>4</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>L</code>
+            <name>
+                <narrative>Donor-initiated projects/directed contributions</narrative>
+            </name>
+            <category>4</category>
+        </codelist-item>
+    </codelist-items>
+</codelist>

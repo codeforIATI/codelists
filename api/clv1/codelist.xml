@@ -182,6 +182,11 @@ For general guidance about constructing Organisation Identifiers, please see htt
     <count>9</count>
   </codelist>
   <codelist>
+    <name>EarmarkingModality</name>
+    <description></description>
+    <count>12</count>
+  </codelist>
+  <codelist>
     <name>LoanRepaymentPeriod</name>
     <description>CRS Loan Repayment No of Payments</description>
     <count>4</count>
