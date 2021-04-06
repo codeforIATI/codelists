@@ -79,7 +79,7 @@
         <codelist-item status="active">
             <code>1.5.3</code>
             <name>
-                <narrative>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030</narrative>
+                <narrative>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</narrative>
                 <narrative xml:lang="fr">Nombre de pays ayant adopté et mis en place des stratégies nationales de réduction des risques de catastrophe, conformément au Cadre de Sendai pour la réduction des risques de catastrophe (2015‑2030)</narrative>
             </name>
             <category>1.5</category>
@@ -135,7 +135,7 @@
         <codelist-item status="active">
             <code>2.2.1</code>
             <name>
-                <narrative>Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age</narrative>
+                <narrative>Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age</narrative>
                 <narrative xml:lang="fr">Prévalence du retard de croissance (indice taille/âge inférieur à -2 écarts types par rapport à la médiane des normes de croissance de l’enfant définies par l’OMS) chez les enfants de moins de 5 ans</narrative>
             </name>
             <category>2.2</category>
@@ -143,7 +143,7 @@
         <codelist-item status="active">
             <code>2.2.2</code>
             <name>
-                <narrative>Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)</narrative>
+                <narrative>Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)</narrative>
                 <narrative xml:lang="fr">Prévalence de la malnutrition (indice poids/taille supérieur à +2 écarts types ou inférieur à -2 écarts types par rapport à la médiane des normes de croissance de l’enfant définies par l’OMS chez les enfants de moins de 5 ans, par forme (surpoids et émaciation)</narrative>
             </name>
             <category>2.2</category>
@@ -343,7 +343,7 @@
         <codelist-item status="active">
             <code>3.7.1</code>
             <name>
-                <narrative>Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods</narrative>
+                <narrative>Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods</narrative>
                 <narrative xml:lang="fr">Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale</narrative>
             </name>
             <category>3.7</category>
@@ -351,7 +351,7 @@
         <codelist-item status="active">
             <code>3.7.2</code>
             <name>
-                <narrative>Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group</narrative>
+                <narrative>Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</narrative>
                 <narrative xml:lang="fr">Taux de natalité chez les adolescentes (10 à 14 ans et 15 à 19 ans) pour 1 000 adolescentes du même groupe d’âge</narrative>
             </name>
             <category>3.7</category>
@@ -399,7 +399,7 @@
         <codelist-item status="active">
             <code>3.a.1</code>
             <name>
-                <narrative>Age-standardized prevalence of current tobacco use among persons aged 15 years and older</narrative>
+                <narrative>Age-standardized prevalence of current tobacco use among persons aged 15 years and older</narrative>
                 <narrative xml:lang="fr">Prévalence de la consommation actuelle de tabac chez les personnes de 15 ans ou plus (taux comparatifs par âge)</narrative>
             </name>
             <category>3.a</category>
@@ -471,7 +471,7 @@
         <codelist-item status="active">
             <code>4.2.1</code>
             <name>
-                <narrative>Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex</narrative>
+                <narrative>Proportion of children aged 24–59 months who are developmentally on track in health, learning and psychosocial well-being, by sex</narrative>
                 <narrative xml:lang="fr">Proportion d’enfants âgés de 24 à 59 mois dont le développement est en bonne voie en matière de santé, d’apprentissage et de bien-être psychosocial, par sexe</narrative>
             </name>
             <category>4.2</category>
@@ -487,7 +487,7 @@
         <codelist-item status="active">
             <code>4.3.1</code>
             <name>
-                <narrative>Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex</narrative>
+                <narrative>Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex</narrative>
                 <narrative xml:lang="fr">Taux de participation des jeunes et des adultes à un programme d’éducation et de formation scolaire ou non scolaire au cours des 12 mois précédents, par sexe</narrative>
             </name>
             <category>4.3</category>
@@ -559,7 +559,7 @@
         <codelist-item status="active">
             <code>5.2.1</code>
             <name>
-                <narrative>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</narrative>
+                <narrative>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</narrative>
                 <narrative xml:lang="fr">Proportion de femmes et de filles âgées de 15 ans ou plus ayant vécu en couple victimes de violences physiques, sexuelles ou psychologiques infligées au cours des 12 mois précédents par leur partenaire actuel ou un ancien partenaire, par forme de violence et par âge</narrative>
             </name>
             <category>5.2</category>
@@ -567,7 +567,7 @@
         <codelist-item status="active">
             <code>5.2.2</code>
             <name>
-                <narrative>Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</narrative>
+                <narrative>Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</narrative>
                 <narrative xml:lang="fr">Proportion de femmes et de filles âgées de 15 ans ou plus victimes de violences sexuelles infligées au cours des 12 mois précédents par une personne autre que leur partenaire intime, par âge et lieu des faits</narrative>
             </name>
             <category>5.2</category>
@@ -575,7 +575,7 @@
         <codelist-item status="active">
             <code>5.3.1</code>
             <name>
-                <narrative>Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18</narrative>
+                <narrative>Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</narrative>
                 <narrative xml:lang="fr">Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans ou de 18 ans</narrative>
             </name>
             <category>5.3</category>
@@ -583,7 +583,7 @@
         <codelist-item status="active">
             <code>5.3.2</code>
             <name>
-                <narrative>Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age</narrative>
+                <narrative>Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age</narrative>
                 <narrative xml:lang="fr">Proportion de filles et de femmes âgées de 15 à 49 ans ayant subi une mutilation ou une ablation génitale, par âge</narrative>
             </name>
             <category>5.3</category>
@@ -599,7 +599,7 @@
         <codelist-item status="active">
             <code>5.5.1</code>
             <name>
-                <narrative>Proportion of seats held by women in (a) national parliaments and (b) local governments</narrative>
+                <narrative>Proportion of seats held by women in (a) national parliaments and (b) local governments</narrative>
                 <narrative xml:lang="fr">Proportion de sièges occupés par des femmes dans a) les parlements nationaux et b) les administrations locales</narrative>
             </name>
             <category>5.5</category>
@@ -615,7 +615,7 @@
         <codelist-item status="active">
             <code>5.6.1</code>
             <name>
-                <narrative>Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</narrative>
+                <narrative>Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</narrative>
                 <narrative xml:lang="fr">Proportion de femmes âgées de 15 à 49 ans prenant, en connaissance de cause, leurs propres décisions concernant leurs relations sexuelles, l’utilisation de contraceptifs et les soins de santé procréative</narrative>
             </name>
             <category>5.6</category>
@@ -855,7 +855,7 @@
         <codelist-item status="active">
             <code>8.6.1</code>
             <name>
-                <narrative>Proportion of youth (aged 15-24 years) not in education, employment or training</narrative>
+                <narrative>Proportion of youth (aged 15–24 years) not in education, employment or training</narrative>
                 <narrative xml:lang="fr">Proportion de jeunes (âgés de 15 à 24 ans) non scolarisés et sans emploi ni formation</narrative>
             </name>
             <category>8.6</category>
@@ -863,7 +863,7 @@
         <codelist-item status="active">
             <code>8.7.1</code>
             <name>
-                <narrative>Proportion and number of children aged 5-17 years engaged in child labour, by sex and age</narrative>
+                <narrative>Proportion and number of children aged 5–17 years engaged in child labour, by sex and age</narrative>
                 <narrative xml:lang="fr">Proportion et nombre d’enfants âgés de 5 à 17 ans qui travaillent, par sexe et âge</narrative>
             </name>
             <category>8.7</category>
@@ -903,7 +903,7 @@
         <codelist-item status="active">
             <code>8.10.2</code>
             <name>
-                <narrative>Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</narrative>
+                <narrative>Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</narrative>
                 <narrative xml:lang="fr">Proportion d’adultes (15 ans ou plus) possédant un compte dans une banque ou dans une autre institution financière ou faisant appel à des services monétaires mobiles</narrative>
             </name>
             <category>8.10</category>
@@ -927,7 +927,7 @@
         <codelist-item status="active">
             <code>9.1.1</code>
             <name>
-                <narrative>Proportion of the rural population who live within 2 km of an all-season road</narrative>
+                <narrative>Proportion of the rural population who live within 2 km of an all-season road</narrative>
                 <narrative xml:lang="fr">Proportion de la population rurale vivant à moins de 2 km d’une route praticable toute l’année</narrative>
             </name>
             <category>9.1</category>
@@ -1023,7 +1023,7 @@
         <codelist-item status="active">
             <code>10.1.1</code>
             <name>
-                <narrative>Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population</narrative>
+                <narrative>Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population</narrative>
                 <narrative xml:lang="fr">Taux de croissance des dépenses des ménages ou du revenu par habitant pour les 40 pour cent de la population les plus pauvres et pour l’ensemble de la population</narrative>
             </name>
             <category>10.1</category>
@@ -1031,7 +1031,7 @@
         <codelist-item status="active">
             <code>10.2.1</code>
             <name>
-                <narrative>Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</narrative>
+                <narrative>Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</narrative>
                 <narrative xml:lang="fr">Proportion de personnes vivant avec moins de la moitié du revenu médian, par sexe, âge et situation au regard du handicap</narrative>
             </name>
             <category>10.2</category>
@@ -1039,7 +1039,7 @@
         <codelist-item status="active">
             <code>10.3.1</code>
             <name>
-                <narrative>Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</narrative>
+                <narrative>Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</narrative>
                 <narrative xml:lang="fr">Proportion de la population ayant déclaré avoir personnellement fait l’objet de discrimination ou de harcèlement au cours des 12 mois précédents pour des motifs interdits par le droit international des droits de l’homme</narrative>
             </name>
             <category>10.3</category>
@@ -1056,7 +1056,7 @@
             <code>10.4.2</code>
             <name>
                 <narrative>Redistributive impact of fiscal policy</narrative>
-                <narrative xml:lang="fr">Effet redistributif de la politique budgétaire2</narrative>
+                <narrative xml:lang="fr">Effet redistributif de la politique budgétaire</narrative>
             </name>
             <category>10.4</category>
         </codelist-item>
@@ -1119,7 +1119,7 @@
         <codelist-item status="active">
             <code>10.b.1</code>
             <name>
-                <narrative>Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)</narrative>
+                <narrative>Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)</narrative>
                 <narrative xml:lang="fr">Montant total des ressources allouées au développement, par pays bénéficiaire et donateur et type d’apport (aide publique au développement, investissement étranger direct et autres)</narrative>
             </name>
             <category>10.b</category>
@@ -1199,7 +1199,7 @@
         <codelist-item status="active">
             <code>11.6.2</code>
             <name>
-                <narrative>Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)</narrative>
+                <narrative>Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)</narrative>
                 <narrative xml:lang="fr">Niveau moyen annuel de particules fines (PM 2,5 et PM 10, par exemple) dans les villes, pondéré en fonction du nombre d’habitants</narrative>
             </name>
             <category>11.6</category>
@@ -1231,7 +1231,7 @@
         <codelist-item status="active">
             <code>11.b.1</code>
             <name>
-                <narrative>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030</narrative>
+                <narrative>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</narrative>
                 <narrative xml:lang="fr">Nombre de pays ayant adopté et mis en place des stratégies nationales de réduction des risques de catastrophe, conformément au Cadre de Sendai pour la réduction des risques de catastrophe (2015‑2030)</narrative>
             </name>
             <category>11.b</category>
@@ -1359,7 +1359,7 @@
         <codelist-item status="active">
             <code>13.1.2</code>
             <name>
-                <narrative>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030</narrative>
+                <narrative>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</narrative>
                 <narrative xml:lang="fr">Nombre de pays ayant adopté et mis en place des stratégies nationales de réduction des risques, conformément au Cadre de Sendai pour la réduction des risques de catastrophe (2015‑2030)</narrative>
             </name>
             <category>13.1</category>
@@ -1639,7 +1639,7 @@
         <codelist-item status="active">
             <code>16.2.1</code>
             <name>
-                <narrative>Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</narrative>
+                <narrative>Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</narrative>
                 <narrative xml:lang="fr">Proportion des enfants âgés de 1 à 17 ans ayant subi des châtiments corporels ou des agressions psychologiques infligés par une personne s’occupant d’eux au cours du mois précédent</narrative>
             </name>
             <category>16.2</category>
@@ -1655,7 +1655,7 @@
         <codelist-item status="active">
             <code>16.2.3</code>
             <name>
-                <narrative>Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18</narrative>
+                <narrative>Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</narrative>
                 <narrative xml:lang="fr">Proportion de jeunes femmes et hommes de 18 à 29 ans ayant été victimes de violences sexuelles avant l’âge de 18 ans</narrative>
             </name>
             <category>16.2</category>
@@ -1663,7 +1663,7 @@
         <codelist-item status="active">
             <code>16.3.1</code>
             <name>
-                <narrative>Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms</narrative>
+                <narrative>Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms</narrative>
                 <narrative xml:lang="fr">Proportion des personnes victimes de violences au cours des 12 mois précédents ayant signalé les faits aux autorités compétentes ou recouru à d’autres mécanismes de règlement des différends officiellement reconnus</narrative>
             </name>
             <category>16.3</category>
@@ -1703,7 +1703,7 @@
         <codelist-item status="active">
             <code>16.5.1</code>
             <name>
-                <narrative>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</narrative>
+                <narrative>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</narrative>
                 <narrative xml:lang="fr">Proportion de personnes ayant eu, au moins une fois, affaire à un agent public auquel elles ont versé un pot-de-vin ou qui leur a demandé un pot-de-vin au cours des 12 mois précédents</narrative>
             </name>
             <category>16.5</category>
@@ -1711,7 +1711,7 @@
         <codelist-item status="active">
             <code>16.5.2</code>
             <name>
-                <narrative>Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</narrative>
+                <narrative>Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</narrative>
                 <narrative xml:lang="fr">Proportion d’entreprises ayant eu au moins une fois affaire à un agent public auquel elles ont versé un pot‑de‑vin ou qui leur a demandé un pot‑de‑vin au cours des 12 mois précédents</narrative>
             </name>
             <category>16.5</category>
@@ -1759,7 +1759,7 @@
         <codelist-item status="active">
             <code>16.9.1</code>
             <name>
-                <narrative>Proportion of children under 5 years of age whose births have been registered with a civil authority, by age</narrative>
+                <narrative>Proportion of children under 5 years of age whose births have been registered with a civil authority, by age</narrative>
                 <narrative xml:lang="fr">Proportion d’enfants de moins de 5 ans ayant été enregistrés par une autorité d’état civil, par âge</narrative>
             </name>
             <category>16.9</category>
@@ -1767,7 +1767,7 @@
         <codelist-item status="active">
             <code>16.10.1</code>
             <name>
-                <narrative>Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months</narrative>
+                <narrative>Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months</narrative>
                 <narrative xml:lang="fr">Nombre de cas avérés de meurtres, d’enlèvements, de disparitions forcées, de détentions arbitraires et d’actes de torture dont ont été victimes des journalistes, des personnes travaillant dans les médias, des syndicalistes et des défenseurs des droits de l’homme au cours des 12 mois précédents</narrative>
             </name>
             <category>16.10</category>
@@ -1855,8 +1855,8 @@
         <codelist-item status="active">
             <code>17.6.1</code>
             <name>
-                <narrative>Fixed Internet broadband subscriptions per 100 inhabitants, by speed</narrative>
-                <narrative xml:lang="fr">Abonnements à une connexion à Internet à haut débit fixe pour 100 habitants, par vitesse de connexion5</narrative>
+                <narrative>Fixed Internet broadband subscriptions per 100 inhabitants, by speed</narrative>
+                <narrative xml:lang="fr">Abonnements à une connexion à Internet à haut débit fixe pour 100 habitants, par vitesse de connexion</narrative>
             </name>
             <category>17.6</category>
         </codelist-item>
@@ -1879,7 +1879,7 @@
         <codelist-item status="active">
             <code>17.9.1</code>
             <name>
-                <narrative>Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries</narrative>
+                <narrative>Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries</narrative>
                 <narrative xml:lang="fr">Valeur en dollars de l’aide financière et technique promise aux pays en développement (notamment dans le cadre de la coopération Nord-Sud et Sud-Sud et de la coopération triangulaire)</narrative>
             </name>
             <category>17.9</category>
@@ -1983,7 +1983,7 @@
         <codelist-item status="active">
             <code>17.19.2</code>
             <name>
-                <narrative>Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration</narrative>
+                <narrative>Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration</narrative>
                 <narrative xml:lang="fr">Proportion de pays qui a) ont procédé à au moins un recensement de la population et du logement au cours des 10 dernières années, et b) ont atteint un taux d’enregistrement des naissances de 100 pour cent et un taux d’enregistrement des décès de 80 pour cent</narrative>
             </name>
             <category>17.19</category>
