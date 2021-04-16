@@ -10213,6 +10213,14 @@
             <name>Forest Trends Association</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1074857</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>coe-abc</codeforiati:registry-identifier>
+            <name>Church of England - The Archbishops' Council</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-02515034</code>
             <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>

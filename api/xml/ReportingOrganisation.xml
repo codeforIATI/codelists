@@ -12769,6 +12769,16 @@
             <codeforiati:registry-identifier>forest-trends</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1074857</code>
+            <name>
+                <narrative>Church of England - The Archbishops' Council</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>coe-abc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-02515034</code>
             <name>
                 <narrative>Timber Trade Federation Ltd.</narrative>
