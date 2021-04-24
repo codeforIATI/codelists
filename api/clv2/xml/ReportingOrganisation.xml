@@ -52,7 +52,7 @@
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ec-devco</codeforiati:registry-identifier>
-            <name>European Commission - International Partnerships</name>
+            <name>European Commission - International Cooperation and Development</name>
         </codelist-item>
         <codelist-item status="active">
             <code>SE-0</code>
@@ -10123,6 +10123,14 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>globalwitness</codeforiati:registry-identifier>
             <name>Global Witness</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1175791</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gadp</codeforiati:registry-identifier>
+            <name>Global Anaesthesia Development Partnerships</name>
         </codelist-item>
         <codelist-item status="active">
             <code>US-EIN-042103594</code>
