@@ -12519,6 +12519,16 @@
             <codeforiati:registry-identifier>ajar</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-UKPRN-10007790</code>
+            <name>
+                <narrative>University of Edinburgh</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>uoe</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P051335339D</code>
             <name>
                 <narrative>African Institute For Development Policy</narrative>
