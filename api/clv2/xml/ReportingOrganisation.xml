@@ -9446,6 +9446,14 @@
             <name>The Global Initiative Against Transnational Organized Crime</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>BE-BCE_KBO-0434417468</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>codeart</codeforiati:registry-identifier>
+            <name>CODEART ASBL</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>LB-MOI-1-100</code>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -10219,6 +10227,14 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>pi-uk</codeforiati:registry-identifier>
             <name>The Proforest Initiative UK</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-843236198</code>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>corus</codeforiati:registry-identifier>
+            <name>Corus International</name>
         </codelist-item>
         <codelist-item status="active">
             <code>US-EIN-52-2135531</code>
