@@ -61,6 +61,16 @@
             <codeforiati:registry-identifier>f-aids</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-EC_INTPA</code>
+            <name>
+                <narrative>European Commission - International Partnerships</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ec-intpa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>XI-IATI-EC_DEVCO</code>
             <name>
                 <narrative>European Commission - International Cooperation and Development</narrative>

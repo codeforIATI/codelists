@@ -47,6 +47,14 @@
             <name>Frontline AIDS</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-EC_INTPA</code>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ec-intpa</codeforiati:registry-identifier>
+            <name>European Commission - International Partnerships</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>XI-IATI-EC_DEVCO</code>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>

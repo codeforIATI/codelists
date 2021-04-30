@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2021-04-29T07:16:40.558712+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2021-04-30T06:58:27.843185+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -22,6 +22,11 @@
   <ReportingOrganisation>
     <code>GB-CHC-1038860</code>
     <name>Frontline AIDS</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>XI-IATI-EC_INTPA</code>
+    <name>European Commission - International Partnerships</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
