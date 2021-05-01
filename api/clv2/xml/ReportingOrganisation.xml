@@ -10284,6 +10284,14 @@
             <codeforiati:registry-identifier>mdif</codeforiati:registry-identifier>
             <name>Media Development Investment Fund</name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>BE-BCE_KBO-0464147473</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>lhac</codeforiati:registry-identifier>
+            <name>La&#239;cit&#233; et Humanisme en Afrique Centrale (LHAC)</name>
+        </codelist-item>
     </codelist-items>
 </codelist>
 

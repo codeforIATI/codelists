@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2021-04-30T07:15:07.559242+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2021-05-01T09:10:43.880794+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -6422,6 +6422,11 @@
   <ReportingOrganisation>
     <code>US-EIN-13-4052259</code>
     <name>Media Development Investment Fund</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>BE-BCE_KBO-0464147473</code>
+    <name>La&#239;cit&#233; et Humanisme en Afrique Centrale (LHAC)</name>
     <language>en</language>
   </ReportingOrganisation>
 </codelist>
