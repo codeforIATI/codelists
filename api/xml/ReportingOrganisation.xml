@@ -12729,6 +12729,16 @@
             <codeforiati:registry-identifier>auxfinbi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>MZ-MOJ100094525</code>
+            <name>
+                <narrative>Micaia Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mozambique</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>micfound</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>MY-SSM-1172311D</code>
             <name>
                 <narrative>Forever Sabah</narrative>
