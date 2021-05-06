@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2021-05-04T06:02:54.755133+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2021-05-06T06:29:29.535035+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -1737,6 +1737,11 @@
   <ReportingOrganisation>
     <code>NO-BRC-971277882</code>
     <name>Norad - Norwegian Agency for Development Cooperation</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>US-EIN-20-3690821</code>
+    <name>Rights and Resources Initaitive</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>

@@ -2790,6 +2790,14 @@
             <name>Norad - Norwegian Agency for Development Cooperation</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-20-3690821</code>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rri</codeforiati:registry-identifier>
+            <name>Rights and Resources Initaitive</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-IATI-5914-1107</code>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
