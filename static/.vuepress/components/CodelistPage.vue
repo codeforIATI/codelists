@@ -44,6 +44,8 @@
           </b-input-group>
         </b-form-group>
       </b-col>
+    </b-row>
+    <b-row v-if="codes">
       <b-col class="my-1"
         v-if="totalRows > perPage">
         <b-form-group
