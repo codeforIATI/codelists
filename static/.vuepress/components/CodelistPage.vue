@@ -20,12 +20,12 @@
       <p v-if="url">{{ this.$themeLocaleConfig.source }}: <a :href="url">{{ url }}</a></p>
     </b-alert>
     <b-row v-if="codes">
-      <b-col class="my-1">
+      <b-col class="my-1" lg="6">
         <b-form-group
           label="Filter"
           :label-cols-sm="false"
+          label-cols-md="3"
           label-cols-lg="2"
-          label-cols-xl="1"
           label-align-lg="right"
           label-size="sm"
           label-for="filterInput"
@@ -44,15 +44,14 @@
           </b-input-group>
         </b-form-group>
       </b-col>
-    </b-row>
-    <b-row v-if="codes">
       <b-col class="my-1"
+        lg="6"
         v-if="totalRows > perPage">
         <b-form-group
           label="Page"
           :label-cols-sm="false"
+          label-cols-md="3"
           label-cols-lg="2"
-          label-cols-xl="1"
           label-align-lg="right"
           label-size="sm"
           class="mb-0"
