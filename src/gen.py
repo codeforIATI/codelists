@@ -21,7 +21,8 @@ nsmap = {'xml': 'http://www.w3.org/XML/1998/namespace'}
 repo_names = [
     'IATI-Codelists-NonEmbedded',
     'Unofficial-Codelists',
-    'IATI-Codelists']
+    'IATI-Codelists',
+    'IATI-Codelists-105']
 repos = []
 for repo_name in repo_names:
     repo = git.Repo(repo_name + '/.git')

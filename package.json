@@ -15,7 +15,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "preprocess": "./src/gen.sh && node src/index.js",
+    "preprocess": "./src/gen.sh && ./src/gen_105.sh && node src/index.js",
     "build": "yarn run preprocess && yarn run docs:build",
     "dev": "yarn run preprocess && yarn run docs:dev"
   }
