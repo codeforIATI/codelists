@@ -13,6 +13,9 @@ from datetime import date
 import xlsx
 
 
+VERSION = sys.argv[1]
+OUTPUTDIR = sys.argv[2]
+
 languages = ['en', 'fr']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
@@ -21,15 +24,12 @@ nsmap = {'xml': 'http://www.w3.org/XML/1998/namespace'}
 repo_names = [
     'IATI-Codelists-NonEmbedded',
     'Unofficial-Codelists',
-    'IATI-Codelists',
-    'IATI-Codelists-105']
+    'IATI-Codelists-' + VERSION]
 repos = []
 for repo_name in repo_names:
     repo = git.Repo(repo_name + '/.git')
     tree = repo.tree()
     repos.append((repo, tree))
-
-OUTPUTDIR = sys.argv[1]
 
 BASE_URL = os.environ.get('CODELISTS_BASE_URL', '')
 
@@ -95,13 +95,13 @@ def write_json_api_root(codelists_list):
         'formats': {
             'xml': OrderedDict(
                 [(cl, join(
-                    BASE_URL, 'api', 'xml', cl + '.xml'))
+                    BASE_URL, 'api', VERSION, 'xml', cl + '.xml'))
                  for cl in codelists_list]),
             'csv': {
                 'languages': OrderedDict([
                     (lang, OrderedDict([
                         (cl, join(
-                            BASE_URL, 'api', 'csv', lang, cl + '.csv'))
+                            BASE_URL, 'api', VERSION, 'csv', lang, cl + '.csv'))
                         for cl in codelists_list]))
                     for lang in languages])
             },
@@ -109,7 +109,7 @@ def write_json_api_root(codelists_list):
                 'languages': OrderedDict([
                     (lang, OrderedDict([
                         (cl, join(
-                            BASE_URL, 'api', 'xlsx', lang, cl + '.xlsx'))
+                            BASE_URL, 'api', VERSION, 'xlsx', lang, cl + '.xlsx'))
                         for cl in codelists_list]))
                     for lang in languages])
             },
@@ -117,7 +117,7 @@ def write_json_api_root(codelists_list):
                 'languages': OrderedDict([
                     (lang, OrderedDict([
                         (cl, join(
-                            BASE_URL, 'api', 'json', lang, cl + '.json'))
+                            BASE_URL, 'api', VERSION, 'json', lang, cl + '.json'))
                         for cl in codelists_list]))
                     for lang in languages])
             }
