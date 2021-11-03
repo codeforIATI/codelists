@@ -52,4 +52,5 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
         BRANCH: gh-pages
         FOLDER: docs/.vuepress/dist
+        SINGLE_COMMIT: true
         CLEAN: true
