@@ -6,12 +6,14 @@ import csv
 import json
 from functools import partial
 import sys
-from collections import OrderedDict
 import git
 from datetime import date
 
 import xlsx
 
+
+VERSION = sys.argv[1]
+OUTPUTDIR = sys.argv[2]
 
 languages = ['en', 'fr']
 
@@ -21,16 +23,12 @@ nsmap = {'xml': 'http://www.w3.org/XML/1998/namespace'}
 repo_names = [
     'IATI-Codelists-NonEmbedded',
     'Unofficial-Codelists',
-    'IATI-Codelists']
+    'IATI-Codelists-' + VERSION]
 repos = []
 for repo_name in repo_names:
     repo = git.Repo(repo_name + '/.git')
     tree = repo.tree()
     repos.append((repo, tree))
-
-OUTPUTDIR = sys.argv[1]
-
-BASE_URL = os.environ.get('CODELISTS_BASE_URL', '')
 
 
 def normalize_whitespace(x):
@@ -85,45 +83,6 @@ def codelist_item_todict(codelist_item, default_lang='',
             out['public-database'] = False
     out['status'] = codelist_item.get('status', 'active')
     return out
-
-
-def write_json_api_root(codelists_list):
-    with open(join(OUTPUTDIR, 'codelists.json'), 'w') as handler:
-        json.dump(codelists_list, handler)
-    api_data = {
-        'formats': {
-            'xml': OrderedDict(
-                [(cl, join(
-                    BASE_URL, 'api', 'xml', cl + '.xml'))
-                 for cl in codelists_list]),
-            'csv': {
-                'languages': OrderedDict([
-                    (lang, OrderedDict([
-                        (cl, join(
-                            BASE_URL, 'api', 'csv', lang, cl + '.csv'))
-                        for cl in codelists_list]))
-                    for lang in languages])
-            },
-            'xlsx': {
-                'languages': OrderedDict([
-                    (lang, OrderedDict([
-                        (cl, join(
-                            BASE_URL, 'api', 'xlsx', lang, cl + '.xlsx'))
-                        for cl in codelists_list]))
-                    for lang in languages])
-            },
-            'json': {
-                'languages': OrderedDict([
-                    (lang, OrderedDict([
-                        (cl, join(
-                            BASE_URL, 'api', 'json', lang, cl + '.json'))
-                        for cl in codelists_list]))
-                    for lang in languages])
-            }
-        }
-    }
-    with open(join(OUTPUTDIR, '..', 'index.json'), 'w') as handler:
-        json.dump(api_data, handler)
 
 
 for language in languages:
@@ -230,5 +189,5 @@ for language in languages:
 
 tree = ET.ElementTree(codelists)
 tree.write(join(OUTPUTDIR, 'codelists.xml'), pretty_print=True)
-sorted_codelists_list = sorted(codelists_list)
-write_json_api_root(sorted_codelists_list)
+with open(join(OUTPUTDIR, 'codelists.json'), 'w') as handler:
+    json.dump(sorted(codelists_list), handler)
