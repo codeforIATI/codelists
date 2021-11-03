@@ -54,3 +54,15 @@ jobs:
         FOLDER: docs/.vuepress/dist
         SINGLE_COMMIT: true
         CLEAN: true
+
+  trigger:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Trigger a codelist update on the datastore classic repo
+        if: github.ref == 'refs/heads/main'
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          repository: codeforIATI/iati-datastore
+          token: ${{ secrets.TOKEN }}
+          event-type: update-codelists
