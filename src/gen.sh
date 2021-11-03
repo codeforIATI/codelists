@@ -31,7 +31,7 @@ for v in 2.03 1.05; do
         git checkout version-$v
         cd ..
     else
-        git clone --branch version-$v https://github.com/IATI/IATI-Codelists.git IATI-Codelists-$i
+        git clone --branch version-$v https://github.com/codeforIATI/IATI-Codelists.git IATI-Codelists-$i
     fi
 
     echo ' *** Copy source XML to CLv3 ***'
