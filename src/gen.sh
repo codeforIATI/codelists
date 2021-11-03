@@ -55,7 +55,10 @@ for v in 2.03 1.05; do
 
     echo ' *** Copy Clv3 all formats to root ***'
     cp -r docs/.vuepress/public/api/$i/clv3/* docs/.vuepress/public/api/$i
+
+    python src/gen_api_root.py api/$i docs/.vuepress/public/api/$i
 done
 
 echo ' *** Copy v2 Clv3 all formats to root ***'
 cp -r docs/.vuepress/public/api/2/clv3/* docs/.vuepress/public/api
+python src/gen_api_root.py api docs/.vuepress/public/api
