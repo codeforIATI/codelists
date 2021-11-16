@@ -15,7 +15,7 @@ import xlsx
 VERSION = sys.argv[1]
 OUTPUTDIR = sys.argv[2]
 
-languages = ['en', 'fr', 'es']
+languages = ['en', 'fr', 'es', 'pt']
 
 xml_lang = '{http://www.w3.org/XML/1998/namespace}lang'
 nsmap = {'xml': 'http://www.w3.org/XML/1998/namespace'}
