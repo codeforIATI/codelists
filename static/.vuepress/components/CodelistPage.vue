@@ -91,7 +91,16 @@
       </template>
 
       <template v-slot:cell(category)="data" v-if="categoryCodelist">
-        <router-link :to="'../' + categoryCodelist + '/#' + data.item.category">{{ data.item.category }}</router-link>
+        <template v-if="data.item.category!= null">
+          <span
+            class="category-item"
+            v-for="category in data.item.category.split(';').sort()"
+            :key="category">
+            <router-link
+              :to="'../' + categoryCodelist + '/#' + category"
+            >{{ category }}</router-link>
+          </span>
+        </template>
       </template>
     </b-table>
     <b-form-group
@@ -129,6 +138,13 @@
   }
   table {
     display: table;
+  }
+  .category-item:after {
+    content: "; ";
+    color: #888;
+  }
+  .category-item:last-child:after {
+    content: ""
   }
 </style>
 <script>
