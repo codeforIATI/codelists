@@ -198,7 +198,7 @@
         return f
       })
       this.codes = data.data.data
-      this.description = (data.data.metadata.description != "") ? this.rstToHtml(data.data.metadata.description.trim()) : null
+      this.description = !["", null].includes(data.data.metadata.description) ? this.rstToHtml(data.data.metadata.description.trim()) : null
       this.lastUpdatedDate = data.data.metadata["last-updated-date"] ? data.data.metadata["last-updated-date"] : null
       this.categoryCodelist = data.data.attributes["category-codelist"] ? data.data.attributes["category-codelist"] : null
       this.url = data.data.metadata.url ? data.data.metadata.url : null
