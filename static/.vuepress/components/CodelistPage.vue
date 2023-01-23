@@ -85,6 +85,15 @@
         </div>
       </template>
 
+      <template v-slot:cell(url)="data">
+        <template v-if="isValidUrl(data.item.url)">
+          <a :href="data.item.url">{{ data.item.url }}</a>
+        </template>
+        <template v-else>
+          {{ data.item.url }}
+        </template>
+      </template>
+
       <template v-slot:cell(code)="data">
         <a :id="data.item.code" style="visibility:hidden;padding-top:73px;"></a>
         <router-link :to="'#' + data.item.code">{{ data.item.code }}</router-link>
@@ -189,7 +198,7 @@
         return f
       })
       this.codes = data.data.data
-      this.description = (data.data.metadata.description != "") ? this.rstToHtml(data.data.metadata.description.trim()) : null
+      this.description = !["", null].includes(data.data.metadata.description) ? this.rstToHtml(data.data.metadata.description.trim()) : null
       this.lastUpdatedDate = data.data.metadata["last-updated-date"] ? data.data.metadata["last-updated-date"] : null
       this.categoryCodelist = data.data.attributes["category-codelist"] ? data.data.attributes["category-codelist"] : null
       this.url = data.data.metadata.url ? data.data.metadata.url : null
@@ -220,6 +229,14 @@
       }
     },
     methods: {
+      isValidUrl(url) {
+        try {
+          new URL(url)
+          return true
+        } catch (err) {
+          return false
+        }
+      },
       onFiltered(filteredItems) {
         // Trigger pagination to update the number of buttons/pages due to filtering
         this.totalRows = filteredItems.length
