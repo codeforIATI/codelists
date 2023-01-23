@@ -146,6 +146,9 @@
   .category-item:last-child:after {
     content: ""
   }
+  .url, .description {
+    word-break: break-word;
+  }
 </style>
 <script>
   import axios from 'axios'
@@ -177,6 +180,7 @@
         var f = {
           key: field,
           sortable: true,
+          tdClass: ['description', 'url'].includes(field) ? field : null,
           label: this.$themeLocaleConfig.headers[field] ? this.$themeLocaleConfig.headers[field] : null
         }
         if (field == 'status') {
