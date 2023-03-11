@@ -82,7 +82,7 @@ for fname in os.listdir(os.path.join(INPUTDIR, 'xml')):
                 old_codelist_json_item['description'] = description
 
         category = codelist_item.find('category')
-        if category is not None:
+        if category is not None and category.text is not None:
             old_codelist_item.append(E('category', category.text))
             old_codelist_json_item['category'] = category.text
 
