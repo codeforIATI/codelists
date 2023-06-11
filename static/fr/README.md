@@ -1,4 +1,4 @@
-# Copies de listes de codes 
+# Listes de codes
 
 Ce site web donne accès à des copies de listes de codes qui peuvent être utiles pour utiliser les données de l'IITA (acronyme anglais : IATI). Nous l'avons construit pour partager avec d'autres des listes de codes qui soutiennent notre propre travail.
 

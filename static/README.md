@@ -1,4 +1,4 @@
-# Replicated codelists
+# Codelists
 
 This site provides access to replicated codelists which may be useful for those using IATI data. This has been built to share codelists that we find useful in our own work.
 
