@@ -17,9 +17,9 @@ const createMarkdownFiles = async () => {
   Fs.readFile('docs/.vuepress/public/api/codelists.json', 'utf8', function (err, data) {
     if (err) { throw err }
     var codelists = JSON.parse(data)
-    var sidebar = {'/': [], '/fr/': []}
+    var sidebar = {'/': [], '/fr/': [], '/es/': []}
     codelists.forEach(codelistSlug => {
-      ['en', 'fr'].forEach(lang => {
+      ['en', 'fr', 'es'].forEach(lang => {
         Fs.readFile(`docs/.vuepress/public/api/json/${lang}/${codelistSlug}.json`, 'utf8', function (err, data) {
           if (err) { throw err }
           var codelistData = JSON.parse(data)

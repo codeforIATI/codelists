@@ -1,7 +1,7 @@
 {
   "/": {
     "lang": "en",
-    "title": "Replicated Codelists",
+    "title": "Codelists",
     "description": "Useful codelists when using IATI data",
     "selectText": "Languages",
     "label": "English",
@@ -53,7 +53,7 @@
   },
   "/fr/": {
     "lang": "fr",
-    "title": "Listes de codes copiées",
+    "title": "Listes de codes",
     "description": "Listes de codes utiles en utilisant des données IATI",
     "selectText": "Langues",
     "label": "Français",
@@ -62,9 +62,9 @@
       "/fr/ExchangeRates/"
     ],
     "download": "Télécharger",
-    "lastUpdated": "Dernière actualisation ",
+    "lastUpdated": "Dernière actualisation",
     "categorisedCodelist": "Cette liste de codes est regroupée en catégories, selon la liste de codes",
-    "source": "Source originelle ",
+    "source": "Source originelle",
     "headers": {
       "code": "Code",
       "name": "Nom",
@@ -116,6 +116,58 @@
         "true": "vrai",
         "false": "faux"
       }
+    }
+  },
+  "/es/": {
+    "lang": "es",
+    "title": "Listas de códigos",
+    "description": "Useful codelists when using IATI data",
+    "selectText": "Idioma",
+    "label": "Español",
+    "sidebar": [
+      ["/es/", "Inicio"],
+      "/es/ExchangeRates/"
+    ],
+    "download": "Descargar",
+    "lastUpdated": "Ultima actualización",
+    "categorisedCodelist": "This codelist is grouped into categories, using the codelist",
+    "source": "Fuente original",
+    "headers": {
+      "url": "URL",
+      "public-database": "Public database",
+      "codeforiati:iso-alpha-2-code": "ISO alpha-2 code",
+      "codeforiati:iso-alpha-3-code": "ISO alpha-3 code",
+      "codeforiati:global-code": "Global code",
+      "codeforiati:global-name": "Global name",
+      "codeforiati:region-code": "Region code",
+      "codeforiati:region-name": "Region name",
+      "codeforiati:sub-region-code": "Sub-region code",
+      "codeforiati:sub-region-name": "Sub-region name",
+      "codeforiati:intermediate-region-code": "Intermediate region code",
+      "codeforiati:intermediate-region-name": "Intermediate region name",
+      "budget-alignment:status": "Guidance",
+      "codeforiati:event-code": "Event code",
+      "codeforiati:event": "Event",
+      "codeforiati:country-code": "Country code",
+      "codeforiati:country": "Country",
+      "codeforiati:date": "Date",
+      "codeforiati:glide-serial": "GLIDE Serial",
+      "codeforiati:least-developed-countries": "Least Developed Countries (LDC)",
+      "codeforiati:land-locked-developing-countries": "Land Locked Developing Countries (LLDC)",
+      "codeforiati:small-island-developing-states": "Small Island Developing States (SIDS)",
+      "codeforiati:developed-developing": "Developed / Developing Countries",
+      "codeforiati:category-code": "Category Code",
+      "codeforiati:category-name": "Category Name",
+      "codeforiati:group-code": "Group Code",
+      "codeforiati:group-name": "Group Name",
+      "codeforiati:organisation-type-code": "Organisation type code",
+      "codeforiati:registry-identifier": "IATI Registry identifier",
+      "codeforiati:organisation-type": "Organisation type",
+      "codeforiati:hq-country-or-region": "HQ Country or Region",
+      "codeforiati:plan-type": "Plan type",
+      "codeforiati:plan-year": "Plan year",
+      "codeforiati:plan-start-date": "Plan start date",
+      "codeforiati:plan-end-date": "Plan end date"
     }
   }
 }
