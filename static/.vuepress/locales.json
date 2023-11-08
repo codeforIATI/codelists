@@ -48,7 +48,10 @@
       "codeforiati:plan-type": "Plan type",
       "codeforiati:plan-year": "Plan year",
       "codeforiati:plan-start-date": "Plan start date",
-      "codeforiati:plan-end-date": "Plan end date"
+      "codeforiati:plan-end-date": "Plan end date",
+      "codeforiati:cofog-class": "COFOG Class",
+      "codeforiati:cofog-group": "COFOG Group",
+      "codeforiati:cofog-division": "COFOG Division"
     }
   },
   "/fr/": {
@@ -105,7 +108,10 @@
       "codeforiati:plan-type": "Type de plan",
       "codeforiati:plan-year": "Année du plan",
       "codeforiati:plan-start-date": "Date de début du plan",
-      "codeforiati:plan-end-date": "Date de fin du plan"
+      "codeforiati:plan-end-date": "Date de fin du plan",
+      "codeforiati:cofog-class": "COFOG Class",
+      "codeforiati:cofog-group": "COFOG Group",
+      "codeforiati:cofog-division": "COFOG Division"
     },
     "columnValues": {
       "status": {
