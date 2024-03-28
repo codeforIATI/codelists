@@ -1,0 +1,1811 @@
+<codelist name="Country" xml:lang="en" complete="0" embedded="0">
+    <metadata>
+        <url>http://www.iso.org/iso/home/standards/country_codes.htm</url>
+        <name>Country</name>
+        <name xml:lang="fr">Pays</name>
+        <description>The Country codelist is generated from the ISO 3166-1 part of the ISO 3166 standard. The standard makes allowance, alongside the officially assigned codes, for code elements to be expanded by using either reserved codes or user-assigned codes. IATI currently defines additional codes in the XA -XZ range.</description>
+        <description xml:lang="fr">La liste de codes Pays est g&#233;n&#233;r&#233;e &#224; partir de la partie ISO 3166-1 de la norme ISO 3166. En plus des codes attribu&#233;s officiellement, la norme permet d'&#233;tendre les &#233;l&#233;ments de code en utilisant des codes r&#233;serv&#233;s ou des codes cr&#233;&#233;s par les usagers. A l'heure actuelle l'IITA d&#233;finit des codes additionnels dans la gamme XA-XZ.</description>
+        <category>Replicated</category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>AF</code>
+            <name>Afghanistan</name>
+            <name xml:lang="fr">Afghanistan (l')</name>
+            <name xml:lang="es">Afganist&#225;n</name>
+            <name xml:lang="pt">Afeganist&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AX</code>
+            <name>&#197;land Islands</name>
+            <name xml:lang="fr">&#197;land(les &#206;les)</name>
+            <name xml:lang="es">Islas &#197;land</name>
+            <name xml:lang="pt">Ilhas &#197;land</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AL</code>
+            <name>Albania</name>
+            <name xml:lang="fr">Albanie (l')</name>
+            <name xml:lang="es">Albania</name>
+            <name xml:lang="pt">Alb&#226;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DZ</code>
+            <name>Algeria</name>
+            <name xml:lang="fr">Alg&#233;rie (l')</name>
+            <name xml:lang="es">Argelia</name>
+            <name xml:lang="pt">Arg&#233;lia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AS</code>
+            <name>American Samoa</name>
+            <name xml:lang="fr">Samoa am&#233;ricaines (les)</name>
+            <name xml:lang="es">Samoa Americana</name>
+            <name xml:lang="pt">Samoa Americana</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AD</code>
+            <name>Andorra</name>
+            <name xml:lang="fr">Andorre (l')</name>
+            <name xml:lang="es">Andorra</name>
+            <name xml:lang="pt">Andorra</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AO</code>
+            <name>Angola</name>
+            <name xml:lang="fr">Angola (l')</name>
+            <name xml:lang="es">Angola</name>
+            <name xml:lang="pt">Angola</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AI</code>
+            <name>Anguilla</name>
+            <name xml:lang="fr">Anguilla</name>
+            <name xml:lang="es">Anguila</name>
+            <name xml:lang="pt">Anguila</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AQ</code>
+            <name>Antarctica</name>
+            <name xml:lang="fr">Antarctique (l')</name>
+            <name xml:lang="es">Ant&#225;rtida</name>
+            <name xml:lang="pt">Ant&#225;rtida</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AG</code>
+            <name>Antigua and Barbuda</name>
+            <name xml:lang="fr">Antigua-et-Barbuda</name>
+            <name xml:lang="es">Antigua y Barbuda</name>
+            <name xml:lang="pt">Ant&#237;gua e Barbuda</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AR</code>
+            <name>Argentina</name>
+            <name xml:lang="fr">Argentine (l')</name>
+            <name xml:lang="es">Argentina</name>
+            <name xml:lang="pt">Argentina</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AM</code>
+            <name>Armenia</name>
+            <name xml:lang="fr">Arm&#233;nie (l')</name>
+            <name xml:lang="es">Armenia</name>
+            <name xml:lang="pt">Arm&#233;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AW</code>
+            <name>Aruba</name>
+            <name xml:lang="fr">Aruba</name>
+            <name xml:lang="es">Aruba</name>
+            <name xml:lang="pt">Aruba</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AU</code>
+            <name>Australia</name>
+            <name xml:lang="fr">Australie (l')</name>
+            <name xml:lang="es">Australia</name>
+            <name xml:lang="pt">Austr&#225;lia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AT</code>
+            <name>Austria</name>
+            <name xml:lang="fr">Autriche (l')</name>
+            <name xml:lang="es">Austria</name>
+            <name xml:lang="pt">&#193;ustria</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AZ</code>
+            <name>Azerbaijan</name>
+            <name xml:lang="fr">Azerba&#239;djan (l')</name>
+            <name xml:lang="es">Azerbaiy&#225;n</name>
+            <name xml:lang="pt">Azerbaij&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BS</code>
+            <name>Bahamas (the)</name>
+            <name xml:lang="fr">Bahamas (les)</name>
+            <name xml:lang="es">Bahamas</name>
+            <name xml:lang="pt">Bahamas</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BH</code>
+            <name>Bahrain</name>
+            <name xml:lang="fr">Bahre&#239;n</name>
+            <name xml:lang="es">Bahrein</name>
+            <name xml:lang="pt">Bar&#233;m</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BD</code>
+            <name>Bangladesh</name>
+            <name xml:lang="fr">Bangladesh (le)</name>
+            <name xml:lang="es">Bangladesh</name>
+            <name xml:lang="pt">Bangladesh</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BB</code>
+            <name>Barbados</name>
+            <name xml:lang="fr">Barbade (la)</name>
+            <name xml:lang="es">Barbados</name>
+            <name xml:lang="pt">Barbados</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BY</code>
+            <name>Belarus</name>
+            <name xml:lang="fr">B&#233;larus (le)</name>
+            <name xml:lang="es">Belar&#250;s</name>
+            <name xml:lang="pt">Bielorr&#250;ssia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BE</code>
+            <name>Belgium</name>
+            <name xml:lang="fr">Belgique (la)</name>
+            <name xml:lang="es">B&#233;lgica</name>
+            <name xml:lang="pt">B&#233;lgica</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BZ</code>
+            <name>Belize</name>
+            <name xml:lang="fr">Belize (le)</name>
+            <name xml:lang="es">Belice</name>
+            <name xml:lang="pt">Belize</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BJ</code>
+            <name>Benin</name>
+            <name xml:lang="fr">B&#233;nin (le)</name>
+            <name xml:lang="es">Benin</name>
+            <name xml:lang="pt">Benim</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BM</code>
+            <name>Bermuda</name>
+            <name xml:lang="fr">Bermudes (les)</name>
+            <name xml:lang="es">Bermudas</name>
+            <name xml:lang="pt">Bermudas</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BT</code>
+            <name>Bhutan</name>
+            <name xml:lang="fr">Bhoutan (le)</name>
+            <name xml:lang="es">Bhut&#225;n</name>
+            <name xml:lang="pt">But&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BO</code>
+            <name>Bolivia (Plurinational State of)</name>
+            <name xml:lang="fr">Bolivie (&#201;tat plurinational de)</name>
+            <name xml:lang="es">Bolivia (Estado Plurinacional de)</name>
+            <name xml:lang="pt">Bol&#237;via (Estado Plurinacional da)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BQ</code>
+            <name>Bonaire, Sint Eustatius and Saba</name>
+            <name xml:lang="fr">Bonaire, Saint-Eustache et Saba</name>
+            <name xml:lang="es">Bonaire, San Eustaquio y Saba</name>
+            <name xml:lang="pt">Bonaire, Santo Eust&#225;quio e Saba</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BA</code>
+            <name>Bosnia and Herzegovina</name>
+            <name xml:lang="fr">Bosnie-Herz&#233;govine (la)</name>
+            <name xml:lang="es">Bosnia y Herzegovina</name>
+            <name xml:lang="pt">B&#243;snia e Herzegovina</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BW</code>
+            <name>Botswana</name>
+            <name xml:lang="fr">Botswana (le)</name>
+            <name xml:lang="es">Botswana</name>
+            <name xml:lang="pt">Botsuana</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BV</code>
+            <name>Bouvet Island</name>
+            <name xml:lang="fr">Bouvet (l'&#206;le)</name>
+            <name xml:lang="es">Isla Bouvet</name>
+            <name xml:lang="pt">Ilha Bouvet</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BR</code>
+            <name>Brazil</name>
+            <name xml:lang="fr">Br&#233;sil (le)</name>
+            <name xml:lang="es">Brasil</name>
+            <name xml:lang="pt">Brasil</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IO</code>
+            <name>British Indian Ocean Territory (the)</name>
+            <name xml:lang="fr">Indien (le Territoire britannique de l'oc&#233;an)</name>
+            <name xml:lang="es">Territorio Brit&#225;nico del Oc&#233;ano &#205;ndico</name>
+            <name xml:lang="pt">Territ&#243;rio Brit&#226;nico do Oceano &#205;ndico</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BN</code>
+            <name>Brunei Darussalam</name>
+            <name xml:lang="fr">Brun&#233;i Darussalam (le)</name>
+            <name xml:lang="es">Brunei Darussalam</name>
+            <name xml:lang="pt">Brunei Darussalam</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BG</code>
+            <name>Bulgaria</name>
+            <name xml:lang="fr">Bulgarie (la)</name>
+            <name xml:lang="es">Bulgaria</name>
+            <name xml:lang="pt">Bulg&#225;ria</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BF</code>
+            <name>Burkina Faso</name>
+            <name xml:lang="fr">Burkina Faso (le)</name>
+            <name xml:lang="es">Burkina Faso</name>
+            <name xml:lang="pt">Burquina Faso</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>BU</code>
+            <name>Burma</name>
+            <name xml:lang="fr">Birmanie</name>
+            <name xml:lang="es">Burma</name>
+            <name xml:lang="pt">Burma</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BI</code>
+            <name>Burundi</name>
+            <name xml:lang="fr">Burundi (le)</name>
+            <name xml:lang="es">Burundi</name>
+            <name xml:lang="pt">Burundi</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KH</code>
+            <name>Cambodia</name>
+            <name xml:lang="fr">Cambodge (le)</name>
+            <name xml:lang="es">Camboya</name>
+            <name xml:lang="pt">Camboja</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CM</code>
+            <name>Cameroon</name>
+            <name xml:lang="fr">Cameroun (le)</name>
+            <name xml:lang="es">Camer&#250;n</name>
+            <name xml:lang="pt">Camar&#245;es</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CA</code>
+            <name>Canada</name>
+            <name xml:lang="fr">Canada (le)</name>
+            <name xml:lang="es">Canad&#225;</name>
+            <name xml:lang="pt">Canad&#225;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CV</code>
+            <name>Cabo Verde</name>
+            <name xml:lang="fr">Cabo Verde</name>
+            <name xml:lang="es">Cabo Verde</name>
+            <name xml:lang="pt">Cabo Verde</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KY</code>
+            <name>Cayman Islands (the)</name>
+            <name xml:lang="fr">Ca&#239;mans (les &#206;les)</name>
+            <name xml:lang="es">Islas Caim&#225;n</name>
+            <name xml:lang="pt">Ilhas Caim&#227;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CF</code>
+            <name>Central African Republic (the)</name>
+            <name xml:lang="fr">R&#233;publique centrafricaine (la)</name>
+            <name xml:lang="es">Rep&#250;blica Centroafricana</name>
+            <name xml:lang="pt">Rep&#250;blica Centro-Africana</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TD</code>
+            <name>Chad</name>
+            <name xml:lang="fr">Tchad (le)</name>
+            <name xml:lang="es">Chad</name>
+            <name xml:lang="pt">Chade</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CL</code>
+            <name>Chile</name>
+            <name xml:lang="fr">Chili (le)</name>
+            <name xml:lang="es">Chile</name>
+            <name xml:lang="pt">Chile</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CN</code>
+            <name>China</name>
+            <name xml:lang="fr">Chine (la)</name>
+            <name xml:lang="es">China</name>
+            <name xml:lang="pt">China</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CX</code>
+            <name>Christmas Island</name>
+            <name xml:lang="fr">Christmas (l'&#206;le)</name>
+            <name xml:lang="es">Isla Christmas</name>
+            <name xml:lang="pt">Ilha do Natal</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CC</code>
+            <name>Cocos (Keeling) Islands (the)</name>
+            <name xml:lang="fr">Cocos (les &#206;les)/ Keeling (les &#206;les)</name>
+            <name xml:lang="es">Islas Cocos (Keeling)</name>
+            <name xml:lang="pt">Ilhas Cocos (Keeling)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CO</code>
+            <name>Colombia</name>
+            <name xml:lang="fr">Colombie (la)</name>
+            <name xml:lang="es">Colombia</name>
+            <name xml:lang="pt">Col&#244;mbia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KM</code>
+            <name>Comoros (the)</name>
+            <name xml:lang="fr">Comores (les)</name>
+            <name xml:lang="es">Comoras</name>
+            <name xml:lang="pt">Comores</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CG</code>
+            <name>Congo (the)</name>
+            <name xml:lang="fr">Congo (le)</name>
+            <name xml:lang="es">Congo</name>
+            <name xml:lang="pt">Congo</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CD</code>
+            <name>Congo (the Democratic Republic of the)</name>
+            <name xml:lang="fr">Congo (la R&#233;publique d&#233;mocratique du)</name>
+            <name xml:lang="es">Congo (Rep&#250;blica Democr&#225;tica del)</name>
+            <name xml:lang="pt">Congo (Rep&#250;blica Democr&#225;tica do)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CK</code>
+            <name>Cook Islands (the)</name>
+            <name xml:lang="fr">Cook (les &#206;les)</name>
+            <name xml:lang="es">Islas Cook</name>
+            <name xml:lang="pt">Ilhas Cook</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CR</code>
+            <name>Costa Rica</name>
+            <name xml:lang="fr">Costa Rica (le)</name>
+            <name xml:lang="es">Costa Rica</name>
+            <name xml:lang="pt">Costa Rica</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CI</code>
+            <name>C&#244;te d'Ivoire</name>
+            <name xml:lang="fr">C&#244;te d'Ivoire (la)</name>
+            <name xml:lang="es">C&#244;te d&#8217;Ivoire</name>
+            <name xml:lang="pt">C&#244;te d'Ivoire</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HR</code>
+            <name>Croatia</name>
+            <name xml:lang="fr">Croatie (la)</name>
+            <name xml:lang="es">Croacia</name>
+            <name xml:lang="pt">Cro&#225;cia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CU</code>
+            <name>Cuba</name>
+            <name xml:lang="fr">Cuba</name>
+            <name xml:lang="es">Cuba</name>
+            <name xml:lang="pt">Cuba</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CW</code>
+            <name>Cura&#231;ao</name>
+            <name xml:lang="fr">Cura&#231;ao</name>
+            <name xml:lang="es">Cura&#231;ao</name>
+            <name xml:lang="pt">Cura&#231;au</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CY</code>
+            <name>Cyprus</name>
+            <name xml:lang="fr">Chypre</name>
+            <name xml:lang="es">Chipre</name>
+            <name xml:lang="pt">Chipre</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CZ</code>
+            <name>Czechia</name>
+            <name xml:lang="fr">Tch&#233;quie (la)</name>
+            <name xml:lang="es">Chequia</name>
+            <name xml:lang="pt">Ch&#233;quia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DK</code>
+            <name>Denmark</name>
+            <name xml:lang="fr">Danemark (le)</name>
+            <name xml:lang="es">Dinamarca</name>
+            <name xml:lang="pt">Dinamarca</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DJ</code>
+            <name>Djibouti</name>
+            <name xml:lang="fr">Djibouti</name>
+            <name xml:lang="es">Djibouti</name>
+            <name xml:lang="pt">Djibouti</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DM</code>
+            <name>Dominica</name>
+            <name xml:lang="fr">Dominique (la)</name>
+            <name xml:lang="es">Dominica</name>
+            <name xml:lang="pt">Dominica</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DO</code>
+            <name>Dominican Republic (the)</name>
+            <name xml:lang="fr">dominicaine (la R&#233;publique)</name>
+            <name xml:lang="es">Rep&#250;blica Dominicana</name>
+            <name xml:lang="pt">Rep&#250;blica Dominicana</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>TP</code>
+            <name>East Timor</name>
+            <name xml:lang="fr">Timor oriental</name>
+            <name xml:lang="es">Timor Oriental</name>
+            <name xml:lang="pt">Timor-Leste</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EC</code>
+            <name>Ecuador</name>
+            <name xml:lang="fr">&#201;quateur (l')</name>
+            <name xml:lang="es">Ecuador</name>
+            <name xml:lang="pt">Equador</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EG</code>
+            <name>Egypt</name>
+            <name xml:lang="fr">&#201;gypte (l')</name>
+            <name xml:lang="es">Egipto</name>
+            <name xml:lang="pt">Egito</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SV</code>
+            <name>El Salvador</name>
+            <name xml:lang="fr">El Salvador</name>
+            <name xml:lang="es">El Salvador</name>
+            <name xml:lang="pt">El Salvador</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GQ</code>
+            <name>Equatorial Guinea</name>
+            <name xml:lang="fr">Guin&#233;e &#233;quatoriale (la)</name>
+            <name xml:lang="es">Guinea Ecuatorial</name>
+            <name xml:lang="pt">Guin&#233; Equatorial</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ER</code>
+            <name>Eritrea</name>
+            <name xml:lang="fr">&#201;rythr&#233;e (l')</name>
+            <name xml:lang="es">Eritrea</name>
+            <name xml:lang="pt">Eritreia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EE</code>
+            <name>Estonia</name>
+            <name xml:lang="fr">Estonie (l')</name>
+            <name xml:lang="es">Estonia</name>
+            <name xml:lang="pt">Est&#243;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ET</code>
+            <name>Ethiopia</name>
+            <name xml:lang="fr">&#201;thiopie (l')</name>
+            <name xml:lang="es">Etiop&#237;a</name>
+            <name xml:lang="pt">Eti&#243;pia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FK</code>
+            <name>Falkland Islands (the) [Malvinas]</name>
+            <name xml:lang="fr">Falkland (les &#206;les)/Malouines (les &#206;les)</name>
+            <name xml:lang="es">Islas Malvinas (Falkland Islands)</name>
+            <name xml:lang="pt">Ilhas Falkland (Maldivas)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FO</code>
+            <name>Faroe Islands (the)</name>
+            <name xml:lang="fr">F&#233;ro&#233; (les &#206;les)</name>
+            <name xml:lang="es">Islas Feroe</name>
+            <name xml:lang="pt">Ilhas Faro&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FJ</code>
+            <name>Fiji</name>
+            <name xml:lang="fr">Fidji (les)</name>
+            <name xml:lang="es">Fiji</name>
+            <name xml:lang="pt">Fiji</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FI</code>
+            <name>Finland</name>
+            <name xml:lang="fr">Finlande (la)</name>
+            <name xml:lang="es">Finlandia</name>
+            <name xml:lang="pt">Finl&#226;ndia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FR</code>
+            <name>France</name>
+            <name xml:lang="fr">France (la)</name>
+            <name xml:lang="es">Francia</name>
+            <name xml:lang="pt">Fran&#231;a</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GF</code>
+            <name>French Guiana</name>
+            <name xml:lang="fr">Guyane fran&#231;aise (la )</name>
+            <name xml:lang="es">Guayana Francesa</name>
+            <name xml:lang="pt">Guiana Francesa</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PF</code>
+            <name>French Polynesia</name>
+            <name xml:lang="fr">Polyn&#233;sie fran&#231;aise (la)</name>
+            <name xml:lang="es">Polinesia Francesa</name>
+            <name xml:lang="pt">Polin&#233;sia Francesa</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TF</code>
+            <name>French Southern Territories (the)</name>
+            <name xml:lang="fr">Terres australes fran&#231;aises (les)</name>
+            <name xml:lang="es">Territorios Australes Franceses</name>
+            <name xml:lang="pt">Territ&#243;rios Austrais Franceses</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GA</code>
+            <name>Gabon</name>
+            <name xml:lang="fr">Gabon (le)</name>
+            <name xml:lang="es">Gab&#243;n</name>
+            <name xml:lang="pt">Gab&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GM</code>
+            <name>Gambia (the)</name>
+            <name xml:lang="fr">Gambie (la)</name>
+            <name xml:lang="es">Gambia</name>
+            <name xml:lang="pt">G&#226;mbia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GE</code>
+            <name>Georgia</name>
+            <name xml:lang="fr">G&#233;orgie (la)</name>
+            <name xml:lang="es">Georgia</name>
+            <name xml:lang="pt">Ge&#243;rgia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DE</code>
+            <name>Germany</name>
+            <name xml:lang="fr">Allemagne (l')</name>
+            <name xml:lang="es">Alemania</name>
+            <name xml:lang="pt">Alemanha</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GH</code>
+            <name>Ghana</name>
+            <name xml:lang="fr">Ghana (le)</name>
+            <name xml:lang="es">Ghana</name>
+            <name xml:lang="pt">Gana</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GI</code>
+            <name>Gibraltar</name>
+            <name xml:lang="fr">Gibraltar</name>
+            <name xml:lang="es">Gibraltar</name>
+            <name xml:lang="pt">Gibraltar</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GR</code>
+            <name>Greece</name>
+            <name xml:lang="fr">Gr&#232;ce (la)</name>
+            <name xml:lang="es">Grecia</name>
+            <name xml:lang="pt">Gr&#233;cia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GL</code>
+            <name>Greenland</name>
+            <name xml:lang="fr">Groenland (le)</name>
+            <name xml:lang="es">Groenlandia</name>
+            <name xml:lang="pt">Groenl&#226;ndia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GD</code>
+            <name>Grenada</name>
+            <name xml:lang="fr">Grenade (la)</name>
+            <name xml:lang="es">Granada</name>
+            <name xml:lang="pt">Granada</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GP</code>
+            <name>Guadeloupe</name>
+            <name xml:lang="fr">Guadeloupe (la)</name>
+            <name xml:lang="es">Guadalupe</name>
+            <name xml:lang="pt">Guadalupe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GU</code>
+            <name>Guam</name>
+            <name xml:lang="fr">Guam</name>
+            <name xml:lang="es">Guam</name>
+            <name xml:lang="pt">Guam</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GT</code>
+            <name>Guatemala</name>
+            <name xml:lang="fr">Guatemala (le)</name>
+            <name xml:lang="es">Guatemala</name>
+            <name xml:lang="pt">Guatemala</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GG</code>
+            <name>Guernsey</name>
+            <name xml:lang="fr">Guernesey</name>
+            <name xml:lang="es">Guernsey</name>
+            <name xml:lang="pt">Guernsey</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GN</code>
+            <name>Guinea</name>
+            <name xml:lang="fr">Guin&#233;e (la)</name>
+            <name xml:lang="es">Guinea</name>
+            <name xml:lang="pt">Guin&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GW</code>
+            <name>Guinea-Bissau</name>
+            <name xml:lang="fr">Guin&#233;e-Bissau (la)</name>
+            <name xml:lang="es">Guinea-Bissau</name>
+            <name xml:lang="pt">Guin&#233;-Bissau</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GY</code>
+            <name>Guyana</name>
+            <name xml:lang="fr">Guyana (le)</name>
+            <name xml:lang="es">Guyana</name>
+            <name xml:lang="pt">Guiana</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HT</code>
+            <name>Haiti</name>
+            <name xml:lang="fr">Ha&#239;ti</name>
+            <name xml:lang="es">Hait&#237;</name>
+            <name xml:lang="pt">Haiti</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HM</code>
+            <name>Heard Island and McDonald Islands</name>
+            <name xml:lang="fr">Heard-et-&#206;les MacDonald (l'&#206;le)</name>
+            <name xml:lang="es">Islas Heard y McDonald</name>
+            <name xml:lang="pt">Ilhas Heard e McDonald</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VA</code>
+            <name>Holy See (the)</name>
+            <name xml:lang="fr">Saint-Si&#232;ge (le)</name>
+            <name xml:lang="es">Santa Sede</name>
+            <name xml:lang="pt">Santa S&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HN</code>
+            <name>Honduras</name>
+            <name xml:lang="fr">Honduras (le)</name>
+            <name xml:lang="es">Honduras</name>
+            <name xml:lang="pt">Honduras</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HK</code>
+            <name>Hong Kong</name>
+            <name xml:lang="fr">Hong Kong</name>
+            <name xml:lang="es">Hong Kong</name>
+            <name xml:lang="pt">Hong Kong</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HU</code>
+            <name>Hungary</name>
+            <name xml:lang="fr">Hongrie (la)</name>
+            <name xml:lang="es">Hungr&#237;a</name>
+            <name xml:lang="pt">Hungria</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IS</code>
+            <name>Iceland</name>
+            <name xml:lang="fr">Islande (l')</name>
+            <name xml:lang="es">Islandia</name>
+            <name xml:lang="pt">Isl&#226;ndia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN</code>
+            <name>India</name>
+            <name xml:lang="fr">Inde (l')</name>
+            <name xml:lang="es">India</name>
+            <name xml:lang="pt">&#205;ndia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ID</code>
+            <name>Indonesia</name>
+            <name xml:lang="fr">Indon&#233;sie (l')</name>
+            <name xml:lang="es">Indonesia</name>
+            <name xml:lang="pt">Indon&#233;sia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IR</code>
+            <name>Iran (Islamic Republic of)</name>
+            <name xml:lang="fr">Iran (R&#233;publique Islamique d')</name>
+            <name xml:lang="es">Ir&#225;n (Rep&#250;blica Isl&#225;mica del)</name>
+            <name xml:lang="pt">Ir&#227; (Rep&#250;blica Isl&#226;mica do)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IQ</code>
+            <name>Iraq</name>
+            <name xml:lang="fr">Iraq (l')</name>
+            <name xml:lang="es">Iraq</name>
+            <name xml:lang="pt">Iraque</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IE</code>
+            <name>Ireland</name>
+            <name xml:lang="fr">Irlande (l')</name>
+            <name xml:lang="es">Irlanda</name>
+            <name xml:lang="pt">Irlanda</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IM</code>
+            <name>Isle of Man</name>
+            <name xml:lang="fr">&#206;le de Man</name>
+            <name xml:lang="es">Isla de Man</name>
+            <name xml:lang="pt">Ilha de Man</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IL</code>
+            <name>Israel</name>
+            <name xml:lang="fr">Isra&#235;l</name>
+            <name xml:lang="es">Israel</name>
+            <name xml:lang="pt">Israel</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IT</code>
+            <name>Italy</name>
+            <name xml:lang="fr">Italie (l')</name>
+            <name xml:lang="es">Italia</name>
+            <name xml:lang="pt">It&#225;lia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>JM</code>
+            <name>Jamaica</name>
+            <name xml:lang="fr">Jama&#239;que (la)</name>
+            <name xml:lang="es">Jamaica</name>
+            <name xml:lang="pt">Jamaica</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>JP</code>
+            <name>Japan</name>
+            <name xml:lang="fr">Japon (le)</name>
+            <name xml:lang="es">Jap&#243;n</name>
+            <name xml:lang="pt">Jap&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>JE</code>
+            <name>Jersey</name>
+            <name xml:lang="fr">Jersey</name>
+            <name xml:lang="es">Jersey</name>
+            <name xml:lang="pt">Jersey</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>JO</code>
+            <name>Jordan</name>
+            <name xml:lang="fr">Jordanie (la)</name>
+            <name xml:lang="es">Jordania</name>
+            <name xml:lang="pt">Jord&#226;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KZ</code>
+            <name>Kazakhstan</name>
+            <name xml:lang="fr">Kazakhstan (le)</name>
+            <name xml:lang="es">Kazajst&#225;n</name>
+            <name xml:lang="pt">Cazaquist&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE</code>
+            <name>Kenya</name>
+            <name xml:lang="fr">Kenya (le)</name>
+            <name xml:lang="es">Kenya</name>
+            <name xml:lang="pt">Qu&#233;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KI</code>
+            <name>Kiribati</name>
+            <name xml:lang="fr">Kiribati</name>
+            <name xml:lang="es">Kiribati</name>
+            <name xml:lang="pt">Quiribati</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KP</code>
+            <name>Korea (the Democratic People's Republic of)</name>
+            <name xml:lang="fr">Cor&#233;e (la R&#233;publique populaire d&#233;mocratique de)</name>
+            <name xml:lang="es">Corea (Rep&#250;blica Popular Democr&#225;tica de)</name>
+            <name xml:lang="pt">Coreia (Rep&#250;blica Popular Democr&#225;tica da)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KR</code>
+            <name>Korea (the Republic of)</name>
+            <name xml:lang="fr">Cor&#233;e (la R&#233;publique de)</name>
+            <name xml:lang="es">Corea (Rep&#250;blica de)</name>
+            <name xml:lang="pt">Coreia (Rep&#250;blica da)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XK</code>
+            <name>Kosovo</name>
+            <name xml:lang="es">Kosovo</name>
+            <name xml:lang="pt">Kosovo</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KW</code>
+            <name>Kuwait</name>
+            <name xml:lang="fr">Kowe&#239;t (le)</name>
+            <name xml:lang="es">Kuwait</name>
+            <name xml:lang="pt">Kuwait</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KG</code>
+            <name>Kyrgyzstan</name>
+            <name xml:lang="fr">Kirghizistan (le)</name>
+            <name xml:lang="es">Kirguist&#225;n</name>
+            <name xml:lang="pt">Quirguist&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LA</code>
+            <name>Lao People's Democratic Republic (the)</name>
+            <name xml:lang="fr">Lao (la R&#233;publique d&#233;mocratique populaire)</name>
+            <name xml:lang="es">Rep&#250;blica Democr&#225;tica Popular Lao</name>
+            <name xml:lang="pt">Laos, Rep&#250;blica Democr&#225;tica Popular do</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LV</code>
+            <name>Latvia</name>
+            <name xml:lang="fr">Lettonie (la)</name>
+            <name xml:lang="es">Letonia</name>
+            <name xml:lang="pt">Let&#243;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LB</code>
+            <name>Lebanon</name>
+            <name xml:lang="fr">Liban (le)</name>
+            <name xml:lang="es">L&#237;bano</name>
+            <name xml:lang="pt">L&#237;bano</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LS</code>
+            <name>Lesotho</name>
+            <name xml:lang="fr">Lesotho (le)</name>
+            <name xml:lang="es">Lesotho</name>
+            <name xml:lang="pt">Lesoto</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LR</code>
+            <name>Liberia</name>
+            <name xml:lang="fr">Lib&#233;ria (le)</name>
+            <name xml:lang="es">Liberia</name>
+            <name xml:lang="pt">Lib&#233;ria</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LY</code>
+            <name>Libya</name>
+            <name xml:lang="fr">Libye (la)</name>
+            <name xml:lang="es">Libia</name>
+            <name xml:lang="pt">L&#237;bia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LI</code>
+            <name>Liechtenstein</name>
+            <name xml:lang="fr">Liechtenstein (le)</name>
+            <name xml:lang="es">Liechtenstein</name>
+            <name xml:lang="pt">Liechtenstein</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LT</code>
+            <name>Lithuania</name>
+            <name xml:lang="fr">Lituanie (la)</name>
+            <name xml:lang="es">Lituania</name>
+            <name xml:lang="pt">Litu&#226;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LU</code>
+            <name>Luxembourg</name>
+            <name xml:lang="fr">Luxembourg (le)</name>
+            <name xml:lang="es">Luxemburgo</name>
+            <name xml:lang="pt">Luxemburgo</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MO</code>
+            <name>Macao</name>
+            <name xml:lang="fr">Macao</name>
+            <name xml:lang="es">Macao</name>
+            <name xml:lang="pt">Macau</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MK</code>
+            <name>North Macedonia</name>
+            <name xml:lang="fr">Mac&#233;doine du Nord (la)</name>
+            <name xml:lang="es">Macedonia del Norte</name>
+            <name xml:lang="pt">Maced&#243;nia do Norte</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MG</code>
+            <name>Madagascar</name>
+            <name xml:lang="fr">Madagascar</name>
+            <name xml:lang="es">Madagascar</name>
+            <name xml:lang="pt">Madag&#225;scar</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MW</code>
+            <name>Malawi</name>
+            <name xml:lang="fr">Malawi (le)</name>
+            <name xml:lang="es">Malawi</name>
+            <name xml:lang="pt">Malawi</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MY</code>
+            <name>Malaysia</name>
+            <name xml:lang="fr">Malaisie (la)</name>
+            <name xml:lang="es">Malasia</name>
+            <name xml:lang="pt">Mal&#225;sia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MV</code>
+            <name>Maldives</name>
+            <name xml:lang="fr">Maldives (les)</name>
+            <name xml:lang="es">Maldivas</name>
+            <name xml:lang="pt">Maldivas</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ML</code>
+            <name>Mali</name>
+            <name xml:lang="fr">Mali (le)</name>
+            <name xml:lang="es">Mal&#237;</name>
+            <name xml:lang="pt">Mali</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MT</code>
+            <name>Malta</name>
+            <name xml:lang="fr">Malte</name>
+            <name xml:lang="es">Malta</name>
+            <name xml:lang="pt">Malta</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MH</code>
+            <name>Marshall Islands (the)</name>
+            <name xml:lang="fr">Marshall (les &#206;les)</name>
+            <name xml:lang="es">Islas Marshall</name>
+            <name xml:lang="pt">Ilhas Marshall</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MQ</code>
+            <name>Martinique</name>
+            <name xml:lang="fr">Martinique (la)</name>
+            <name xml:lang="es">Martinica</name>
+            <name xml:lang="pt">Martinica</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MR</code>
+            <name>Mauritania</name>
+            <name xml:lang="fr">Mauritanie (la)</name>
+            <name xml:lang="es">Mauritania</name>
+            <name xml:lang="pt">Maurit&#226;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MU</code>
+            <name>Mauritius</name>
+            <name xml:lang="fr">Maurice</name>
+            <name xml:lang="es">Mauricio</name>
+            <name xml:lang="pt">Maur&#237;cia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>YT</code>
+            <name>Mayotte</name>
+            <name xml:lang="fr">Mayotte</name>
+            <name xml:lang="es">Mayotte</name>
+            <name xml:lang="pt">Maiote</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MX</code>
+            <name>Mexico</name>
+            <name xml:lang="fr">Mexique (le)</name>
+            <name xml:lang="es">M&#233;xico</name>
+            <name xml:lang="pt">M&#233;xico</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FM</code>
+            <name>Micronesia (Federated States of)</name>
+            <name xml:lang="fr">Micron&#233;sie (&#201;tats f&#233;d&#233;r&#233;s de)</name>
+            <name xml:lang="es">Micronesia (Estados Federados de)</name>
+            <name xml:lang="pt">Micron&#233;sia (Estados Federados da)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MD</code>
+            <name>Moldova (the Republic of)</name>
+            <name xml:lang="fr">Moldova (la R&#233;publique de)</name>
+            <name xml:lang="es">Moldova (Rep&#250;blica de)</name>
+            <name xml:lang="pt">Mold&#225;via (Rep&#250;blica da)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MC</code>
+            <name>Monaco</name>
+            <name xml:lang="fr">Monaco</name>
+            <name xml:lang="es">M&#243;naco</name>
+            <name xml:lang="pt">M&#243;naco</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MN</code>
+            <name>Mongolia</name>
+            <name xml:lang="fr">Mongolie (la)</name>
+            <name xml:lang="es">Mongolia</name>
+            <name xml:lang="pt">Mong&#243;lia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ME</code>
+            <name>Montenegro</name>
+            <name xml:lang="fr">Mont&#233;n&#233;gro (le)</name>
+            <name xml:lang="es">Montenegro</name>
+            <name xml:lang="pt">Montenegro</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MS</code>
+            <name>Montserrat</name>
+            <name xml:lang="fr">Montserrat</name>
+            <name xml:lang="es">Montserrat</name>
+            <name xml:lang="pt">Monserrate</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MA</code>
+            <name>Morocco</name>
+            <name xml:lang="fr">Maroc (le)</name>
+            <name xml:lang="es">Marruecos</name>
+            <name xml:lang="pt">Marrocos</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MZ</code>
+            <name>Mozambique</name>
+            <name xml:lang="fr">Mozambique (le)</name>
+            <name xml:lang="es">Mozambique</name>
+            <name xml:lang="pt">Mo&#231;ambique</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MM</code>
+            <name>Myanmar</name>
+            <name xml:lang="fr">Myanmar (le)</name>
+            <name xml:lang="es">Myanmar</name>
+            <name xml:lang="pt">Myanmar</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NA</code>
+            <name>Namibia</name>
+            <name xml:lang="fr">Namibie (la)</name>
+            <name xml:lang="es">Namibia</name>
+            <name xml:lang="pt">Nam&#237;bia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NR</code>
+            <name>Nauru</name>
+            <name xml:lang="fr">Nauru</name>
+            <name xml:lang="es">Nauru</name>
+            <name xml:lang="pt">Nauru</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NP</code>
+            <name>Nepal</name>
+            <name xml:lang="fr">N&#233;pal (le)</name>
+            <name xml:lang="es">Nepal</name>
+            <name xml:lang="pt">Nepal</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL</code>
+            <name>Netherlands (Kingdom of the)</name>
+            <name xml:lang="fr">Pays-Bas (Royaume des)</name>
+            <name xml:lang="es">Pa&#237;ses Bajos</name>
+            <name xml:lang="pt">Pa&#237;ses Baixos</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>AN</code>
+            <name>Netherlands Antilles</name>
+            <name xml:lang="fr">Antilles n&#233;erlandaises (les )</name>
+            <name xml:lang="es">Antillas Neerlandesas</name>
+            <name xml:lang="pt">Antilhas Neerlandesas</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NT</code>
+            <name>Neutral Zone</name>
+            <name xml:lang="fr">Zone neutre</name>
+            <name xml:lang="es">Zona neutral</name>
+            <name xml:lang="pt">Zona Neutra</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NC</code>
+            <name>New Caledonia</name>
+            <name xml:lang="fr">Nouvelle-Cal&#233;donie (la)</name>
+            <name xml:lang="es">Nueva Caledonia</name>
+            <name xml:lang="pt">Nova Caled&#243;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NZ</code>
+            <name>New Zealand</name>
+            <name xml:lang="fr">Nouvelle-Z&#233;lande (la)</name>
+            <name xml:lang="es">Nueva Zelandia</name>
+            <name xml:lang="pt">Nova Zel&#226;ndia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NI</code>
+            <name>Nicaragua</name>
+            <name xml:lang="fr">Nicaragua (le)</name>
+            <name xml:lang="es">Nicaragua</name>
+            <name xml:lang="pt">Nicar&#225;gua</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NE</code>
+            <name>Niger (the)</name>
+            <name xml:lang="fr">Niger (le)</name>
+            <name xml:lang="es">N&#237;ger</name>
+            <name xml:lang="pt">N&#237;ger</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NG</code>
+            <name>Nigeria</name>
+            <name xml:lang="fr">Nig&#233;ria (le)</name>
+            <name xml:lang="es">Nigeria</name>
+            <name xml:lang="pt">Nig&#233;ria</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NU</code>
+            <name>Niue</name>
+            <name xml:lang="fr">Niue</name>
+            <name xml:lang="es">Niue</name>
+            <name xml:lang="pt">Niue</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NF</code>
+            <name>Norfolk Island</name>
+            <name xml:lang="fr">Norfolk (l'&#206;le)</name>
+            <name xml:lang="es">Isla Norfolk</name>
+            <name xml:lang="pt">Ilha Norfolk</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MP</code>
+            <name>Northern Mariana Islands (the)</name>
+            <name xml:lang="fr">Mariannes du Nord (les &#206;les)</name>
+            <name xml:lang="es">Islas Marianas del Norte</name>
+            <name xml:lang="pt">Ilhas Marianas do Norte</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NO</code>
+            <name>Norway</name>
+            <name xml:lang="fr">Norv&#232;ge (la)</name>
+            <name xml:lang="es">Noruega</name>
+            <name xml:lang="pt">Noruega</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OM</code>
+            <name>Oman</name>
+            <name xml:lang="fr">Oman</name>
+            <name xml:lang="es">Om&#225;n</name>
+            <name xml:lang="pt">Om&#227;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PK</code>
+            <name>Pakistan</name>
+            <name xml:lang="fr">Pakistan (le)</name>
+            <name xml:lang="es">Pakist&#225;n</name>
+            <name xml:lang="pt">Paquist&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PW</code>
+            <name>Palau</name>
+            <name xml:lang="fr">Palaos (les)</name>
+            <name xml:lang="es">Palau</name>
+            <name xml:lang="pt">Palau</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PS</code>
+            <name>Palestine, State of</name>
+            <name xml:lang="fr">Palestine, &#201;tat de</name>
+            <name xml:lang="es">Palestina, Estado de</name>
+            <name xml:lang="pt">Palestina, Estado da</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PA</code>
+            <name>Panama</name>
+            <name xml:lang="fr">Panama (le)</name>
+            <name xml:lang="es">Panam&#225;</name>
+            <name xml:lang="pt">Panam&#225;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PG</code>
+            <name>Papua New Guinea</name>
+            <name xml:lang="fr">Papouasie-Nouvelle-Guin&#233;e (la)</name>
+            <name xml:lang="es">Papua Nueva Guinea</name>
+            <name xml:lang="pt">Papua-Nova Guin&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PY</code>
+            <name>Paraguay</name>
+            <name xml:lang="fr">Paraguay (le)</name>
+            <name xml:lang="es">Paraguay</name>
+            <name xml:lang="pt">Paraguai</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PE</code>
+            <name>Peru</name>
+            <name xml:lang="fr">P&#233;rou (le)</name>
+            <name xml:lang="es">Per&#250;</name>
+            <name xml:lang="pt">Peru</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PH</code>
+            <name>Philippines (the)</name>
+            <name xml:lang="fr">Philippines (les)</name>
+            <name xml:lang="es">Filipinas</name>
+            <name xml:lang="pt">Filipinas</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PN</code>
+            <name>Pitcairn</name>
+            <name xml:lang="fr">Pitcairn</name>
+            <name xml:lang="es">Pitcairn</name>
+            <name xml:lang="pt">Pitcairn</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PL</code>
+            <name>Poland</name>
+            <name xml:lang="fr">Pologne (la)</name>
+            <name xml:lang="es">Polonia</name>
+            <name xml:lang="pt">Pol&#243;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PT</code>
+            <name>Portugal</name>
+            <name xml:lang="fr">Portugal (le)</name>
+            <name xml:lang="es">Portugal</name>
+            <name xml:lang="pt">Portugal</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PR</code>
+            <name>Puerto Rico</name>
+            <name xml:lang="fr">Porto Rico</name>
+            <name xml:lang="es">Puerto Rico</name>
+            <name xml:lang="pt">Porto Rico</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>QA</code>
+            <name>Qatar</name>
+            <name xml:lang="fr">Qatar (le)</name>
+            <name xml:lang="es">Qatar</name>
+            <name xml:lang="pt">Catar</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RE</code>
+            <name>R&#233;union</name>
+            <name xml:lang="fr">R&#233;union (La)</name>
+            <name xml:lang="es">Reuni&#243;n</name>
+            <name xml:lang="pt">Reuni&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RO</code>
+            <name>Romania</name>
+            <name xml:lang="fr">Roumanie (la)</name>
+            <name xml:lang="es">Rumania</name>
+            <name xml:lang="pt">Rom&#233;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RU</code>
+            <name>Russian Federation (the)</name>
+            <name xml:lang="fr">Russie (la F&#233;d&#233;ration de)</name>
+            <name xml:lang="es">Federaci&#243;n de Rusia</name>
+            <name xml:lang="pt">Federa&#231;&#227;o Russa</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RW</code>
+            <name>Rwanda</name>
+            <name xml:lang="fr">Rwanda (le)</name>
+            <name xml:lang="es">Rwanda</name>
+            <name xml:lang="pt">Ruanda</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BL</code>
+            <name>Saint Barth&#233;lemy</name>
+            <name xml:lang="fr">Saint-Barth&#233;lemy</name>
+            <name xml:lang="es">San Bartolom&#233;</name>
+            <name xml:lang="pt">S&#227;o Bartolomeu</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SH</code>
+            <name>Saint Helena, Ascension and Tristan da Cunha</name>
+            <name xml:lang="fr">Sainte-H&#233;l&#232;ne, Ascension et Tristan da Cunha</name>
+            <name xml:lang="es">Santa Elena, Ascensi&#243;n y Trist&#225;n da Cunha</name>
+            <name xml:lang="pt">Santa Helena, Ascens&#227;o e Trist&#227;o da Cunha</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KN</code>
+            <name>Saint Kitts and Nevis</name>
+            <name xml:lang="fr">Saint-Kitts-et-Nevis</name>
+            <name xml:lang="es">Saint Kitts y Nevis</name>
+            <name xml:lang="pt">S&#227;o Crist&#243;v&#227;o e Nevis</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LC</code>
+            <name>Saint Lucia</name>
+            <name xml:lang="fr">Sainte-Lucie</name>
+            <name xml:lang="es">Santa Luc&#237;a</name>
+            <name xml:lang="pt">Santa L&#250;cia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MF</code>
+            <name>Saint Martin (French part)</name>
+            <name xml:lang="fr">Saint-Martin (partie fran&#231;aise)</name>
+            <name xml:lang="es">San Mart&#237;n (parte francesa)</name>
+            <name xml:lang="pt">Saint Martin (parte francesa)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PM</code>
+            <name>Saint Pierre and Miquelon</name>
+            <name xml:lang="fr">Saint-Pierre-et-Miquelon</name>
+            <name xml:lang="es">San Pedro y Miquel&#243;n</name>
+            <name xml:lang="pt">S&#227;o Pedro e Miquel&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VC</code>
+            <name>Saint Vincent and the Grenadines</name>
+            <name xml:lang="fr">Saint-Vincent-et-les Grenadines</name>
+            <name xml:lang="es">San Vicente y las Granadinas</name>
+            <name xml:lang="pt">S&#227;o Vicente e Granadinas</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WS</code>
+            <name>Samoa</name>
+            <name xml:lang="fr">Samoa (le)</name>
+            <name xml:lang="es">Samoa</name>
+            <name xml:lang="pt">Samoa</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SM</code>
+            <name>San Marino</name>
+            <name xml:lang="fr">Saint-Marin</name>
+            <name xml:lang="es">San Marino</name>
+            <name xml:lang="pt">S&#227;o Marinho</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ST</code>
+            <name>Sao Tome and Principe</name>
+            <name xml:lang="fr">Sao Tom&#233;-et-Principe</name>
+            <name xml:lang="es">Santo Tom&#233; y Pr&#237;ncipe</name>
+            <name xml:lang="pt">S&#227;o Tom&#233; e Pr&#237;ncipe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SA</code>
+            <name>Saudi Arabia</name>
+            <name xml:lang="fr">Arabie saoudite (l')</name>
+            <name xml:lang="es">Arabia Saudita</name>
+            <name xml:lang="pt">Ar&#225;bia Saudita</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SN</code>
+            <name>Senegal</name>
+            <name xml:lang="fr">S&#233;n&#233;gal (le)</name>
+            <name xml:lang="es">Senegal</name>
+            <name xml:lang="pt">Senegal</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RS</code>
+            <name>Serbia</name>
+            <name xml:lang="fr">Serbie (la)</name>
+            <name xml:lang="es">Serbia</name>
+            <name xml:lang="pt">S&#233;rvia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SC</code>
+            <name>Seychelles</name>
+            <name xml:lang="fr">Seychelles (les)</name>
+            <name xml:lang="es">Seychelles</name>
+            <name xml:lang="pt">Seicheles</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SL</code>
+            <name>Sierra Leone</name>
+            <name xml:lang="fr">Sierra Leone (la)</name>
+            <name xml:lang="es">Sierra Leona</name>
+            <name xml:lang="pt">Serra Leoa</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SG</code>
+            <name>Singapore</name>
+            <name xml:lang="fr">Singapour</name>
+            <name xml:lang="es">Singapur</name>
+            <name xml:lang="pt">Singapura</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SX</code>
+            <name>Sint Maarten (Dutch part)</name>
+            <name xml:lang="fr">Saint-Martin (partie n&#233;erlandaise)</name>
+            <name xml:lang="es">San Mart&#237;n (parte holandesa)</name>
+            <name xml:lang="pt">Sint Maarten (parte neerlandesa)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SK</code>
+            <name>Slovakia</name>
+            <name xml:lang="fr">Slovaquie (la)</name>
+            <name xml:lang="es">Eslovaquia</name>
+            <name xml:lang="pt">Eslov&#225;quia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SI</code>
+            <name>Slovenia</name>
+            <name xml:lang="fr">Slov&#233;nie (la)</name>
+            <name xml:lang="es">Eslovenia</name>
+            <name xml:lang="pt">Eslov&#233;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SB</code>
+            <name>Solomon Islands</name>
+            <name xml:lang="fr">Salomon (les &#206;les)</name>
+            <name xml:lang="es">Islas Salom&#243;n</name>
+            <name xml:lang="pt">Ilhas Salom&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SO</code>
+            <name>Somalia</name>
+            <name xml:lang="fr">Somalie (la)</name>
+            <name xml:lang="es">Somalia</name>
+            <name xml:lang="pt">Som&#225;lia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZA</code>
+            <name>South Africa</name>
+            <name xml:lang="fr">Afrique du Sud (l')</name>
+            <name xml:lang="es">Sud&#225;frica</name>
+            <name xml:lang="pt">&#193;frica do Sul</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GS</code>
+            <name>South Georgia and the South Sandwich Islands</name>
+            <name xml:lang="fr">G&#233;orgie du Sud-et-les &#206;les Sandwich du Sud (la)</name>
+            <name xml:lang="es">Islas Georgias del Sur y Sandwich del Sur</name>
+            <name xml:lang="pt">Ilhas Ge&#243;rgia do Sul e Sandwich do Sul</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SS</code>
+            <name>South Sudan</name>
+            <name xml:lang="fr">Soudan du Sud (le)</name>
+            <name xml:lang="es">Sud&#225;n del Sur</name>
+            <name xml:lang="pt">Sud&#227;o do Sul</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ES</code>
+            <name>Spain</name>
+            <name xml:lang="fr">Espagne (l')</name>
+            <name xml:lang="es">Espa&#241;a</name>
+            <name xml:lang="pt">Espanha</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LK</code>
+            <name>Sri Lanka</name>
+            <name xml:lang="fr">Sri Lanka</name>
+            <name xml:lang="es">Sri Lanka</name>
+            <name xml:lang="pt">Sri Lanka</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SD</code>
+            <name>Sudan (the)</name>
+            <name xml:lang="fr">Soudan (le)</name>
+            <name xml:lang="es">Sud&#225;n</name>
+            <name xml:lang="pt">Sud&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SR</code>
+            <name>Suriname</name>
+            <name xml:lang="fr">Suriname (le)</name>
+            <name xml:lang="es">Suriname</name>
+            <name xml:lang="pt">Suriname</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SJ</code>
+            <name>Svalbard and Jan Mayen</name>
+            <name xml:lang="fr">Svalbard et l'&#206;le Jan Mayen (le)</name>
+            <name xml:lang="es">Svalbard y Jan Mayen</name>
+            <name xml:lang="pt">Svalbard e Jan Mayen</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SZ</code>
+            <name>Eswatini</name>
+            <name xml:lang="fr">Eswatini (l')</name>
+            <name xml:lang="es">Eswatini</name>
+            <name xml:lang="pt">Essuat&#237;ni</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>CS</code>
+            <name>Serbia and Montenegro</name>
+            <name xml:lang="fr">Serbie-et-Mont&#233;n&#233;gro</name>
+            <name xml:lang="es">Serbia y Montenegro</name>
+            <name xml:lang="pt">S&#233;rvia e Montenegro</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE</code>
+            <name>Sweden</name>
+            <name xml:lang="fr">Su&#232;de (la)</name>
+            <name xml:lang="es">Suecia</name>
+            <name xml:lang="pt">Su&#233;cia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH</code>
+            <name>Switzerland</name>
+            <name xml:lang="fr">Suisse (la)</name>
+            <name xml:lang="es">Suiza</name>
+            <name xml:lang="pt">Su&#237;&#231;a</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SY</code>
+            <name>Syrian Arab Republic (the)</name>
+            <name xml:lang="fr">R&#233;publique arabe syrienne (la)</name>
+            <name xml:lang="es">Rep&#250;blica &#193;rabe Siria</name>
+            <name xml:lang="pt">S&#237;ria, Rep&#250;blica &#193;rabe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TW</code>
+            <name>Taiwan (Province of China)</name>
+            <name xml:lang="fr">Ta&#239;wan (Province de Chine)</name>
+            <name xml:lang="es">Taiw&#225;n (provincia de China)</name>
+            <name xml:lang="pt">Taiwan (Prov&#237;ncia da China)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TJ</code>
+            <name>Tajikistan</name>
+            <name xml:lang="fr">Tadjikistan (le)</name>
+            <name xml:lang="es">Tayikist&#225;n</name>
+            <name xml:lang="pt">Tajiquist&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TZ</code>
+            <name>Tanzania, the United Republic of</name>
+            <name xml:lang="fr">Tanzanie (la R&#233;publique-Unie de)</name>
+            <name xml:lang="es">Tanzan&#237;a, Rep&#250;blica Unida de</name>
+            <name xml:lang="pt">Tanz&#226;nia, Rep&#250;blica Unida da</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TH</code>
+            <name>Thailand</name>
+            <name xml:lang="fr">Tha&#239;lande (la)</name>
+            <name xml:lang="es">Tailandia</name>
+            <name xml:lang="pt">Tail&#226;ndia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TL</code>
+            <name>Timor-Leste</name>
+            <name xml:lang="fr">Timor-Leste (le)</name>
+            <name xml:lang="es">Timor-Leste</name>
+            <name xml:lang="pt">Timor-Leste</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TG</code>
+            <name>Togo</name>
+            <name xml:lang="fr">Togo (le)</name>
+            <name xml:lang="es">Togo</name>
+            <name xml:lang="pt">Togo</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TK</code>
+            <name>Tokelau</name>
+            <name xml:lang="fr">Tokelau (les)</name>
+            <name xml:lang="es">Tokelau</name>
+            <name xml:lang="pt">Toquelau</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TO</code>
+            <name>Tonga</name>
+            <name xml:lang="fr">Tonga (les)</name>
+            <name xml:lang="es">Tonga</name>
+            <name xml:lang="pt">Tonga</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TT</code>
+            <name>Trinidad and Tobago</name>
+            <name xml:lang="fr">Trinit&#233;-et-Tobago (la)</name>
+            <name xml:lang="es">Trinidad y Tabago</name>
+            <name xml:lang="pt">Trindade e Tobago</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TN</code>
+            <name>Tunisia</name>
+            <name xml:lang="fr">Tunisie (la)</name>
+            <name xml:lang="es">T&#250;nez</name>
+            <name xml:lang="pt">Tun&#237;sia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TR</code>
+            <name>T&#252;rkiye</name>
+            <name xml:lang="fr">T&#252;rkiye (la)</name>
+            <name xml:lang="es">Turqu&#237;a</name>
+            <name xml:lang="pt">Turquia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TM</code>
+            <name>Turkmenistan</name>
+            <name xml:lang="fr">Turkm&#233;nistan (le)</name>
+            <name xml:lang="es">Turkmenist&#225;n</name>
+            <name xml:lang="pt">Turquemenist&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC</code>
+            <name>Turks and Caicos Islands (the)</name>
+            <name xml:lang="fr">Turks-et-Ca&#239;cos (les &#206;les)</name>
+            <name xml:lang="es">Islas Turcas y Caicos</name>
+            <name xml:lang="pt">Ilhas Turcas e Caicos</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TV</code>
+            <name>Tuvalu</name>
+            <name xml:lang="fr">Tuvalu (les)</name>
+            <name xml:lang="es">Tuvalu</name>
+            <name xml:lang="pt">Tuvalu</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG</code>
+            <name>Uganda</name>
+            <name xml:lang="fr">Ouganda (l')</name>
+            <name xml:lang="es">Uganda</name>
+            <name xml:lang="pt">Uganda</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UA</code>
+            <name>Ukraine</name>
+            <name xml:lang="fr">Ukraine (l')</name>
+            <name xml:lang="es">Ucrania</name>
+            <name xml:lang="pt">Ucr&#226;nia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AE</code>
+            <name>United Arab Emirates (the)</name>
+            <name xml:lang="fr">&#201;mirats arabes unis (les)</name>
+            <name xml:lang="es">Emiratos &#193;rabes Unidos</name>
+            <name xml:lang="pt">Emirados &#193;rabes Unidos</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB</code>
+            <name>United Kingdom of Great Britain and Northern Ireland (the)</name>
+            <name xml:lang="fr">Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)</name>
+            <name xml:lang="es">Reino Unido de Gran Breta&#241;a e Irlanda del Norte</name>
+            <name xml:lang="pt">Reino Unido da Gr&#227;-Bretanha e da Irlanda do Norte</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US</code>
+            <name>United States of America (the)</name>
+            <name xml:lang="fr">&#201;tats-Unis d'Am&#233;rique (les)</name>
+            <name xml:lang="es">Estados Unidos de Am&#233;rica</name>
+            <name xml:lang="pt">Estados Unidos da Am&#233;rica</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UM</code>
+            <name>United States Minor Outlying Islands (the)</name>
+            <name xml:lang="fr">&#206;les mineures &#233;loign&#233;es des &#201;tats-Unis (les)</name>
+            <name xml:lang="es">Islas menores alejadas de los Estados Unidos</name>
+            <name xml:lang="pt">Ilhas menores distantes dos Estados Unidos</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UY</code>
+            <name>Uruguay</name>
+            <name xml:lang="fr">Uruguay (l')</name>
+            <name xml:lang="es">Uruguay</name>
+            <name xml:lang="pt">Uruguai</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UZ</code>
+            <name>Uzbekistan</name>
+            <name xml:lang="fr">Ouzb&#233;kistan (l')</name>
+            <name xml:lang="es">Uzbekist&#225;n</name>
+            <name xml:lang="pt">Uzbequist&#227;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VU</code>
+            <name>Vanuatu</name>
+            <name xml:lang="fr">Vanuatu (le)</name>
+            <name xml:lang="es">Vanuatu</name>
+            <name xml:lang="pt">Vanuatu</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VE</code>
+            <name>Venezuela (Bolivarian Republic of)</name>
+            <name xml:lang="fr">Venezuela (R&#233;publique bolivarienne du)</name>
+            <name xml:lang="es">Venezuela (Rep&#250;blica Bolivariana de)</name>
+            <name xml:lang="pt">Venezuela (Rep&#250;blica Bolivariana da)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VN</code>
+            <name>Viet Nam</name>
+            <name xml:lang="fr">Viet Nam (le)</name>
+            <name xml:lang="es">Viet&#160;Nam</name>
+            <name xml:lang="pt">Vietname</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VG</code>
+            <name>Virgin Islands (British)</name>
+            <name xml:lang="fr">Vierges britanniques (les &#206;les)</name>
+            <name xml:lang="es">Islas V&#237;rgenes (Brit&#225;nicas)</name>
+            <name xml:lang="pt">Ilhas Virgens Brit&#226;nicas</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VI</code>
+            <name>Virgin Islands (U.S.)</name>
+            <name xml:lang="fr">Vierges des &#201;tats-Unis (les &#206;les)</name>
+            <name xml:lang="es">Islas V&#237;rgenes (de los Estados Unidos)</name>
+            <name xml:lang="pt">Ilhas Virgens Americanas</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF</code>
+            <name>Wallis and Futuna</name>
+            <name xml:lang="fr">Wallis-et-Futuna</name>
+            <name xml:lang="es">Wallis y Futuna</name>
+            <name xml:lang="pt">Wallis e Futuna</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EH</code>
+            <name>Western Sahara</name>
+            <name xml:lang="fr">Sahara occidental (le)</name>
+            <name xml:lang="es">S&#225;hara Occidental</name>
+            <name xml:lang="pt">Sahara Ocidental</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>YE</code>
+            <name>Yemen</name>
+            <name xml:lang="fr">Y&#233;men (le)</name>
+            <name xml:lang="es">Yemen</name>
+            <name xml:lang="pt">I&#233;men</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>YU</code>
+            <name>Yugoslavia</name>
+            <name xml:lang="fr">Yougoslavie</name>
+            <name xml:lang="es">Yugoslavia</name>
+            <name xml:lang="pt">Iugosl&#225;via</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ZR</code>
+            <name>Zaire</name>
+            <name xml:lang="fr">Za&#239;re</name>
+            <name xml:lang="es">Zaire</name>
+            <name xml:lang="pt">Zaire</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZM</code>
+            <name>Zambia</name>
+            <name xml:lang="fr">Zambie (la)</name>
+            <name xml:lang="es">Zambia</name>
+            <name xml:lang="pt">Z&#226;mbia</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZW</code>
+            <name>Zimbabwe</name>
+            <name xml:lang="fr">Zimbabwe (le)</name>
+            <name xml:lang="es">Zimbabwe</name>
+            <name xml:lang="pt">Zimbabwe</name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+

@@ -1,0 +1,5 @@
+code,name,status
+start-actual,"The actual start date, such as date of first disbursement",active
+end-actual,"The actual end date, such as date of last disbursement",active
+start-planned,The planned start date as recorded in project documentation. Can be date of signature of activity agreement or approval by relevant body,active
+end-planned,The planned end date as recorded in project documentation,active

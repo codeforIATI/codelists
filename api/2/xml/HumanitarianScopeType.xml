@@ -1,0 +1,31 @@
+<codelist name="HumanitarianScopeType" xml:lang="en" complete="0" embedded="0">
+    <metadata>
+        <name>
+            <narrative>Humanitarian Scope Type</narrative>
+            <narrative xml:lang="fr">Type de cadre humanitaire</narrative>
+        </name>
+        <description>
+            <narrative>The Humanitarian Scope Type codelist defines codes for types of humanitarian events and actions.</narrative>
+            <narrative xml:lang="fr">La liste de codes Type de cadre humanitaire définit des codes pour les types d'événements et actions humanitaires.</narrative>
+        </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
+    </metadata>
+    <codelist-items>
+        <codelist-item>
+            <code>1</code>
+            <name>
+                <narrative>Emergency</narrative>
+                <narrative xml:lang="fr">Urgence</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>2</code>
+            <name>
+                <narrative>Appeal</narrative>
+                <narrative xml:lang="fr">Appel</narrative>
+            </name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
