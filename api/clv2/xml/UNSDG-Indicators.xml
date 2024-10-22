@@ -1,0 +1,1494 @@
+<codelist category-codelist="UNSDG-Targets" name="UNSDG-Indicators" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <url>https://unstats.un.org/sdgs/indicators/indicators-list/</url>
+        <name>UN Sustainable Development Goals (SDG) Indicators</name>
+        <name xml:lang="fr">Objectifs de d&#233;veloppement durable (ODD) de l'ONU - indicateurs</name>
+        <description>A value from the third-level list of UN sustainable development goals (SDGs) (e.g. &#8216;1.1.1&#8217;)</description>
+        <category>Replicated</category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>1.1.1</code>
+            <category>1.1</category>
+            <name>Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)</name>
+            <name xml:lang="fr">Proportion de la population vivant au-dessous du seuil de pauvret&#233; fix&#233; au niveau international, par sexe, &#226;ge, situation dans l&#8217;emploi et lieu de r&#233;sidence (zone urbaine/zone rurale)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.2.1</code>
+            <category>1.2</category>
+            <name>Proportion of population living below the national poverty line, by sex and age</name>
+            <name xml:lang="fr">Proportion de la population vivant au-dessous du&#160;seuil national de pauvret&#233;, par sexe et &#226;ge</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.2.2</code>
+            <category>1.2</category>
+            <name>Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</name>
+            <name xml:lang="fr">Proportion d&#8217;hommes, de femmes et d&#8217;enfants de tous &#226;ges vivant dans une situation de pauvret&#233; sous toutes ses formes, telles que d&#233;finies par chaque pays</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.3.1</code>
+            <category>1.3</category>
+            <name>Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable</name>
+            <name xml:lang="fr">Proportion de la population b&#233;n&#233;ficiant de socles ou syst&#232;mes de protection sociale, par sexe et par groupe de population (enfants, ch&#244;meurs, personnes &#226;g&#233;es, personnes handicap&#233;es, femmes enceintes et nouveau-n&#233;s, victimes d&#8217;un accident du travail, pauvres et personnes vuln&#233;rables)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.4.1</code>
+            <category>1.4</category>
+            <name>Proportion of population living in households with access to basic services</name>
+            <name xml:lang="fr">Proportion de la population vivant dans des m&#233;nages ayant acc&#232;s aux services de base</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.4.2</code>
+            <category>1.4</category>
+            <name>Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure</name>
+            <name xml:lang="fr">Proportion de la population adulte totale qui dispose de la s&#233;curit&#233; des droits fonciers a) de documents l&#233;galement authentifi&#233;s et b) qui consid&#232;re que ses droits sur la terre sont s&#251;rs, par sexe et par type</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.5.1</code>
+            <category>1.5</category>
+            <name>Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</name>
+            <name xml:lang="fr">Nombre de personnes d&#233;c&#233;d&#233;es, disparues ou directement touch&#233;es lors de catastrophes, pour 100&#160;000&#160;personnes</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.5.2</code>
+            <category>1.5</category>
+            <name>Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)</name>
+            <name xml:lang="fr">Pertes &#233;conomiques directement attribuables &#224; des&#160;catastrophes par rapport au produit int&#233;rieur brut mondial (PIB)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.5.3</code>
+            <category>1.5</category>
+            <name>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015&#8211;2030</name>
+            <name xml:lang="fr">Nombre de pays ayant adopt&#233; et mis en place des&#160;strat&#233;gies nationales de r&#233;duction des risques de catastrophe, conform&#233;ment au Cadre de Sendai pour la&#160;r&#233;duction des risques de catastrophe (2015&#8209;2030)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.5.4</code>
+            <category>1.5</category>
+            <name>Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</name>
+            <name xml:lang="fr">Proportion d&#8217;administrations locales ayant adopt&#233; et mis en place des strat&#233;gies locales de r&#233;duction des risques de catastrophe, conform&#233;ment aux strat&#233;gies suivies &#224; l&#8217;&#233;chelle nationale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.a.1</code>
+            <category>1.a</category>
+            <name>Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country&#8217;s gross national income</name>
+            <name xml:lang="fr">Total des dons d&#8217;aide publique au d&#233;veloppement ax&#233;s sur la r&#233;duction de la pauvret&#233;, tous donateurs confondus, exprim&#233; en proportion du revenu national brut du pays b&#233;n&#233;ficiaire</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.a.2</code>
+            <category>1.a</category>
+            <name>Proportion of total government spending on essential services (education, health and social protection)</name>
+            <name xml:lang="fr">Proportion des d&#233;penses publiques totales affect&#233;e aux services essentiels (&#233;ducation, sant&#233; et protection sociale)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>1.b.1</code>
+            <category>1.b</category>
+            <name>Pro-poor public social spending</name>
+            <name xml:lang="fr">D&#233;penses sociales publiques favorables aux pauvres</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.1.1</code>
+            <category>2.1</category>
+            <name>Prevalence of undernourishment</name>
+            <name xml:lang="fr">Pr&#233;valence de la sous-alimentation</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.1.2</code>
+            <category>2.1</category>
+            <name>Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)</name>
+            <name xml:lang="fr">Pr&#233;valence d&#8217;une ins&#233;curit&#233; alimentaire mod&#233;r&#233;e ou grave, &#233;valu&#233;e selon l&#8217;&#233;chelle de mesure de l&#8217;ins&#233;curit&#233; alimentaire v&#233;cue (&#233;chelle FIES)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.2.1</code>
+            <category>2.2</category>
+            <name>Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5&#160;years of age</name>
+            <name xml:lang="fr">Pr&#233;valence du retard de croissance (indice taille/&#226;ge inf&#233;rieur &#224; -2 &#233;carts types par rapport &#224; la m&#233;diane des normes de croissance de l&#8217;enfant d&#233;finies par&#160;l&#8217;OMS) chez les enfants de moins de 5 ans</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.2.2</code>
+            <category>2.2</category>
+            <name>Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5&#160;years of age, by type (wasting and overweight)</name>
+            <name xml:lang="fr">Pr&#233;valence de la malnutrition (indice poids/taille sup&#233;rieur &#224; +2 &#233;carts types ou inf&#233;rieur &#224; -2 &#233;carts types par rapport &#224; la m&#233;diane des normes de croissance de l&#8217;enfant d&#233;finies par l&#8217;OMS chez les enfants de moins de&#160;5&#160;ans, par forme (surpoids et &#233;maciation)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.2.3</code>
+            <category>2.2</category>
+            <name>Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)</name>
+            <name xml:lang="fr">Pr&#233;valence de l&#8217;an&#233;mie chez les femmes &#226;g&#233;es de 15 &#224; 49 ans, selon l&#8217;&#233;tat de grossesse (pourcentage)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.3.1</code>
+            <category>2.3</category>
+            <name>Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</name>
+            <name xml:lang="fr">Volume de production par unit&#233; de travail, en fonction de la taille de l&#8217;exploitation agricole, pastorale ou&#160;foresti&#232;re</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.3.2</code>
+            <category>2.3</category>
+            <name>Average income of small-scale food producers, by sex and indigenous status</name>
+            <name xml:lang="fr">Revenu moyen des petits producteurs alimentaires, selon le sexe et le statut d&#8217;autochtone</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.4.1</code>
+            <category>2.4</category>
+            <name>Proportion of agricultural area under productive and sustainable agriculture</name>
+            <name xml:lang="fr">Proportion des zones agricoles exploit&#233;es de&#160;mani&#232;re productive et durable</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.5.1</code>
+            <category>2.5</category>
+            <name>Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities</name>
+            <name xml:lang="fr">Nombre de ressources g&#233;n&#233;tiques a) animales et b) v&#233;g&#233;tales destin&#233;es &#224; l&#8217;alimentation et &#224; l&#8217;agriculture s&#233;curis&#233;es dans des installations de conservation &#224; moyen ou &#224; long terme</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.5.2</code>
+            <category>2.5</category>
+            <name>Proportion of local breeds classified as being at risk of extinction</name>
+            <name xml:lang="fr">Proportion des races locales consid&#233;r&#233;es comme &#233;tant en danger d&#8217;extinction</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.a.1</code>
+            <category>2.a</category>
+            <name>The agriculture orientation index for government expenditures</name>
+            <name xml:lang="fr">Indice d&#8217;orientation agricole des d&#233;penses publiques</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.a.2</code>
+            <category>2.a</category>
+            <name>Total official flows (official development assistance plus other official flows) to the agriculture sector</name>
+            <name xml:lang="fr">Total des apports publics (aide publique au d&#233;veloppement plus autres apports publics) allou&#233;s au&#160;secteur agricole</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.b.1</code>
+            <category>2.b</category>
+            <name>Agricultural export subsidies</name>
+            <name xml:lang="fr">Subventions &#224; l&#8217;exportation dans le secteur agricole</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.c.1</code>
+            <category>2.c</category>
+            <name>Indicator of food price anomalies</name>
+            <name xml:lang="fr">Indicateur d&#8217;anomalies des prix alimentaires</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.1.1</code>
+            <category>3.1</category>
+            <name>Maternal mortality ratio</name>
+            <name xml:lang="fr">Taux de mortalit&#233; maternelle</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.1.2</code>
+            <category>3.1</category>
+            <name>Proportion of births attended by skilled health personnel</name>
+            <name xml:lang="fr">Proportion d&#8217;accouchements assist&#233;s par du&#160;personnel de sant&#233; qualifi&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.2.1</code>
+            <category>3.2</category>
+            <name>Under&#8209;5 mortality rate</name>
+            <name xml:lang="fr">Taux de mortalit&#233; des enfants de moins de 5 ans</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.2.2</code>
+            <category>3.2</category>
+            <name>Neonatal mortality rate</name>
+            <name xml:lang="fr">Taux de mortalit&#233; n&#233;onatale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.3.1</code>
+            <category>3.3</category>
+            <name>Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</name>
+            <name xml:lang="fr">Nombre de nouvelles infections &#224; VIH pour 1&#160;000&#160;personnes s&#233;ron&#233;gatives, par sexe, &#226;ge et appartenance &#224; un groupe de population &#224; risque</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.3.2</code>
+            <category>3.3</category>
+            <name>Tuberculosis incidence per 100,000 population</name>
+            <name xml:lang="fr">Incidence de la tuberculose pour 100&#160;000&#160;habitants</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.3.3</code>
+            <category>3.3</category>
+            <name>Malaria incidence per 1,000 population</name>
+            <name xml:lang="fr">Incidence du paludisme pour 1&#160;000 habitants</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.3.4</code>
+            <category>3.3</category>
+            <name>Hepatitis B incidence per 100,000 population</name>
+            <name xml:lang="fr">Incidence de l&#8217;h&#233;patite B pour 100&#160;000&#160;habitants</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.3.5</code>
+            <category>3.3</category>
+            <name>Number of people requiring interventions against neglected tropical diseases</name>
+            <name xml:lang="fr">Nombre de personnes pour lesquelles des interventions contre les maladies tropicales n&#233;glig&#233;es sont&#160;n&#233;cessaires</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.4.1</code>
+            <category>3.4</category>
+            <name>Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</name>
+            <name xml:lang="fr">Taux de mortalit&#233; attribuable &#224; des maladies cardiovasculaires, au cancer, au diab&#232;te ou &#224; des maladies respiratoires chroniques</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.4.2</code>
+            <category>3.4</category>
+            <name>Suicide mortality rate</name>
+            <name xml:lang="fr">Taux de mortalit&#233; par suicide</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.5.1</code>
+            <category>3.5</category>
+            <name>Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders</name>
+            <name xml:lang="fr">Couverture des interventions th&#233;rapeutiques (services pharmacologiques, psychosociaux, services de&#160;d&#233;sintoxication et de postcure) pour les troubles li&#233;s &#224;&#160;la&#160;toxicomanie</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.5.2</code>
+            <category>3.5</category>
+            <name>Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</name>
+            <name xml:lang="fr">Consommation d&#8217;alcool (en litres d&#8217;alcool pur) par habitant (&#226;g&#233; de 15 ans ou plus) au cours d&#8217;une ann&#233;e civile</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.6.1</code>
+            <category>3.6</category>
+            <name>Death rate due to road traffic injuries</name>
+            <name xml:lang="fr">Taux de mortalit&#233; li&#233; aux accidents de la route</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.7.1</code>
+            <category>3.7</category>
+            <name>Proportion of women of reproductive age (aged 15&#8211;49&#160;years) who have their need for family planning satisfied with modern methods</name>
+            <name xml:lang="fr">Proportion de femmes en &#226;ge de procr&#233;er (15&#160;&#224;&#160;49&#160;ans) qui utilisent des m&#233;thodes modernes de&#160;planification familiale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.7.2</code>
+            <category>3.7</category>
+            <name>Adolescent birth rate (aged 10&#8211;14 years; aged 15&#8211;19&#160;years) per 1,000 women in that age group</name>
+            <name xml:lang="fr">Taux de natalit&#233; chez les adolescentes (10 &#224; 14&#160;ans et 15 &#224; 19&#160;ans) pour 1&#160;000&#160;adolescentes du m&#234;me groupe d&#8217;&#226;ge</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.8.1</code>
+            <category>3.8</category>
+            <name>Coverage of essential health services</name>
+            <name xml:lang="fr">Couverture des services de sant&#233; essentiels</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.8.2</code>
+            <category>3.8</category>
+            <name>Proportion of population with large household expenditures on health as a share of total household expenditure or income</name>
+            <name xml:lang="fr">Proportion de la population consacrant une grande part de ses d&#233;penses ou de ses revenus domestiques aux services de soins de sant&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.9.1</code>
+            <category>3.9</category>
+            <name>Mortality rate attributed to household and ambient air pollution</name>
+            <name xml:lang="fr">Taux de mortalit&#233; attribuable &#224; la pollution de l&#8217;air dans les habitations et &#224; la pollution de l&#8217;air ambiant</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.9.2</code>
+            <category>3.9</category>
+            <name>Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)</name>
+            <name xml:lang="fr">Taux de mortalit&#233; attribuable &#224; l&#8217;insalubrit&#233; de l&#8217;eau, aux d&#233;ficiences du syst&#232;me d&#8217;assainissement et au&#160;manque d&#8217;hygi&#232;ne (acc&#232;s &#224; des services WASH inad&#233;quats)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.9.3</code>
+            <category>3.9</category>
+            <name>Mortality rate attributed to unintentional poisoning</name>
+            <name xml:lang="fr">Taux de mortalit&#233; attribuable &#224; un empoisonnement accidentel</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.a.1</code>
+            <category>3.a</category>
+            <name>Age-standardized prevalence of current tobacco use among persons aged 15&#160;years and older</name>
+            <name xml:lang="fr">Pr&#233;valence de la consommation actuelle de tabac chez les personnes de 15&#160;ans ou plus (taux comparatifs par&#160;&#226;ge)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.b.1</code>
+            <category>3.b</category>
+            <name>Proportion of the target population covered by all vaccines included in their national programme</name>
+            <name xml:lang="fr">Proportion de la population cible ayant re&#231;u tous les vaccins pr&#233;vus par le programme national</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.b.2</code>
+            <category>3.b</category>
+            <name>Total net official development assistance to medical research and basic health sectors</name>
+            <name xml:lang="fr">Montant total net de l&#8217;aide publique au d&#233;veloppement consacr&#233; &#224; la recherche m&#233;dicale et aux soins de sant&#233; de base</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.b.3</code>
+            <category>3.b</category>
+            <name>Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</name>
+            <name xml:lang="fr">Proportion des &#233;tablissements de sant&#233; disposant constamment d&#8217;un ensemble de m&#233;dicaments essentiels &#224;&#160;un co&#251;t abordable</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.c.1</code>
+            <category>3.c</category>
+            <name>Health worker density and distribution</name>
+            <name xml:lang="fr">Densit&#233; et r&#233;partition du personnel de sant&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.d.1</code>
+            <category>3.d</category>
+            <name>International Health Regulations (IHR) capacity and health emergency preparedness</name>
+            <name xml:lang="fr">Application du R&#232;glement sanitaire international (RSI) et degr&#233; de pr&#233;paration aux urgences sanitaires</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3.d.2</code>
+            <category>3.d</category>
+            <name>Percentage of bloodstream infections due to selected antimicrobial-resistant organisms</name>
+            <name xml:lang="fr">Pourcentage de septic&#233;mies caus&#233;es par un organisme r&#233;sistant aux antimicrobiens donn&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.1.1</code>
+            <category>4.1</category>
+            <name>Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</name>
+            <name xml:lang="fr">Proportion d&#8217;enfants et de jeunes a) en 2e ou 3e ann&#233;e de cycle primaire ; b) en fin de cycle primaire ; c) en fin de premier cycle du secondaire qui ma&#238;trisent au moins les normes d&#8217;aptitudes minimales en i) lecture et ii) math&#233;matiques, par sexe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.1.2</code>
+            <category>4.1</category>
+            <name>Completion rate (primary education, lower secondary education, upper secondary education)</name>
+            <name xml:lang="fr">Taux d&#8217;ach&#232;vement (enseignement primaire, premier et deuxi&#232;me cycles de l&#8217;enseignement secondaire)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.2.1</code>
+            <category>4.2</category>
+            <name>Proportion of children aged 24&#8211;59 months who are developmentally on track in health, learning and psychosocial well-being, by sex</name>
+            <name xml:lang="fr">Proportion d&#8217;enfants &#226;g&#233;s de 24 &#224; 59 mois dont le d&#233;veloppement est en bonne voie en mati&#232;re de sant&#233;, d&#8217;apprentissage et de bien-&#234;tre psychosocial, par sexe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.2.2</code>
+            <category>4.2</category>
+            <name>Participation rate in organized learning (one year before the official primary entry age), by sex</name>
+            <name xml:lang="fr">Taux de participation &#224; des activit&#233;s d&#8217;apprentissage organis&#233;es (un an avant l&#8217;&#226;ge officiel de&#160;scolarisation dans le primaire), par sexe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.3.1</code>
+            <category>4.3</category>
+            <name>Participation rate of youth and adults in formal and non-formal education and training in the previous 12&#160;months, by sex</name>
+            <name xml:lang="fr">Taux de participation des jeunes et des adultes &#224;&#160;un programme d&#8217;&#233;ducation et de formation scolaire ou non scolaire au cours des 12 mois pr&#233;c&#233;dents, par sexe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.4.1</code>
+            <category>4.4</category>
+            <name>Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill</name>
+            <name xml:lang="fr">Proportion de jeunes et d&#8217;adultes ayant des comp&#233;tences dans le domaine des technologies de l&#8217;information et des communications, par type de comp&#233;tence</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.5.1</code>
+            <category>4.5</category>
+            <name>Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</name>
+            <name xml:lang="fr">Indices de parit&#233; (femmes/hommes, urbain/rural, quintile inf&#233;rieur/sup&#233;rieur de richesse et autres param&#232;tres tels que le handicap, le statut d&#8217;autochtone et les situations de conflit, &#224; mesure que les donn&#233;es deviennent disponibles) pour tous les indicateurs dans le domaine de&#160;l&#8217;&#233;ducation de cette liste pouvant &#234;tre ventil&#233;s</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.6.1</code>
+            <category>4.6</category>
+            <name>Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex</name>
+            <name xml:lang="fr">Proportion de la population d&#8217;un groupe d&#8217;&#226;ge donn&#233; ayant les comp&#233;tences voulues &#224; au moins un niveau d&#8217;aptitude fix&#233; a)&#160;en alphab&#233;tisme et b)&#160;arithm&#233;tique fonctionnels, par sexe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.7.1</code>
+            <category>4.7</category>
+            <name>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</name>
+            <name xml:lang="fr">Degr&#233; d&#8217;int&#233;gration de i) l&#8217;&#233;ducation &#224; la citoyennet&#233; mondiale et ii) l&#8217;&#233;ducation au d&#233;veloppement durable dans a) les politiques nationales d&#8217;&#233;ducation, b) les programmes d&#8217;enseignement, c) la formation des enseignants et d) l&#8217;&#233;valuation des &#233;tudiants (identique &#224; l&#8217;am&#233;lioration &#224; apporter &#224; l&#8217;indicateur 12.8.1 ci dessous et &#224; la proposition de remplacement faite pour l&#8217;indicateur 13.3.1, figurant &#224; la section A de l&#8217;annexe II)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.a.1</code>
+            <category>4.a</category>
+            <name>Proportion of schools offering basic services, by type of service</name>
+            <name xml:lang="fr">Proportion d&#8217;&#233;tablissements scolaires offrant des services essentiels, par type de service</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.b.1</code>
+            <category>4.b</category>
+            <name>Volume of official development assistance flows for scholarships by sector and type of study</name>
+            <name xml:lang="fr">Volume de l&#8217;aide publique au d&#233;veloppement consacr&#233;e aux bourses d&#8217;&#233;tudes, par secteur et type de&#160;formation</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>4.c.1</code>
+            <category>4.c</category>
+            <name>Proportion of teachers with the minimum required qualifications, by education level</name>
+            <name xml:lang="fr">Proportion d&#8217;enseignants poss&#233;dant les qualifications minimales requises par niveau d&#8217;&#233;tudes</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.1.1</code>
+            <category>5.1</category>
+            <name>Whether or not legal frameworks are in place to&#160;promote, enforce and monitor equality and non&#8209;discrimination on the basis of sex</name>
+            <name xml:lang="fr">Pr&#233;sence ou absence d&#8217;un cadre juridique visant &#224;&#160;promouvoir, faire respecter et suivre l&#8217;application des principes d&#8217;&#233;galit&#233; des sexes et de non-discrimination fond&#233;e sur le sexe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.2.1</code>
+            <category>5.2</category>
+            <name>Proportion of ever-partnered women and girls aged 15&#160;years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</name>
+            <name xml:lang="fr">Proportion de femmes et de filles &#226;g&#233;es de 15&#160;ans ou plus ayant v&#233;cu en couple victimes de violences physiques, sexuelles ou psychologiques inflig&#233;es au cours des 12&#160;mois pr&#233;c&#233;dents par leur partenaire actuel ou un ancien partenaire, par forme de violence et par &#226;ge</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.2.2</code>
+            <category>5.2</category>
+            <name>Proportion of women and girls aged 15&#160;years and older subjected to sexual violence by persons other than an&#160;intimate partner in the previous 12&#160;months, by age and place of occurrence</name>
+            <name xml:lang="fr">Proportion de femmes et de filles &#226;g&#233;es de 15&#160;ans ou plus victimes de violences sexuelles inflig&#233;es au cours des 12 mois pr&#233;c&#233;dents par une personne autre que leur partenaire intime, par &#226;ge et lieu des faits</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.3.1</code>
+            <category>5.3</category>
+            <name>Proportion of women aged 20&#8211;24&#160;years who were married or in a union before age 15 and before age 18</name>
+            <name xml:lang="fr">Proportion de femmes &#226;g&#233;es de 20 &#224; 24&#160;ans qui &#233;taient mari&#233;es ou en couple avant l&#8217;&#226;ge de 15&#160;ans ou de&#160;18&#160;ans</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.3.2</code>
+            <category>5.3</category>
+            <name>Proportion of girls and women aged 15&#8211;49&#160;years who have undergone female genital mutilation/cutting, by&#160;age</name>
+            <name xml:lang="fr">Proportion de filles et de femmes &#226;g&#233;es de 15&#160;&#224;&#160;49&#160;ans ayant subi une mutilation ou une ablation g&#233;nitale, par &#226;ge</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.4.1</code>
+            <category>5.4</category>
+            <name>Proportion of time spent on unpaid domestic and care work, by sex, age and location</name>
+            <name xml:lang="fr">Proportion du temps consacr&#233; &#224; des soins et travaux domestiques non r&#233;mun&#233;r&#233;s, par sexe, &#226;ge et lieu&#160;de r&#233;sidence</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.5.1</code>
+            <category>5.5</category>
+            <name>Proportion of seats held by women in (a) national parliaments and (b) local governments</name>
+            <name xml:lang="fr">Proportion de si&#232;ges occup&#233;s par des femmes dans&#160;a)&#160;les parlements nationaux et b)&#160;les administrations locales</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.5.2</code>
+            <category>5.5</category>
+            <name>Proportion of women in managerial positions</name>
+            <name xml:lang="fr">Proportion de femmes occupant des postes de&#160;direction</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.6.1</code>
+            <category>5.6</category>
+            <name>Proportion of women aged 15&#8211;49&#160;years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</name>
+            <name xml:lang="fr">Proportion de femmes &#226;g&#233;es de 15 &#224; 49&#160;ans prenant, en connaissance de cause, leurs propres d&#233;cisions concernant leurs relations sexuelles, l&#8217;utilisation de contraceptifs et les soins de sant&#233; procr&#233;ative</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.6.2</code>
+            <category>5.6</category>
+            <name>Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15&#160;years and older to sexual and reproductive health care, information and education</name>
+            <name xml:lang="fr">Nombre de pays dot&#233;s de textes l&#233;gislatifs et r&#233;glementaires garantissant aux femmes et aux hommes de&#160;15&#160;ans ou plus un acc&#232;s &#233;quitable et sans restriction aux&#160;soins de sant&#233; sexuelle et procr&#233;ative, ainsi qu&#8217;&#224; des informations et une &#233;ducation dans ce domaine</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.a.1</code>
+            <category>5.a</category>
+            <name>(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure</name>
+            <name xml:lang="fr">a)&#160;Proportion de la population agricole totale ayant des droits de propri&#233;t&#233; ou des droits garantis sur des terres agricoles, par sexe&#160;; b)&#160;proportion de femmes parmi les titulaires de droits de propri&#233;t&#233; ou de droits garantis sur des terrains agricoles, par type de droit</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.a.2</code>
+            <category>5.a</category>
+            <name>Proportion of countries where the legal framework (including customary law) guarantees women&#8217;s equal rights to land ownership and/or control</name>
+            <name xml:lang="fr">Proportion de pays dot&#233;s d&#8217;un cadre juridique (y&#160;compris le droit coutumier) garantissant aux femmes les&#160;m&#234;mes droits que les hommes en mati&#232;re d&#8217;acc&#232;s &#224; la propri&#233;t&#233; ou au contr&#244;le des terres</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.b.1</code>
+            <category>5.b</category>
+            <name>Proportion of individuals who own a mobile telephone, by sex</name>
+            <name xml:lang="fr">Proportion de la population poss&#233;dant un t&#233;l&#233;phone portable, par sexe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.c.1</code>
+            <category>5.c</category>
+            <name>Proportion of countries with systems to track and make public allocations for gender equality and women&#8217;s empowerment</name>
+            <name xml:lang="fr">Proportion de pays dot&#233;s de syst&#232;mes permettant de suivre et de rendre public le montant des ressources allou&#233;es &#224; l&#8217;&#233;galit&#233; des sexes et &#224; l&#8217;autonomisation des femmes</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.1.1</code>
+            <category>6.1</category>
+            <name>Proportion of population using safely managed drinking water services</name>
+            <name xml:lang="fr">Proportion de la population utilisant des services d&#8217;alimentation en eau potable g&#233;r&#233;s en toute s&#233;curit&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.2.1</code>
+            <category>6.2</category>
+            <name>Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</name>
+            <name xml:lang="fr">Proportion de la population utilisant a) des services d&#8217;assainissement g&#233;r&#233;s en toute s&#233;curit&#233; et b) notamment des &#233;quipements pour se laver les mains avec de l&#8217;eau et du savon</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.3.1</code>
+            <category>6.3</category>
+            <name>Proportion of domestic and industrial wastewater flows safely treated</name>
+            <name xml:lang="fr">Proportion des eaux us&#233;es d&#8217;origine m&#233;nag&#232;re et industrielle trait&#233;es sans danger</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.3.2</code>
+            <category>6.3</category>
+            <name>Proportion of bodies of water with good ambient water quality</name>
+            <name xml:lang="fr">Proportion des masses d&#8217;eau dont la qualit&#233; de l&#8217;eau ambiante est bonne</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.4.1</code>
+            <category>6.4</category>
+            <name>Change in water-use efficiency over time</name>
+            <name xml:lang="fr">Variation de l&#8217;efficacit&#233; de l&#8217;utilisation des ressources en eau</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.4.2</code>
+            <category>6.4</category>
+            <name>Level of water stress: freshwater withdrawal as a proportion of available freshwater resources</name>
+            <name xml:lang="fr">Niveau de stress hydrique&#160;: pr&#233;l&#232;vements d&#8217;eau douce en proportion des ressources en eau douce disponibles</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.5.1</code>
+            <category>6.5</category>
+            <name>Degree of integrated water resources management</name>
+            <name xml:lang="fr">Degr&#233; de la gestion int&#233;gr&#233;e des ressources en eau</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.5.2</code>
+            <category>6.5</category>
+            <name>Proportion of transboundary basin area with an operational arrangement for water cooperation</name>
+            <name xml:lang="fr">Proportion de bassins hydriques transfrontaliers o&#249;&#160;est en place un dispositif de coop&#233;ration op&#233;rationnel</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.6.1</code>
+            <category>6.6</category>
+            <name>Change in the extent of water-related ecosystems over time</name>
+            <name xml:lang="fr">Variation de l&#8217;&#233;tendue des &#233;cosyst&#232;mes tributaires de l&#8217;eau</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.a.1</code>
+            <category>6.a</category>
+            <name>Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan</name>
+            <name xml:lang="fr">Montant de l&#8217;aide publique au d&#233;veloppement consacr&#233;e &#224; l&#8217;eau et &#224; l&#8217;assainissement dans un plan de d&#233;penses coordonn&#233; par les pouvoirs publics</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.b.1</code>
+            <category>6.b</category>
+            <name>Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</name>
+            <name xml:lang="fr">Proportion d&#8217;administrations locales ayant mis en&#160;place des politiques et proc&#233;dures op&#233;rationnelles encourageant la participation de la population locale &#224; la gestion de l&#8217;eau et de l&#8217;assainissement</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>7.1.1</code>
+            <category>7.1</category>
+            <name>Proportion of population with access to electricity</name>
+            <name xml:lang="fr">Proportion de la population ayant acc&#232;s &#224;&#160;l&#8217;&#233;lectricit&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>7.1.2</code>
+            <category>7.1</category>
+            <name>Proportion of population with primary reliance on clean fuels and technology</name>
+            <name xml:lang="fr">Proportion de la population utilisant principalement des carburants et technologies propres</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>7.2.1</code>
+            <category>7.2</category>
+            <name>Renewable energy share in the total final energy consumption</name>
+            <name xml:lang="fr">Part de l&#8217;&#233;nergie renouvelable dans la consommation finale d&#8217;&#233;nergie</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>7.3.1</code>
+            <category>7.3</category>
+            <name>Energy intensity measured in terms of primary energy and GDP</name>
+            <name xml:lang="fr">Intensit&#233; &#233;nerg&#233;tique [rapport entre &#233;nergie primaire et produit int&#233;rieur brut (PIB)]</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>7.a.1</code>
+            <category>7.a</category>
+            <name>International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems</name>
+            <name xml:lang="fr">Flux financiers internationaux &#224; destination des pays en d&#233;veloppement &#224; l&#8217;appui de la recherche-d&#233;veloppement dans le domaine des &#233;nergies propres et de&#160;la production d&#8217;&#233;nergie renouvelable, notamment au moyen de syst&#232;mes hybrides</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>7.b.1</code>
+            <category>7.b</category>
+            <name>Installed renewable energy-generating capacity in developing countries (in watts per capita)</name>
+            <name xml:lang="fr">Puissance install&#233;e du parc d&#8217;&#233;nergie renouvelable dans les pays en d&#233;veloppement (en watts par habitant) (identique &#224; l&#8217;indicateur propos&#233; en remplacement de l&#8217;indicateur 12.a.1 ci-dessous)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.1.1</code>
+            <category>8.1</category>
+            <name>Annual growth rate of real GDP per capita</name>
+            <name xml:lang="fr">Taux de croissance annuelle du PIB r&#233;el par&#160;habitant</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.2.1</code>
+            <category>8.2</category>
+            <name>Annual growth rate of real GDP per employed person</name>
+            <name xml:lang="fr">Taux de croissance annuelle du PIB r&#233;el par&#160;personne pourvue d&#8217;un emploi</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.3.1</code>
+            <category>8.3</category>
+            <name>Proportion of informal employment in total employment, by sector and sex</name>
+            <name xml:lang="fr">Proportion de l&#8217;emploi informel dans l&#8217;emploi total, par secteur et par sexe</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.4.1</code>
+            <category>8.4</category>
+            <name>Material footprint, material footprint per capita, and material footprint per GDP</name>
+            <name xml:lang="fr">Empreinte mat&#233;rielle, empreinte mat&#233;rielle par habitant et empreinte mat&#233;rielle par unit&#233; de PIB</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.4.2</code>
+            <category>8.4</category>
+            <name>Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP</name>
+            <name xml:lang="fr">Consommation mat&#233;rielle nationale, consommation mat&#233;rielle nationale par habitant et consommation mat&#233;rielle nationale par unit&#233; de PIB</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.5.1</code>
+            <category>8.5</category>
+            <name>Average hourly earnings of employees, by sex, age, occupation and persons with disabilities</name>
+            <name xml:lang="fr">R&#233;mun&#233;ration horaire moyenne des salari&#233;s, par sexe, profession, &#226;ge et situation au regard du handicap</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.5.2</code>
+            <category>8.5</category>
+            <name>Unemployment rate, by sex, age and persons with disabilities</name>
+            <name xml:lang="fr">Taux de ch&#244;mage, par sexe, &#226;ge et situation au&#160;regard du handicap</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.6.1</code>
+            <category>8.6</category>
+            <name>Proportion of youth (aged 15&#8211;24&#160;years) not in education, employment or training</name>
+            <name xml:lang="fr">Proportion de jeunes (&#226;g&#233;s de 15 &#224; 24&#160;ans) non&#160;scolaris&#233;s et sans emploi ni formation</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.7.1</code>
+            <category>8.7</category>
+            <name>Proportion and number of children aged 5&#8211;17&#160;years engaged in child labour, by sex and age</name>
+            <name xml:lang="fr">Proportion et nombre d&#8217;enfants &#226;g&#233;s de 5 &#224; 17&#160;ans qui travaillent, par sexe et &#226;ge</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.8.1</code>
+            <category>8.8</category>
+            <name>Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status</name>
+            <name xml:lang="fr">Nombre d&#8217;accidents du travail mortels et non mortels par 100 000 travailleurs, par sexe et statut au regard de l&#8217;immigration</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.8.2</code>
+            <category>8.8</category>
+            <name>Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status</name>
+            <name xml:lang="fr">Niveau de respect des droits du travail (libert&#233; d&#8217;association et droit de n&#233;gociation collective) au niveau national, eu &#233;gard aux textes de l&#8217;Organisation internationale du Travail (OIT) et &#224; la l&#233;gislation nationale, par sexe et statut migratoire</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.9.1</code>
+            <category>8.9</category>
+            <name>Tourism direct GDP as a proportion of total GDP and in growth rate</name>
+            <name xml:lang="fr">PIB directement tir&#233; du tourisme, en proportion du&#160;PIB total et en taux de croissance</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.10.1</code>
+            <category>8.10</category>
+            <name>(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults</name>
+            <name xml:lang="fr">a)&#160;Nombre de succursales de banques commerciales pour 100&#160;000 adultes et b)&#160;nombre de distributeurs automatiques de billets pour 100&#160;000&#160;adultes</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.10.2</code>
+            <category>8.10</category>
+            <name>Proportion of adults (15&#160;years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</name>
+            <name xml:lang="fr">Proportion d&#8217;adultes (15&#160;ans ou plus) poss&#233;dant un compte dans une banque ou dans une autre institution financi&#232;re ou faisant appel &#224; des services mon&#233;taires mobiles</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.a.1</code>
+            <category>8.a</category>
+            <name>Aid for Trade commitments and disbursements</name>
+            <name xml:lang="fr">Engagements pris et d&#233;caissements effectu&#233;s dans le cadre de l&#8217;initiative Aide pour le commerce</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>8.b.1</code>
+            <category>8.b</category>
+            <name>Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy</name>
+            <name xml:lang="fr">Existence d&#8217;une strat&#233;gie nationale de promotion de l&#8217;emploi des jeunes, qu&#8217;il s&#8217;agisse d&#8217;une strat&#233;gie &#224; part enti&#232;re ou d&#8217;une composante d&#8217;une strat&#233;gie nationale de promotion de l&#8217;emploi, et application de cette strat&#233;gie</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.1.1</code>
+            <category>9.1</category>
+            <name>Proportion of the rural population who live within 2&#160;km of an all-season road</name>
+            <name xml:lang="fr">Proportion de la population rurale vivant &#224; moins de 2&#160;km d&#8217;une route praticable toute l&#8217;ann&#233;e</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.1.2</code>
+            <category>9.1</category>
+            <name>Passenger and freight volumes, by mode of transport</name>
+            <name xml:lang="fr">Nombre de passagers et volume de fret transport&#233;s, par mode de transport</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.2.1</code>
+            <category>9.2</category>
+            <name>Manufacturing value added as a proportion of GDP and per capita</name>
+            <name xml:lang="fr">Valeur ajout&#233;e dans l&#8217;industrie manufacturi&#232;re, en&#160;proportion du PIB et par habitant</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.2.2</code>
+            <category>9.2</category>
+            <name>Manufacturing employment as a proportion of total employment</name>
+            <name xml:lang="fr">Emploi dans l&#8217;industrie manufacturi&#232;re, en&#160;proportion de l&#8217;emploi total</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.3.1</code>
+            <category>9.3</category>
+            <name>Proportion of small-scale industries in total industry value added</name>
+            <name xml:lang="fr">Proportion des petites entreprises dans la valeur ajout&#233;e totale de l&#8217;industrie</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.3.2</code>
+            <category>9.3</category>
+            <name>Proportion of small-scale industries with a loan or line of credit</name>
+            <name xml:lang="fr">Proportion des petites entreprises industrielles ayant contract&#233; un pr&#234;t ou une ligne de cr&#233;dit</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.4.1</code>
+            <category>9.4</category>
+            <name>CO2 emission per unit of value added</name>
+            <name xml:lang="fr">&#201;missions de CO2 par unit&#233; de valeur ajout&#233;e</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.5.1</code>
+            <category>9.5</category>
+            <name>Research and development expenditure as a proportion of GDP</name>
+            <name xml:lang="fr">D&#233;penses de recherche-d&#233;veloppement en proportion du PIB</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.5.2</code>
+            <category>9.5</category>
+            <name>Researchers (in full-time equivalent) per million inhabitants</name>
+            <name xml:lang="fr">Nombre de chercheurs (&#233;quivalent plein temps) par million d&#8217;habitants</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.a.1</code>
+            <category>9.a</category>
+            <name>Total official international support (official development assistance plus other official flows) to infrastructure</name>
+            <name xml:lang="fr">Montant total de l&#8217;aide publique internationale (aide publique au d&#233;veloppement et autres apports du secteur public) allou&#233; aux infrastructures</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.b.1</code>
+            <category>9.b</category>
+            <name>Proportion of medium and high-tech industry value added in total value added</name>
+            <name xml:lang="fr">Proportion dans la valeur ajout&#233;e totale de la&#160;valeur ajout&#233;e des secteurs de moyenne et haute technologie</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>9.c.1</code>
+            <category>9.c</category>
+            <name>Proportion of population covered by a mobile network, by technology</name>
+            <name xml:lang="fr">Proportion de la population ayant acc&#232;s &#224; un r&#233;seau mobile, par type de technologie</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.1.1</code>
+            <category>10.1</category>
+            <name>Growth rates of household expenditure or income per capita among the bottom 40&#160;per&#160;cent of the population and the total population</name>
+            <name xml:lang="fr">Taux de croissance des d&#233;penses des m&#233;nages ou&#160;du revenu par habitant pour les 40&#160;pour&#160;cent de la&#160;population les plus pauvres et pour l&#8217;ensemble de la&#160;population</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.2.1</code>
+            <category>10.2</category>
+            <name>Proportion of people living below 50&#160;per&#160;cent of median income, by sex, age and persons with disabilities</name>
+            <name xml:lang="fr">Proportion de personnes vivant avec moins de la&#160;moiti&#233; du revenu m&#233;dian, par sexe, &#226;ge et situation au&#160;regard du handicap</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.3.1</code>
+            <category>10.3</category>
+            <name>Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights&#160;law</name>
+            <name xml:lang="fr">Proportion de la population ayant d&#233;clar&#233; avoir personnellement fait l&#8217;objet de discrimination ou de harc&#232;lement au cours des 12&#160;mois pr&#233;c&#233;dents pour des&#160;motifs interdits par le droit international des droits de&#160;l&#8217;homme</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.4.1</code>
+            <category>10.4</category>
+            <name>Labour share of GDP</name>
+            <name xml:lang="fr">Part du travail dans le PIB</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.4.2</code>
+            <category>10.4</category>
+            <name>Redistributive impact of fiscal policy</name>
+            <name xml:lang="fr">Effet redistributif de la politique budg&#233;taire</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.5.1</code>
+            <category>10.5</category>
+            <name>Financial Soundness Indicators</name>
+            <name xml:lang="fr">Indicateurs de solidit&#233; financi&#232;re</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.6.1</code>
+            <category>10.6</category>
+            <name>Proportion of members and voting rights of developing countries in international organizations</name>
+            <name xml:lang="fr">Proportion de pays en d&#233;veloppement qui sont membres d&#8217;organisations internationales et y disposent du&#160;droit de vote</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.7.1</code>
+            <category>10.7</category>
+            <name>Recruitment cost borne by employee as a proportion of monthly income earned in country of destination</name>
+            <name xml:lang="fr">D&#233;penses de recrutement &#224; la charge du salari&#233; en proportion de son revenu mensuel dans le pays de destination</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.7.2</code>
+            <category>10.7</category>
+            <name>Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people</name>
+            <name xml:lang="fr">Nombre de pays dot&#233;s de politiques migratoires qui facilitent la migration et la mobilit&#233; de fa&#231;on ordonn&#233;e, s&#251;re, r&#233;guli&#232;re et responsible</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.7.3</code>
+            <category>10.7</category>
+            <name>Number of people who died or disappeared in the process of migration towards an international destination</name>
+            <name xml:lang="fr">Nombre de personnes d&#233;c&#233;d&#233;es ou disparues lors de la migration vers une destination internationale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.7.4</code>
+            <category>10.7</category>
+            <name>Proportion of the population who are refugees, by country of origin</name>
+            <name xml:lang="fr">Proportion de r&#233;fugi&#233;s dans la population, par pays d&#8217;origine</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.a.1</code>
+            <category>10.a</category>
+            <name>Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff</name>
+            <name xml:lang="fr">Proportion de lignes tarifaires concern&#233;es par les importations en provenance des pays les moins avanc&#233;s et&#160;des pays en d&#233;veloppement b&#233;n&#233;ficiant d&#8217;une franchise de droits</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.b.1</code>
+            <category>10.b</category>
+            <name>Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)</name>
+            <name xml:lang="fr">Montant total des ressources allou&#233;es au d&#233;veloppement, par pays b&#233;n&#233;ficiaire et donateur et type d&#8217;apport (aide publique au d&#233;veloppement, investissement &#233;tranger direct et autres)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>10.c.1</code>
+            <category>10.c</category>
+            <name>Remittance costs as a proportion of the amount remitted</name>
+            <name xml:lang="fr">Co&#251;ts des envois de fonds en proportion du&#160;montant transf&#233;r&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.1.1</code>
+            <category>11.1</category>
+            <name>Proportion of urban population living in slums, informal settlements or inadequate housing</name>
+            <name xml:lang="fr">Proportion de la population urbaine vivant dans des quartiers de taudis, des implantations sauvages ou des&#160;logements inad&#233;quats</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.2.1</code>
+            <category>11.2</category>
+            <name>Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities</name>
+            <name xml:lang="fr">Proportion de la population ayant ais&#233;ment acc&#232;s aux transports publics, par &#226;ge, sexe et situation au regard du handicap</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.3.1</code>
+            <category>11.3</category>
+            <name>Ratio of land consumption rate to population growth rate</name>
+            <name xml:lang="fr">Ratio entre le taux d&#8217;utilisation des terres et le taux de croissance d&#233;mographique</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.3.2</code>
+            <category>11.3</category>
+            <name>Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically</name>
+            <name xml:lang="fr">Proportion de villes dot&#233;es d&#8217;une structure de participation directe de la soci&#233;t&#233; civile &#224; la gestion et &#224; l&#8217;am&#233;nagement des villes, fonctionnant de fa&#231;on r&#233;guli&#232;re et d&#233;mocratique</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.4.1</code>
+            <category>11.4</category>
+            <name>Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)</name>
+            <name xml:lang="fr">D&#233;penses totales par habitant consacr&#233;es &#224; la pr&#233;servation, &#224; la protection et &#224; la conservation de l&#8217;ensemble du patrimoine culturel et naturel, par source de financement (publique, priv&#233;e), type de patrimoine (culturel, naturel) et niveau d&#8217;administration (national, r&#233;gional et local/municipal)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.5.1</code>
+            <category>11.5</category>
+            <name>Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</name>
+            <name xml:lang="fr">Nombre de personnes d&#233;c&#233;d&#233;es, disparues ou directement touch&#233;es lors de catastrophes, pour 100&#160;000&#160;personnes</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.5.2</code>
+            <category>11.5</category>
+            <name>Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters</name>
+            <name xml:lang="fr">Pertes &#233;conomiques directes mesur&#233;es par rapport au PIB mondial, dommages caus&#233;s aux infrastructures critiques et nombre de perturbations des services de base r&#233;sultant de catastrophes</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.6.1</code>
+            <category>11.6</category>
+            <name>Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities</name>
+            <name xml:lang="fr">Proportion de d&#233;chets municipaux solides collect&#233;s et g&#233;r&#233;s dans des installations contr&#244;l&#233;es sur le total des d&#233;chets municipaux g&#233;n&#233;r&#233;s, par ville</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.6.2</code>
+            <category>11.6</category>
+            <name>Annual mean levels of fine particulate matter (e.g.&#160;PM2.5 and PM10) in cities (population weighted)</name>
+            <name xml:lang="fr">Niveau moyen annuel de particules fines (PM&#160;2,5 et PM 10, par exemple) dans les villes, pond&#233;r&#233; en fonction du nombre d&#8217;habitants</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.7.1</code>
+            <category>11.7</category>
+            <name>Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities</name>
+            <name xml:lang="fr">Proportion moyenne de la surface urbaine construite consacr&#233;e &#224; des espaces publics, par sexe, &#226;ge et&#160;situation au regard du handicap</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.7.2</code>
+            <category>11.7</category>
+            <name>Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months</name>
+            <name xml:lang="fr">Proportion de personnes victimes de harc&#232;lement physique ou sexuel, par sexe, &#226;ge, situation au regard du handicap et lieu des faits (au cours des 12 mois pr&#233;c&#233;dents)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.a.1</code>
+            <category>11.a</category>
+            <name>Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space</name>
+            <name xml:lang="fr">Nombre de pays ayant adopt&#233; une politique urbaine nationale ou un plan de d&#233;veloppement r&#233;gional qui a) tienne compte de la dynamique des populations, b) vise &#224; l&#8217;&#233;quilibre du d&#233;veloppement territorial et c) &#233;largisse la marge de man&#339;uvre budg&#233;taire locale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.b.1</code>
+            <category>11.b</category>
+            <name>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015&#8211;2030</name>
+            <name xml:lang="fr">Nombre de pays ayant adopt&#233; et mis en place des&#160;strat&#233;gies nationales de r&#233;duction des risques de catastrophe, conform&#233;ment au Cadre de Sendai pour la&#160;r&#233;duction des risques de catastrophe (2015&#8209;2030)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.b.2</code>
+            <category>11.b</category>
+            <name>Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</name>
+            <name xml:lang="fr">Proportion d&#8217;administrations locales ayant adopt&#233; et mis en place des strat&#233;gies locales de r&#233;duction des risques de catastrophe, conform&#233;ment aux strat&#233;gies suivies &#224; l&#8217;&#233;chelle nationale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.1.1</code>
+            <category>12.1</category>
+            <name>Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production</name>
+            <name xml:lang="fr">Nombre de pays &#233;laborant, adoptant ou mettant en &#339;uvre des politiques d&#8217;appui &#224; la transition vers des modes de consommation et de production durables</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.2.1</code>
+            <category>12.2</category>
+            <name>Material footprint, material footprint per capita, and material footprint per GDP</name>
+            <name xml:lang="fr">Empreinte mat&#233;rielle, empreinte mat&#233;rielle par habitant et empreinte mat&#233;rielle par unit&#233; de PIB</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.2.2</code>
+            <category>12.2</category>
+            <name>Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP</name>
+            <name xml:lang="fr">Consommation mat&#233;rielle nationale, consommation mat&#233;rielle nationale par habitant et consommation mat&#233;rielle nationale par unit&#233; de PIB</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.3.1</code>
+            <category>12.3</category>
+            <name>(a) Food loss index and (b) food waste index</name>
+            <name xml:lang="fr">a) Indice des pertes alimentaires ; b) indice du gaspillage alimentaire</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.4.1</code>
+            <category>12.4</category>
+            <name>Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement</name>
+            <name xml:lang="fr">Nombre de parties aux accords internationaux multilat&#233;raux sur l&#8217;environnement relatifs aux substances chimiques et autres d&#233;chets dangereux ayant satisfait &#224; leurs engagements et obligations en communiquant les informations requises par chaque accord</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.4.2</code>
+            <category>12.4</category>
+            <name>(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment</name>
+            <name xml:lang="fr">a) Production de d&#233;chets dangereux par habitant et b) proportion de d&#233;chets dangereux trait&#233;s, par type de traitement</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.5.1</code>
+            <category>12.5</category>
+            <name>National recycling rate, tons of material recycled</name>
+            <name xml:lang="fr">Taux de recyclage national, tonnes de mat&#233;riaux recycl&#233;s</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.6.1</code>
+            <category>12.6</category>
+            <name>Number of companies publishing sustainability reports</name>
+            <name xml:lang="fr">Nombre d&#8217;entreprises qui publient des rapports sur le d&#233;veloppement durable</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.7.1</code>
+            <category>12.7</category>
+            <name>Degree of sustainable public procurement policies and action plan implementation</name>
+            <name xml:lang="fr">Degr&#233; de mise en &#339;uvre des politiques et plans d&#8217;action relatifs aux pratiques durables de passation des march&#233;s publics</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.8.1</code>
+            <category>12.8</category>
+            <name>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</name>
+            <name xml:lang="fr">Degr&#233; d&#8217;int&#233;gration de i) l&#8217;&#233;ducation &#224; la citoyennet&#233; mondiale et ii) l&#8217;&#233;ducation au d&#233;veloppement durable dans a) les politiques nationales d&#8217;&#233;ducation, b) les programmes d&#8217;enseignement, c) la formation des enseignants et d) l&#8217;&#233;valuation des &#233;tudiants (identique &#224; l&#8217;am&#233;lioration &#224; apporter &#224; l&#8217;indicateur 4.7.1 ci dessus et &#224; l&#8217;indicateur propos&#233; en remplacement de l&#8217;indicateur 13.3.1, figurant &#224; la section A de l&#8217;annexe II)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.a.1</code>
+            <category>12.a</category>
+            <name>Installed renewable energy-generating capacity in developing countries (in watts per capita)</name>
+            <name xml:lang="fr">Puissance install&#233;e du parc d&#8217;&#233;nergie renouvelable dans les pays en d&#233;veloppement (en watts par habitant)(identique &#224; l&#8217;indicateur propos&#233; en remplacement de l&#8217;indicateur 7.b.1 ci-dessus)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.b.1</code>
+            <category>12.b</category>
+            <name>Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability</name>
+            <name xml:lang="fr">Application des outils comptables usuels au suivi des aspects &#233;conomiques et &#233;cologiques du tourisme durable</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>12.c.1</code>
+            <category>12.c</category>
+            <name>Amount of fossil-fuel subsidies (production and consumption) per unit of GDP</name>
+            <name xml:lang="fr">Montant des subventions aux combustibles fossiles (production et consommation) par unit&#233; de PIB</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13.1.1</code>
+            <category>13.1</category>
+            <name>Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</name>
+            <name xml:lang="fr">Nombre de personnes d&#233;c&#233;d&#233;es, disparues ou&#160;directement touch&#233;es lors de catastrophes, pour 100&#160;000&#160;personnes</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13.1.2</code>
+            <category>13.1</category>
+            <name>Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015&#8211;2030</name>
+            <name xml:lang="fr">Nombre de pays ayant adopt&#233; et mis en place des&#160;strat&#233;gies nationales de r&#233;duction des risques, conform&#233;ment au Cadre de Sendai pour la r&#233;duction des&#160;risques de catastrophe (2015&#8209;2030)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13.1.3</code>
+            <category>13.1</category>
+            <name>Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</name>
+            <name xml:lang="fr">Proportion d&#8217;administrations locales ayant adopt&#233; et mis en place des strat&#233;gies locales de r&#233;duction des risques de catastrophe, conform&#233;ment aux strat&#233;gies suivies &#224; l&#8217;&#233;chelle nationale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13.2.1</code>
+            <category>13.2</category>
+            <name>Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change</name>
+            <name xml:lang="fr">Nombre de pays ayant pr&#233;vu des contributions d&#233;termin&#233;es au niveau national, des strat&#233;gies &#224; long terme, des plans nationaux d&#8217;adaptation et des communications relatives &#224; l&#8217;adaptation, selon les informations communiqu&#233;es au secr&#233;tariat de la Convention-cadre des Nations Unies sur les changements climatiques</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13.2.2</code>
+            <category>13.2</category>
+            <name>Total greenhouse gas emissions per year</name>
+            <name xml:lang="fr">Total des &#233;missions annuelles de gaz &#224; effet de serre</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13.3.1</code>
+            <category>13.3</category>
+            <name>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</name>
+            <name xml:lang="fr">Degr&#233; d&#8217;int&#233;gration de i) l&#8217;&#233;ducation &#224; la citoyennet&#233; mondiale et ii) l&#8217;&#233;ducation au d&#233;veloppement durable dans a) les politiques nationales d&#8217;&#233;ducation, b) les programmes d&#8217;enseignement, c) la formation des enseignants et d) l&#8217;&#233;valuation des &#233;tudiants (identique &#224; l&#8217;am&#233;lioration &#224; apporter aux indicateurs 4.7.1 et 12.8.1, figurant &#224; l&#8217;annexe III)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13.a.1</code>
+            <category>13.a</category>
+            <name>Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025</name>
+            <name xml:lang="fr">Montant (en dollars des &#201;tats-Unis) des ressources fournies et mobilis&#233;es par ann&#233;e relativement &#224; l&#8217;objectif collectif actuel de mobilisation, soit 100 milliards de dollars jusqu&#8217;en 2025</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13.b.1</code>
+            <category>13.b</category>
+            <name>Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change</name>
+            <name xml:lang="fr">Nombre de pays les moins avanc&#233;s et de petits &#201;tats insulaires en d&#233;veloppement ayant pr&#233;vu des contributions d&#233;termin&#233;es au niveau national, des strat&#233;gies &#224; long terme, des plans nationaux d&#8217;adaptation et des communications relatives &#224; l&#8217;adaptation, selon les informations communiqu&#233;es au secr&#233;tariat de la Convention-cadre des Nations Unies sur les changements climatiques</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.1.1</code>
+            <category>14.1</category>
+            <name>(a) Index of coastal eutrophication; and (b) plastic debris density</name>
+            <name xml:lang="fr">a) a) Indicateur du potentiel d&#8217;eutrophisation c&#244;ti&#232;re (ICEP) et b) densit&#233; des d&#233;bris de plastiques</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.2.1</code>
+            <category>14.2</category>
+            <name>Number of countries using ecosystem-based approaches to managing marine areas</name>
+            <name xml:lang="fr">Nombre de pays appliquant des approches &#233;cosyst&#233;miques &#224; la gestion des zones marines</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.3.1</code>
+            <category>14.3</category>
+            <name>Average marine acidity (pH) measured at agreed suite of representative sampling stations</name>
+            <name xml:lang="fr">Acidit&#233; moyenne des mers (pH) mesur&#233;e &#224;&#160;plusieurs points de pr&#233;l&#232;vement repr&#233;sentatifs</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.4.1</code>
+            <category>14.4</category>
+            <name>Proportion of fish stocks within biologically sustainable levels</name>
+            <name xml:lang="fr">Proportion de stocks de poissons dont le niveau est&#160;biologiquement viable</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.5.1</code>
+            <category>14.5</category>
+            <name>Coverage of protected areas in relation to marine areas</name>
+            <name xml:lang="fr">Surface des aires marines prot&#233;g&#233;es, en proportion de la surface totale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.6.1</code>
+            <category>14.6</category>
+            <name>Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</name>
+            <name xml:lang="fr">&#201;tat d&#8217;avancement de la mise en &#339;uvre des instruments internationaux visant &#224; combattre la p&#234;che illicite, non d&#233;clar&#233;e et non r&#233;glement&#233;e</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.7.1</code>
+            <category>14.7</category>
+            <name>Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries</name>
+            <name xml:lang="fr">Proportion du PIB correspondant aux activit&#233;s de p&#234;che viables dans les petits &#201;tats insulaires en d&#233;veloppement, les pays les moins avanc&#233;s et tous les pays</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.a.1</code>
+            <category>14.a</category>
+            <name>Proportion of total research budget allocated to research in the field of marine technology</name>
+            <name xml:lang="fr">Proportion du budget total de la recherche allou&#233;e &#224; la recherche sur les techniques marines</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.b.1</code>
+            <category>14.b</category>
+            <name>Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries</name>
+            <name xml:lang="fr">&#201;tat d&#8217;avancement de la mise en &#339;uvre d&#8217;un cadre juridique, r&#233;glementaire, politique ou institutionnel reconnaissant et prot&#233;geant les droits d&#8217;acc&#232;s des petits p&#234;cheurs</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.c.1</code>
+            <category>14.c</category>
+            <name>Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources</name>
+            <name xml:lang="fr">Nombre de pays progressant dans la ratification, l&#8217;acceptation et la mise en &#339;uvre, au moyen de cadres juridiques, op&#233;rationnels et institutionnels, des instruments relatifs aux oc&#233;ans visant &#224; donner effet aux dispositions du droit international &#233;nonc&#233;es dans la Convention des Nations Unies sur le droit de la mer qui concernent la conservation et de l&#8217;utilisation durable des oc&#233;ans et de leurs ressources</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.1.1</code>
+            <category>15.1</category>
+            <name>Forest area as a proportion of total land area</name>
+            <name xml:lang="fr">Surface des zones foresti&#232;res, en proportion de la&#160;surface terrestre</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.1.2</code>
+            <category>15.1</category>
+            <name>Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type</name>
+            <name xml:lang="fr">Proportion des sites importants pour la biodiversit&#233; terrestre et la biodiversit&#233; des eaux douces qui&#160;se trouvent dans des aires prot&#233;g&#233;es (par type d&#8217;&#233;cosyst&#232;me)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.2.1</code>
+            <category>15.2</category>
+            <name>Progress towards sustainable forest management</name>
+            <name xml:lang="fr">Progr&#232;s vers la gestion durable des for&#234;ts</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.3.1</code>
+            <category>15.3</category>
+            <name>Proportion of land that is degraded over total land area</name>
+            <name xml:lang="fr">Surface des terres d&#233;grad&#233;es, en proportion de la&#160;surface terrestre</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.4.1</code>
+            <category>15.4</category>
+            <name>Coverage by protected areas of important sites for mountain biodiversity</name>
+            <name xml:lang="fr">Sites importants pour la biodiversit&#233; des montagnes qui se trouvent dans des aires prot&#233;g&#233;es</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.4.2</code>
+            <category>15.4</category>
+            <name>Mountain Green Cover Index</name>
+            <name xml:lang="fr">Indice de couvert v&#233;g&#233;tal montagneux</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.5.1</code>
+            <category>15.5</category>
+            <name>Red List Index</name>
+            <name xml:lang="fr">Indice de la Liste rouge</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.6.1</code>
+            <category>15.6</category>
+            <name>Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits</name>
+            <name xml:lang="fr">Nombre de pays ayant adopt&#233; des cadres l&#233;gislatifs, administratifs et op&#233;rationnels destin&#233;s &#224; assurer un partage juste et &#233;quitable des b&#233;n&#233;fices</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.7.1</code>
+            <category>15.7</category>
+            <name>Proportion of traded wildlife that was poached or illicitly trafficked</name>
+            <name xml:lang="fr">Proportion du braconnage et du trafic illicite dans le commerce des esp&#232;ces de faune et de flore sauvages</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.8.1</code>
+            <category>15.8</category>
+            <name>Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species</name>
+            <name xml:lang="fr">Proportion de pays ayant adopt&#233; une l&#233;gislation nationale pertinente et allouant des ressources suffisantes &#224;&#160;la pr&#233;vention ou au contr&#244;le des esp&#232;ces exotiques envahissantes</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.9.1</code>
+            <category>15.9</category>
+            <name>(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011&#8211;2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting</name>
+            <name xml:lang="fr">a) Nombre de pays qui ont &#233;tabli des objectifs nationaux conform&#233;ment ou de mani&#232;re semblable &#224; l&#8217;objectif 2 d&#8217;Aichi pour la biodiversit&#233; du Plan strat&#233;gique pour la diversit&#233; biologique 2011-2020 dans leurs strat&#233;gies et plans d&#8217;action nationaux pour la biodiversit&#233; et progr&#232;s accomplis dans la r&#233;alisation de ces objectifs, et b) int&#233;gration de la biodiversit&#233; aux syst&#232;mes de comptabilit&#233; et d&#8217;information financi&#232;re, d&#233;finie comme la mise en &#339;uvre du Syst&#232;me de comptabilit&#233; environnementale et &#233;conomique</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.a.1</code>
+            <category>15.a</category>
+            <name>(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments</name>
+            <name xml:lang="fr">a) aide publique au d&#233;veloppement consacr&#233;e &#224; la pr&#233;servation et &#224; l&#8217;exploitation durable de la biodiversit&#233; et b) produits g&#233;n&#233;r&#233;s et fonds mobilis&#233;s par les instruments &#233;conomiques en rapport avec la biodiversit&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.b.1</code>
+            <category>15.b</category>
+            <name>(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments</name>
+            <name xml:lang="fr">a) aide publique au d&#233;veloppement consacr&#233;e &#224; la pr&#233;servation et &#224; l&#8217;exploitation durable de la biodiversit&#233; et b) produits g&#233;n&#233;r&#233;s et fonds mobilis&#233;s par les instruments &#233;conomiques en rapport avec la biodiversit&#233;</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15.c.1</code>
+            <category>15.c</category>
+            <name>Proportion of traded wildlife that was poached or illicitly trafficked</name>
+            <name xml:lang="fr">Proportion du braconnage et du trafic illicite dans le commerce des esp&#232;ces de faune et de flore sauvages</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.1.1</code>
+            <category>16.1</category>
+            <name>Number of victims of intentional homicide per 100,000 population, by sex and age</name>
+            <name xml:lang="fr">Nombre de victimes d&#8217;homicide volontaire pour&#160;100&#160;000 habitants, par sexe et &#226;ge</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.1.2</code>
+            <category>16.1</category>
+            <name>Conflict-related deaths per 100,000 population, by sex, age and cause</name>
+            <name xml:lang="fr">Nombre de d&#233;c&#232;s li&#233;s &#224; des conflits pour 100&#160;000&#160;habitants, par sexe, &#226;ge et cause</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.1.3</code>
+            <category>16.1</category>
+            <name>Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</name>
+            <name xml:lang="fr">Proportion de la population victime a) de violences physiques, b) psychologiques ou c) sexuelles au cours des 12 mois pr&#233;c&#233;dents</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.1.4</code>
+            <category>16.1</category>
+            <name>Proportion of population that feel safe walking alone around the area they live</name>
+            <name xml:lang="fr">Nombre de personnes consid&#233;rant qu&#8217;il n&#8217;y a pas de danger &#224; se d&#233;placer seules &#224; pied dans leur zone de r&#233;sidence, en proportion de la population totale</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.2.1</code>
+            <category>16.2</category>
+            <name>Proportion of children aged 1&#8211;17&#160;years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</name>
+            <name xml:lang="fr">Proportion des enfants &#226;g&#233;s de 1 &#224; 17&#160;ans ayant subi des ch&#226;timents corporels ou des agressions psychologiques inflig&#233;s par une personne s&#8217;occupant d&#8217;eux&#160;au cours du mois pr&#233;c&#233;dent</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.2.2</code>
+            <category>16.2</category>
+            <name>Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation</name>
+            <name xml:lang="fr">Nombre de victimes de la traite d&#8217;&#234;tres humains pour 100&#160;000 habitants, par sexe, &#226;ge et forme d&#8217;exploitation</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.2.3</code>
+            <category>16.2</category>
+            <name>Proportion of young women and men aged 18&#8211;29&#160;years who experienced sexual violence by age&#160;18</name>
+            <name xml:lang="fr">Proportion de jeunes femmes et hommes de 18&#160;&#224; 29&#160;ans ayant &#233;t&#233; victimes de violences sexuelles avant l&#8217;&#226;ge de 18&#160;ans</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.3.1</code>
+            <category>16.3</category>
+            <name>Proportion of victims of violence in the previous 12&#160;months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms</name>
+            <name xml:lang="fr">Proportion des personnes victimes de violences au cours des 12&#160;mois pr&#233;c&#233;dents ayant signal&#233; les faits aux autorit&#233;s comp&#233;tentes ou recouru &#224; d&#8217;autres m&#233;canismes de r&#232;glement des diff&#233;rends officiellement reconnus</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.3.2</code>
+            <category>16.3</category>
+            <name>Unsentenced detainees as a proportion of overall prison population</name>
+            <name xml:lang="fr">Proportion de la population carc&#233;rale en instance de jugement</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.3.3</code>
+            <category>16.3</category>
+            <name>Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism</name>
+            <name xml:lang="fr">Proportion de la population ayant connu un diff&#233;rend au cours des deux derni&#232;res ann&#233;es, avec saisine d&#8217;un m&#233;canisme formel ou informel de r&#232;glement des diff&#233;rends, par type de m&#233;canisme</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.4.1</code>
+            <category>16.4</category>
+            <name>Total value of inward and outward illicit financial flows (in current United States dollars)</name>
+            <name xml:lang="fr">Valeur totale des flux financiers illicites entrants et&#160;sortants (en dollars des &#201;tats&#8209;Unis courants)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.4.2</code>
+            <category>16.4</category>
+            <name>Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments</name>
+            <name xml:lang="fr">Proportion des armes saisies, trouv&#233;es ou rendues volontairement dont la provenance ou l&#8217;utilisation illicite a&#160;&#233;t&#233; retrac&#233;e ou &#233;tablie par des autorit&#233;s comp&#233;tentes, conform&#233;ment aux instruments internationaux</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.5.1</code>
+            <category>16.5</category>
+            <name>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12&#160;months</name>
+            <name xml:lang="fr">Proportion de personnes ayant eu, au moins une fois, affaire &#224; un agent public auquel elles ont vers&#233; un pot-de-vin ou qui leur a demand&#233; un pot-de-vin au cours des 12&#160;mois pr&#233;c&#233;dents</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.5.2</code>
+            <category>16.5</category>
+            <name>Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12&#160;months</name>
+            <name xml:lang="fr">Proportion d&#8217;entreprises ayant eu au moins une fois affaire &#224; un agent public auquel elles ont vers&#233; un pot&#8209;de&#8209;vin ou qui leur a demand&#233; un pot&#8209;de&#8209;vin au cours des 12&#160;mois pr&#233;c&#233;dents</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.6.1</code>
+            <category>16.6</category>
+            <name>Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)</name>
+            <name xml:lang="fr">D&#233;penses publiques primaires en proportion du&#160;budget initial approuv&#233;, par secteur (ou par code budg&#233;taire ou autre crit&#232;re similaire)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.6.2</code>
+            <category>16.6</category>
+            <name>Proportion of population satisfied with their last experience of public services</name>
+            <name xml:lang="fr">Proportion de la population dont la derni&#232;re exp&#233;rience avec les services publics a &#233;t&#233; satisfaisante</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.7.1</code>
+            <category>16.7</category>
+            <name>Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups</name>
+            <name xml:lang="fr">R&#233;partition des postes dans les institutions nationales et locales, y compris : a) les organes l&#233;gislatifs ; b) la fonction publique ; c) les organes judiciaires, par rapport &#224; la r&#233;partition nationale, par sexe, &#226;ge, situation au regard du handicap et groupe de population</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.7.2</code>
+            <category>16.7</category>
+            <name>Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group</name>
+            <name xml:lang="fr">Proportion de la population qui estime que la prise de d&#233;cisions est ouverte et r&#233;active, par sexe, &#226;ge, situation au regard du handicap et groupe de la population</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.8.1</code>
+            <category>16.8</category>
+            <name>Proportion of members and voting rights of developing countries in international organizations</name>
+            <name xml:lang="fr">Proportion de pays en d&#233;veloppement qui sont membres d&#8217;organisations internationales et y disposent du&#160;droit de vote</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.9.1</code>
+            <category>16.9</category>
+            <name>Proportion of children under 5&#160;years of age whose births have been registered with a civil authority, by age</name>
+            <name xml:lang="fr">Proportion d&#8217;enfants de moins de 5&#160;ans ayant &#233;t&#233; enregistr&#233;s par une autorit&#233; d&#8217;&#233;tat civil, par &#226;ge</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.10.1</code>
+            <category>16.10</category>
+            <name>Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12&#160;months</name>
+            <name xml:lang="fr">Nombre de cas av&#233;r&#233;s de meurtres, d&#8217;enl&#232;vements, de disparitions forc&#233;es, de d&#233;tentions arbitraires et d&#8217;actes de torture dont ont &#233;t&#233; victimes des journalistes, des personnes travaillant dans les m&#233;dias, des&#160;syndicalistes et des d&#233;fenseurs des droits de l&#8217;homme au cours des 12 mois pr&#233;c&#233;dents</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.10.2</code>
+            <category>16.10</category>
+            <name>Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information</name>
+            <name xml:lang="fr">Nombre de pays qui adoptent et mettent en &#339;uvre des dispositions constitutionnelles, r&#233;glementaires et politiques pour garantir l&#8217;acc&#232;s public &#224; l&#8217;information</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.a.1</code>
+            <category>16.a</category>
+            <name>Existence of independent national human rights institutions in compliance with the Paris Principles</name>
+            <name xml:lang="fr">Existence d&#8217;institutions nationales des droits de&#160;l&#8217;homme ind&#233;pendantes et conformes aux Principes de&#160;Paris</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.b.1</code>
+            <category>16.b</category>
+            <name>Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</name>
+            <name xml:lang="fr">Proportion de la population ayant d&#233;clar&#233; avoir personnellement fait l&#8217;objet de discrimination ou de harc&#232;lement au cours des 12&#160;mois pr&#233;c&#233;dents pour des motifs interdits par le droit international des droits de l&#8217;homme</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.1.1</code>
+            <category>17.1</category>
+            <name>Total government revenue as a proportion of GDP, by source</name>
+            <name xml:lang="fr">Total des recettes publiques en proportion du PIB, par source</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.1.2</code>
+            <category>17.1</category>
+            <name>Proportion of domestic budget funded by domestic taxes</name>
+            <name xml:lang="fr">Proportion du budget national financ&#233; par les imp&#244;ts nationaux</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.2.1</code>
+            <category>17.2</category>
+            <name>Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors&#8217; gross national income (GNI)</name>
+            <name xml:lang="fr">Aide publique au d&#233;veloppement nette, montant total et montant allou&#233; aux pays les moins avanc&#233;s, en proportion du revenu national brut (RNB) des pays donateurs membres du Comit&#233; d&#8217;aide au d&#233;veloppement de l&#8217;Organisation de coop&#233;ration et de d&#233;veloppement &#233;conomiques (OCDE)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.3.1</code>
+            <category>17.3</category>
+            <name>Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income</name>
+            <name xml:lang="fr">Investissements &#233;trangers directs, aide publique au d&#233;veloppement et coop&#233;ration Sud-Sud, en proportion du revenu national brut</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.3.2</code>
+            <category>17.3</category>
+            <name>Volume of remittances (in United States dollars) as a proportion of total GDP</name>
+            <name xml:lang="fr">Volume des envois de fonds de travailleurs migrants (en dollars des &#201;tats&#8209;Unis) en proportion du PIB total</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.4.1</code>
+            <category>17.4</category>
+            <name>Debt service as a proportion of exports of goods and services</name>
+            <name xml:lang="fr">Service de la dette en proportion des exportations de biens et services</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.5.1</code>
+            <category>17.5</category>
+            <name>Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries</name>
+            <name xml:lang="fr">Nombre de pays qui adoptent et mettent en &#339;uvre des dispositifs visant &#224; encourager l&#8217;investissement en faveur des pays en d&#233;veloppement, notamment les pays les moins avanc&#233;s</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.6.1</code>
+            <category>17.6</category>
+            <name>Fixed Internet broadband subscriptions per 100 inhabitants, by speed</name>
+            <name xml:lang="fr">Abonnements &#224; une connexion &#224; Internet &#224; haut d&#233;bit fixe pour 100&#160;habitants, par vitesse de connexion</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.7.1</code>
+            <category>17.7</category>
+            <name>Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies</name>
+            <name xml:lang="fr">Montant total des financements pour les pays en d&#233;veloppement aux fins de la promotion de la mise au point, du transfert et de la diffusion de technologies respectueuses de l&#8217;environnement</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.8.1</code>
+            <category>17.8</category>
+            <name>Proportion of individuals using the Internet</name>
+            <name xml:lang="fr">Proportion de la population utilisant Internet</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.9.1</code>
+            <category>17.9</category>
+            <name>Dollar value of financial and technical assistance (including through North-South, South&#8209;South and triangular cooperation) committed to developing countries</name>
+            <name xml:lang="fr">Valeur en dollars de l&#8217;aide financi&#232;re et technique promise aux pays en d&#233;veloppement (notamment dans le&#160;cadre de la coop&#233;ration Nord-Sud et Sud-Sud et de la&#160;coop&#233;ration triangulaire)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.10.1</code>
+            <category>17.10</category>
+            <name>Worldwide weighted tariff-average</name>
+            <name xml:lang="fr">Moyenne mondiale pond&#233;r&#233;e des taux de droits de douane</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.11.1</code>
+            <category>17.11</category>
+            <name>Developing countries&#8217; and least developed countries&#8217; share of global exports</name>
+            <name xml:lang="fr">Part des pays en d&#233;veloppement et des pays les&#160;moins avanc&#233;s dans les exportations mondiales</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.12.1</code>
+            <category>17.12</category>
+            <name>Weighted average tariffs faced by developing countries, least developed countries and small island developing States</name>
+            <name xml:lang="fr">Moyenne pond&#233;r&#233;e des droits de douane appliqu&#233;s aux pays en d&#233;veloppement, aux pays les moins avanc&#233;s et aux petits &#201;tats insulaires en d&#233;veloppement</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.13.1</code>
+            <category>17.13</category>
+            <name>Macroeconomic Dashboard</name>
+            <name xml:lang="fr">Tableau de bord macro&#233;conomique</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.14.1</code>
+            <category>17.14</category>
+            <name>Number of countries with mechanisms in place to enhance policy coherence of sustainable development</name>
+            <name xml:lang="fr">Nombre de pays ayant mis en place des m&#233;canismes pour renforcer la coh&#233;rence des politiques de&#160;d&#233;veloppement durable</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.15.1</code>
+            <category>17.15</category>
+            <name>Extent of use of country-owned results frameworks and planning tools by providers of development cooperation</name>
+            <name xml:lang="fr">Ampleur du recours par les prestataires de la coop&#233;ration pour le d&#233;veloppement &#224; des cadres de r&#233;sultats et &#224; des outils de planification propres aux pays</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.16.1</code>
+            <category>17.16</category>
+            <name>Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals</name>
+            <name xml:lang="fr">Nombre de pays faisant &#233;tat de progr&#232;s dans la&#160;mise en place de cadres multipartites de suivi de l&#8217;efficacit&#233; du d&#233;veloppement favorisant la r&#233;alisation des&#160;objectifs de d&#233;veloppement durable</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.17.1</code>
+            <category>17.17</category>
+            <name>Amount in United States dollars committed to public-private partnerships for infrastructure</name>
+            <name xml:lang="fr">Montant (en dollars des &#201;tats Unis) des ressources allou&#233;es aux partenariats public-priv&#233; pour l&#8217;infrastructure</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.18.1</code>
+            <category>17.18</category>
+            <name>Statistical capacity indicator for Sustainable Development Goal monitoring</name>
+            <name xml:lang="fr">Indicateur de capacit&#233; statistique pour le suivi des objectifs de d&#233;veloppement durable</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.18.2</code>
+            <category>17.18</category>
+            <name>Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics</name>
+            <name xml:lang="fr">Nombre de pays dot&#233;s d&#8217;une l&#233;gislation nationale relative &#224; la statistique conforme aux Principes fondamentaux de la statistique officielle</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.18.3</code>
+            <category>17.18</category>
+            <name>Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding</name>
+            <name xml:lang="fr">Nombre de pays dot&#233;s d&#8217;un plan statistique national int&#233;gralement financ&#233; et en cours de mise en &#339;uvre, par source de financement</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.19.1</code>
+            <category>17.19</category>
+            <name>Dollar value of all resources made available to strengthen statistical capacity in developing countries</name>
+            <name xml:lang="fr">Valeur (en dollars) de l&#8217;ensemble des ressources allou&#233;es au renforcement des capacit&#233;s statistiques des pays en d&#233;veloppement</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.19.2</code>
+            <category>17.19</category>
+            <name>Proportion of countries that (a) have conducted at least one population and housing census in the last 10&#160;years; and (b) have achieved 100&#160;per&#160;cent birth registration and 80&#160;per&#160;cent death registration</name>
+            <name xml:lang="fr">Proportion de pays qui a)&#160;ont proc&#233;d&#233; &#224; au moins un recensement de la population et du logement au cours des 10&#160;derni&#232;res ann&#233;es, et b)&#160;ont atteint un taux d&#8217;enregistrement des naissances de 100&#160;pour&#160;cent et un taux d&#8217;enregistrement des d&#233;c&#232;s de 80&#160;pour&#160;cent</name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+

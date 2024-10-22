@@ -1,0 +1,45 @@
+code,name,status
+111,"Educación, nivel no especificado",active
+112,Educación básica,active
+113,Educación secundaria,active
+114,Educación post-secundaria,active
+121,"Salud, general",active
+122,Salud básica,active
+123,Enfermedades no transmisibles,active
+130,Programas/políticas sobre población y salud reproductiva,active
+140,Abastecimiento de agua y saneamiento,active
+151,"Gobierno y sociedad civil, general",active
+152,"Prevención y resolución de conflictos, paz y seguridad",active
+160,Otros servicios e infraestructuras sociales,active
+210,Transporte y almacenamiento,active
+220,Comunicaciones,active
+230,Generación y suministro de energía,withdrawn
+231,Política energética,active
+232,"Generación de energía, fuentes renovables",active
+233,"Generación de energía, fuentes no renovables",active
+234,Centrales de energía híbrida,active
+235,Centrales de energía nuclear,active
+236,Distribución de la energía,active
+240,Servicios bancarios y financieros,active
+250,Empresas y otros servicios,active
+311,Agricultura,active
+312,Silvicultura,active
+313,Pesca,active
+321,Industria,active
+322,Industrias extractivas,active
+323,Construcción,active
+331,Política y regulación comercial,active
+332,Turismo,active
+410,Protección general medio ambiente,active
+430,Otras acciones multisectoriales,active
+510,Apoyo presupuestario general,active
+520,Ayuda alimentaria para el desarrollo,active
+530,Otras ayudas en forma de suministro de bienes,active
+600,Actividades relacionadas con la deuda,active
+720,Ayuda de emergencia,active
+730,Ayuda a la reconstrucción y a la rehabilitación,active
+740,Prevención de desastres,active
+910,Costes administrativos donantes,active
+920,APOYO A ORGANIZACIONES NO GUBERNAMENTALES (ONG),withdrawn
+930,Ayuda a refugiados en el país donante,active
+998,Sin especificación / no clasificados,active

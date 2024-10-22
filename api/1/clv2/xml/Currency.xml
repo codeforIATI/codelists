@@ -1,0 +1,1851 @@
+<codelist name="Currency" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <url>http://www.iso.org/iso/home/standards/currency_codes.htm</url>
+        <name>Currency</name>
+        <name xml:lang="fr">Devise</name>
+        <description>ISO 4217 Currency used for all transactions and budgets</description>
+        <description xml:lang="fr">ISO 4217 La devise utilis&#233;e pour tous les budgets et transactions</description>
+        <category>Replicated</category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="withdrawn" withdrawal-date="2003-07-01">
+            <code>ADP</code>
+            <name>Andorran Peseta</name>
+            <name xml:lang="es">Peseta andorrana</name>
+            <name xml:lang="pt">Peseta andorrense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>AED</code>
+            <name>UAE Dirham</name>
+            <name xml:lang="es">Dirham de los Emiratos &#193;rabes Unidos</name>
+            <name xml:lang="pt">Dirham dos EAU</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-01-01">
+            <code>AFA</code>
+            <name>Afghani</name>
+            <name xml:lang="es">Afgani</name>
+            <name xml:lang="pt">Afeg&#226;ni</name>
+        </codelist-item>
+        <codelist-item>
+            <code>AFN</code>
+            <name>Afghani</name>
+            <name xml:lang="es">Afgani</name>
+            <name xml:lang="pt">Afeg&#226;ni</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12-01">
+            <code>ALK</code>
+            <name>Old Lek</name>
+            <name xml:lang="es">Antiguo lek</name>
+            <name xml:lang="pt">Lek antigo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>ALL</code>
+            <name>Lek</name>
+            <name xml:lang="es">Lek</name>
+            <name xml:lang="pt">Lek</name>
+        </codelist-item>
+        <codelist-item>
+            <code>AMD</code>
+            <name>Armenian Dram</name>
+            <name xml:lang="es">Dram armenio</name>
+            <name xml:lang="pt">Dram arm&#233;nio</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2010-10-01" status="active">
+            <code>ANG</code>
+            <name>Netherlands Antillean Guilder</name>
+            <name xml:lang="es">Flor&#237;n de las Antillas Neerlandesas</name>
+            <name xml:lang="pt">Florim das Antilhas Neerlandesas</name>
+        </codelist-item>
+        <codelist-item>
+            <code>AOA</code>
+            <name>Kwanza</name>
+            <name xml:lang="es">Kwanza</name>
+            <name xml:lang="pt">Kwanza</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1991-03-01">
+            <code>AOK</code>
+            <name>Kwanza</name>
+            <name xml:lang="es">Kwanza</name>
+            <name xml:lang="pt">Kwanza</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2000-02-01">
+            <code>AON</code>
+            <name>New Kwanza</name>
+            <name xml:lang="es">Nuevo kwanza</name>
+            <name xml:lang="pt">Kwanza novo</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2000-02-01">
+            <code>AOR</code>
+            <name>Kwanza Reajustado</name>
+            <name xml:lang="es">Kwanza reajustado</name>
+            <name xml:lang="pt">Kwanza reajustado</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1992-01-01">
+            <code>ARA</code>
+            <name>Austral</name>
+            <name xml:lang="es">Austral</name>
+            <name xml:lang="pt">Austral</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1985-07-01">
+            <code>ARP</code>
+            <name>Peso Argentino</name>
+            <name xml:lang="es">Peso argentino</name>
+            <name xml:lang="pt">Peso argentino</name>
+        </codelist-item>
+        <codelist-item>
+            <code>ARS</code>
+            <name>Argentine Peso</name>
+            <name xml:lang="es">Peso argentino</name>
+            <name xml:lang="pt">Peso argentino</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ARY</code>
+            <name>Peso</name>
+            <name xml:lang="es">Peso</name>
+            <name xml:lang="pt">Peso</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>ATS</code>
+            <name>Schilling</name>
+            <name xml:lang="es">Chel&#237;n</name>
+            <name xml:lang="pt">Xelim</name>
+        </codelist-item>
+        <codelist-item>
+            <code>AUD</code>
+            <name>Australian Dollar</name>
+            <name xml:lang="es">D&#243;lar australiano</name>
+            <name xml:lang="pt">D&#243;lar australiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>AWG</code>
+            <name>Aruban Florin</name>
+            <name xml:lang="es">Flor&#237;n arube&#241;o</name>
+            <name xml:lang="pt">Florim arubano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2005-10-01">
+            <code>AYM</code>
+            <name>Azerbaijan Manat</name>
+            <name xml:lang="es">Manat azerbaiyano</name>
+            <name xml:lang="pt">Manat azerbaijano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2005-12-01">
+            <code>AZM</code>
+            <name>Azerbaijanian Manat</name>
+            <name xml:lang="es">Manat azerbaiyano</name>
+            <name xml:lang="pt">Manat azerbaijano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>AZN</code>
+            <name>Azerbaijan Manat</name>
+            <name xml:lang="es">Manat azerbaiyano</name>
+            <name xml:lang="pt">Manat azerbaijano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1998-07-01">
+            <code>BAD</code>
+            <name>Dinar</name>
+            <name xml:lang="es">Dinar</name>
+            <name xml:lang="pt">Dinar</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BAM</code>
+            <name>Convertible Mark</name>
+            <name xml:lang="es">Marco convertible</name>
+            <name xml:lang="pt">Marco convert&#237;vel</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BBD</code>
+            <name>Barbados Dollar</name>
+            <name xml:lang="es">D&#243;lar barbadense</name>
+            <name xml:lang="pt">D&#243;lar barbadense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BDT</code>
+            <name>Taka</name>
+            <name xml:lang="es">Taka</name>
+            <name xml:lang="pt">Taka</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03-01">
+            <code>BEC</code>
+            <name>Convertible Franc</name>
+            <name xml:lang="es">Franco convertible</name>
+            <name xml:lang="pt">Franco Convert&#237;vel</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>BEF</code>
+            <name>Belgian Franc</name>
+            <name xml:lang="es">Franco belga</name>
+            <name xml:lang="pt">Franco belga</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03-01">
+            <code>BEL</code>
+            <name>Financial Franc</name>
+            <name xml:lang="es">Franco financiero</name>
+            <name xml:lang="pt">Franco financeiro</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>BGJ</code>
+            <name>Lev A/52</name>
+            <name xml:lang="es">Leva A/52</name>
+            <name xml:lang="pt">Lev A/52</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>BGK</code>
+            <name>Lev A/62</name>
+            <name xml:lang="es">Leva A/62</name>
+            <name xml:lang="pt">Lev A/62</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-11-01">
+            <code>BGL</code>
+            <name>Lev</name>
+            <name xml:lang="es">Leva</name>
+            <name xml:lang="pt">Lev</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BGN</code>
+            <name>Bulgarian Lev</name>
+            <name xml:lang="es">Leva b&#250;lgara</name>
+            <name xml:lang="pt">Lev b&#250;lgaro</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BHD</code>
+            <name>Bahraini Dinar</name>
+            <name xml:lang="es">Dinar bahrein&#237;</name>
+            <name xml:lang="pt">Dinar baremense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BIF</code>
+            <name>Burundi Franc</name>
+            <name xml:lang="es">Franco burund&#233;s</name>
+            <name xml:lang="pt">Franco burund&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BMD</code>
+            <name>Bermudian Dollar</name>
+            <name xml:lang="es">D&#243;lar bermude&#241;o</name>
+            <name xml:lang="pt">D&#243;lar bermudense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BND</code>
+            <name>Brunei Dollar</name>
+            <name xml:lang="es">D&#243;lar de Brunei</name>
+            <name xml:lang="pt">D&#243;lar bruneano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BOB</code>
+            <name>Boliviano</name>
+            <name xml:lang="es">Boliviano</name>
+            <name xml:lang="pt">Boliviano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1987-02-01">
+            <code>BOP</code>
+            <name>Peso boliviano</name>
+            <name xml:lang="es">Peso boliviano</name>
+            <name xml:lang="pt">Peso boliviano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BOV</code>
+            <name>Mvdol</name>
+            <name xml:lang="es">Mvdol</name>
+            <name xml:lang="pt">Mvdol</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1986-03-01">
+            <code>BRB</code>
+            <name>Cruzeiro</name>
+            <name xml:lang="es">Cruzeiro</name>
+            <name xml:lang="pt">Cruzeiro</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-02-01">
+            <code>BRC</code>
+            <name>Cruzado</name>
+            <name xml:lang="es">Cruzado</name>
+            <name xml:lang="pt">Cruzado</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-03-01">
+            <code>BRE</code>
+            <name>Cruzeiro</name>
+            <name xml:lang="es">Cruzeiro</name>
+            <name xml:lang="pt">Cruzeiro</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BRL</code>
+            <name>Brazilian Real</name>
+            <name xml:lang="es">Real brasile&#241;o</name>
+            <name xml:lang="pt">Real brasileiro</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03-01">
+            <code>BRN</code>
+            <name>New Cruzado</name>
+            <name xml:lang="es">Cruzado novo</name>
+            <name xml:lang="pt">Cruzado novo</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-07-01">
+            <code>BRR</code>
+            <name>Cruzeiro Real</name>
+            <name xml:lang="es">Cruzeiro real</name>
+            <name xml:lang="pt">Cruzeiro real</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BSD</code>
+            <name>Bahamian Dollar</name>
+            <name xml:lang="es">D&#243;lar bahame&#241;o</name>
+            <name xml:lang="pt">D&#243;lar bahamense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BTN</code>
+            <name>Ngultrum</name>
+            <name xml:lang="es">Gultrum</name>
+            <name xml:lang="pt">Ngultrum</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-02-01">
+            <code>BUK</code>
+            <name>Kyat</name>
+            <name xml:lang="es">Kyat</name>
+            <name xml:lang="pt">Kyat</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BWP</code>
+            <name>Pula</name>
+            <name xml:lang="es">Pula</name>
+            <name xml:lang="pt">Pula</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2001-01-01">
+            <code>BYB</code>
+            <name>Belarusian Ruble</name>
+            <name xml:lang="es">Rublo belaruso</name>
+            <name xml:lang="pt">Rublo bielorrusso</name>
+        </codelist-item>
+        <codelist-item>
+            <code>BYN</code>
+            <name>Belarusian Ruble</name>
+            <name xml:lang="es">Rublo belaruso</name>
+            <name xml:lang="pt">Rublo bielorrusso</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2017-01-01">
+            <code>BYR</code>
+            <name>Belarusian Ruble</name>
+            <name xml:lang="es">Rublo belaruso</name>
+            <name xml:lang="pt">Rublo bielorrusso</name>
+            <description>Withdrawn from ISO Currency codelist. Use code BYN.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>BZD</code>
+            <name>Belize Dollar</name>
+            <name xml:lang="es">D&#243;lar belice&#241;o</name>
+            <name xml:lang="pt">D&#243;lar belizenho</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CAD</code>
+            <name>Canadian Dollar</name>
+            <name xml:lang="es">D&#243;lar canadiense</name>
+            <name xml:lang="pt">D&#243;lar canadense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CDF</code>
+            <name>Congolese Franc</name>
+            <name xml:lang="es">Franco congole&#241;o</name>
+            <name xml:lang="pt">Franco congol&#234;s</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2004-11-01">
+            <code>CHC</code>
+            <name>WIR Franc (for electronic)</name>
+            <name xml:lang="es">Franco WIR (electr&#243;nico)</name>
+            <name xml:lang="pt">Franco WIR (para meios eletr&#243;nicos)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CHE</code>
+            <name>WIR Euro</name>
+            <name xml:lang="es">Euro WIR</name>
+            <name xml:lang="pt">Euro WIR</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CHF</code>
+            <name>Swiss Franc</name>
+            <name xml:lang="es">Franco suizo</name>
+            <name xml:lang="pt">Franco su&#237;&#231;o</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CHW</code>
+            <name>WIR Franc</name>
+            <name xml:lang="es">Franco WIR</name>
+            <name xml:lang="pt">Franco WIR</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CLF</code>
+            <name>Unidad de Fomento</name>
+            <name xml:lang="es">Unidad de fomento</name>
+            <name xml:lang="pt">Unidade de fomento</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CLP</code>
+            <name>Chilean Peso</name>
+            <name xml:lang="es">Peso chileno</name>
+            <name xml:lang="pt">Peso chileno</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CNY</code>
+            <name>Yuan Renminbi</name>
+            <name xml:lang="es">Yuan Renminbi</name>
+            <name xml:lang="pt">Yuan Renminbi</name>
+        </codelist-item>
+        <codelist-item>
+            <code>COP</code>
+            <name>Colombian Peso</name>
+            <name xml:lang="es">Peso colombiano</name>
+            <name xml:lang="pt">Peso colombiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>COU</code>
+            <name>Unidad de Valor Real</name>
+            <name xml:lang="es">Unidad de valor real</name>
+            <name xml:lang="pt">Unidade de valor real</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CRC</code>
+            <name>Costa Rican Colon</name>
+            <name xml:lang="es">Col&#243;n costarricense</name>
+            <name xml:lang="pt">Col&#243;n costa-riquenho</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2006-10-01">
+            <code>CSD</code>
+            <name>Serbian Dinar</name>
+            <name xml:lang="es">Dinar serbio</name>
+            <name xml:lang="pt">Dinar s&#233;rvio</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>CSJ</code>
+            <name>Krona A/53</name>
+            <name xml:lang="es">Corona A/53</name>
+            <name xml:lang="pt">Coroa A/53</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-03-01">
+            <code>CSK</code>
+            <name>Koruna</name>
+            <name xml:lang="es">Corona</name>
+            <name xml:lang="pt">Coroa</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CUC</code>
+            <name>Peso Convertible</name>
+            <name xml:lang="es">Peso convertible</name>
+            <name xml:lang="pt">Peso Convert&#237;vel</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CUP</code>
+            <name>Cuban Peso</name>
+            <name xml:lang="es">Peso cubano</name>
+            <name xml:lang="pt">Peso cubano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CVE</code>
+            <name>Cabo Verde Escudo</name>
+            <name xml:lang="es">Escudo de Cabo Verde</name>
+            <name xml:lang="pt">Escudo cabo-verdiano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-01-01">
+            <code>CYP</code>
+            <name>Cyprus Pound</name>
+            <name xml:lang="es">Libra chipriota</name>
+            <name xml:lang="pt">Libra cipriota</name>
+        </codelist-item>
+        <codelist-item>
+            <code>CZK</code>
+            <name>Czech Koruna</name>
+            <name xml:lang="es">Corona checa</name>
+            <name xml:lang="pt">Coroa checa</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>DDM</code>
+            <name>Mark der DDR</name>
+            <name xml:lang="es">Mark der DDR</name>
+            <name xml:lang="pt">Marco da RDA</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>DEM</code>
+            <name>Deutsche Mark</name>
+            <name xml:lang="es">Marco alem&#225;n</name>
+            <name xml:lang="pt">Marco alem&#227;o</name>
+        </codelist-item>
+        <codelist-item>
+            <code>DJF</code>
+            <name>Djibouti Franc</name>
+            <name xml:lang="es">Franco de Djibouti</name>
+            <name xml:lang="pt">Franco djibutiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>DKK</code>
+            <name>Danish Krone</name>
+            <name xml:lang="es">Corona danesa</name>
+            <name xml:lang="pt">Coroa dinamarquesa</name>
+        </codelist-item>
+        <codelist-item>
+            <code>DOP</code>
+            <name>Dominican Peso</name>
+            <name xml:lang="es">Peso dominicano</name>
+            <name xml:lang="pt">Peso dominicano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>DZD</code>
+            <name>Algerian Dinar</name>
+            <name xml:lang="es">Dinar argelino</name>
+            <name xml:lang="pt">Dinar argelino</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2000-09-01">
+            <code>ECS</code>
+            <name>Sucre</name>
+            <name xml:lang="es">Sucre</name>
+            <name xml:lang="pt">Sucre</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2000-09-01">
+            <code>ECV</code>
+            <name>Unidad de Valor Constante (UVC)</name>
+            <name xml:lang="es">Unidad de valor constante (UVC)</name>
+            <name xml:lang="pt">Unidade de valor constante (UVC)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2011-01-01">
+            <code>EEK</code>
+            <name>Kroon</name>
+            <name xml:lang="es">Corona estonia</name>
+            <name xml:lang="pt">Kroon</name>
+            <description>Withdrawn from ISO Currency codelist</description>
+        </codelist-item>
+        <codelist-item>
+            <code>EGP</code>
+            <name>Egyptian Pound</name>
+            <name xml:lang="es">Libra egipcia</name>
+            <name xml:lang="pt">Libra eg&#237;pcia</name>
+        </codelist-item>
+        <codelist-item>
+            <code>ERN</code>
+            <name>Nakfa</name>
+            <name xml:lang="es">Nakfa</name>
+            <name xml:lang="pt">Nakfa</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ESA</code>
+            <name>Spanish Peseta</name>
+            <name xml:lang="es">Peseta espa&#241;ola</name>
+            <name xml:lang="pt">Peseta espanhola</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-12-01">
+            <code>ESB</code>
+            <name>"A" Account (convertible Peseta Account)</name>
+            <name xml:lang="es">Unidad de cuenta &#8220;A&#8221; (unidad de cuenta, peseta convertible)</name>
+            <name xml:lang="pt">Conta "A" (conta em pesetas convert&#237;veis)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>ESP</code>
+            <name>Spanish Peseta</name>
+            <name xml:lang="es">Peseta espa&#241;ola</name>
+            <name xml:lang="pt">Peseta espanhola</name>
+        </codelist-item>
+        <codelist-item>
+            <code>ETB</code>
+            <name>Ethiopian Birr</name>
+            <name xml:lang="es">Bir et&#237;ope</name>
+            <name xml:lang="pt">Birr et&#237;ope</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2006-10-01" status="active">
+            <code>EUR</code>
+            <name>Euro</name>
+            <name xml:lang="es">Euro</name>
+            <name xml:lang="pt">Euro</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>FIM</code>
+            <name>Markka</name>
+            <name xml:lang="es">Marco finland&#233;s</name>
+            <name xml:lang="pt">Marca</name>
+        </codelist-item>
+        <codelist-item>
+            <code>FJD</code>
+            <name>Fiji Dollar</name>
+            <name xml:lang="es">D&#243;lar de Fiji</name>
+            <name xml:lang="pt">D&#243;lar fijiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>FKP</code>
+            <name>Falkland Islands Pound</name>
+            <name xml:lang="es">Libra de las Islas Malvinas (Falkland Islands)</name>
+            <name xml:lang="pt">Libra das Ilhas Falkland</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1999-01-01">
+            <code>FRF</code>
+            <name>French Franc</name>
+            <name xml:lang="es">Franco franc&#233;s</name>
+            <name xml:lang="pt">Franco franc&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>GBP</code>
+            <name>Pound Sterling</name>
+            <name xml:lang="es">Libra esterlina</name>
+            <name xml:lang="pt">Libra esterlina</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1995-10-01">
+            <code>GEK</code>
+            <name>Georgian Coupon</name>
+            <name xml:lang="es">Kupon lari georgiano</name>
+            <name xml:lang="pt">Coupon georgiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>GEL</code>
+            <name>Lari</name>
+            <name xml:lang="es">Lari</name>
+            <name xml:lang="pt">Lari</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-01-01">
+            <code>GHC</code>
+            <name>Cedi</name>
+            <name xml:lang="es">Cedi</name>
+            <name xml:lang="pt">Cedi</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2007-06-01">
+            <code>GHP</code>
+            <name>Ghana Cedi</name>
+            <name xml:lang="es">Cedi ghan&#233;s</name>
+            <name xml:lang="pt">Cedi gan&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>GHS</code>
+            <name>Ghana Cedi</name>
+            <name xml:lang="es">Cedi ghan&#233;s</name>
+            <name xml:lang="pt">Cedi gan&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>GIP</code>
+            <name>Gibraltar Pound</name>
+            <name xml:lang="es">Libra de Gibraltar</name>
+            <name xml:lang="pt">Libra gibraltina</name>
+        </codelist-item>
+        <codelist-item>
+            <code>GMD</code>
+            <name>Dalasi</name>
+            <name xml:lang="es">Dalasi</name>
+            <name xml:lang="pt">Dalasi</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12-01">
+            <code>GNE</code>
+            <name>Syli</name>
+            <name xml:lang="es">Syli</name>
+            <name xml:lang="pt">Syli</name>
+        </codelist-item>
+        <codelist-item>
+            <code>GNF</code>
+            <name>Guinean Franc</name>
+            <name xml:lang="es">Franco guineo</name>
+            <name xml:lang="pt">Franco guineense</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1986-02-01">
+            <code>GNS</code>
+            <name>Syli</name>
+            <name xml:lang="es">Syli</name>
+            <name xml:lang="pt">Syli</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1986-06-01">
+            <code>GQE</code>
+            <name>Ekwele</name>
+            <name xml:lang="es">Ekwele</name>
+            <name xml:lang="pt">Ekwele</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>GRD</code>
+            <name>Drachma</name>
+            <name xml:lang="es">Dracma</name>
+            <name xml:lang="pt">Dracma</name>
+        </codelist-item>
+        <codelist-item>
+            <code>GTQ</code>
+            <name>Quetzal</name>
+            <name xml:lang="es">Quetzal</name>
+            <name xml:lang="pt">Quetzal</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>GWE</code>
+            <name>Guinea Escudo</name>
+            <name xml:lang="es">Escudo de Guinea</name>
+            <name xml:lang="pt">Escudo guineense</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1997-05-01">
+            <code>GWP</code>
+            <name>Guinea-Bissau Peso</name>
+            <name xml:lang="es">Peso de Guinea-Bissau</name>
+            <name xml:lang="pt">Peso da Guin&#233;-Bissau</name>
+        </codelist-item>
+        <codelist-item>
+            <code>GYD</code>
+            <name>Guyana Dollar</name>
+            <name xml:lang="es">D&#243;lar guyan&#233;s</name>
+            <name xml:lang="pt">D&#243;lar guianense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>HKD</code>
+            <name>Hong Kong Dollar</name>
+            <name xml:lang="es">D&#243;lar de Hong Kong</name>
+            <name xml:lang="pt">D&#243;lar de Hong Kong</name>
+        </codelist-item>
+        <codelist-item>
+            <code>HNL</code>
+            <name>Lempira</name>
+            <name xml:lang="es">Lempira</name>
+            <name xml:lang="pt">Lempira</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1995-01-01">
+            <code>HRD</code>
+            <name>Croatian Dinar</name>
+            <name xml:lang="es">Dinar croata</name>
+            <name xml:lang="pt">Dinar croata</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2015-06-01" status="withdrawn">
+            <code>HRK</code>
+            <name>Kuna</name>
+            <name xml:lang="es">Kuna croata</name>
+            <name xml:lang="pt">Kuna croata</name>
+        </codelist-item>
+        <codelist-item>
+            <code>HTG</code>
+            <name>Gourde</name>
+            <name xml:lang="es">Gourde</name>
+            <name xml:lang="pt">Gourde</name>
+        </codelist-item>
+        <codelist-item>
+            <code>HUF</code>
+            <name>Forint</name>
+            <name xml:lang="es">Forinto</name>
+            <name xml:lang="pt">Forint</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2002-07-01" status="active">
+            <code>IDR</code>
+            <name>Rupiah</name>
+            <name xml:lang="es">Rupia indonesia</name>
+            <name xml:lang="pt">Rupia</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>IEP</code>
+            <name>Irish Pound</name>
+            <name xml:lang="es">Libra irlandesa</name>
+            <name xml:lang="pt">Libra irlandesa</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ILP</code>
+            <name>Pound</name>
+            <name xml:lang="es">Libra</name>
+            <name xml:lang="pt">Libra</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ILR</code>
+            <name>Old Shekel</name>
+            <name xml:lang="es">Antiguo s&#233;quel</name>
+            <name xml:lang="pt">Shekel antigo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>ILS</code>
+            <name>New Israeli Sheqel</name>
+            <name xml:lang="es">Nuevo s&#233;quel israel&#237;</name>
+            <name xml:lang="pt">Shekel israelita novo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>INR</code>
+            <name>Indian Rupee</name>
+            <name xml:lang="es">Rupia india</name>
+            <name xml:lang="pt">Rupia indiana</name>
+        </codelist-item>
+        <codelist-item>
+            <code>IQD</code>
+            <name>Iraqi Dinar</name>
+            <name xml:lang="es">Dinar iraqu&#237;</name>
+            <name xml:lang="pt">Dinar iraquiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>IRR</code>
+            <name>Iranian Rial</name>
+            <name xml:lang="es">Rial iran&#237;</name>
+            <name xml:lang="pt">Rial iraniano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ISJ</code>
+            <name>Old Krona</name>
+            <name xml:lang="es">Antigua corona</name>
+            <name xml:lang="pt">Coroa antiga</name>
+        </codelist-item>
+        <codelist-item>
+            <code>ISK</code>
+            <name>Iceland Krona</name>
+            <name xml:lang="es">Corona islandesa</name>
+            <name xml:lang="pt">Coroa islandesa</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>ITL</code>
+            <name>Italian Lira</name>
+            <name xml:lang="es">Lira italiana</name>
+            <name xml:lang="pt">Lira italiana</name>
+        </codelist-item>
+        <codelist-item>
+            <code>JMD</code>
+            <name>Jamaican Dollar</name>
+            <name xml:lang="es">D&#243;lar jamaicano</name>
+            <name xml:lang="pt">D&#243;lar jamaicano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>JOD</code>
+            <name>Jordanian Dinar</name>
+            <name xml:lang="es">Dinar jordano</name>
+            <name xml:lang="pt">Dinar jordano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>JPY</code>
+            <name>Yen</name>
+            <name xml:lang="es">Yen</name>
+            <name xml:lang="pt">Iene</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KES</code>
+            <name>Kenyan Shilling</name>
+            <name xml:lang="es">Chel&#237;n keniano</name>
+            <name xml:lang="pt">Xelim queniano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KGS</code>
+            <name>Som</name>
+            <name xml:lang="es">Som</name>
+            <name xml:lang="pt">Som</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KHR</code>
+            <name>Riel</name>
+            <name xml:lang="es">Riel</name>
+            <name xml:lang="pt">Riel</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KMF</code>
+            <name>Comorian Franc </name>
+            <name xml:lang="es">Franco comorano</name>
+            <name xml:lang="pt">Franco comorense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KPW</code>
+            <name>North Korean Won</name>
+            <name xml:lang="es">Won de Corea del Norte</name>
+            <name xml:lang="pt">Won norte-coreano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KRW</code>
+            <name>Won</name>
+            <name xml:lang="es">Won</name>
+            <name xml:lang="pt">Won</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KWD</code>
+            <name>Kuwaiti Dinar</name>
+            <name xml:lang="es">Dinar kuwait&#237;</name>
+            <name xml:lang="pt">Dinar koweitiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KYD</code>
+            <name>Cayman Islands Dollar</name>
+            <name xml:lang="es">D&#243;lar de las Islas Caim&#225;n</name>
+            <name xml:lang="pt">D&#243;lar caiman&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>KZT</code>
+            <name>Tenge</name>
+            <name xml:lang="es">Tenge</name>
+            <name xml:lang="pt">Tenge</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1979-12-01">
+            <code>LAJ</code>
+            <name>Pathet Lao Kip</name>
+            <name xml:lang="es">Kip del Pathet Lao</name>
+            <name xml:lang="pt">Pathet Lao Kip</name>
+        </codelist-item>
+        <codelist-item>
+            <code>LAK</code>
+            <name>Lao Kip</name>
+            <name xml:lang="es">Kip laosiano</name>
+            <name xml:lang="pt">Lao Kip</name>
+        </codelist-item>
+        <codelist-item>
+            <code>LBP</code>
+            <name>Lebanese Pound</name>
+            <name xml:lang="es">Libra libanesa</name>
+            <name xml:lang="pt">Libra libanesa</name>
+        </codelist-item>
+        <codelist-item>
+            <code>LKR</code>
+            <name>Sri Lanka Rupee</name>
+            <name xml:lang="es">Rupia de Sri Lanka</name>
+            <name xml:lang="pt">Rupia do Sri Lanka</name>
+        </codelist-item>
+        <codelist-item>
+            <code>LRD</code>
+            <name>Liberian Dollar</name>
+            <name xml:lang="es">D&#243;lar liberiano</name>
+            <name xml:lang="pt">D&#243;lar liberiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>LSL</code>
+            <name>Loti</name>
+            <name xml:lang="es">Loti</name>
+            <name xml:lang="pt">Loti</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1985-05-01">
+            <code>LSM</code>
+            <name>Loti</name>
+            <name xml:lang="es">Loti</name>
+            <name xml:lang="pt">Loti</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2014-12-01">
+            <code>LTL</code>
+            <name>Lithuanian Litas</name>
+            <name xml:lang="es">Litas lituana</name>
+            <name xml:lang="pt">Litas lituano</name>
+            <description>Withdrawn from ISO Currency codelist</description>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-07-01">
+            <code>LTT</code>
+            <name>Talonas</name>
+            <name xml:lang="es">Talonas</name>
+            <name xml:lang="pt">Talonas</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03-01">
+            <code>LUC</code>
+            <name>Luxembourg Convertible Franc</name>
+            <name xml:lang="es">Franco luxemburgu&#233;s convertible</name>
+            <name xml:lang="pt">Franco convert&#237;vel luxemburgu&#234;s</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>LUF</code>
+            <name>Luxembourg Franc</name>
+            <name xml:lang="es">Franco luxemburgu&#233;s</name>
+            <name xml:lang="pt">Franco luxemburgu&#234;s</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03-01">
+            <code>LUL</code>
+            <name>Luxembourg Financial Franc</name>
+            <name xml:lang="es">Franco luxemburgu&#233;s financiero</name>
+            <name xml:lang="pt">Franco financeiro luxemburgu&#234;s</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2014-01-01">
+            <code>LVL</code>
+            <name>Latvian Lats</name>
+            <name xml:lang="es">Lats let&#243;n</name>
+            <name xml:lang="pt">Lats let&#227;o</name>
+            <description>Withdrawn from ISO Currency codelist</description>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-12-01">
+            <code>LVR</code>
+            <name>Latvian Ruble</name>
+            <name xml:lang="es">Rublo let&#243;n</name>
+            <name xml:lang="pt">Rublo let&#227;o</name>
+        </codelist-item>
+        <codelist-item>
+            <code>LYD</code>
+            <name>Libyan Dinar</name>
+            <name xml:lang="es">Dinar libio</name>
+            <name xml:lang="pt">Dinar l&#237;bio</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MAD</code>
+            <name>Moroccan Dirham</name>
+            <name xml:lang="es">D&#237;rham marroqu&#237;</name>
+            <name xml:lang="pt">Dirham marroquino</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MDL</code>
+            <name>Moldovan Leu</name>
+            <name xml:lang="es">Leu moldavo</name>
+            <name xml:lang="pt">Leu moldavo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MGA</code>
+            <name>Malagasy Ariary</name>
+            <name xml:lang="es">Ariari malgache</name>
+            <name xml:lang="pt">Ariari malgaxe</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2004-12-01">
+            <code>MGF</code>
+            <name>Malagasy Franc</name>
+            <name xml:lang="es">Franco malgache</name>
+            <name xml:lang="pt">Franco malgaxe</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MKD</code>
+            <name>Denar</name>
+            <name xml:lang="es">Denar</name>
+            <name xml:lang="pt">Denar</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1984-11-01">
+            <code>MLF</code>
+            <name>Mali Franc</name>
+            <name xml:lang="es">Franco maliense</name>
+            <name xml:lang="pt">Franco maliano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MMK</code>
+            <name>Kyat</name>
+            <name xml:lang="es">Kyat</name>
+            <name xml:lang="pt">Kyat</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MNT</code>
+            <name>Tugrik</name>
+            <name xml:lang="es">Tugrik mongol</name>
+            <name xml:lang="pt">Tugrik</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MOP</code>
+            <name>Pataca</name>
+            <name xml:lang="es">Pataca</name>
+            <name xml:lang="pt">Pataca</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2017-12-01">
+            <code>MRO</code>
+            <name>Ouguiya</name>
+            <name xml:lang="es">Uguiya</name>
+            <name xml:lang="pt">Ouguiya</name>
+            <description>Withdrawn from ISO Currency codelist. Use code MRU.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>MRU</code>
+            <name>Ouguiya</name>
+            <name xml:lang="es">Uguiya</name>
+            <name xml:lang="pt">Ouguiya</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-01-01">
+            <code>MTL</code>
+            <name>Maltese Lira</name>
+            <name xml:lang="es">Lira maltesa</name>
+            <name xml:lang="pt">Lira maltesa</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1983-06-01">
+            <code>MTP</code>
+            <name>Maltese Pound</name>
+            <name xml:lang="es">Libra maltesa</name>
+            <name xml:lang="pt">Libra maltesa</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MUR</code>
+            <name>Mauritius Rupee</name>
+            <name xml:lang="es">Rupia mauriciana</name>
+            <name xml:lang="pt">Rupia mauriciana</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12-01">
+            <code>MVQ</code>
+            <name>Maldive Rupee</name>
+            <name xml:lang="es">Rupia maldiva</name>
+            <name xml:lang="pt">Rupia maldivense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MVR</code>
+            <name>Rufiyaa</name>
+            <name xml:lang="es">Rufiya</name>
+            <name xml:lang="pt">Rufiyaa</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2016-02-01" status="active">
+            <code>MWK</code>
+            <name>Malawi Kwacha</name>
+            <name xml:lang="es">Kuacha</name>
+            <name xml:lang="pt">Kwacha</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MXN</code>
+            <name>Mexican Peso</name>
+            <name xml:lang="es">Peso mexicano</name>
+            <name xml:lang="pt">Peso mexicano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-01-01">
+            <code>MXP</code>
+            <name>Mexican Peso</name>
+            <name xml:lang="es">Peso mexicano</name>
+            <name xml:lang="pt">Peso mexicano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MXV</code>
+            <name>Mexican Unidad de Inversion (UDI)</name>
+            <name xml:lang="es">Unidad de Inversi&#243;n mexicana (UDI)</name>
+            <name xml:lang="pt">Unidade de investimento mexicana (UDI)</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MYR</code>
+            <name>Malaysian Ringgit</name>
+            <name xml:lang="es">Ringit malasio</name>
+            <name xml:lang="pt">Ringgit malaio</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>MZE</code>
+            <name>Mozambique Escudo</name>
+            <name xml:lang="es">Escudo de Mozambique</name>
+            <name xml:lang="pt">Escudo mo&#231;ambicano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2006-06-01">
+            <code>MZM</code>
+            <name>Mozambique Metical</name>
+            <name xml:lang="es">Metical de Mozambique</name>
+            <name xml:lang="pt">Metical mo&#231;ambicano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>MZN</code>
+            <name>Mozambique Metical</name>
+            <name xml:lang="es">Metical de Mozambique</name>
+            <name xml:lang="pt">Metical mo&#231;ambicano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>NAD</code>
+            <name>Namibia Dollar</name>
+            <name xml:lang="es">D&#243;lar namibiano</name>
+            <name xml:lang="pt">D&#243;lar namibiano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>NGN</code>
+            <name>Naira</name>
+            <name xml:lang="es">Naira</name>
+            <name xml:lang="pt">Naira</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-10-01">
+            <code>NIC</code>
+            <name>Cordoba</name>
+            <name xml:lang="es">C&#243;rdoba</name>
+            <name xml:lang="pt">Cordoba</name>
+        </codelist-item>
+        <codelist-item>
+            <code>NIO</code>
+            <name>Cordoba Oro</name>
+            <name xml:lang="es">C&#243;rdoba oro</name>
+            <name xml:lang="pt">Cordoba Oro</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>NLG</code>
+            <name>Netherlands Guilder</name>
+            <name xml:lang="es">Flor&#237;n neerland&#233;s</name>
+            <name xml:lang="pt">Florim neerland&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>NOK</code>
+            <name>Norwegian Krone</name>
+            <name xml:lang="es">Corona noruega</name>
+            <name xml:lang="pt">Coroa norueguesa</name>
+        </codelist-item>
+        <codelist-item>
+            <code>NPR</code>
+            <name>Nepalese Rupee</name>
+            <name xml:lang="es">Rupia nepalesa</name>
+            <name xml:lang="pt">Rupia nepalesa</name>
+        </codelist-item>
+        <codelist-item>
+            <code>NZD</code>
+            <name>New Zealand Dollar</name>
+            <name xml:lang="es">D&#243;lar neozeland&#233;s</name>
+            <name xml:lang="pt">D&#243;lar neozeland&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>OMR</code>
+            <name>Rial Omani</name>
+            <name xml:lang="es">Rial oman&#237;</name>
+            <name xml:lang="pt">Rial omani</name>
+        </codelist-item>
+        <codelist-item>
+            <code>PAB</code>
+            <name>Balboa</name>
+            <name xml:lang="es">Balboa</name>
+            <name xml:lang="pt">Balboa</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>PEH</code>
+            <name>Sol</name>
+            <name xml:lang="es">Sol</name>
+            <name xml:lang="pt">Sol</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1991-07-01">
+            <code>PEI</code>
+            <name>Inti</name>
+            <name xml:lang="es">Inti</name>
+            <name xml:lang="pt">Inti</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2015-12-01" status="active">
+            <code>PEN</code>
+            <name>Sol</name>
+            <name xml:lang="es">Nuevo sol</name>
+            <name xml:lang="pt">Nuevo Sol</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1986-02-01">
+            <code>PES</code>
+            <name>Sol</name>
+            <name xml:lang="es">Sol</name>
+            <name xml:lang="pt">Sol</name>
+        </codelist-item>
+        <codelist-item>
+            <code>PGK</code>
+            <name>Kina</name>
+            <name xml:lang="es">Kina</name>
+            <name xml:lang="pt">Kina</name>
+        </codelist-item>
+        <codelist-item>
+            <code>PHP</code>
+            <name>Philippine Peso</name>
+            <name xml:lang="es">Peso filipino</name>
+            <name xml:lang="pt">Peso filipino</name>
+        </codelist-item>
+        <codelist-item>
+            <code>PKR</code>
+            <name>Pakistan Rupee</name>
+            <name xml:lang="es">Rupia pakistan&#237;</name>
+            <name xml:lang="pt">Rupia paquistanesa</name>
+        </codelist-item>
+        <codelist-item>
+            <code>PLN</code>
+            <name>Zloty</name>
+            <name xml:lang="es">Esloti</name>
+            <name xml:lang="pt">Zloty</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1997-01-01">
+            <code>PLZ</code>
+            <name>Zloty</name>
+            <name xml:lang="es">Esloti</name>
+            <name xml:lang="pt">Zloty</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03-01">
+            <code>PTE</code>
+            <name>Portuguese Escudo</name>
+            <name xml:lang="es">Escudo portugu&#233;s</name>
+            <name xml:lang="pt">Escudo portugu&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>PYG</code>
+            <name>Guarani</name>
+            <name xml:lang="es">Guaran&#237;</name>
+            <name xml:lang="pt">Guarani</name>
+        </codelist-item>
+        <codelist-item>
+            <code>QAR</code>
+            <name>Qatari Rial</name>
+            <name xml:lang="es">Rial qatar&#237;</name>
+            <name xml:lang="pt">Rial catariano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>RHD</code>
+            <name>Rhodesian Dollar</name>
+            <name xml:lang="es">D&#243;lar de Rodesia</name>
+            <name xml:lang="pt">D&#243;lar rodesiano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ROK</code>
+            <name>Leu A/52</name>
+            <name xml:lang="es">Leu A/52</name>
+            <name xml:lang="pt">Leu A/52</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2005-06-01">
+            <code>ROL</code>
+            <name>Old Leu</name>
+            <name xml:lang="es">Antiguo leu</name>
+            <name xml:lang="pt">Leu antigo</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2015-06-01" status="active">
+            <code>RON</code>
+            <name>Romanian Leu</name>
+            <name xml:lang="es">Nuevo leu rumano</name>
+            <name xml:lang="pt">Leu romeno novo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>RSD</code>
+            <name>Serbian Dinar</name>
+            <name xml:lang="es">Dinar serbio</name>
+            <name xml:lang="pt">Dinar s&#233;rvio</name>
+        </codelist-item>
+        <codelist-item>
+            <code>RUB</code>
+            <name>Russian Ruble</name>
+            <name xml:lang="es">Rublo ruso</name>
+            <name xml:lang="pt">Rublo russo</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-07-01">
+            <code>RUR</code>
+            <name>Russian Ruble</name>
+            <name xml:lang="es">Rublo ruso</name>
+            <name xml:lang="pt">Rublo russo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>RWF</code>
+            <name>Rwanda Franc</name>
+            <name xml:lang="es">Franco ruand&#233;s</name>
+            <name xml:lang="pt">Franco ruand&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SAR</code>
+            <name>Saudi Riyal</name>
+            <name xml:lang="es">Riyal saud&#237;</name>
+            <name xml:lang="pt">Rial saudita</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SBD</code>
+            <name>Solomon Islands Dollar</name>
+            <name xml:lang="es">D&#243;lar de las Islas Salom&#243;n</name>
+            <name xml:lang="pt">D&#243;lar salomonense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SCR</code>
+            <name>Seychelles Rupee</name>
+            <name xml:lang="es">Rupia de Seychelles</name>
+            <name xml:lang="pt">Rupia seichelense</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2007-07-01">
+            <code>SDD</code>
+            <name>Sudanese Dinar</name>
+            <name xml:lang="es">Dinar sudan&#233;s</name>
+            <name xml:lang="pt">Dinar sudan&#234;s</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2012-09-01" status="active">
+            <code>SDG</code>
+            <name>Sudanese Pound</name>
+            <name xml:lang="es">Libra sudanesa</name>
+            <name xml:lang="pt">Libra sudanesa</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1998-06-01">
+            <code>SDP</code>
+            <name>Sudanese Pound</name>
+            <name xml:lang="es">Libra sudanesa</name>
+            <name xml:lang="pt">Libra sudanesa</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SEK</code>
+            <name>Swedish Krona</name>
+            <name xml:lang="es">Corona sueca</name>
+            <name xml:lang="pt">Coroa sueca</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SGD</code>
+            <name>Singapore Dollar</name>
+            <name xml:lang="es">D&#243;lar singapurense</name>
+            <name xml:lang="pt">D&#243;lar singapurense</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SHP</code>
+            <name>Saint Helena Pound</name>
+            <name xml:lang="es">Libra de Santa Elena</name>
+            <name xml:lang="pt">Libra de Santa Helena</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SLE</code>
+            <name>Leone</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2007-01-01">
+            <code>SIT</code>
+            <name>Tolar</name>
+            <name xml:lang="es">T&#243;lar</name>
+            <name xml:lang="pt">Tolar</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2009-01-01">
+            <code>SKK</code>
+            <name>Slovak Koruna</name>
+            <name xml:lang="es">Corona eslovaca</name>
+            <name xml:lang="pt">Coroa eslovaca</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>SLL</code>
+            <name>Leone</name>
+            <name xml:lang="es">Leone</name>
+            <name xml:lang="pt">Leone</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SOS</code>
+            <name>Somali Shilling</name>
+            <name xml:lang="es">Chel&#237;n somal&#237;</name>
+            <name xml:lang="pt">Xelim somali</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SRD</code>
+            <name>Surinam Dollar</name>
+            <name xml:lang="es">D&#243;lar surinam&#233;s</name>
+            <name xml:lang="pt">D&#243;lar surinamense</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-12-01">
+            <code>SRG</code>
+            <name>Surinam Guilder</name>
+            <name xml:lang="es">Flor&#237;n surinam&#233;s</name>
+            <name xml:lang="pt">Florim surinam&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SSP</code>
+            <name>South Sudanese Pound</name>
+            <name xml:lang="es">Libra sursudanesa</name>
+            <name xml:lang="pt">Libra sul-sudanesa</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2017-12-01">
+            <code>STD</code>
+            <name>Dobra</name>
+            <name xml:lang="es">Dobra</name>
+            <name xml:lang="pt">Dobra</name>
+            <description>Withdrawn from ISO Currency codelist. Use code STN.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>STN</code>
+            <name>Dobra</name>
+            <name xml:lang="es">Dobra</name>
+            <name xml:lang="pt">Dobra</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-12-01">
+            <code>SUR</code>
+            <name>Rouble</name>
+            <name xml:lang="es">Rublo</name>
+            <name xml:lang="pt">Rublo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SVC</code>
+            <name>El Salvador Colon</name>
+            <name xml:lang="es">Col&#243;n salvadore&#241;o</name>
+            <name xml:lang="pt">Col&#243;n salvadorenho</name>
+        </codelist-item>
+        <codelist-item>
+            <code>SYP</code>
+            <name>Syrian Pound</name>
+            <name xml:lang="es">Libra siria</name>
+            <name xml:lang="pt">Libra s&#237;ria</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2018-08-01" status="active">
+            <code>SZL</code>
+            <name>Lilangeni</name>
+            <name xml:lang="es">Lilangeni</name>
+            <name xml:lang="pt">Lilangeni</name>
+        </codelist-item>
+        <codelist-item>
+            <code>THB</code>
+            <name>Baht</name>
+            <name xml:lang="es">Bat</name>
+            <name xml:lang="pt">Baht</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2001-04-01">
+            <code>TJR</code>
+            <name>Tajik Ruble</name>
+            <name xml:lang="es">Rublo tayiko</name>
+            <name xml:lang="pt">Rublo tajique</name>
+        </codelist-item>
+        <codelist-item>
+            <code>TJS</code>
+            <name>Somoni</name>
+            <name xml:lang="es">Somoni</name>
+            <name xml:lang="pt">Somoni</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2009-01-01">
+            <code>TMM</code>
+            <name>Turkmenistan Manat</name>
+            <name xml:lang="es">Manat turcomano</name>
+            <name xml:lang="pt">Manat turquemenistan&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>TMT</code>
+            <name>Turkmenistan New Manat</name>
+            <name xml:lang="es">Nuevo manat turcomano</name>
+            <name xml:lang="pt">Manat turquemenistan&#234;s novo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>TND</code>
+            <name>Tunisian Dinar</name>
+            <name xml:lang="es">Dinar tunecino</name>
+            <name xml:lang="pt">Dinar tunisino</name>
+        </codelist-item>
+        <codelist-item>
+            <code>TOP</code>
+            <name>Pa&#8217;anga</name>
+            <name xml:lang="es">Paanga</name>
+            <name xml:lang="pt">Pa'anga</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-11-01">
+            <code>TPE</code>
+            <name>Timor Escudo</name>
+            <name xml:lang="es">Escudo de Timor</name>
+            <name xml:lang="pt">Escudo timorense</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2005-12-01">
+            <code>TRL</code>
+            <name>Old Turkish Lira</name>
+            <name xml:lang="es">Antigua lira turca</name>
+            <name xml:lang="pt">Lira turca antiga</name>
+        </codelist-item>
+        <codelist-item withdrawal-date="2009-01-01" status="active">
+            <code>TRY</code>
+            <name>Turkish Lira</name>
+            <name xml:lang="es">Nueva lira turca</name>
+            <name xml:lang="pt">Lira turca nova</name>
+        </codelist-item>
+        <codelist-item>
+            <code>TTD</code>
+            <name>Trinidad and Tobago Dollar</name>
+            <name xml:lang="es">D&#243;lar de Trinidad y Tabago</name>
+            <name xml:lang="pt">D&#243;lar de Trindade e Tobago</name>
+        </codelist-item>
+        <codelist-item>
+            <code>TWD</code>
+            <name>New Taiwan Dollar</name>
+            <name xml:lang="es">Nuevo d&#243;lar de Taiw&#225;n</name>
+            <name xml:lang="pt">D&#243;lar taiwan&#234;s novo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>TZS</code>
+            <name>Tanzanian Shilling</name>
+            <name xml:lang="es">Chel&#237;n tanzano</name>
+            <name xml:lang="pt">Xelim tanzaniano</name>
+        </codelist-item>
+        <codelist-item>
+            <code>UAH</code>
+            <name>Hryvnia</name>
+            <name xml:lang="es">Grivna</name>
+            <name xml:lang="pt">Hryvnia</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1996-09-01">
+            <code>UAK</code>
+            <name>Karbovanet</name>
+            <name xml:lang="es">Karb&#243;vanets</name>
+            <name xml:lang="pt">Karbovanet</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1987-05-01">
+            <code>UGS</code>
+            <name>Uganda Shilling</name>
+            <name xml:lang="es">Chel&#237;n ugand&#233;s</name>
+            <name xml:lang="pt">Xelim ugand&#234;s</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>UGW</code>
+            <name>Old Shilling</name>
+            <name xml:lang="es">Antiguo chel&#237;n</name>
+            <name xml:lang="pt">Xelim antigo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>UGX</code>
+            <name>Uganda Shilling</name>
+            <name xml:lang="es">Chel&#237;n ugand&#233;s</name>
+            <name xml:lang="pt">Xelim ugand&#234;s</name>
+        </codelist-item>
+        <codelist-item>
+            <code>USD</code>
+            <name>US Dollar</name>
+            <name xml:lang="es">D&#243;lar de los Estados Unidos</name>
+            <name xml:lang="pt">D&#243;lar dos EUA</name>
+        </codelist-item>
+        <codelist-item>
+            <code>USN</code>
+            <name>US Dollar (Next day)</name>
+            <name xml:lang="es">D&#243;lar de los Estados Unidos (Siguiente d&#237;a)</name>
+            <name xml:lang="pt">D&#243;lar dos EUA (dia seguinte)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2014-03-01">
+            <code>USS</code>
+            <name>US Dollar (Same day)</name>
+            <name xml:lang="es">D&#243;lar de los Estados Unidos (Mismo d&#237;a)</name>
+            <name xml:lang="pt">D&#243;lar dos EUA (mesmo dia)</name>
+            <description>Withdrawn from ISO Currency codelist.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>UYI</code>
+            <name>Uruguay Peso en Unidades Indexadas (UI)</name>
+            <name xml:lang="es">Peso uruguayo en unidades indexadas (UI)</name>
+            <name xml:lang="pt">Peso uruguaio em unidades indexadas (UI)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12-01">
+            <code>UYN</code>
+            <name>Old Uruguay Peso</name>
+            <name xml:lang="es">Antiguo peso uruguayo</name>
+            <name xml:lang="pt">Peso uruguaio antigo</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-03-01">
+            <code>UYP</code>
+            <name>Uruguayan Peso</name>
+            <name xml:lang="es">Peso uruguayo</name>
+            <name xml:lang="pt">Peso uruguaio</name>
+        </codelist-item>
+        <codelist-item>
+            <code>UYU</code>
+            <name>Peso Uruguayo</name>
+            <name xml:lang="es">Peso uruguayo</name>
+            <name xml:lang="pt">Peso uruguaio</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UYW</code>
+            <name>Unidad Previsional</name>
+            <name xml:lang="es">Unidad Previsional</name>
+            <name xml:lang="pt">Unidade previsional</name>
+        </codelist-item>
+        <codelist-item>
+            <code>UZS</code>
+            <name>Uzbekistan Sum</name>
+            <name xml:lang="es">Sum uzbeko</name>
+            <name xml:lang="pt">Sum uzbeque</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-01-01">
+            <code>VEB</code>
+            <name>Bolivar</name>
+            <name xml:lang="es">Bol&#237;var</name>
+            <name xml:lang="pt">Bol&#237;var</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VED</code>
+            <name>Bol&#237;var Soberano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-01">
+            <code>VEF</code>
+            <name>Bol&#237;var</name>
+            <name xml:lang="es">Bol&#237;var</name>
+            <name xml:lang="pt">Bol&#237;var</name>
+        </codelist-item>
+        <codelist-item>
+            <code>VES</code>
+            <name>Bol&#237;var Soberano</name>
+            <name xml:lang="es">Bol&#237;var soberano</name>
+            <name xml:lang="pt">Bol&#237;var Soberano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>VNC</code>
+            <name>Old Dong</name>
+            <name xml:lang="es">Antiguo dong</name>
+            <name xml:lang="pt">Dong Antigo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>VND</code>
+            <name>Dong</name>
+            <name xml:lang="es">Dong</name>
+            <name xml:lang="pt">Dong</name>
+        </codelist-item>
+        <codelist-item>
+            <code>VUV</code>
+            <name>Vatu</name>
+            <name xml:lang="es">Vatu</name>
+            <name xml:lang="pt">Vatu</name>
+        </codelist-item>
+        <codelist-item>
+            <code>WST</code>
+            <name>Tala</name>
+            <name xml:lang="es">Tala</name>
+            <name xml:lang="pt">Tala</name>
+        </codelist-item>
+        <codelist-item>
+            <code>XAF</code>
+            <name>CFA Franc BEAC</name>
+            <name xml:lang="es">Franco CFA (BEAC)</name>
+            <name xml:lang="pt">Franco CFA BEAC</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XAG</code>
+            <name>Silver</name>
+            <name xml:lang="es">Plata</name>
+            <name xml:lang="pt">Prata</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XAU</code>
+            <name>Gold</name>
+            <name xml:lang="es">Oro</name>
+            <name xml:lang="pt">Ouro</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XBA</code>
+            <name>Bond Markets Unit European Composite Unit (EURCO)</name>
+            <name xml:lang="es">Unidad de mercados de obligaciones: unidad compuesta europea (EURCO)</name>
+            <name xml:lang="pt">Unidade dos mercados de obriga&#231;&#245;es, unidade composta europeia (EURCO)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XBB</code>
+            <name>Bond Markets Unit European Monetary Unit (E.M.U.-6)</name>
+            <name xml:lang="es">Unidad de mercados de obligaciones: unidad monetaria europea (E.M.U.-6)</name>
+            <name xml:lang="pt">Unidade dos mercados de obriga&#231;&#245;es, unidade monet&#225;ria europeia (E.M.U.-6)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XBC</code>
+            <name>Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</name>
+            <name xml:lang="es">Unidad de mercados de obligaciones: unidad de cuenta europea 9 (E.U.A.-9)</name>
+            <name xml:lang="pt">Unidade dos mercados de obriga&#231;&#245;es, unidade de conta europeia 9 (E.U.A.-9)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XBD</code>
+            <name>Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</name>
+            <name xml:lang="es">Unidad de mercados de obligaciones: unidad de cuenta europea 17 (E.U.A.-17)</name>
+            <name xml:lang="pt">Unidade dos mercados de obriga&#231;&#245;es, unidade de conta europeia 17 (E.U.A.-17)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>XBT</code>
+            <name>Bitcoin</name>
+            <name xml:lang="es">Bitc&#243;in</name>
+            <name xml:lang="pt">Bitcoin</name>
+        </codelist-item>
+        <codelist-item>
+            <code>XCD</code>
+            <name>East Caribbean Dollar</name>
+            <name xml:lang="es">D&#243;lar del Caribe Oriental</name>
+            <name xml:lang="pt">D&#243;lar leste-caribenho</name>
+        </codelist-item>
+        <codelist-item>
+            <code>XDR</code>
+            <name>SDR (Special Drawing Right)</name>
+            <name xml:lang="es">DEG (derecho especial de giro)</name>
+            <name xml:lang="pt">DSE (Direito de Saque Especial)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1999-01-01">
+            <code>XEU</code>
+            <name>European Currency Unit (E.C.U)</name>
+            <name xml:lang="es">Unidad monetaria europea (ecu)</name>
+            <name xml:lang="pt">Unidade de conta europeia (E.C.U.)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2006-10-01">
+            <code>XFO</code>
+            <name>Gold-Franc</name>
+            <name xml:lang="es">Franco de oro</name>
+            <name xml:lang="pt">Franco-ouro</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2013-11-01">
+            <code>XFU</code>
+            <name>UIC-Franc</name>
+            <name xml:lang="es">Franco UIC</name>
+            <name xml:lang="pt">Franco UIC</name>
+        </codelist-item>
+        <codelist-item>
+            <code>XOF</code>
+            <name>CFA Franc BCEAO</name>
+            <name xml:lang="es">Franco CFA (BCEAO)</name>
+            <name xml:lang="pt">Franco CFA BCEAO</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XPD</code>
+            <name>Palladium</name>
+            <name xml:lang="es">Paladio</name>
+            <name xml:lang="pt">Pal&#225;dio</name>
+        </codelist-item>
+        <codelist-item>
+            <code>XPF</code>
+            <name>CFP Franc</name>
+            <name xml:lang="es">Franco CFP</name>
+            <name xml:lang="pt">Franco CFP</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XPT</code>
+            <name>Platinum</name>
+            <name xml:lang="es">Platino</name>
+            <name xml:lang="pt">Platina</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1999-11-01">
+            <code>XRE</code>
+            <name>RINET Funds Code</name>
+            <name xml:lang="es">C&#243;digo de fondos RINET</name>
+            <name xml:lang="pt">C&#243;digo de fundos RINET</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XSU</code>
+            <name>Sucre</name>
+            <name xml:lang="es">Sucre</name>
+            <name xml:lang="pt">Sucre</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XTS</code>
+            <name>Codes specifically reserved for testing purposes</name>
+            <name xml:lang="es">C&#243;digos reservados espec&#237;ficamente para pruebas</name>
+            <name xml:lang="pt">C&#243;digos especificamente reservados para fins de teste</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XUA</code>
+            <name>ADB Unit of Account</name>
+            <name xml:lang="es">Unidad de cuenta del BAD</name>
+            <name xml:lang="pt">Unidade de conta ADB</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XXX</code>
+            <name>The codes assigned for transactions where no currency is involved</name>
+            <name xml:lang="es">Los c&#243;digos asignados a transacciones que no implican ninguna divisa</name>
+            <name xml:lang="pt">C&#243;digos destinados a transa&#231;&#245;es em que n&#227;o h&#225; uma moeda envolvida</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1991-09-01">
+            <code>YDD</code>
+            <name>Yemeni Dinar</name>
+            <name xml:lang="es">Dinar yemen&#237;</name>
+            <name xml:lang="pt">Dinar iemenita</name>
+        </codelist-item>
+        <codelist-item>
+            <code>YER</code>
+            <name>Yemeni Rial</name>
+            <name xml:lang="es">Rial yemen&#237;</name>
+            <name xml:lang="pt">Rial iemenita</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-01-01">
+            <code>YUD</code>
+            <name>New Yugoslavian Dinar</name>
+            <name xml:lang="es">Nuevo dinar yugoslavo</name>
+            <name xml:lang="pt">Dinar jugoslavo novo</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-07-01">
+            <code>YUM</code>
+            <name>New Dinar</name>
+            <name xml:lang="es">Nuevo dinar</name>
+            <name xml:lang="pt">Dinar novo</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1995-11-01">
+            <code>YUN</code>
+            <name>Yugoslavian Dinar</name>
+            <name xml:lang="es">Dinar yugoslavo</name>
+            <name xml:lang="pt">Dinar jugoslavo</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1995-03-01">
+            <code>ZAL</code>
+            <name>Financial Rand</name>
+            <name xml:lang="es">Rand financiero</name>
+            <name xml:lang="pt">Rand financeiro</name>
+        </codelist-item>
+        <codelist-item>
+            <code>ZAR</code>
+            <name>Rand</name>
+            <name xml:lang="es">Rand</name>
+            <name xml:lang="pt">Rand</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2012-12-01">
+            <code>ZMK</code>
+            <name>Zambian Kwacha</name>
+            <name xml:lang="es">Kuacha zambiano</name>
+            <name xml:lang="pt">Kwacha zambiano</name>
+            <description>Withdrawn from ISO Country codelist. Use code ZMW.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>ZMW</code>
+            <name>Zambian Kwacha</name>
+            <name xml:lang="es">Kuacha zambiano</name>
+            <name xml:lang="pt">Kwacha zambiano</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZWG</code>
+            <name>Zimbabwe Gold</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1999-06-01">
+            <code>ZRN</code>
+            <name>New Zaire</name>
+            <name xml:lang="es">Nuevo zaire</name>
+            <name xml:lang="pt">Zaire novo</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-02-01">
+            <code>ZRZ</code>
+            <name>Zaire</name>
+            <name xml:lang="es">Zaire</name>
+            <name xml:lang="pt">Zaire</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12-01">
+            <code>ZWC</code>
+            <name>Rhodesian Dollar</name>
+            <name xml:lang="es">D&#243;lar de Rodesia</name>
+            <name xml:lang="pt">D&#243;lar rodesiano</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-08-01">
+            <code>ZWD</code>
+            <name>Zimbabwe Dollar</name>
+            <name xml:lang="es">D&#243;lar zimbabuense</name>
+            <name xml:lang="pt">D&#243;lar zimbabwense</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ZWL</code>
+            <name>Zimbabwe Dollar</name>
+            <name xml:lang="es">D&#243;lar zimbabuense</name>
+            <name xml:lang="pt">D&#243;lar zimbabwense</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2006-09-01">
+            <code>ZWN</code>
+            <name>Zimbabwe Dollar (new)</name>
+            <name xml:lang="es">D&#243;lar zimbabuense (nuevo)</name>
+            <name xml:lang="pt">D&#243;lar zimbabwense (novo)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2009-06-01">
+            <code>ZWR</code>
+            <name>Zimbabwe Dollar</name>
+            <name xml:lang="es">D&#243;lar zimbabuense</name>
+            <name xml:lang="pt">D&#243;lar zimbabwense</name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+

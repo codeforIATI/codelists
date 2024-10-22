@@ -1,0 +1,12 @@
+<codelist name="BudgetType" date-last-modified="2024-10-22T13:51:56.650943+00:00" version="" xml:lang="en">
+  <BudgetType>
+    <code>1</code>
+    <name>Original</name>
+    <language>en</language>
+  </BudgetType>
+  <BudgetType>
+    <code>2</code>
+    <name>Revised</name>
+    <language>en</language>
+  </BudgetType>
+</codelist>
