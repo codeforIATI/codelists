@@ -1,0 +1,63 @@
+<codelist name="Vocabulary" xml:lang="en" complete="1" embedded="1">
+    <metadata>
+        <name>Vocabulary</name>
+    </metadata>
+    <codelist-items>
+        <codelist-item>
+            <code>ADT</code>
+            <name>AidData</name>
+            <name xml:lang="fr">AidData</name>
+        </codelist-item>
+        <codelist-item>
+            <code>COFOG</code>
+            <url>http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=4</url>
+            <name>Classification of the Functions of Government (UN)</name>
+            <name xml:lang="fr">COFOG (UN)</name>
+        </codelist-item>
+        <codelist-item>
+            <code>DAC</code>
+            <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+            <name>OECD Development Assistance Committee</name>
+            <name xml:lang="fr">OCDE Comit&#233; d'aide au d&#233;veloppement</name>
+        </codelist-item>
+        <codelist-item>
+            <code>DAC-3</code>
+            <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+            <name>OECD Development Assistance Committee 3 digit codes</name>
+            <name xml:lang="fr">OCDE Comit&#233; d'aide au d&#233;veloppement 3 digit codes</name>
+        </codelist-item>
+        <codelist-item>
+            <code>ISO</code>
+            <name>International Organization for Standardization</name>
+            <name xml:lang="fr">Organisation internationale de normalisation</name>
+        </codelist-item>
+        <codelist-item>
+            <code>NACE</code>
+            <url>http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&amp;StrNom=NACE_REV2&amp;StrLanguageCode=EN</url>
+            <name>Statistical classification of economic activities in the European Community</name>
+            <name xml:lang="fr">Nomenclature statistique des activit&#233;s &#233;conomiques dans la Communaut&#233; europ&#233;enne</name>
+        </codelist-item>
+        <codelist-item>
+            <code>NTEE</code>
+            <url>http://nccs.urban.org/classification/NTEE.cfm</url>
+            <name>National Taxonomy for Exempt Entities (USA)</name>
+            <name xml:lang="fr">National Taxonomy for Exempt Entities (USA)</name>
+        </codelist-item>
+        <codelist-item>
+            <code>RO</code>
+            <name>Reporting Organisation (i.e. maintained by the organisation referred to in the &lt;reporting-org&gt; element.</name>
+            <name xml:lang="fr">Organisation d&#233;clarante (i.e. maintained by the organisation referred to in the &lt;reporting-org&gt; element.</name>
+        </codelist-item>
+        <codelist-item>
+            <code>RO2</code>
+            <name>Reporting Organisation (2) - where reporting organisations have more than one vocabulary that they wish to reference</name>
+            <name xml:lang="fr">Organisation d&#233;clarante (2) - dans le cas o&#249; les organisations d&#233;clarantes ont plus d'un vocabulaire qu'ils souhaitent faire r&#233;f&#233;rence</name>
+        </codelist-item>
+        <codelist-item>
+            <code>WB</code>
+            <name>World Bank</name>
+            <name xml:lang="fr">Banque mondiale</name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+

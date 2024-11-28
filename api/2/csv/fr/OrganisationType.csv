@@ -1,0 +1,17 @@
+code,name,description,status
+10,Gouvernement,,active
+11,Gouvernement local,Toute organisation gouvernementale locale (infranationale) dans le pays donateur ou bénéficiaire.,active
+15,Autre secteur public,,active
+21,ONG internationale,,active
+22,ONG nationale,,active
+23,ONG regionale,,active
+24,ONG dans le pays bénéficiaire,ONG ou OSC locale ou nationale basée dans le pays bénéficiaire de l’aide,active
+30,Partenariat public-privé,,active
+40,Multilatéral,,active
+60,Fondation,,active
+70,Secteur privé,,active
+71,Secteur privé situé dans un pays fournisseur/donateur,Situé dans un pays fournisseur/donateur.,active
+72,Secteur privé situé dans un pays bénéficiaire de l’aide.,Situé dans un pays bénéficiaire de l’aide.,active
+73,Secteur privé situé dans un pays tiers,"Situé ni dans un pays donateur, ni dans un pays bénéficiaire.",active
+80,"Universitaire, formation et recherche",,active
+90,Autre,,active

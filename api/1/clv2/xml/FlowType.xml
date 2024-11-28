@@ -1,0 +1,110 @@
+<codelist name="FlowType" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+        <name>Flow Type</name>
+        <name xml:lang="fr">Type d'apport</name>
+        <description>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</description>
+        <description xml:lang="fr">Distinction du CAD/SNPC entre l'APD (aide publique au d&#233;veloppement) et les autres types d'apport</description>
+        <category>Replicated</category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>10</code>
+            <name>ODA</name>
+            <name xml:lang="fr">APD</name>
+            <name xml:lang="es">Asistencia oficial para el desarrollo</name>
+            <name xml:lang="pt">APD</name>
+            <description>Official Development Assistance</description>
+            <description xml:lang="fr">Aide Publique au D&#233;veloppement</description>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
+            <code>20</code>
+            <name>OOF</name>
+            <name xml:lang="fr">AASP</name>
+            <name xml:lang="es">Otras corrientes oficiales</name>
+            <name xml:lang="pt">OFP</name>
+            <description>Other Official Flows</description>
+            <description xml:lang="fr">Autres Apports du Secteur Public</description>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2016-01-01">
+            <code>21</code>
+            <name>Non-export credit OOF</name>
+            <name xml:lang="fr">AASP hors cr&#233;dits-export</name>
+            <name xml:lang="es">Otras corrientes oficiales de cr&#233;ditos no destinados a la exportaci&#243;n</name>
+            <name xml:lang="pt">OFP de cr&#233;ditos que n&#227;o &#224; exporta&#231;&#227;o</name>
+            <description>Other Official Flows, excl. export credits</description>
+            <description xml:lang="fr">Autres Apports du Secteur Public, &#224; l'exclusion des cr&#233;dits &#224; l'exportation</description>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2016-01-01">
+            <code>22</code>
+            <name>Officially supported export credits</name>
+            <name xml:lang="fr">AASP dont cr&#233;dits export</name>
+            <name xml:lang="es">Cr&#233;ditos a la exportaci&#243;n con respaldo oficial</name>
+            <name xml:lang="pt">Cr&#233;ditos &#224; exporta&#231;&#227;o com apoio p&#250;blico</name>
+            <description>Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance</description>
+            <description xml:lang="fr">Autres Apports du Secteur Public, comprenant les cr&#233;dits &#224; l'exportation soutenus par le secteur public et les exportations priv&#233;es b&#233;n&#233;ficiant de garantie ou d'assurance publiques</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>30</code>
+            <name>Private Development Finance</name>
+            <name xml:lang="fr">Financement du d&#233;veloppement priv&#233;</name>
+            <name xml:lang="es">Financiaci&#243;n privada para el desarrollo</name>
+            <name xml:lang="pt">Financiamento privado ao desenvolvimento</name>
+            <description>Financing by civil society organisations (NGOs, philantropic foundations, etc.)</description>
+            <description xml:lang="fr">Financement par les organisations de la soci&#233;t&#233; civile (ONG, fondations philantropiques, etc.)</description>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
+            <code>35</code>
+            <name>Private Market</name>
+            <name xml:lang="fr">Apports priv&#233;s aux conditions du march&#233;</name>
+            <name xml:lang="es">Mercado privado</name>
+            <name xml:lang="pt">Mercado privado</name>
+            <description>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</description>
+            <description xml:lang="fr">Apports priv&#233;s aux conditions du march&#233;</description>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2016-01-01">
+            <code>36</code>
+            <name>Private Foreign Direct Investment</name>
+            <name xml:lang="fr">IDE</name>
+            <name xml:lang="es">Inversi&#243;n extranjera directa privada</name>
+            <name xml:lang="pt">Investimento direto estrangeiro privado</name>
+            <description>Private Foreign Direct Investment</description>
+            <description xml:lang="fr">Investissements directs &#224; l'&#233;tranger</description>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2016-01-01">
+            <code>37</code>
+            <name>Other Private flows at market terms</name>
+            <name xml:lang="fr">Autres apports priv&#233;s aux conditions du march&#233;</name>
+            <name xml:lang="es">Otros flujos privados con arreglo a las condiciones de mercado</name>
+            <name xml:lang="pt">Outros fluxos privados aos termos do mercado</name>
+            <description>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</description>
+            <description xml:lang="fr">Apports priv&#233;s de long-terme (i.e. dont la maturit&#233; est  sup&#233;rieure &#224; un an), transactions en capital faites par des r&#233;sidents de pays du CAD</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>40</code>
+            <name>Non flow</name>
+            <name xml:lang="fr">Non apports</name>
+            <name xml:lang="es">No flujo</name>
+            <name xml:lang="pt">N&#227;o-fluxos</name>
+            <description>e.g. GNI, ODA%GNI, Population etc</description>
+            <description xml:lang="fr">ex : RNB, APD%RNB, Population etc</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>50</code>
+            <name>Other flows</name>
+            <name xml:lang="fr">Autres apports</name>
+            <name xml:lang="es">Otros flujos</name>
+            <name xml:lang="pt">Outros fluxos</name>
+            <description>e.g. non-ODA component of peacebuilding operations</description>
+            <description xml:lang="fr">ex : &#233;l&#233;ment non APD des op&#233;rations de maintien de la paix</description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>60</code>
+            <name>PSI</name>
+            <name xml:lang="fr">ISP</name>
+            <description>Private Sector Instruments</description>
+            <description xml:lang="fr">Instruments du Secteur Priv&#233;</description>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+

@@ -1,0 +1,132 @@
+<codelist name="OrganisationType" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <name>Organisation Type</name>
+        <name xml:lang="fr">Type d'organisation</name>
+        <category>Non-Core</category>
+    </metadata>
+    <codelist-items>
+        <codelist-item>
+            <code>10</code>
+            <name>Government</name>
+            <name xml:lang="fr">Gouvernement</name>
+            <name xml:lang="es">Gobierno</name>
+            <name xml:lang="pt">Governo</name>
+        </codelist-item>
+        <codelist-item>
+            <code>11</code>
+            <name>Local Government</name>
+            <name xml:lang="fr">Gouvernement local</name>
+            <name xml:lang="es">Gobierno local</name>
+            <name xml:lang="pt">Governo local</name>
+            <description>Any local (sub national) government organisation in either donor or recipient country.</description>
+            <description xml:lang="fr">Toute organisation gouvernementale locale (infranationale) dans le pays donateur ou b&#233;n&#233;ficiaire.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>15</code>
+            <name>Other Public Sector</name>
+            <name xml:lang="fr">Autre secteur public</name>
+            <name xml:lang="es">Otras entidades del sector p&#250;blico</name>
+            <name xml:lang="pt">Outro, setor p&#250;blico</name>
+        </codelist-item>
+        <codelist-item>
+            <code>21</code>
+            <name>International NGO</name>
+            <name xml:lang="fr">ONG internationale</name>
+            <name xml:lang="es">ONG internacional</name>
+            <name xml:lang="pt">ONG internacional</name>
+        </codelist-item>
+        <codelist-item>
+            <code>22</code>
+            <name>National NGO</name>
+            <name xml:lang="fr">ONG nationale</name>
+            <name xml:lang="es">ONG nacional</name>
+            <name xml:lang="pt">ONG nacional</name>
+        </codelist-item>
+        <codelist-item>
+            <code>23</code>
+            <name>Regional NGO</name>
+            <name xml:lang="fr">ONG regionale</name>
+            <name xml:lang="es">ONG regional</name>
+            <name xml:lang="pt">ONG regional</name>
+        </codelist-item>
+        <codelist-item>
+            <code>24</code>
+            <name>Partner Country based NGO</name>
+            <name xml:lang="fr">ONG dans le pays b&#233;n&#233;ficiaire</name>
+            <name xml:lang="es">ONG con sede en el pa&#237;s asociado</name>
+            <name xml:lang="pt">ONG sediada em pa&#237;s parceiro</name>
+            <description>Local and National NGO / CSO based in aid/assistance recipient country</description>
+            <description xml:lang="fr">ONG ou OSC locale ou nationale bas&#233;e dans le pays b&#233;n&#233;ficiaire de l&#8217;aide</description>
+        </codelist-item>
+        <codelist-item>
+            <code>30</code>
+            <name>Public Private Partnership</name>
+            <name xml:lang="fr">Partenariat public-priv&#233;</name>
+            <name xml:lang="es">Alianza p&#250;blico-privada</name>
+            <name xml:lang="pt">Parceria p&#250;blico-privada</name>
+        </codelist-item>
+        <codelist-item>
+            <code>40</code>
+            <name>Multilateral</name>
+            <name xml:lang="fr">Multilat&#233;ral</name>
+            <name xml:lang="es">Multilateral</name>
+            <name xml:lang="pt">Multilateral</name>
+        </codelist-item>
+        <codelist-item>
+            <code>60</code>
+            <name>Foundation</name>
+            <name xml:lang="fr">Fondation</name>
+            <name xml:lang="es">Fundaci&#243;n</name>
+            <name xml:lang="pt">Funda&#231;&#227;o</name>
+        </codelist-item>
+        <codelist-item>
+            <code>70</code>
+            <name>Private Sector</name>
+            <name xml:lang="fr">Secteur priv&#233;</name>
+            <name xml:lang="es">Sector privado</name>
+            <name xml:lang="pt">Setor privado</name>
+        </codelist-item>
+        <codelist-item>
+            <code>71</code>
+            <name>Private Sector in Provider Country</name>
+            <name xml:lang="fr">Secteur priv&#233; situ&#233; dans un pays fournisseur/donateur</name>
+            <name xml:lang="es">Sector privado en el pa&#237;s proveedor</name>
+            <name xml:lang="pt">Setor privado no pa&#237;s provedor</name>
+            <description>Is in provider / donor country.</description>
+            <description xml:lang="fr">Situ&#233; dans un pays fournisseur/donateur.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>72</code>
+            <name>Private Sector in Aid Recipient Country</name>
+            <name xml:lang="fr">Secteur priv&#233; situ&#233; dans un pays b&#233;n&#233;ficiaire de l&#8217;aide.</name>
+            <name xml:lang="es">Sector privado en el pa&#237;s beneficiario de la ayuda</name>
+            <name xml:lang="pt">Setor privado no pa&#237;s destinat&#225;rio da ajuda</name>
+            <description>Is in aid recipient country.</description>
+            <description xml:lang="fr">Situ&#233; dans un pays b&#233;n&#233;ficiaire de l&#8217;aide.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>73</code>
+            <name>Private Sector in Third Country</name>
+            <name xml:lang="fr">Secteur priv&#233; situ&#233; dans un pays tiers</name>
+            <name xml:lang="es">Sector privado en un pa&#237;s tercero</name>
+            <name xml:lang="pt">Setor privado num pa&#237;s terceiro</name>
+            <description>Is not in either a donor or aid recipient country.</description>
+            <description xml:lang="fr">Situ&#233; ni dans un pays donateur, ni dans un pays b&#233;n&#233;ficiaire.</description>
+        </codelist-item>
+        <codelist-item>
+            <code>80</code>
+            <name>Academic, Training and Research</name>
+            <name xml:lang="fr">Universitaire, formation et recherche</name>
+            <name xml:lang="es">Instituci&#243;n acad&#233;mica, de capacitaci&#243;n e investigaci&#243;n</name>
+            <name xml:lang="pt">Institui&#231;&#227;o acad&#233;mica, de forma&#231;&#227;o ou de investiga&#231;&#227;o</name>
+        </codelist-item>
+        <codelist-item>
+            <code>90</code>
+            <name>Other</name>
+            <name xml:lang="fr">Autre</name>
+            <name xml:lang="es">Otros</name>
+            <name xml:lang="pt">Outros</name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+

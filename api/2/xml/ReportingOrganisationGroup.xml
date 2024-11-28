@@ -1,0 +1,1226 @@
+<codelist xmlns:codeforiati="https://codeforiati.org/" name="ReportingOrganisationGroup" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <name>
+            <narrative>Reporting Organisation Group</narrative>
+            <narrative xml:lang="fr">Organisation déclarante (Groupements)</narrative>
+        </name>
+        <description>
+            <narrative>Groupings of Reporting Organisations.</narrative>
+            <narrative xml:lang="fr">Groupements des organisations déclarantes.</narrative>
+        </description>
+        <category>
+            <narrative>Replicated</narrative>
+        </category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>BE-BCE_KBO-0264814354</code>
+            <name>
+                <narrative>Belgian development agency (Enabel)</narrative>
+            </name>
+            <codeforiati:group-code>BE</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Belgium</narrative>
+                <narrative xml:lang="fr">Belgique (la)</narrative>
+                <narrative xml:lang="es">Bélgica</narrative>
+                <narrative xml:lang="pt">Bélgica</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-2-10</code>
+            <name>
+                <narrative>Belgian Development Cooperation</narrative>
+            </name>
+            <codeforiati:group-code>BE</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Belgium</narrative>
+                <narrative xml:lang="fr">Belgique (la)</narrative>
+                <narrative xml:lang="es">Bélgica</narrative>
+                <narrative xml:lang="pt">Bélgica</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CA-3</code>
+            <name>
+                <narrative>Canada - Global Affairs Canada | Affaires mondiales Canada</narrative>
+            </name>
+            <codeforiati:group-code>CA</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Canada</narrative>
+                <narrative xml:lang="fr">Canada (le)</narrative>
+                <narrative xml:lang="es">Canadá</narrative>
+                <narrative xml:lang="pt">Canadá</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CA-4</code>
+            <name>
+                <narrative>Canada Department of Finance / Ministère des Finances Canada</narrative>
+            </name>
+            <codeforiati:group-code>CA</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Canada</narrative>
+                <narrative xml:lang="fr">Canada (le)</narrative>
+                <narrative xml:lang="es">Canadá</narrative>
+                <narrative xml:lang="pt">Canadá</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DE-1</code>
+            <name>
+                <narrative>Germany - Ministry for Economic Cooperation and Development</narrative>
+            </name>
+            <codeforiati:group-code>DE</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Germany</narrative>
+                <narrative xml:lang="fr">Allemagne (l')</narrative>
+                <narrative xml:lang="es">Alemania</narrative>
+                <narrative xml:lang="pt">Alemanha</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-IKI</code>
+            <name>
+                <narrative>International Climate Initiative / BMU - IKI Secretariat</narrative>
+            </name>
+            <codeforiati:group-code>DE</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Germany</narrative>
+                <narrative xml:lang="fr">Allemagne (l')</narrative>
+                <narrative xml:lang="es">Alemania</narrative>
+                <narrative xml:lang="pt">Alemanha</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-5-52</code>
+            <name>
+                <narrative>Germany GIZ Non BMZ</narrative>
+            </name>
+            <codeforiati:group-code>DE</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Germany</narrative>
+                <narrative xml:lang="fr">Allemagne (l')</narrative>
+                <narrative xml:lang="es">Alemania</narrative>
+                <narrative xml:lang="pt">Alemanha</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-5-7</code>
+            <name>
+                <narrative>Germany - Federal Foreign Office</narrative>
+            </name>
+            <codeforiati:group-code>DE</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Germany</narrative>
+                <narrative xml:lang="fr">Allemagne (l')</narrative>
+                <narrative xml:lang="es">Alemania</narrative>
+                <narrative xml:lang="pt">Alemanha</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-EC_ECHO</code>
+            <name>
+                <narrative>European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
+            </name>
+            <codeforiati:group-code>EC</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>European Commission</narrative>
+                <narrative xml:lang="fr">Commission européenne</narrative>
+                <narrative xml:lang="es">Comisión Europea</narrative>
+                <narrative xml:lang="pt">Comissão Europeia</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-EC_INTPA</code>
+            <name>
+                <narrative>European Commission - International Partnerships</narrative>
+            </name>
+            <codeforiati:group-code>EC</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>European Commission</narrative>
+                <narrative xml:lang="fr">Commission européenne</narrative>
+                <narrative xml:lang="es">Comisión Europea</narrative>
+                <narrative xml:lang="pt">Comissão Europeia</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-EC_NEAR</code>
+            <name>
+                <narrative>European Commission - Neighbourhood and Enlargement Negotiations</narrative>
+            </name>
+            <codeforiati:group-code>EC</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>European Commission</narrative>
+                <narrative xml:lang="fr">Commission européenne</narrative>
+                <narrative xml:lang="es">Comisión Europea</narrative>
+                <narrative xml:lang="pt">Comissão Europeia</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ES-DIR3-E04585801</code>
+            <name>
+                <narrative>Spain - Ministry of Foreign Affairs and Cooperation</narrative>
+            </name>
+            <codeforiati:group-code>ES</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Spain</narrative>
+                <narrative xml:lang="fr">Espagne (l')</narrative>
+                <narrative xml:lang="es">España</narrative>
+                <narrative xml:lang="pt">Espanha</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-50-21</code>
+            <name>
+                <narrative>Spanish Agency for International Development Cooperation (AECID)</narrative>
+            </name>
+            <codeforiati:group-code>ES</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Spain</narrative>
+                <narrative xml:lang="fr">Espagne (l')</narrative>
+                <narrative xml:lang="es">España</narrative>
+                <narrative xml:lang="pt">Espanha</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FR-3</code>
+            <name>
+                <narrative>Agence Française de Développement</narrative>
+            </name>
+            <codeforiati:group-code>FR</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>France</narrative>
+                <narrative xml:lang="fr">France (la)</narrative>
+                <narrative xml:lang="es">Francia</narrative>
+                <narrative xml:lang="pt">França</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FR-6</code>
+            <name>
+                <narrative>France - Ministry for Europe and Foreign Affairs</narrative>
+            </name>
+            <codeforiati:group-code>FR</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>France</narrative>
+                <narrative xml:lang="fr">France (la)</narrative>
+                <narrative xml:lang="es">Francia</narrative>
+                <narrative xml:lang="pt">França</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-GB-9</code>
+            <name>
+                <narrative>UK - Department for Work and Pensions</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>GB-GOV-9</code>
+            <name>
+                <narrative>UK - Department for Work and Pensions</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>GB-9</code>
+            <name>
+                <narrative>UK - Department for Work and Pensions</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-RC000346</code>
+            <name>
+                <narrative>UK - Medical Research Council</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-1</code>
+            <name>
+                <narrative>UK - Foreign, Commonwealth and Development Office</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-10</code>
+            <name>
+                <narrative>UK - Department of Health and Social Care (DHSC)</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-12</code>
+            <name>
+                <narrative>UK - Department for Digital, Culture, Media and Sport</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-13</code>
+            <name>
+                <narrative>UK - Department for Business, Energy and Industrial Strategy (BEIS)</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-14</code>
+            <name>
+                <narrative>UK – Department for Education</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-15</code>
+            <name>
+                <narrative>Department for International Trade</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-2</code>
+            <name>
+                <narrative>HM Treasury</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-21</code>
+            <name>
+                <narrative>UK - Scottish Government</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-24</code>
+            <name>
+                <narrative>Office for National Statistics</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-50</code>
+            <name>
+                <narrative>Cross-Government Prosperity Fund</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-52</code>
+            <name>
+                <narrative>Conflict, Stability and Security Fund</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-6</code>
+            <name>
+                <narrative>UK - Home Office</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-7</code>
+            <name>
+                <narrative>UK - Department for Environment, Food and Rural Affairs</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-8</code>
+            <name>
+                <narrative>UK - Ministry of Defence</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-701-2</code>
+            <name>
+                <narrative>Ministry of Foreign Affairs of Japan</narrative>
+            </name>
+            <codeforiati:group-code>JP</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Japan</narrative>
+                <narrative xml:lang="fr">Japon (le)</narrative>
+                <narrative xml:lang="es">Japón</narrative>
+                <narrative xml:lang="pt">Japão</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-701-8</code>
+            <name>
+                <narrative>Japan International Cooperation Agency (JICA)</narrative>
+            </name>
+            <codeforiati:group-code>JP</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Japan</narrative>
+                <narrative xml:lang="fr">Japon (le)</narrative>
+                <narrative xml:lang="es">Japón</narrative>
+                <narrative xml:lang="pt">Japão</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NL-KVK-08215619-201210000</code>
+            <name>
+                <narrative>Kadaster International</narrative>
+            </name>
+            <codeforiati:group-code>NL</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Netherlands</narrative>
+                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
+                <narrative xml:lang="es">Países Bajos</narrative>
+                <narrative xml:lang="pt">Países Baixos</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NL-KVK-27367015</code>
+            <name>
+                <narrative>Netherlands Organisation for Scientific Research (NWO)</narrative>
+            </name>
+            <codeforiati:group-code>NL</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Netherlands</narrative>
+                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
+                <narrative xml:lang="es">Países Bajos</narrative>
+                <narrative xml:lang="pt">Países Baixos</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NL-KVK-27378529</code>
+            <name>
+                <narrative>Netherlands Enterprise Agency (RVO)</narrative>
+            </name>
+            <codeforiati:group-code>NL</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Netherlands</narrative>
+                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
+                <narrative xml:lang="es">Países Bajos</narrative>
+                <narrative xml:lang="pt">Países Baixos</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NL-KVK-30276595</code>
+            <name>
+                <narrative>Koninklijk Nederlands Meteorologisch Instituut</narrative>
+            </name>
+            <codeforiati:group-code>NL</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Netherlands</narrative>
+                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
+                <narrative xml:lang="es">Países Bajos</narrative>
+                <narrative xml:lang="pt">Países Baixos</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>XM-DAC-7</code>
+            <name>
+                <narrative>Netherlands - Ministry of Foreign Affairs</narrative>
+            </name>
+            <codeforiati:group-code>NL</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Netherlands</narrative>
+                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
+                <narrative xml:lang="es">Países Bajos</narrative>
+                <narrative xml:lang="pt">Países Baixos</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NL-KVK-27078545</code>
+            <name>
+                <narrative>FMO</narrative>
+            </name>
+            <codeforiati:group-code>NL</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Netherlands</narrative>
+                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
+                <narrative xml:lang="es">Países Bajos</narrative>
+                <narrative xml:lang="pt">Países Baixos</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>41120</code>
+            <name>
+                <narrative>UN-Habitat</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>41AAA</code>
+            <name>
+                <narrative>United Nations Office for Project Services (UNOPS)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-OCHASDC</code>
+            <name>
+                <narrative>United Nations Office for the Coordination of Humanitarian Affairs (Specially-Designated Contributions)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-UNPF</code>
+            <name>
+                <narrative>UN Pooled Funds</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-30010</code>
+            <name>
+                <narrative>UNITAID</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41108</code>
+            <name>
+                <narrative>International Fund for Agricultural Development (IFAD)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41110</code>
+            <name>
+                <narrative>United Nations Joint Programme on HIV and AIDS Secretariat (UNAIDS)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41111</code>
+            <name>
+                <narrative>United Nations Capital Development Fund</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41114</code>
+            <name>
+                <narrative>United Nations Development Programme (UNDP)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41116</code>
+            <name>
+                <narrative>United Nations Environment Programme (UNEP)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41119</code>
+            <name>
+                <narrative>United Nations Population Fund</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41121</code>
+            <name>
+                <narrative>United Nations High Commissioner for Refugees (UNHCR)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41122</code>
+            <name>
+                <narrative>United Nations Children's Fund (UNICEF)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41123</code>
+            <name>
+                <narrative>United Nations Industrial Development Organization (UNIDO)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41127</code>
+            <name>
+                <narrative>United Nations Office for the Coordination of Humanitarian Affairs (OCHA)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41130</code>
+            <name>
+                <narrative>The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41140</code>
+            <name>
+                <narrative>United Nations World Food Programme (WFP)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41146</code>
+            <name>
+                <narrative>UN Women</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41149</code>
+            <name>
+                <narrative>United Nations Development Coordination Office</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41301</code>
+            <name>
+                <narrative>Food and Agriculture Organization of the United Nations (FAO)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41302</code>
+            <name>
+                <narrative>International Labour Organization (ILO)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-41304</code>
+            <name>
+                <narrative>United Nations Educational, Scientific and Cultural Organization (UNESCO)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-45001</code>
+            <name>
+                <narrative>International Trade Centre (ITC)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-47066</code>
+            <name>
+                <narrative>International Organization for Migration (IOM)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-928</code>
+            <name>
+                <narrative>World Health Organization (WHO)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-OCHA-CERF</code>
+            <name>
+                <narrative>United Nations Central Emergency Response Fund (CERF)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-18</code>
+            <name>
+                <narrative>Millennium Challenge Corporation</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>US-18</code>
+            <name>
+                <narrative>Millennium Challenge Corporation</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-1</code>
+            <name>
+                <narrative>United States Agency for International Development (USAID)</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-10</code>
+            <name>
+                <narrative>Peace Corp</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-11</code>
+            <name>
+                <narrative>Department of State</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-12</code>
+            <name>
+                <narrative>U.S. Trade and Development Agency</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-13-ADF</code>
+            <name>
+                <narrative>African Development Foundation</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-14</code>
+            <name>
+                <narrative>U.S. Health and Human Services</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-15</code>
+            <name>
+                <narrative>U.S Department of Justice</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-16</code>
+            <name>
+                <narrative>U.S. Department of Commerce</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-17</code>
+            <name>
+                <narrative>U.S. Department of Labor</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-19</code>
+            <name>
+                <narrative>U.S. Department of Homeland Security</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-2</code>
+            <name>
+                <narrative>U.S. Department of Agriculture</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-20</code>
+            <name>
+                <narrative>U.S. Department of Energy</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-21</code>
+            <name>
+                <narrative>Inter-American Foundation</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-22</code>
+            <name>
+                <narrative>U.S. International Development Finance Corporation</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-26</code>
+            <name>
+                <narrative>U.S. Department of Transportation</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-32</code>
+            <name>
+                <narrative>U.S. Environmental Protection Agency</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-6</code>
+            <name>
+                <narrative>U.S. Department of the Treasury</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-7</code>
+            <name>
+                <narrative>U.S. Department of Defense</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-9</code>
+            <name>
+                <narrative>U.S. Department of Interior</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-TBD</code>
+            <name>
+                <narrative>U.S. Federal Trade Commission</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>US-USAGOV</code>
+            <name>
+                <narrative>United States</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>44000</code>
+            <name>
+                <narrative>The World Bank</narrative>
+            </name>
+            <codeforiati:group-code>WB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>World Bank Group</narrative>
+                <narrative xml:lang="fr">Le Groupe de la Banque Mondiale</narrative>
+                <narrative xml:lang="es">El Grupo del Banco Mundial</narrative>
+                <narrative xml:lang="pt">O Grupo do Banco Mundial</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-WBTF</code>
+            <name>
+                <narrative>World Bank Trust Funds</narrative>
+            </name>
+            <codeforiati:group-code>WB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>World Bank Group</narrative>
+                <narrative xml:lang="fr">Le Groupe de la Banque Mondiale</narrative>
+                <narrative xml:lang="es">El Grupo del Banco Mundial</narrative>
+                <narrative xml:lang="pt">O Grupo do Banco Mundial</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-903</code>
+            <name>
+                <narrative>International Finance Corporation</narrative>
+            </name>
+            <codeforiati:group-code>WB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>World Bank Group</narrative>
+                <narrative xml:lang="fr">Le Groupe de la Banque Mondiale</narrative>
+                <narrative xml:lang="es">El Grupo del Banco Mundial</narrative>
+                <narrative xml:lang="pt">O Grupo do Banco Mundial</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+    </codelist-items>
+</codelist>

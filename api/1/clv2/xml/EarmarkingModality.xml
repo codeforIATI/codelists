@@ -1,0 +1,70 @@
+<codelist category-codelist="EarmarkingCategory" name="EarmarkingModality" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <url>https://reliefweb.int/sites/reliefweb.int/files/resources/Grand_Bargain_final_22_May_FINAL-2.pdf</url>
+        <name>Earmarking Modality</name>
+        <category>Replicated</category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>A</code>
+            <category>1</category>
+            <name>Fully flexible core contribution</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>B</code>
+            <category>1</category>
+            <name>Fully flexible core contribution to the CERF</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>C</code>
+            <category>1</category>
+            <name>Core contribution</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>D</code>
+            <category>2</category>
+            <name>Core contribution with limitations</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>E</code>
+            <category>2</category>
+            <name>Directed to a geographical region or a strategic objective</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>F</code>
+            <category>2</category>
+            <name>Directed to a Country-Based Pooled Fund</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>G</code>
+            <category>3</category>
+            <name>Directed to an aid organisation's country operations</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>H</code>
+            <category>3</category>
+            <name>Directed to a sub-objective/target</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>I</code>
+            <category>4</category>
+            <name>Directed to a specific project</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>J</code>
+            <category>4</category>
+            <name>Directed geographically and thematically, tied financially</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>K</code>
+            <category>4</category>
+            <name>Directed geographically and thematically, in kind</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>L</code>
+            <category>4</category>
+            <name>Donor-initiated projects/directed contributions</name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
+

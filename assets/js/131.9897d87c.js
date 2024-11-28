@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[131],{579:function(t,n,e){"use strict";e.r(n);var s=e(58),a=Object(s.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[n("CodelistPage",{attrs:{codelist:"HumanitarianPlan",lang:"fr"}})],1)}),[],!1,null,null,null);n.default=a.exports}}]);

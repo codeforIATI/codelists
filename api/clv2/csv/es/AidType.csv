@@ -1,0 +1,26 @@
+code,name,category,status
+A01,Apoyo presupuestario general,A,active
+A02,Apoyo presupuestario sectorial,A,active
+B01,"Apoyo básico a ONG, otros organismos privados, alianzas público-privadas e institutos de investigación",B,active
+B02,Contribuciones básicas a instituciones multilaterales,B,active
+B021,,B,active
+B022,,B,active
+B03,Contribuciones a programas para fines concretos y fondos administrados por asociados en la ejecución,B,active
+B031,Contribuciones a mecanismos de financiación de donantes múltiples y entidades múltiples,B,active
+B032,Contribuciones a mecanismos de financiación de donantes múltiples y una entidad única,B,active
+B033,Contribuciones a mecanismos de financiación de un donante único y contribuciones para fines específicos para ventanillas de financiación o ubicaciones geográficas específicas,B,active
+B04,Fondos colectivos o financiación mancomunada,B,active
+B05,,B,active
+C01,Intervenciones basadas en proyectos,C,active
+D01,Personal del país donante,D,active
+D02,Asistencia técnica de otro tipo,D,active
+E01,Becas o capacitación en el país donante,E,active
+E02,Costos estudiantiles estimados,E,active
+F01,Alivio de la deuda,F,active
+G01,Costos administrativos no incluidos en otras secciones,G,active
+H01,Concienciación en materia de desarrollo,H,active
+H02,Refugiados/solicitantes de asilo en países donantes,H,active
+H03,Solicitantes de asilo finalmente aceptados,H,active
+H04,Solicitantes de asilo finalmente rechazados,H,active
+H05,Refugiados reconocidos,H,active
+H06,,H,active
