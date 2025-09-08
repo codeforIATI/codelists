@@ -8,11 +8,13 @@
     <BOffcanvas v-model="navigationVisible" placement="start" responsive="md">
       <BNav vertical pills>
         <template v-if="navigation">
-          <BNavItem v-for="item in navigation" :key="item.path" :to="localePath(item.path)">{{ item.title }}</BNavItem>
+          <BNavItem v-for="item in navigation" :key="localePath(item.path)" :to="localePath(item.path)">{{ item.title }}
+          </BNavItem>
         </template>
         <hr />
         <template v-if="codelistsObj">
-          <BNavItem v-for="item in codelistsObj" :key="item.code" :to="localePath('/' + item.code)">{{ item[locale].name
+          <BNavItem v-for="item in codelistsObj" :key="localePath(item.code)" :to="localePath('/' + item.code)">{{
+            item[locale].name
             ||
             item.en.name
           }}
@@ -34,8 +36,8 @@
 const { locale } = useI18n()
 const localePath = useLocalePath()
 const main = useStore()
-const { data: navigation } = await useAsyncData('navigation' + locale.value, () => {
-  return queryCollectionNavigation('content_' + locale.value)
+const { data: navigation } = await useAsyncData(() => `navigation_${locale.value}`, async () => {
+  return queryCollectionNavigation(`content_${locale.value}`)
 }, {
   watch: [locale], // Refetch when locale changes
 })
