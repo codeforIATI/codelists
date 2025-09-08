@@ -71,7 +71,7 @@ jobs:
         GIT_CONFIG_EMAIL: 57559326+codeforIATIbot@users.noreply.github.com
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
         BRANCH: gh-pages
-        FOLDER: .output
+        FOLDER: .output/public
         SINGLE_COMMIT: true
         CLEAN: true
 
