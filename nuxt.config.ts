@@ -17,7 +17,8 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@bootstrap-vue-next/nuxt',
     '@nuxtjs/i18n',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
+    'nuxt-github-pages'
   ],
   css: ['bootstrap/dist/css/bootstrap.min.css'],
   i18n: {
