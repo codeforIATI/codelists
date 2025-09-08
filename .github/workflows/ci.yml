@@ -9,12 +9,12 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.7
-    - uses: actions/cache@v2
+        python-version: 3.9
+    - uses: actions/cache@v4
       name: Cache python dependencies
       with:
         path: ~/.cache/pip
@@ -25,36 +25,53 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - uses: actions/setup-node@v3
+    - uses: actions/setup-node@v4
       with:
-        node-version: 16
-    - name: Get yarn cache directory path
-      id: yarn-cache-dir-path
-      run: echo "::set-output name=dir::$(yarn cache dir)"
-    - uses: actions/cache@v2
-      id: yarn-cache
+        node-version: 20
+    - name: Cache node modules
+      id: cache-npm
+      uses: actions/cache@v4
+      env:
+        cache-name: cache-node-modules
       with:
-        path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-        key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+        # npm cache files are stored in `~/.npm` on Linux/macOS
+        path: ~/.npm
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
-          ${{ runner.os }}-yarn-
+          ${{ runner.os }}-build-${{ env.cache-name }}-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
+    - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+      name: List the state of node modules
+      continue-on-error: true
+      run: npm list
     - name: Install javascript dependencies
       run: |
-        yarn install
-    - name: Run build
+        npm install
+    - name: Run preprocess (make codelist data files)
       run: |
-        yarn run build
+        npm run preprocess
+      env:
+        CODELISTS_BASE_URL: https://codelists.codeforiati.org
+    - name: Run build (build static site)
+      run: |
+        npm run generate
+      env:
+        CODELISTS_BASE_URL: https://codelists.codeforiati.org
+    - name: Copy API static files
+      run: |
+        cp -r api/* .output/public/api
       env:
         CODELISTS_BASE_URL: https://codelists.codeforiati.org
     - name: Deploy to github pages 🚀
       if: github.ref == 'refs/heads/main'
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         GIT_CONFIG_NAME: Code for IATI bot
         GIT_CONFIG_EMAIL: 57559326+codeforIATIbot@users.noreply.github.com
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
         BRANCH: gh-pages
-        FOLDER: docs/.vuepress/dist
+        FOLDER: .output
         SINGLE_COMMIT: true
         CLEAN: true
 
@@ -64,7 +81,7 @@ jobs:
     steps:
       - name: Trigger a codelist update on the datastore classic repo
         if: github.ref == 'refs/heads/main'
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v3
         with:
           repository: codeforIATI/iati-datastore
           token: ${{ secrets.TOKEN }}

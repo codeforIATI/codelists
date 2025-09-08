@@ -49,3 +49,19 @@ api_data = {
 }
 with open(join(OUTPUTDIR, 'index.json'), 'w') as handler:
     json.dump(api_data, handler)
+
+with open(join(OUTPUTDIR, 'index.v2.json'), 'w') as handler:
+    from collections import defaultdict
+    codelists_v2 = defaultdict(dict)
+    for codelist in codelists_list:
+        for lang in languages:
+            with open(join(OUTPUTDIR, 'json', lang, codelist + '.json')) as incodelist:
+                metadata = json.load(incodelist)['metadata']
+                codelists_v2[codelist][lang] = {
+                    'name': metadata['name'] or None,
+                    'description': metadata['description'] or None
+                }
+                if lang == 'en':
+                    codelists_v2[codelist]['code'] = codelist
+                    codelists_v2[codelist]['category'] = metadata['category']
+    json.dump(codelists_v2, handler)
