@@ -193,7 +193,7 @@ const codes = computed(() => {
 })
 
 const name = computed(() => {
-  return apiData.value.metadata.name
+  return apiData.value.metadata.name ? apiData.value.metadata.name : props.codelist
 })
 
 const description = computed(() => {
