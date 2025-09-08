@@ -26,7 +26,7 @@ const codelistPageName = computed(() => {
 })
 const codelist = computed(() => { return main.codelists.includes(codelistPageName.value) })
 
-const { data: page } = await useAsyncData('page-' + slug.value, async () => {
+const { data: page } = await useAsyncData('page-' + slug.value + locale.value, async () => {
     // Build collection name based on current locale
     const collection = ('content_' + locale.value) as keyof Collections
     const content = await queryCollection(collection).path(slug.value).first()

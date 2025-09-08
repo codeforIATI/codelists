@@ -34,7 +34,7 @@
 const { locale } = useI18n()
 const localePath = useLocalePath()
 const main = useStore()
-const { data: navigation } = await useAsyncData('navigation', () => {
+const { data: navigation } = await useAsyncData('navigation' + locale.value, () => {
   return queryCollectionNavigation('content_' + locale.value)
 }, {
   watch: [locale], // Refetch when locale changes
