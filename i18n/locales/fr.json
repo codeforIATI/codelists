@@ -1,0 +1,73 @@
+{
+  "lang": "fr",
+  "title": "Code for IATI Listes de codes",
+  "description": "Listes de codes utiles en utilisant des données IATI",
+  "selectText": "Langues",
+  "label": "Français",
+  "sidebar": [
+    ["/fr/", "Accueil"],
+    "/fr/ExchangeRates/"
+  ],
+  "download": "Télécharger",
+  "lastUpdated": "Dernière actualisation ",
+  "categorisedCodelist": "Cette liste de codes est regroupée en catégories, selon la liste de codes",
+  "source": "Source originelle ",
+  "search": "Rechercher",
+  "typeToSearch": "Tapez pour rechercher...",
+  "clear": "Effacer",
+  "headers": {
+    "code": "Code",
+    "name": "Nom",
+    "category": "Catégorie",
+    "description": "Description",
+    "url": "URL",
+    "public-database": "Base de données publique",
+    "status": "Statut",
+    "codeforiati:iso-alpha-2-code": "ISO alpha-2 code",
+    "codeforiati:iso-alpha-3-code": "ISO alpha-3 code",
+    "codeforiati:global-code": "Global code",
+    "codeforiati:global-name": "Global name",
+    "codeforiati:region-code": "Region code",
+    "codeforiati:region-name": "Region name",
+    "codeforiati:sub-region-code": "Sub-region code",
+    "codeforiati:sub-region-name": "Sub-region name",
+    "codeforiati:intermediate-region-code": "Intermediate region code",
+    "codeforiati:intermediate-region-name": "Intermediate region name",
+    "budget-alignment:status": "Guidance",
+    "codeforiati:event-code": "Event code",
+    "codeforiati:event": "Event",
+    "codeforiati:country-code": "Code du pays",
+    "codeforiati:country": "Pays",
+    "codeforiati:date": "Date",
+    "codeforiati:glide-serial": "GLIDE serial",
+    "codeforiati:least-developed-countries": "Least Developed Countries (LDC)",
+    "codeforiati:land-locked-developing-countries": "Land Locked Developing Countries (LLDC)",
+    "codeforiati:small-island-developing-states": "Small Island Developing States (SIDS)",
+    "codeforiati:developed-developing": "Developed / Developing Countries",
+    "codeforiati:category-code": "Code de la catégorie",
+    "codeforiati:category-name": "Nom de la catégorie",
+    "codeforiati:group-code": "Code du groupement",
+    "codeforiati:group-name": "Nom du groupement",
+    "codeforiati:organisation-type-code": "Code du type d'organisation",
+    "codeforiati:registry-identifier": "L'identifiant du registre de l'IITA",
+    "codeforiati:organisation-type": "Type d'organisation",
+    "codeforiati:hq-country-or-region": "Pays ou région du siège de l'organisation",
+    "codeforiati:plan-type": "Type de plan",
+    "codeforiati:plan-year": "Année du plan",
+    "codeforiati:plan-start-date": "Date de début du plan",
+    "codeforiati:plan-end-date": "Date de fin du plan",
+    "codeforiati:cofog-class": "COFOG Class",
+    "codeforiati:cofog-group": "COFOG Group",
+    "codeforiati:cofog-division": "COFOG Division"
+  },
+  "columnValues": {
+    "status": {
+      "active": "actif",
+      "withdrawn": "retiré"
+    },
+    "public-database": {
+      "true": "vrai",
+      "false": "faux"
+    }
+  }
+}
