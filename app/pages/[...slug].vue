@@ -43,11 +43,11 @@ const { data: page } = await useAsyncData(() => `page-${slug.value}-${locale.val
 
 const pageTitle = computed(() => {
     if (page.value) {
-        return `${page.value?.title} | ${t('title')}`
+        return `${page.value?.title} | ${t('siteTitle')}`
     } else if (codelist) {
-        return `${codelistPageName.value} | ${t('title')}`
+        return `${codelistPageName.value} | ${t('siteTitle')}`
     } else {
-        return t('title')
+        return t('siteTitle')
     }
 })
 
