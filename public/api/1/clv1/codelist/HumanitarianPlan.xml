@@ -1,0 +1,4522 @@
+<codelist name="HumanitarianPlan" date-last-modified="2025-09-08T11:39:12.448337+00:00" version="" xml:lang="en">
+  <HumanitarianPlan>
+    <code>HAFG25</code>
+    <name>Afghanistan Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RIRNPAK25</code>
+    <name>Afghanistan Situation Regional Refugee Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBGD25</code>
+    <name>Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA25</code>
+    <name>Burkina Faso Besoins Humanitaires et Plan de R&#233;ponse 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR25</code>
+    <name>Cameroon Humanitarian Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOL25</code>
+    <name>Colombia Necesidades Humanitarias y Plan de Respuesta 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDRC_RRP25</code>
+    <name>Democratic Republic of the Congo Regional Refugee Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSLV25</code>
+    <name>El Salvador Necesidades Humanitarias y Plan de Respuesta 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPSE25</code>
+    <name>Escalation of Hostilities in the OPT Flash Appeal 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGTM25</code>
+    <name>Guatemala Necesidades Humanitarias y Plan de Respuesta 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI25</code>
+    <name>Haiti Besoins Humanitaires et Plan de R&#233;ponse 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHND25</code>
+    <name>Honduras Necesidades Humanitarias y Plan de Respuesta 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLBN25</code>
+    <name>Lebanon Flash Appeal 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMWI25</code>
+    <name>Malawi Drought Response Flash Appeal 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI25</code>
+    <name>Mali Besoins Humanitaires et Plan de R&#233;ponse 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMOZ25</code>
+    <name>Mozambique Drought Flash Appeal 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMOZ25</code>
+    <name>Mozambique Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMOZ25a</code>
+    <name>Mozambique Tropical Cyclones Flash Appeal 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR25a</code>
+    <name>Myanmar Earthquake HNRP Flash Addendum 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR25b</code>
+    <name>Myanmar Original Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER25</code>
+    <name>Niger Besoins Humanitaires et Plan de R&#233;ponse 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA25</code>
+    <name>Nigeria Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPHL25</code>
+    <name>Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RRHOAY25</code>
+    <name>Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBGD25</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF25</code>
+    <name>R&#233;publique Centrafricaine Besoins Humanitaires et Plan de R&#233;ponse 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD25</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Besoins Humanitaires et Plan de R&#233;ponse 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM25</code>
+    <name>Somalia Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD25</code>
+    <name>South Sudan Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RETHKENUGA25</code>
+    <name>South Sudan Regional Refugee Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RRSDN25</code>
+    <name>Sudan Emergency: Regional Refugee Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN25</code>
+    <name>Sudan Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FSYR25</code>
+    <name>Syrian Arab Republic Humanitarian Response Priorities &#8211; January-December 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR25</code>
+    <name>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD25</code>
+    <name>Tchad Besoins Humanitaires et Plan de R&#233;ponse 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR25</code>
+    <name>Ukraine Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RUKRN25</code>
+    <name>Ukraine Situation Regional Refugee Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HVEN25</code>
+    <name>Venezuela Plan de Respuesta Humanitaria 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RREG25</code>
+    <name>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OVNM25</code>
+    <name>Viet Nam Joint Response Plan for Typhoon Yagi and Floods 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM25</code>
+    <name>Yemen Humanitarian Needs and Response Plan 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FZMB25</code>
+    <name>Zambia Drought Flash Appeal 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FZWE25</code>
+    <name>Zimbabwe Drought Flash Appeal 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG24</code>
+    <name>Afghanistan Humanitarian Needs and Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RAFG_RRP24</code>
+    <name>Afghanistan Situation Regional Refugee Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBGD24</code>
+    <name>Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA24</code>
+    <name>Burkina Faso Plan de R&#233;ponse Humanitaire 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBDI24</code>
+    <name>Burundi Plan de R&#233;ponse Inondations et Mont&#233;e du Lac Tanganyika (Effets El-Ni&#241;o) 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR24</code>
+    <name>Cameroon Humanitarian Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOL24</code>
+    <name>Colombia Plan de Respuesta a Prioridades Comunitarias Colombia 2024 - 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPSE24</code>
+    <name>Escalation of Hostilities in the OPT Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDRC_RRP24</code>
+    <name>Democratic Republic of the Congo Regional Refugee Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSLV24</code>
+    <name>El Salvador Plan de Respuesta Humanitaria 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HETH24</code>
+    <name>Ethiopia Humanitarian Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FFA24</code>
+    <name>Grenada Hurricane Beryl Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGTM24</code>
+    <name>Guatemala Plan de Respuesta Humanitaria 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI24</code>
+    <name>Ha&#239;ti Besoins Humanitaires et Plan de R&#233;ponse 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHND24</code>
+    <name>Honduras Necesidades Humanitarias y Plan de Respuesta 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSYR24</code>
+    <name>Inter-Agency Emergency Appeal for the Influx from Lebanon to Syria 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLBN24</code>
+    <name>Lebanon Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLBY24</code>
+    <name>Libya Flood Response Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG24</code>
+    <name>Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMWI24</code>
+    <name>Malawi Drought Response Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI24</code>
+    <name>Mali Besoins Humanitaires et Plan de R&#233;ponse 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMNG2324</code>
+    <name>Mongolia Dzud Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMOZ24</code>
+    <name>Mozambique Drought Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMOZ24</code>
+    <name>Mozambique Humanitarian Needs and Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR24</code>
+    <name>Myanmar Humanitarian Needs and Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ONPL24</code>
+    <name>Nepal Humanitarian Needs and Priorities Floods Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER24</code>
+    <name>Niger Besoins Humanitaires et Plan de R&#233;ponse 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA24</code>
+    <name>Nigeria Humanitarian Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPHL24</code>
+    <name>Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE24</code>
+    <name>Occupied Palestinian Territory Humanitarian Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RRHOAY24</code>
+    <name>Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF24</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Humanitaire 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD24</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Humanitaire 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBGD24</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FVCT24</code>
+    <name>Saint Vincent and The Grenadines Hurricane Beryl Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM24</code>
+    <name>Somalia Humanitarian Needs and Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD24</code>
+    <name>South Sudan Humanitarian Needs and Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RETHKENUGA24</code>
+    <name>South Sudan Regional Refugee Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RRSDN24</code>
+    <name>Sudan Emergency: Regional Refugee Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN24</code>
+    <name>Sudan Humanitarian Needs and Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR24</code>
+    <name>Syrian Arab Republic Humanitarian Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR24</code>
+    <name>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD24</code>
+    <name>Tchad Besoins Humanitaires et Plan de R&#233;ponse 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR24</code>
+    <name>Ukraine Humanitarian Needs and Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RUKRN24</code>
+    <name>Ukraine Situation Regional Refugee Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HVEN24</code>
+    <name>Venezuela Plan de Respuesta Humanitaria 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RREG24</code>
+    <name>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OVNM24</code>
+    <name>Viet Nam  Joint Response Plan for Typhoon Yagi and Floods 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM24</code>
+    <name>Yemen Humanitarian Response Plan 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FZMB24</code>
+    <name>Zambia Drought Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FZWE24</code>
+    <name>Zimbabwe Drought Flash Appeal 2024</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG23</code>
+    <name>Afghanistan Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RAFG23</code>
+    <name>Afghanistan Situation Regional Refugee Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA23</code>
+    <name>Burkina Faso Plan de R&#233;ponse Humanitaire 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBDI23</code>
+    <name>Burundi Plan de R&#233;ponse Humanitaire 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR23</code>
+    <name>Cameroon Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOL23</code>
+    <name>Colombia Plan de Respuesta Humanitaria 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDRCRRP23</code>
+    <name>Democratic Republic of the Congo Regional Refugee Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSLV23</code>
+    <name>El Salvador Plan de Respuesta Humanitaria 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPSE23</code>
+    <name>Escalation of Hostilities in the OPT Flash Appeal 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMWI23</code>
+    <name>Malawi Cholera and Floods Flash Appeal 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HETH23</code>
+    <name>Ethiopia Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGTM23</code>
+    <name>Guatemala Plan de Respuesta Humanitaria 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI23</code>
+    <name>Ha&#239;ti Plan de R&#233;ponse Humanitaire 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHND23</code>
+    <name>Honduras Plan de Respuesta Humanitaria 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKEN23</code>
+    <name>Kenya Drought Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLBN23</code>
+    <name>Lebanon Emergency Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLBY23</code>
+    <name>Libya Flood Response Flash Appeal 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG23</code>
+    <name>Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI23</code>
+    <name>Mali Plan de R&#233;ponse Humanitaire 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMNG2223</code>
+    <name>Mongolia Dzud Early Action and Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMOZ23</code>
+    <name>Mozambique Cyclone Freddy, Floods and Cholera Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMOZ23</code>
+    <name>Mozambique Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR23</code>
+    <name>Myanmar Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER23</code>
+    <name>Niger Plan de R&#233;ponse Humanitaire 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA23</code>
+    <name>Nigeria Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE23</code>
+    <name>Occupied Palestinian Territory Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPAK23</code>
+    <name>Pakistan Floods Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDJIETHSOM23</code>
+    <name>Regional Migrant Response Plan for the Horn of Africa and Yemen 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDJIETHSOMYEM23</code>
+    <name>Regional Migrant Response Plan for the Horn of Africa and Yemen 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF23</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Humanitaire 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD23</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Humanitaire 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBGD23</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM23</code>
+    <name>Somalia Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD23</code>
+    <name>South Sudan Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RETHKENUGA23</code>
+    <name>South Sudan Regional Refugee Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RRSDN23</code>
+    <name>Sudan Emergency: Regional Refugee Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN23</code>
+    <name>Sudan Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FSYR23</code>
+    <name>Syria Earthquake Flash Appeal 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR23</code>
+    <name>Syrian Arab Republic Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FTUR23</code>
+    <name>T&#252;rkiye Earthquake Flash Appeal 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR23</code>
+    <name>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD23</code>
+    <name>Tchad Plan de R&#233;ponse Humanitaire 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR23</code>
+    <name>Ukraine Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RUKRN23</code>
+    <name>Ukraine Situation Regional Refugee Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HVEN23</code>
+    <name>Venezuela Plan de Respuesta Humanitaria 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RREG23</code>
+    <name>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM23</code>
+    <name>Yemen Humanitarian Response Plan 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG22</code>
+    <name>Afghanistan Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RAFG22</code>
+    <name>Afghanistan Situation Regional Refugee Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBGD22</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA22</code>
+    <name>Burkina Faso Plan de R&#233;ponse Humanitaire 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBDI22</code>
+    <name>Burundi Plan de R&#233;ponse Humanitaire 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR22</code>
+    <name>Cameroon Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOL22</code>
+    <name>Colombia Plan de Respuesta Humanitaria 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCUB2223</code>
+    <name>Cuba Hurricane Ian Response - Plan of Action 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDRCRRP22</code>
+    <name>Democratic Republic of the Congo Regional Refugee Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSLV22</code>
+    <name>El Salvador Plan de Respuesta Humanitaria 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HETH22</code>
+    <name>Ethiopia Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGTM22</code>
+    <name>Guatemala Plan de Respuesta Humanitaria 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI2223</code>
+    <name>Ha&#239;ti Chol&#233;ra+ Appel &#201;clair 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI22</code>
+    <name>Haiti Cholera+ Flash Appeal 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI22</code>
+    <name>Ha&#239;ti Plan de R&#233;ponse Humanitaire 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHND22</code>
+    <name>Honduras Plan de Respuesta Humanitaria 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ22</code>
+    <name>Iraq Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKEN22</code>
+    <name>Kenya Drought Flash Appeal 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLBN22</code>
+    <name>Lebanon Emergency Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HLBY22</code>
+    <name>Libya Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG22</code>
+    <name>Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMWI22</code>
+    <name>Malawi Flash Appeal 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI22</code>
+    <name>Mali Plan de R&#233;ponse Humanitaire 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMOZ22</code>
+    <name>Mozambique Gombe Emergency Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMOZ22</code>
+    <name>Mozambique Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR22</code>
+    <name>Myanmar Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER22</code>
+    <name>Niger Plan de R&#233;ponse Humanitaire 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA22</code>
+    <name>Nigeria Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE22</code>
+    <name>Occupied Palestinian Territory Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPAK22</code>
+    <name>Pakistan Floods Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPAK2223</code>
+    <name>Pakistan Floods Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPHL2122</code>
+    <name>Philippines Super Typhoon Rai (Odette) Humanitarian Needs and Priorities 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RREG22</code>
+    <name>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDJIETHSOMYEM22</code>
+    <name>Regional Migrant Response Plan for the Horn of Africa and Yemen 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF22</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Humanitaire 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD22</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Humanitaire 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM22</code>
+    <name>Somalia Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD22</code>
+    <name>South Sudan Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSSDRRP22</code>
+    <name>South Sudan Regional Refugee Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLKA22</code>
+    <name>Sri Lanka Multi-Dimensional Crisis Humanitarian Needs and Priorities 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN22</code>
+    <name>Sudan Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR22</code>
+    <name>Syrian Arab Republic Humanitarian Response Plan 2022 - 2023</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR22</code>
+    <name>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD22</code>
+    <name>Tchad Plan de R&#233;ponse Humanitaire 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FUKR22</code>
+    <name>Ukraine Flash Appeal 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR22</code>
+    <name>Ukraine Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RUKRN22</code>
+    <name>Ukraine Situation Regional Refugee Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HVEN22</code>
+    <name>Venezuela Plan de Respuesta Humanitaria 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM22</code>
+    <name>Yemen Humanitarian Response Plan 2022</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FAFG21</code>
+    <name>Afghanistan Flash Appeal 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG21</code>
+    <name>Afghanistan Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBGD21</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA21</code>
+    <name>Burkina Faso Plan de R&#233;ponse Humanitaire 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBDI21</code>
+    <name>Burundi Plan de R&#233;ponse Humanitaire 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RRWATZAUGA21</code>
+    <name>Burundi Regional Refugee Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR21</code>
+    <name>Cameroon Humanitarian Response Plan  2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF21</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Humanitaire 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD21</code>
+    <name>Tchad Plan de R&#233;ponse Humanitaire 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOL21</code>
+    <name>Colombia Plan de Respuesta Humanitaria 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD21</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Humanitaire 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDRCRRP21</code>
+    <name>Democratic Republic of the Congo Regional Refugee Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSLV21</code>
+    <name>El Salvador Plan de Respuesta Humanitaria 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSLV2122</code>
+    <name>El Salvador Plan de Respuesta Humanitario 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPSE21</code>
+    <name>Escalation of Hostilities in the OPT  Flash Appeal 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HETH21</code>
+    <name>Ethiopia Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGTM21</code>
+    <name>Guatemala Plan de Respuesta Humanitaria 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGTM2122</code>
+    <name>Guatemala Plan de Respuesta Humanitario 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI2122</code>
+    <name>Haiti Earthquake Flash Appeal 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI21</code>
+    <name>Ha&#239;ti Plan de R&#233;ponse Humanitaire 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHND2021</code>
+    <name>Honduras Tropical Storm Eta Flash Appeal 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHND21</code>
+    <name>Honduras Plan de Respuesta Humanitaria 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHND2122</code>
+    <name>Honduras Plan de Respuesta Humanitario 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ21</code>
+    <name>Iraq Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKEN21</code>
+    <name>Kenya Drought Flash Appeal 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLBN2122</code>
+    <name>Lebanon Emergency Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HLBY21</code>
+    <name>Libya Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG2122</code>
+    <name>Madagascar's Grand Sud Flash Appeal 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG21</code>
+    <name>Madagascar Grand Sud Flash Appeal 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI21</code>
+    <name>Mali Plan de R&#233;ponse Humanitaire 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMOZ21</code>
+    <name>Mozambique Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR21</code>
+    <name>Myanmar Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMMR21</code>
+    <name>Myanmar Interim Emergency Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ONPL21</code>
+    <name>Nepal Intersectoral COVID-19 Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER21</code>
+    <name>Niger Plan de R&#233;ponse Humanitaire 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA21</code>
+    <name>Nigeria Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FETH21</code>
+    <name>Northern Ethiopia Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OETH21</code>
+    <name>Northern Ethiopia Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE21</code>
+    <name>Occupied Palestinian Territory Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPAK21</code>
+    <name>Pakistan Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RREG21</code>
+    <name>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDJIETHSOMYEM21</code>
+    <name>Regional Migrant Response Plan for the Horn of Africa and Yemen 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM21</code>
+    <name>Somalia Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD21</code>
+    <name>South Sudan Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RETHKENUGA21</code>
+    <name>South Sudan Regional Refugee Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN21</code>
+    <name>Sudan Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR21</code>
+    <name>Syrian Arab Republic Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR21</code>
+    <name>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR21</code>
+    <name>Ukraine Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HVEN21</code>
+    <name>Venezuela Plan de Respuesta Humanitaria 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM21</code>
+    <name>Yemen Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HZWE21</code>
+    <name>Zimbabwe Humanitarian Response Plan 2021</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG20</code>
+    <name>Afghanistan Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBGD20</code>
+    <name>Bangladesh Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBGD20</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBEN20</code>
+    <name>B&#233;nin Plan de R&#233;ponse Intersectorielle COVID-19 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA20</code>
+    <name>Burkina Faso Plan de R&#233;ponse Humanitaire 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBDI20</code>
+    <name>Burundi Plan de R&#233;ponse Humanitaire 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RRWATZAUGA20</code>
+    <name>Burundi Regional Refugee Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMOZ20a</code>
+    <name>Cabo Delgado Province Mozambique Rapid Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR20</code>
+    <name>Cameroon Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF2021</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Humanitaire 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD20</code>
+    <name>Tchad Plan de R&#233;ponse Humanitaire 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOL20</code>
+    <name>Colombia Plan de Respuesta Humanitaria 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCOL20</code>
+    <name>Colombia Plan de Respuesta Intersectorial COVID-19 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK20c</code>
+    <name>DPR Korea Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOVD20</code>
+    <name>COVID-19 Global Humanitarian Response Plan</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDRCRRP20</code>
+    <name>Democratic Republic of the Congo Regional Refugee Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD20</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Humanitaire 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FDJI1920</code>
+    <name>Djibouti Flash Appeal 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ODJI20</code>
+    <name>Djibouti Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK20a</code>
+    <name>DPR Korea Intersectoral COVID Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK20b</code>
+    <name>DPR Korea Needs and Priorities 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OECU20</code>
+    <name>Ecuador Plan de Respuesta Intersectorial COVID-19 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HETH20</code>
+    <name>Ethiopia Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OGLBL20b</code>
+    <name>GHRP (COVID) Famine Prevention 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCOVD20</code>
+    <name>GHRP (COVID) Global Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OGLBL20</code>
+    <name>Famine Prevention COVID-19 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>O20</code>
+    <name>GHRP (COVID) Global Operational Support 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI20</code>
+    <name>Ha&#239;ti Plan de R&#233;ponse Humanitaire 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OIRN20</code>
+    <name>Iran Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ20</code>
+    <name>Iraq Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OJOR20</code>
+    <name>Jordan Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OKEN20</code>
+    <name>Kenya Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLBN20</code>
+    <name>Lebanon Flash Appeal 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLBN20</code>
+    <name>Lebanon Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLSO1920</code>
+    <name>Lesotho Flash Appeal 2019-2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLBR20</code>
+    <name>Liberia Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HLBY20</code>
+    <name>Libya Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI20</code>
+    <name>Mali Plan de R&#233;ponse Humanitaire 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMOZ20b</code>
+    <name>Mozambique UN Multi-Sector Response Plan to COVID-19</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR20</code>
+    <name>Myanmar Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER20</code>
+    <name>Niger Plan de R&#233;ponse Humanitaire 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA20</code>
+    <name>Nigeria Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE20</code>
+    <name>Occupied Palestinian Territory Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPAK20</code>
+    <name>Pakistan Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPHL20</code>
+    <name>Philippines Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RREG20</code>
+    <name>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RDJIETHSOMYEM20</code>
+    <name>Regional Migrant Response Plan for the Horn of Africa and Yemen 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCOG20</code>
+    <name>R&#233;publique du Congo Plan de R&#233;ponse Intersectorielle COVID-19 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSLE20</code>
+    <name>Sierra Leone Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM20</code>
+    <name>Somalia Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD20</code>
+    <name>South Sudan Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RETHKENUGA20</code>
+    <name>South Sudan Regional Refugee Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN20</code>
+    <name>Sudan Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR20</code>
+    <name>Syrian Arab Republic Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR20</code>
+    <name>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OTZA20</code>
+    <name>Tanzania Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OTGO20</code>
+    <name>Togo Plan de R&#233;ponse Intersectorielle COVID-19 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OUGA20</code>
+    <name>Uganda Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR20</code>
+    <name>Ukraine Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OGLBL20a</code>
+    <name>GHRP (COVID) Unallocated supplementary NGO envelope 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HVEN20</code>
+    <name>Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM20</code>
+    <name>Yemen Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OZMB1920</code>
+    <name>Zambia Humanitarian Appeal 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OZMB20</code>
+    <name>Zambia Intersectoral COVID-19 Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HZWE20</code>
+    <name>Zimbabwe Humanitarian Response Plan 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG19</code>
+    <name>Afghanistan Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBGD19</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBGD19</code>
+    <name>Bangladesh: 2019 Joint Response Plan for Rohingya Humanitarian Crisis (January-December)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBFA19</code>
+    <name>Burkina Faso Plan d'Urgence 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBDI19</code>
+    <name>Burundi Plan de R&#233;ponse Humanitaire 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR19</code>
+    <name>Cameroun Plan de R&#233;ponse Humanitaire 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF19</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Humanitaire 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD19</code>
+    <name>Tchad Plan de R&#233;ponse Humanitaire 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD19</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Humanitaire 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK19</code>
+    <name>DPR Korea Needs and Priorities 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HETH19</code>
+    <name>Ethiopia Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI19</code>
+    <name>Ha&#239;ti Plan de R&#233;ponse Humanitaire 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ19</code>
+    <name>Iraq Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OIRN19</code>
+    <name>Islamic Republic of Iran Floods Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HLBY19</code>
+    <name>Libya Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG19</code>
+    <name>Madagascar Grand Sud Appel &#201;clair Conjoint 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI19</code>
+    <name>Mali Plan de R&#233;ponse Humanitaire 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMOZ19</code>
+    <name>Mozambique Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR19</code>
+    <name>Myanmar Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER19</code>
+    <name>Niger Plan de R&#233;ponse Humanitaire 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA19</code>
+    <name>Nigeria Humanitarian Response Strategy 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE19</code>
+    <name>Occupied Palestinian Territory Humanitarian Response Strategy 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPAK19</code>
+    <name>Pakistan Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSAMR19</code>
+    <name>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSAMR19</code>
+    <name>Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM19</code>
+    <name>Somalia Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD19</code>
+    <name>South Sudan Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN19</code>
+    <name>Sudan Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR19</code>
+    <name>Syrian Arab Republic Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR19</code>
+    <name>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR19</code>
+    <name>Ukraine Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HVEN19</code>
+    <name>Venezuela Plan de Respuesta Humanitaria 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM19</code>
+    <name>Yemen Humanitarian Response Plan 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FZWE1920</code>
+    <name>Zimbabwe Flash Appeal 2019</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FZWE1820</code>
+    <name>Zimbabwe Flash Appeal 2019 / 2020</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG18</code>
+    <name>Afghanistan Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBGD18</code>
+    <name>Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBFA18</code>
+    <name>Burkina Faso Plan d'Urgence et de R&#233;silience 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBDI18</code>
+    <name>Burundi Plan de R&#233;ponse Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR18</code>
+    <name>Cameroun Plan de R&#233;ponse Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF18</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD18</code>
+    <name>Tchad Plan de R&#233;ponse Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD18</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK18</code>
+    <name>DPR Korea Needs and Priorities 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HETH18</code>
+    <name>Ethiopia Humanitarian and Disaster Resilience Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI18</code>
+    <name>Haiti Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OIDN18</code>
+    <name>Indonesia Central Sulawesi Earthquake Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ18</code>
+    <name>Iraq Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HLBY18</code>
+    <name>Libya Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI18</code>
+    <name>Mali Plan de R&#233;ponse Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMRT18</code>
+    <name>Mauritania  Plan de Travail Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR18</code>
+    <name>Myanmar Interim Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER18</code>
+    <name>Niger Plan de R&#233;ponse Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA18</code>
+    <name>Nigeria Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE18</code>
+    <name>Occupied Palestinian Territory Humanitarian Response Strategy 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPAK18</code>
+    <name>Pakistan Transition Plan: Humanitarian Component 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPHL18</code>
+    <name>Philippines Marawi Conflict Humanitarian Response and Resources Overview 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBGD18</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD18</code>
+    <name>South Sudan Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSEN18</code>
+    <name>S&#233;n&#233;gal Plan de Travail Humanitaire 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM18</code>
+    <name>Somalia Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN18</code>
+    <name>Sudan Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR18</code>
+    <name>Syrian Arab Republic Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR18</code>
+    <name>Syrian Arab Republic regional refugee and resilience plan (3RP) 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR17a</code>
+    <name>Syria Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>R18</code>
+    <name>Syria regional refugee and resilience plan (3RP) 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR18</code>
+    <name>Ukraine Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM18</code>
+    <name>Yemen Humanitarian Response Plan 2018</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OEUR17</code>
+    <name>2017 Europe Situation - Regional Refugee and Migrant Response</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG17</code>
+    <name>Afghanistan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBGD17</code>
+    <name>Bangladesh: Rohingya Refugee Crisis 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA17</code>
+    <name>Burkina Faso 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBDI17</code>
+    <name>Burundi 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR17</code>
+    <name>Cameroon 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF17</code>
+    <name>Central African Republic 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD17</code>
+    <name>Chad 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCUB17</code>
+    <name>Cuba Plan of Action 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD17</code>
+    <name>Democratic Republic of the Congo 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HDJI17</code>
+    <name>Djibouti 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FDMA17</code>
+    <name>Dominica Flash Appeal 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK17</code>
+    <name>DPR Korea Needs and Priorities 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HETH17</code>
+    <name>Ethiopia 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI17</code>
+    <name>Haiti 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>O17</code>
+    <name>Hurricane Irma: Regional Response Plan for the Caribbean Region (Sep to Dec 2017)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ17</code>
+    <name>Iraq 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKEN17</code>
+    <name>Kenya Flash Appeal 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HLBY17</code>
+    <name>Libya 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG17</code>
+    <name>Madagascar Flash Appeal 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI17</code>
+    <name>Mali 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMRT17</code>
+    <name>Mauritania 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMOZ17</code>
+    <name>Mozambique Cyclone Dineo Flash Appeal 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR17</code>
+    <name>Myanmar 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER17</code>
+    <name>Niger 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA17</code>
+    <name>Nigeria 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE17</code>
+    <name>occupied Palestinian territory 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPAK17</code>
+    <name>Pakistan Humanitarian Strategic Plan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPER17</code>
+    <name>Peru Flash Appeal 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOG17</code>
+    <name>Republic of Congo 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD17</code>
+    <name>Republic of South Sudan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSEN17</code>
+    <name>Senegal 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM17</code>
+    <name>Somalia 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN17</code>
+    <name>Sudan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR17</code>
+    <name>Syria Humanitarian Response Plan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RSYR17</code>
+    <name>Syria regional refugee and resilience plan (3RP) 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR17b</code>
+    <name>Syrian Arab Republic Humanitarian Response Plan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR17</code>
+    <name>Ukraine Humanitarian Response Plan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM17</code>
+    <name>Yemen Humanitarian Response Plan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OEUR16</code>
+    <name>2016 Europe Situation -Regional Refugee and Migrant Response</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG16</code>
+    <name>Afghanistan 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FAFG16</code>
+    <name>Afghanistan Flash Appeal: One million people on the move (September - December 2016)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA16</code>
+    <name>Burkina Faso 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBDI16</code>
+    <name>Burundi 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR16</code>
+    <name>Cameroon 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF16</code>
+    <name>Central African Republic 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD16</code>
+    <name>Chad 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD16</code>
+    <name>Democratic Republic of the Congo 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HDJI16</code>
+    <name>Djibouti 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK16</code>
+    <name>DPR Korea Needs and Priorities 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FECU16</code>
+    <name>Ecuador Earthquake Flash Appeal 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FFJI16</code>
+    <name>Fiji Tropical Cyclone Flash Appeal 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGMB16</code>
+    <name>Gambia 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGTM16</code>
+    <name>Guatemala 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI16</code>
+    <name>Haiti 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI16</code>
+    <name>Haiti Flash Appeal: Hurricane Matthew 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHND16</code>
+    <name>Honduras 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ16</code>
+    <name>Iraq 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLBY16</code>
+    <name>Libya - Sirte Flash Appeal 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HLBY1516</code>
+    <name>Libya 2015-2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI16</code>
+    <name>Mali 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMRT16</code>
+    <name>Mauritania 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FIRQ16</code>
+    <name>Mosul Flash Appeal 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR16</code>
+    <name>Myanmar 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER16</code>
+    <name>Niger 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA16</code>
+    <name>Nigeria 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE16</code>
+    <name>occupied Palestinian territory 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD16</code>
+    <name>Republic of South Sudan 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HXSHL16</code>
+    <name>Sahel 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSEN16</code>
+    <name>Senegal 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM16</code>
+    <name>Somalia 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN16</code>
+    <name>Sudan 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR16</code>
+    <name>Syria Humanitarian Response Plan 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RXSYRREG16</code>
+    <name>Syria regional refugee and resilience plan (3RP) 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR1615</code>
+    <name>Ukraine 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM16</code>
+    <name>Yemen Humanitarian Response Plan 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HZWE1617</code>
+    <name>Zimbabwe Humanitarian Response Plan 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG15</code>
+    <name>Afghanistan Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA15</code>
+    <name>Burkina Faso Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR15</code>
+    <name>Cameroun Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF15</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD15</code>
+    <name>Tchad Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD15</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HDJI15</code>
+    <name>Djibouti Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK15</code>
+    <name>DPR Korea Needs and Priorities 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGMB15</code>
+    <name>Gambia Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FGTM1415</code>
+    <name>Guatemala Plan de Respuesta Sequia 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI15</code>
+    <name>Haiti Urgent Request for Humanitarian Funding 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHND1415</code>
+    <name>Honduras Drought Emergency Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FVUT15</code>
+    <name>Vanuatu Emergency Response Plan for Tropical Cyclone PAM 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ15</code>
+    <name>Iraq Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HLBY1415</code>
+    <name>Libya Humanitarian Appeal 2014- 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI15</code>
+    <name>Mali Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMRT15</code>
+    <name>Mauritanie Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR15</code>
+    <name>Myanmar Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FNPL15</code>
+    <name>Nepal Flash Appeal Earthquake 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER15</code>
+    <name>Niger Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA15</code>
+    <name>Nigeria Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE15</code>
+    <name>Occupied Palestinian Territory Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD15</code>
+    <name>South Sudan Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HXSHL15</code>
+    <name>Sahel Region Call for Humanitarian Aid 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSEN15</code>
+    <name>S&#233;n&#233;gal Plan de R&#233;ponse Strat&#233;gique 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM15</code>
+    <name>Somalia Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RXSSDREG15</code>
+    <name>South Sudan Regional Refugee Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN15</code>
+    <name>Sudan Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RXSYRREG15</code>
+    <name>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR15</code>
+    <name>Syrian Arab Republic Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HUKR15</code>
+    <name>Ukraine Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM15</code>
+    <name>Yemen Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HAFG14</code>
+    <name>Afghanistan Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBFA1314</code>
+    <name>Burkina Faso Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCMR14</code>
+    <name>Cameroun Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCAF14</code>
+    <name>R&#233;publique Centrafricaine Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HTCD14</code>
+    <name>Tchad Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOD1415</code>
+    <name>Democratic Republic of the Congo 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HDJI14</code>
+    <name>Djibouti Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RGINLBRSLE1415</code>
+    <name>Ebola Outbreak Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OXEBOLA1415</code>
+    <name>Ebola Virus Outbreak - Overview of Needs and Requirements (inter-agency plan for Guinea, Liberia, Sierra Leone, Region) - October 2014 - June 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HGMB14</code>
+    <name>Gambia Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HHTI14</code>
+    <name>Haiti Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HIRQ14</code>
+    <name>Iraq Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMLI14</code>
+    <name>Mali Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMRT14</code>
+    <name>Mauritanie Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>SMMR14</code>
+    <name>Myanmar Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HMMR14</code>
+    <name>Myanmar 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNER14</code>
+    <name>Niger Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HNGA14</code>
+    <name>Nigeria Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>SPSE14</code>
+    <name>Occupied Palestinian Territory Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPSE14</code>
+    <name>occupied Palestinian territory 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPHL1314</code>
+    <name>Philippines Bohol Earthquake Flash Appeal 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>SPHL1314</code>
+    <name>Philippines Typhoon Haiyan Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPHL1314</code>
+    <name>Philippines - Typhoon Haiyan Strategic Response Plan (November 2013 - October 2014)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HPHL1314a</code>
+    <name>Philippines Zamboanga Crisis Flash Appeal 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>SCOD14</code>
+    <name>R&#233;publique D&#233;mocratique du Congo Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HCOG14</code>
+    <name>R&#233;publique du Congo Plan de R&#233;ponse 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSSD14</code>
+    <name>Republic of South Sudan - Crisis Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HXSHL14</code>
+    <name>Sahel Region Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSEN14</code>
+    <name>S&#233;n&#233;gal Plan de R&#233;ponse Strat&#233;gique 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSOM14</code>
+    <name>Somalia Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>SSSD14</code>
+    <name>South Sudan Crisis Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RXSSDREG14</code>
+    <name>South Sudan Regional Refugee Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSDN14</code>
+    <name>Sudan Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>SSYR14</code>
+    <name>Syria Humanitarian Assistance Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HSYR1314</code>
+    <name>Syria Humanitarian Assistance Response Plan (SHARP) 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RXSYRREG14</code>
+    <name>Syria Regional Refugee Response Plan (RRP) 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FUKR14</code>
+    <name>Ukraine Preliminary Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HYEM14</code>
+    <name>Yemen Strategic Response Plan 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAFG13</code>
+    <name>Afghanistan 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBFA13</code>
+    <name>Burkina Faso 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF13</code>
+    <name>Central African Republic 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD13</code>
+    <name>Chad 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCUB1213</code>
+    <name>Cuba Plan of Action 2012 - 2013 (November 2012 - December 2013)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD1314</code>
+    <name>Democratic Republic of the Congo 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CDJI13</code>
+    <name>Djibouti 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CHTI13</code>
+    <name>Haiti Humanitarian Action Plan 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CKEN13</code>
+    <name>Kenya Emergency Humanitarian Response Plan 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CMLI13</code>
+    <name>Mali 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CMRT13</code>
+    <name>Mauritania 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMMR13</code>
+    <name>Myanmar - Kachin Response Plan 2013 (March - December 2013)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OMMR1213</code>
+    <name>Myanmar - Rakhine Response Plan 2012-2013 (July 2012 - December 2013)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CNER13</code>
+    <name>Niger 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE13</code>
+    <name>occupied Palestinian territory 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPHL1314</code>
+    <name>Philippines Mindanao Action Plan 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSSD13</code>
+    <name>Republic of South Sudan 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM13</code>
+    <name>Somalia 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN13</code>
+    <name>Sudan 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSYR13</code>
+    <name>Syria Humanitarian Assistance Response Plan (SHARP) 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RXSYRREG13</code>
+    <name>Syria Regional Refugee Response Plan (RRP) 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CYEM13</code>
+    <name>Yemen Humanitarian Response Plan 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OZWE13</code>
+    <name>Zimbabwe 2013</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CKEN12</code>
+    <name>2012+ Kenya Emergency Humanitarian Response Plan</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAFG1112</code>
+    <name>Afghanistan 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBFA12</code>
+    <name>Burkina Faso 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF12</code>
+    <name>Central African Republic 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD12</code>
+    <name>Chad 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCIV12</code>
+    <name>Cote d'Ivoire 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD1213</code>
+    <name>Democratic Republic of the Congo 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CDJI12</code>
+    <name>Djibouti Appeal 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CHTI12</code>
+    <name>Haiti 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK12</code>
+    <name>Korea DPR Overview of Needs and Assistance 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLSO1213</code>
+    <name>Lesotho Food Insecurity (September 2012 - March 2013)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLBR12</code>
+    <name>Liberia 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CMLI12</code>
+    <name>Mali 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CMRT12</code>
+    <name>Mauritania 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CNER12</code>
+    <name>Niger 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPAK12</code>
+    <name>Pakistan Early Recovery Framework 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPHL12</code>
+    <name>Philippines Humanitarian Action Plan 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSSD12</code>
+    <name>Republic of South Sudan 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM12</code>
+    <name>Somalia 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLKA12</code>
+    <name>Sri Lanka Joint Plan of Assistance to the Northern Province (JPA) 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN12</code>
+    <name>Sudan 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSYR12</code>
+    <name>Syria Humanitarian Assistance Response Plan (SHARP) 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CYEM12</code>
+    <name>Yemen Humanitarian Response Plan 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE12</code>
+    <name>Zimbabwe 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE12</code>
+    <name>occupied Palestinian territory 2012</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CKEN1113</code>
+    <name>2011+ Kenya Emergency Humanitarian Response Plan</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAFG11</code>
+    <name>Afghanistan 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF11</code>
+    <name>Central African Republic Consolidated Appeals Process 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD11</code>
+    <name>Chad 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD1112</code>
+    <name>Democratic Republic of the Congo 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CDJI1011</code>
+    <name>Djibouti Drought Appeal 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FSLV1112</code>
+    <name>El Salvador Flash Appeal (October 2011 - April 2012)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CHTI1011</code>
+    <name>Haiti 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPRK11</code>
+    <name>Korea DPR : Overview of Needs and Assistance 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPHL11</code>
+    <name>Mindanao Humanitarian Action Plan 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FNAM11</code>
+    <name>Namibia Flash Appeal (April - October 2011)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FNIC1112</code>
+    <name>Nicaragua Flash Appeal (October 2011 - April 2012)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CNER11</code>
+    <name>Niger 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPAK1112</code>
+    <name>Pakistan Rapid Response Plan Floods 2011 (September - March 2012)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FXLBYREG11</code>
+    <name>Regional Flash Appeal for the Libyan Crisis (March - December 2011)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSSD11</code>
+    <name>Republic of South Sudan 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM11</code>
+    <name>Somalia 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLKA11</code>
+    <name>Sri Lanka Floods Flash Appeal (Revised) (January - June 2011)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLKA11</code>
+    <name>Sri Lanka Joint Plan of Assistance to the Northern Province (JPA) 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN1112</code>
+    <name>Sudan 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF11</code>
+    <name>West Africa 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CYEM11</code>
+    <name>Yemen Humanitarian Response Plan 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE11</code>
+    <name>Zimbabwe 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE11</code>
+    <name>occupied Palestinian territory 2011</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAFG10</code>
+    <name>Afghanistan Humanitarian Action Plan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OBFA1011</code>
+    <name>Burkina Faso Emergency Humanitarian Action Plan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF10</code>
+    <name>Central African Republic 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD10</code>
+    <name>Chad 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD10</code>
+    <name>Democratic Republic of the Congo 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FSLV0910</code>
+    <name>El Salvador Flash Appeal (Revised) (November 2009 - May 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FGTM10</code>
+    <name>Guatemala Flash Appeal (Revised) (June - December 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CGTM10</code>
+    <name>Guatemala Food Insecurity and Acute Malnutrition Appeal 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI10</code>
+    <name>Haiti Humanitarian Appeal (Revised) (January - December 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OIRQ10</code>
+    <name>Iraq Humanitarian Action Plan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CKEN10</code>
+    <name>Kenya Emergency Humanitarian Response Plan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKGZ1011</code>
+    <name>Kyrgyzstan Flash Appeal (Revised) (June 2010 - June 2011)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CMNG1011</code>
+    <name>Mongolia Dzud Appeal (April 2010 - May 2011)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ONPL10</code>
+    <name>Nepal Humanitarian Transition Appeal 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPAK1011</code>
+    <name>Pakistan Floods Relief and Early Recovery Response Plan (Revised) (August 2010 - July 2011)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPAK10</code>
+    <name>Pakistan Humanitarian Response Plan (February - December 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OXIRQREG10</code>
+    <name>Regional Response Plan for Iraqi Refugees 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOG10</code>
+    <name>Republic of Congo 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM10</code>
+    <name>Somalia 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLKA10</code>
+    <name>Sri Lanka Common Humanitarian Action Plan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN10</code>
+    <name>Sudan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA10</code>
+    <name>Uganda 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF10</code>
+    <name>West Africa 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CYEM10</code>
+    <name>Yemen Humanitarian Response Plan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE10</code>
+    <name>Zimbabwe 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE10</code>
+    <name>occupied Palestinian territory 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAFG09</code>
+    <name>Afghanistan Humanitarian Action Plan 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FBFA0910</code>
+    <name>Burkina Faso Flash Appeal (September 2009 - February 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF09</code>
+    <name>Central African Republic 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD09</code>
+    <name>Chad 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCIV09</code>
+    <name>C&#244;te d'Ivoire 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD09</code>
+    <name>Democratic Republic of the Congo 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FIDN09</code>
+    <name>Indonesia West Sumatra Earthquake Humanitarian Response Plan 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIRQ09</code>
+    <name>Iraq and the region 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CKEN09</code>
+    <name>Kenya Emergency Humanitarian Response Plan 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLAO0910</code>
+    <name>Lao PDR Flash Appeal (Revised) (October 2009 - April 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG09</code>
+    <name>Madagascar Flash Appeal (Revised) (April - October 2009)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FNAM09</code>
+    <name>Namibia Flash Appeal (Revised) (March - November 2009)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ONPL09</code>
+    <name>Nepal Humanitarian Transition Appeal 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPAK0809</code>
+    <name>Pakistan Humanitarian Response Plan (Revised) 2008-2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPHL0910</code>
+    <name>Philippines Flash Appeal  (Revised) (October 2009 - March 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM09</code>
+    <name>Somalia 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLKA09</code>
+    <name>Sri Lanka Common Humanitarian Action Plan 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN09</code>
+    <name>Sudan 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSYR0910</code>
+    <name>Syria Drought Response Plan (Revised) (July 2009 - June 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OTJK09</code>
+    <name>Tajikistan Floods and Mudflows REACT Appeal 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OTJK0809</code>
+    <name>Tajikistan Humanitarian Food Security Appeal 2008-2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA09</code>
+    <name>Uganda 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF09</code>
+    <name>West Africa 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FYEM09</code>
+    <name>Yemen Flash Appeal (Revised) (September - December 2009)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE09</code>
+    <name>Zimbabwe 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE09</code>
+    <name>occupied Palestinian territory 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OAFG08</code>
+    <name>Afghanistan Joint Appeal 2008: Humanitarian Consequences of Rise in Food Prices (February - June 2008)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OAFG0809</code>
+    <name>Afghanistan Joint Emergency Appeal 2008: High Food Price and Drought Crisis (July 2008 - June 2009)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FBOL08</code>
+    <name>Bolivia Flash Appeal 2008 [unrevised as of Oct. 2008; appeal closed at 80% funding and unmet requirements reduced to zero]</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF08</code>
+    <name>Central African Republic 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD08</code>
+    <name>Chad 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCUB0809</code>
+    <name>Cuba Post-Hurricane Plan of Action 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCIV08</code>
+    <name>C&#244;te d'Ivoire 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD08</code>
+    <name>Democratic Republic of the Congo 2008 Humanitarian Action Plan</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ODJI0809</code>
+    <name>Djibouti Joint Appeal 2008: Response Plan for Drought, Food and Nutrition Crisis</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FGEO0809</code>
+    <name>Georgia Crisis Flash Appeal (Revised) 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI0809</code>
+    <name>Haiti Flash Appeal (Revised) 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHND0809</code>
+    <name>Honduras Flash Appeal (Updated) (November - April) 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIRQ08</code>
+    <name>Iraq 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKEN08</code>
+    <name>Kenya Emergency Humanitarian Response Plan (Revised) 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKGZ0809</code>
+    <name>Kyrgyzstan Flash Appeal (Revised) 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLAO0809</code>
+    <name>Lao PDR Joint Appeal for Flood Recovery and Rehabilitation 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLBR08</code>
+    <name>Liberia Critical Humanitarian Gaps 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG08</code>
+    <name>Madagascar Flash Appeal 2008 [unrevised as of Nov. 2008; appeal closed at 50% funding and unmet requirements reduced to zero] </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMMR08</code>
+    <name>Myanmar Flash Appeal (Revised) 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ONPL08</code>
+    <name>Nepal Common Appeal for Transition Support 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ONPL0809</code>
+    <name>Nepal Floods Humanitarian Response Plan 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM08</code>
+    <name>Somalia 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMOZ08</code>
+    <name>Southern African Region Preparedness and Response Plan 2008 [unrevised as of Nov. 2008; appeal closed at 33% funding and unmet requirements reduced to zero] </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLKA08</code>
+    <name>Sri Lanka Common Humanitarian Action Plan 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN08</code>
+    <name>Sudan Work Plan 2008 (Humanitarian/Early Recovery Component) </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSYR0809</code>
+    <name>Syria Drought Appeal 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FTJK08</code>
+    <name>Tajikistan Flash Appeal (Revised) 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OTLS08</code>
+    <name>Timor-Leste - Transitional Strategy and Appeal 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA08</code>
+    <name>Uganda 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF08</code>
+    <name>West Africa 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FYEM0809</code>
+    <name>Yemen Floods Response Plan (November - April) 2008 [unrevised as of April 2008; appeal closed at 45% funding and unmet requirements reduced to zero] </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE08</code>
+    <name>Zimbabwe 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE08</code>
+    <name>occupied Palestinian territory 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FBOL07</code>
+    <name>Bolivia Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FBFA0708</code>
+    <name>Burkina Faso Floods Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBDI07</code>
+    <name>Burundi 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF07</code>
+    <name>Central African Republic 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD07</code>
+    <name>Chad 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCIV07</code>
+    <name>Cote d'Ivoire 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD07</code>
+    <name>Democratic Republic of the Congo 2007 Humanitarian Action Plan</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FDOM0708</code>
+    <name>Dominican Republic Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FGHA0708</code>
+    <name>Ghana Floods Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXGLR07</code>
+    <name>Great Lakes Region 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OIRQ0708</code>
+    <name>Iraq Health Sector Appeal 2007: Meeting the Health Needs of Iraqis Displaced in Neighbouring Countries</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPRK07</code>
+    <name>Korea DPR Flash Appeal: Floods Emergency 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLBN07</code>
+    <name>Lebanon Crisis Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLSO0708</code>
+    <name>Lesotho Drought Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLBR07</code>
+    <name>Liberia Common Humanitarian Action Plan 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG07</code>
+    <name>Madagascar Floods Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMOZ07</code>
+    <name>Mozambique Floods and Cyclone Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ONPL07</code>
+    <name>Nepal Common Appeal for Transition Support 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FNIC0708</code>
+    <name>Nicaragua Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ORUS07</code>
+    <name>North Caucasus Transitional Workplan 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPAK07</code>
+    <name>Pakistan Cyclone and Floods Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPER0708</code>
+    <name>Peru Earthquake Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOG07</code>
+    <name>Republic of Congo 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSLB07</code>
+    <name>Solomon Islands Earthquake and Tsunami - UNICEF Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM07</code>
+    <name>Somalia 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLKA07</code>
+    <name>Sri Lanka Common Humanitarian Action Plan 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FSDN0708</code>
+    <name>Sudan Flash Appeal: Flood Response 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN07</code>
+    <name>Sudan Work Plan 2007 (Humanitarian Action component) </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FSWZ0708</code>
+    <name>Swaziland Drought Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTLS07</code>
+    <name>Timor-Leste 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA07</code>
+    <name>Uganda 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FUGA0708</code>
+    <name>Uganda Floods Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF07</code>
+    <name>West Africa 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FZMB07</code>
+    <name>Zambia Floods Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE07</code>
+    <name>Zimbabwe 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE07</code>
+    <name>occupied Palestinian territory 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OAFG06</code>
+    <name>Afghanistan Drought Joint Appeal 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBDI06</code>
+    <name>Burundi 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF06</code>
+    <name>Central African Republic 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD06</code>
+    <name>Chad 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCIV06</code>
+    <name>Cote d'Ivoire 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD06</code>
+    <name>Democratic Republic of the Congo Action Plan 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OETH06</code>
+    <name>Ethiopia 2006 Humanitarian Appeal (Joint Govt-NGO-UN)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OETH06a</code>
+    <name>Ethiopia Floods Joint Appeal 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OETH0607</code>
+    <name>Ethiopia: 2006 Govt-UN Joint Emergency Flood Appeal for Somali Region</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXGLR06</code>
+    <name>Great Lakes Region 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CGIN06</code>
+    <name>Guinea 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FGNB06</code>
+    <name>Guinea-Bissau 2006 </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXHAF06</code>
+    <name>Horn of Africa 2006 </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FIDN06</code>
+    <name>Indonesia Earthquake Response Plan 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKEN0607</code>
+    <name>Kenya 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKEN06</code>
+    <name>Kenya: 2006 November Floods</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLBN06</code>
+    <name>Lebanon Crisis 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLBR06</code>
+    <name>Liberia 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CNPL0506</code>
+    <name>Nepal 2005-2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ORUS06</code>
+    <name>North Caucasus Transitional Workplan 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OPHL0607</code>
+    <name>Philippines 2006 Typhoon Appeal</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOG06</code>
+    <name>Republic of Congo 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM06</code>
+    <name>Somalia 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FSOM0607</code>
+    <name>Somalia: 2006 Flood Response Plan</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLKA06</code>
+    <name>Sri Lanka Common Humanitarian Action Plan 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN06</code>
+    <name>Sudan Work Plan 2006 (Humanitarian Action component)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OTJK06</code>
+    <name>Tajikistan Earthquake 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FTLS06</code>
+    <name>Timor-Leste 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA06</code>
+    <name>Uganda 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF06</code>
+    <name>West Africa 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE06</code>
+    <name>Zimbabwe 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE06</code>
+    <name>occupied Palestinian territory 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FAGO05</code>
+    <name>Angola Marburg VHF  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FBEN05</code>
+    <name>Benin  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBDI05</code>
+    <name>Burundi 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF05</code>
+    <name>Central African Republic 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD05</code>
+    <name>Chad 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CRUS05</code>
+    <name>Chechnya and Neighbouring Republics (RF) 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCIV05</code>
+    <name>Cote d'Ivoire 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD05</code>
+    <name>Democratic Republic of the Congo 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FDJI05</code>
+    <name>Djibouti Drought  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSLV05</code>
+    <name>El Salvador Joint UN Agency Appeal 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CERI05</code>
+    <name>Eritrea 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXGLR05</code>
+    <name>Great Lakes Region 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FGTM0506</code>
+    <name>Guatemala  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CGIN05</code>
+    <name>Guinea 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FGUY05</code>
+    <name>Guyana  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FXINDTSU05</code>
+    <name>Indian Ocean Earthquake-Tsunami  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMWI0506</code>
+    <name>Malawi  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FNER05</code>
+    <name>Niger  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOG05</code>
+    <name>Republic of Congo 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM05</code>
+    <name>Somalia 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FXSASIA0506</code>
+    <name>South Asia Earthquake 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN05</code>
+    <name>Sudan - Humanitarian &amp; Recovery Components of the 2005 Work Plan</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA05</code>
+    <name>Uganda 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF05</code>
+    <name>West Africa 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FXWAF0506</code>
+    <name>West and Central Africa Region Cholera 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE05</code>
+    <name>occupied Palestinian territory 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OAFG04</code>
+    <name>Afghanistan UN-Government Drought Appeal 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAGO04</code>
+    <name>Angola 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FBGD0405</code>
+    <name>Bangladesh  2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FBOL0405</code>
+    <name>Bolivia  2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBDI04</code>
+    <name>Burundi 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCAF04</code>
+    <name>Central African Republic 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTCD04</code>
+    <name>Chad 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CRUS04</code>
+    <name>Chechnya and Neighbouring Republics (RF) 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCIV04</code>
+    <name>Cote d'Ivoire + 3 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPRK04</code>
+    <name>DPR of Korea 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD04</code>
+    <name>Democratic Republic of the Congo 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CERI04</code>
+    <name>Eritrea 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXGLR04</code>
+    <name>Great Lakes Region 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FGRD0405</code>
+    <name>Grenada  2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CGIN04</code>
+    <name>Guinea 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI04</code>
+    <name>Haiti  2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FHTI0405</code>
+    <name>Haiti Floods  2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIDN04</code>
+    <name>Indonesia 2004 </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FIRN04</code>
+    <name>Islamic Republic of Iran 2004 </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FKEN04</code>
+    <name>Kenya  2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLBR04</code>
+    <name>Liberia 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG04</code>
+    <name>Madagascar  2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FPHL0405</code>
+    <name>Philippines  2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSLE04</code>
+    <name>Sierra Leone 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM04</code>
+    <name>Somalia 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN04</code>
+    <name>Sudan 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTJK04</code>
+    <name>Tajikistan 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTZA04</code>
+    <name>Tanzania (United Republic of) 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA04</code>
+    <name>Uganda 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF04</code>
+    <name>West Africa Sub-Regional 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE04</code>
+    <name>Zimbabwe 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE04</code>
+    <name>occupied Palestinian territory 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OAFG03</code>
+    <name>Afghanistan TAPA 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAGO03</code>
+    <name>Angola 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBDI03</code>
+    <name>Burundi 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FCAF03</code>
+    <name>Central African Republic  2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CRUS03</code>
+    <name>Chechnya and Neighbouring Republics (RF) 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCOL03</code>
+    <name>Colombia (HAP) 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCIV03</code>
+    <name>Cote d'Ivoire + 5 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FCIV0203</code>
+    <name>C&#244;te d'Ivoire and the West Africa Sub-Region 2002-2003 </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPRK03</code>
+    <name>DPR of Korea 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD03</code>
+    <name>Democratic Republic of the Congo 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CERI03</code>
+    <name>Eritrea 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXGLR03</code>
+    <name>Great Lakes Region and Central Africa 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CGIN03</code>
+    <name>Guinea 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OHTI03</code>
+    <name>Haiti (PIR) 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLSO0304</code>
+    <name>Humanitarian Crisis in Southern Africa - LESOTHO (July 2003 - June 2004)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CMWI03</code>
+    <name>Humanitarian Crisis in Southern Africa - MALAWI (July 2003 - June 2004)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CMOZ0304</code>
+    <name>Humanitarian Crisis in Southern Africa - MOZAMBIQUE (July 2003 - June 2004)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXSAF0304</code>
+    <name>Humanitarian Crisis in Southern Africa - REGION (July 2003 - June 2004)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSWZ0304</code>
+    <name>Humanitarian Crisis in Southern Africa - SWAZILAND (July 2003 - June 2004)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZMB0304</code>
+    <name>Humanitarian Crisis in Southern Africa - ZAMBIA (July 2003 - June 2004)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE03</code>
+    <name>Humanitarian Crisis in Southern Africa - ZIMBABWE (July - December 2003)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIDN03</code>
+    <name>Indonesia 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIRQ03</code>
+    <name>Iraq Crisis 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLBR03</code>
+    <name>Liberia 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCOG03</code>
+    <name>Republic of Congo 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSLE03</code>
+    <name>Sierra Leone 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM03</code>
+    <name>Somalia 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN03</code>
+    <name>Sudan 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTJK03</code>
+    <name>Tajikistan 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA03</code>
+    <name>Uganda 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPSE03</code>
+    <name>occupied Palestinian territory 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAFG0102</code>
+    <name>Afghanistan 2002 (ITAP for the Afghan People)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAGO02</code>
+    <name>Angola 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBDI02</code>
+    <name>Burundi 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPRK02</code>
+    <name>DPR of Korea 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD02</code>
+    <name>Democratic Republic of the Congo 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CERI02</code>
+    <name>Eritrea 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXGLR02</code>
+    <name>Great Lakes Region and Central Africa 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CGIN02</code>
+    <name>Guinea 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLSO0203</code>
+    <name>Humanitarian Crisis in Southern Africa 2002 - LESOTHO</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CMWI0203</code>
+    <name>Humanitarian Crisis in Southern Africa 2002 - MALAWI</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXSAF0203</code>
+    <name>Humanitarian Crisis in Southern Africa 2002 - REGION</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSWZ0203</code>
+    <name>Humanitarian Crisis in Southern Africa 2002 - SWAZILAND</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZMB0203</code>
+    <name>Humanitarian Crisis in Southern Africa 2002 - ZAMBIA</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CZWE0203</code>
+    <name>Humanitarian Crisis in Southern Africa 2002 - ZIMBABWE</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIDN02</code>
+    <name>Indonesia 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OIDN02</code>
+    <name>Joint Appeal - Solutions for East Timorese Refugees</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OLKA02</code>
+    <name>Joint Strategy - Returned IDPs in Sri Lanka 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OKEN02</code>
+    <name>Kenya Drought Donor Alert 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CLBR02</code>
+    <name>Liberia 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CRUS02</code>
+    <name>North Caucasus 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCOG02</code>
+    <name>Republic of Congo 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSLE02</code>
+    <name>Sierra Leone 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM02</code>
+    <name>Somalia 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXSEUR02</code>
+    <name>Southeastern Europe 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN02</code>
+    <name>Sudan 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTJK02</code>
+    <name>Tajikistan 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA02</code>
+    <name>Uganda 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF02</code>
+    <name>West Africa 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAFG01</code>
+    <name>Afghanistan 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAGO01</code>
+    <name>Angola 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBDI01</code>
+    <name>Burundi 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPRK01</code>
+    <name>DPR of Korea 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD01</code>
+    <name>Democratic Republic of the Congo 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>ODJI01</code>
+    <name>Djibouti Drought 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OXHAF01</code>
+    <name>Drought in the Horn of Africa 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CERI01</code>
+    <name>Eritrea 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CETH01</code>
+    <name>Ethiopia 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXGLR01</code>
+    <name>Great Lakes Region and Central Africa 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OKEN01</code>
+    <name>Kenya Drought 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIDN01</code>
+    <name>Maluku Crisis 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CRUS01</code>
+    <name>Northern Caucasus (Russian Federation) 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOG01</code>
+    <name>Republic of Congo 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSLE01</code>
+    <name>Sierra Leone 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM01</code>
+    <name>Somalia 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXSEUR01</code>
+    <name>Southeastern Europe 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN01</code>
+    <name>Sudan 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTJK01</code>
+    <name>Tajikistan 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTZA01</code>
+    <name>Tanzania (United Republic of) 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OTZA01</code>
+    <name>Tanzania (United Republic of) Drought 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA01</code>
+    <name>Uganda 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXWAF01</code>
+    <name>West Africa 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CAGO00</code>
+    <name>Angola 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CBDI00</code>
+    <name>Burundi 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CPRK00</code>
+    <name>DPR of Korea 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOD00</code>
+    <name>Democratic Republic of the Congo 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXGLR00</code>
+    <name>Great Lakes Region and Central Africa 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIDN0099</code>
+    <name>Maluku Crisis 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CCOG00</code>
+    <name>Republic of Congo 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSLE00</code>
+    <name>Sierra Leone 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSOM00</code>
+    <name>Somalia 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CXSEUR00</code>
+    <name>Southeastern Europe 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CSDN00</code>
+    <name>Sudan 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTJK00</code>
+    <name>Tajikistan 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTZA00</code>
+    <name>Tanzania (United Republic of) 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CUGA00</code>
+    <name>Uganda 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CTLS9900</code>
+    <name>East Timor 1999</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CRUS9900</code>
+    <name>Northern Caucasus (Russian Federation) 1999</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>CIDN9900</code>
+    <name>West Timor 1999</name>
+    <language>en</language>
+  </HumanitarianPlan>
+</codelist>
