@@ -51,6 +51,11 @@ jobs:
         yarn run generate
       env:
         CODELISTS_BASE_URL: https://codelists.codeforiati.org
+    - name: Copy API static files
+      run: |
+        cp -r api/* .output/public/api
+      env:
+        CODELISTS_BASE_URL: https://codelists.codeforiati.org
     - name: Deploy to github pages 🚀
       if: github.ref == 'refs/heads/main'
       uses: JamesIves/github-pages-deploy-action@v4
