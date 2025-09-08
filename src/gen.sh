@@ -1,8 +1,8 @@
 #!/bin/bash
 
 rm -rf codelists
-rm -rf docs
-cp -r static docs
+rm -rf api
+mkdir api
 
 if [ -d IATI-Codelists-NonEmbedded ]; then
     cd IATI-Codelists-NonEmbedded || exit 1
@@ -35,31 +35,36 @@ for v in 2.03 1.05; do
     fi
 
     echo ' *** Copy source XML to CLv3 ***'
-    mkdir -p docs/.vuepress/public/api/$i/clv2/xml docs/.vuepress/public/api/$i/clv3/xml
-    cp -r IATI-Codelists-$i/xml/*.xml docs/.vuepress/public/api/$i/clv3/xml
-    cp -r IATI-Codelists-NonEmbedded/xml/*.xml docs/.vuepress/public/api/$i/clv3/xml
-    cp -r Unofficial-Codelists/xml/*.xml docs/.vuepress/public/api/$i/clv3/xml
+    mkdir -p api/$i/clv2/xml api/$i/clv3/xml
+    cp -r IATI-Codelists-$i/xml/*.xml api/$i/clv3/xml
+    cp -r IATI-Codelists-NonEmbedded/xml/*.xml api/$i/clv3/xml
+    cp -r Unofficial-Codelists/xml/*.xml api/$i/clv3/xml
 
     echo ' *** Convert CLv3 XML to CLv2 XML ***'
-    for f in docs/.vuepress/public/api/$i/clv3/xml/*; do
-        python src/v3tov2.py $f > docs/.vuepress/public/api/$i/clv2/xml/`basename $f`;
+    for f in api/$i/clv3/xml/*; do
+        python src/v3tov2.py $f > api/$i/clv2/xml/`basename $f`;
     done
     echo ' *** Generate CLv3 other formats (CSV; JSON; XLSX) ***'
-    python src/gen.py $i docs/.vuepress/public/api/$i/clv3
+    python src/gen.py $i api/$i/clv3
 
     echo ' *** Copy CLv3 other formats (CSV; JSON; XLSX) to CLv2 ***'
-    cp -r docs/.vuepress/public/api/$i/clv3/{codelists.json,codelists.xml,csv,json,xlsx} docs/.vuepress/public/api/$i/clv2/
+    cp -r api/$i/clv3/{codelists.json,codelists.xml,csv,json,xlsx} api/$i/clv2/
 
     echo ' *** Convert CLv2 all formats to CLv1 ***'
-    python src/v2tov1.py docs/.vuepress/public/api/$i/clv2 docs/.vuepress/public/api/$i/clv1
+    python src/v2tov1.py api/$i/clv2 api/$i/clv1
 
     echo ' *** Copy Clv3 all formats to root ***'
-    cp -r docs/.vuepress/public/api/$i/clv3/* docs/.vuepress/public/api/$i
+    cp -r api/$i/clv3/* api/$i
 
-    python src/gen_api_root.py api/$i docs/.vuepress/public/api/$i
+    python src/gen_api_root.py api/$i api/$i
 done
 
 echo ' *** Copy v2 all formats to root ***'
-cp -r docs/.vuepress/public/api/2/clv* docs/.vuepress/public/api
-cp -r docs/.vuepress/public/api/2/clv3/* docs/.vuepress/public/api
-python src/gen_api_root.py api docs/.vuepress/public/api
+cp -r api/2/clv* api
+cp -r api/2/clv3/* api
+python src/gen_api_root.py api api
+
+echo ' *** Cleaning server/assets and copying API files ***'
+rm -rf server/assets/*
+mkdir -p server/assets/api
+cp -r api/* server/assets/api
