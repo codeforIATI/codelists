@@ -1,235 +1,235 @@
-code,name,status,codeforiati:category-code,codeforiati:group-code,codeforiati:group-name,codeforiati:category-name
-11110,Política e gestão administrativa da educação,active,111,110,Educação,"Educação, nível não especificado"
-11120,Instalações de educação e formação,active,111,110,Educação,"Educação, nível não especificado"
-11130,Formação de professores,active,111,110,Educação,"Educação, nível não especificado"
-11182,Investigação educativa,active,111,110,Educação,"Educação, nível não especificado"
-11220,Ensino primário,active,112,110,Educação,Ensino básico
-11230,Competências básicas de vida para adultos,active,112,110,Educação,Ensino básico
-11231,Competências básicas de vida para jovens,active,112,110,Educação,Ensino básico
-11232,Ensino primário equivalente para adultos,active,112,110,Educação,Ensino básico
-11240,Educação na primeira infância,active,112,110,Educação,Ensino básico
-11250,Alimentação escolar,active,112,110,Educação,Ensino básico
-11260,Primeiro ciclo do ensino secundário,active,112,110,Educação,Ensino básico
-11320,Segundo ciclo do ensino secundário (modificado e inclui dados do 11322),active,113,110,Educação,Ensino secundário
-11330,Formação profissional,active,113,110,Educação,Ensino secundário
-11420,Ensino superior,active,114,110,Educação,Ensino pós-secundário
-11430,Formação técnica e de gestão avançada,active,114,110,Educação,Ensino pós-secundário
-12110,Política e gestão administrativa da saúde,active,121,120,Saúde,"Saúde, geral"
-12181,Educação/formação médica,active,121,120,Saúde,"Saúde, geral"
-12182,Investigação médica,active,121,120,Saúde,"Saúde, geral"
-12191,Serviços médicos,active,121,120,Saúde,"Saúde, geral"
-12220,Cuidados de saúde básica,active,122,120,Saúde,Saúde básica
-12230,Infraestruturas básicas de saúde,active,122,120,Saúde,Saúde básica
-12240,Nutrição Básica,active,122,120,Saúde,Saúde básica
-12250,Controle de doenças infecciosas,active,122,120,Saúde,Saúde básica
-12261,Educação sanitária,active,122,120,Saúde,Saúde básica
-12262,Controle da malária,active,122,120,Saúde,Saúde básica
-12263,Controle da tuberculose,active,122,120,Saúde,Saúde básica
-12264,,active,122,120,Saúde,Saúde básica
-12281,Desenvolvimento do pessoal de saúde,active,122,120,Saúde,Saúde básica
-12310,"Controle de DNT, geral",active,123,120,Saúde,Doenças não transmissíveis (DNT)
-12320,Controle do tabagismo,active,123,120,Saúde,Doenças não transmissíveis (DNT)
-12330,Controle do consumo nocivo de bebidas alcoólicas e drogas,active,123,120,Saúde,Doenças não transmissíveis (DNT)
-12340,Promoção da saúde mental e do bem-estar,active,123,120,Saúde,Doenças não transmissíveis (DNT)
-12350,Outros meios de prevenção e tratamento de DNT,active,123,120,Saúde,Doenças não transmissíveis (DNT)
-12382,Investigação para prevenção e controle de DNT,active,123,120,Saúde,Doenças não transmissíveis (DNT)
-13010,Política e gestão administrativa da população,active,130,130,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva
-13020,Cuidados para a saúde reprodutiva,active,130,130,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva
-13030,Planejamento familiar,active,130,130,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva
-13040,"Controle de DST, incluindo o HIV/AIDS",active,130,130,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva
-13081,Desenvolvimento de pessoal para a população e a saúde reprodutiva,active,130,130,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva
-14010,Política e gestão administrativa do setor da água,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14015,Conservação de recursos hídricos (incluindo recolha de dados),active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14020,Abastecimento de água e saneamento – sistemas de grande escala,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14021,Abastecimento de água – sistemas de grande escala,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14022,Saneamento – sistemas de grande escala,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14030,Abastecimento básico de água potável e saneamento básico,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14031,Abastecimento básico de água potável,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14032,Saneamento básico,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14040,Desenvolvimento de bacias fluviais,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14050,Gestão/escoamento da água,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-14081,Educação e formação sobre abastecimento de água e saneamento,active,140,140,Abastecimento de água e saneamento,Abastecimento de água e saneamento
-15110,Política e gestão administrativa do setor público,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15111,Gestão das finanças públicas (GFP),active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15112,Descentralização e apoio à administração pública subnacional,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15113,Organizações e instituições de combate à corrupção,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15114,Mobilização de receitas internas,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15125,Contratação pública,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15130,Desenvolvimento jurídico e judicial,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15142,Política macroeconómica,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15150,Participação democrática e sociedade civil,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15151,Eleições,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15152,Legislaturas e partidos políticos,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15153,Meios de comunicação e livre circulação da informação,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15160,Direitos humanos,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15170,"Organizações, movimentos e instituições governamentais de direitos da mulher",active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15180,Erradicação da violência contra as mulheres e raparigas,active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15190,"Facilitação da migração e da mobilidade ordenadas, seguras, regulares e responsáveis",active,151,150,Governo e sociedade civil,"Governo e sociedade civil, geral"
-15210,Gestão e reforma do sistema de segurança,active,152,150,Governo e sociedade civil,"Conflitos, paz e segurança"
-15220,"Consolidação da paz civil, prevenção e resolução de conflitos",active,152,150,Governo e sociedade civil,"Conflitos, paz e segurança"
-15230,Participação em operações internacionais de consolidação da paz,active,152,150,Governo e sociedade civil,"Conflitos, paz e segurança"
-15240,Reintegração e controle de armas leves e de pequeno calibre,active,152,150,Governo e sociedade civil,"Conflitos, paz e segurança"
-15250,Remoção de minas terrestres e explosivos remanescentes de guerra,active,152,150,Governo e sociedade civil,"Conflitos, paz e segurança"
-15261,Crianças-soldado (prevenção e desmobilização),active,152,150,Governo e sociedade civil,"Conflitos, paz e segurança"
-16010,Proteção social,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16020,Criação de emprego,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16030,Política e gestão administrativa da habitação,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16040,Habitação de baixo custo,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16050,Ajuda multissetorial para serviços sociais básicos,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16061,Cultura e lazer,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16062,Reforço da capacidade estatística,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16063,Controle de narcóticos,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16064,Mitigação social do HIV/AIDS,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16070,Direitos laborais,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-16080,Diálogo social,active,160,160,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais
-21010,Política e gestão administrativa dos transportes,active,210,210,Transportes e armazenamento,Transportes e armazenamento
-21020,Transporte rodoviário,active,210,210,Transportes e armazenamento,Transportes e armazenamento
-21030,Transporte ferroviário,active,210,210,Transportes e armazenamento,Transportes e armazenamento
-21040,Transporte hidroviário,active,210,210,Transportes e armazenamento,Transportes e armazenamento
-21050,Transporte aéreo,active,210,210,Transportes e armazenamento,Transportes e armazenamento
-21061,Armazenamento,active,210,210,Transportes e armazenamento,Transportes e armazenamento
-21081,Educação e formação sobre transporte e armazenamento,active,210,210,Transportes e armazenamento,Transportes e armazenamento
-22010,Política e gestão administrativa das comunicações,active,220,220,Comunicações,Comunicações
-22020,Telecomunicações,active,220,220,Comunicações,Comunicações
-22030,Rádio/televisão/imprensa escrita,active,220,220,Comunicações,Comunicações
-22040,Tecnologias de informação e comunicação (TIC),active,220,220,Comunicações,Comunicações
-23110,Política e gestão administrativa da energia,active,231,230,Energia,Política energética
-23181,Educação/formação sobre energia,active,231,230,Energia,Política energética
-23182,Investigação sobre energia,active,231,230,Energia,Política energética
-23183,Conservação de energia e eficiência do lado da procura,active,231,230,Energia,Política energética
-23210,"Geração de energia, fontes renováveis ​​– várias tecnologias",active,232,230,Energia,"Geração de energia, fontes renováveis"
-23220,Centrais de energia hidroelétricas,active,232,230,Energia,"Geração de energia, fontes renováveis"
-23230,Energia solar para redes centralizadas,active,232,230,Energia,"Geração de energia, fontes renováveis"
-23231,Energia solar para redes isoladas e sistemas autônomos,active,232,230,Energia,"Geração de energia, fontes renováveis"
-23232,Energia solar – aplicações térmicas,active,232,230,Energia,"Geração de energia, fontes renováveis"
-23240,Energia eólica,active,232,230,Energia,"Geração de energia, fontes renováveis"
-23250,Energia marítima,active,232,230,Energia,"Geração de energia, fontes renováveis"
-23260,Energia geotérmica,active,232,230,Energia,"Geração de energia, fontes renováveis"
-23270,Centrais de energia elétricas alimentadas a biocombustível,active,232,230,Energia,"Geração de energia, fontes renováveis"
-23310,"Geração de energia, fontes não renováveis, não especificadas",active,233,230,Energia,"Geração de energia, fontes não renováveis"
-23320,Centrais de energia elétricas alimentadas a carvão,active,233,230,Energia,"Geração de energia, fontes não renováveis"
-23330,Centrais de energia elétricas alimentadas a petróleo,active,233,230,Energia,"Geração de energia, fontes não renováveis"
-23340,Centrais de energia elétricas alimentadas a gás natural,active,233,230,Energia,"Geração de energia, fontes não renováveis"
-23350,Centrais de energia elétricas alimentadas a combustíveis fósseis com captura e armazenamento de carbono (CAC),active,233,230,Energia,"Geração de energia, fontes não renováveis"
-23360,Centrais de energia elétricas alimentadas a resíduos não renováveis,active,233,230,Energia,"Geração de energia, fontes não renováveis"
-23410,Centrais de energia elétricas de energia híbrida,active,234,230,Energia,Centrais de energia híbridas
-23510,Centrais de energia nucleares e segurança nuclear,active,235,230,Energia,Centrais de energia nuclear
-23610,Centrais de aquecimento,active,236,230,Energia,Distribuição de energia
-23620,Aquecimento e refrigeração urbanos,active,236,230,Energia,Distribuição de energia
-23630,Transmissão e distribuição de energia elétrica (redes centralizadas),active,236,230,Energia,Distribuição de energia
-23631,Transmissão e distribuição de energia elétrica (minirredes isoladas),active,236,230,Energia,Distribuição de energia
-23640,Distribuição de gás a retalho,active,236,230,Energia,Distribuição de energia
-23641,Distribuição de combustíveis fósseis líquidos ou sólidos a retalho,active,236,230,Energia,Distribuição de energia
-23642,Infraestruturas de mobilidade elétrica,active,236,230,Energia,Distribuição de energia
-24010,Política e gestão administrativa da área financeira,active,240,240,Serviços bancários e financeiros,Serviços bancários e financeiros
-24020,Instituições monetárias,active,240,240,Serviços bancários e financeiros,Serviços bancários e financeiros
-24030,Intermediários financeios do setor formal,active,240,240,Serviços bancários e financeiros,Serviços bancários e financeiros
-24040,Intermediários financeiros informais/semiformais,active,240,240,Serviços bancários e financeiros,Serviços bancários e financeiros
-24050,"Facilitação, promoção e otimização de remessas monetárias",active,240,240,Serviços bancários e financeiros,Serviços bancários e financeiros
-24081,Educação/formação sobre serviços bancários e financeiros,active,240,240,Serviços bancários e financeiros,Serviços bancários e financeiros
-25010,Política e administração de negócios,active,250,250,Negócios e outros serviços,Negócios e outros serviços
-25020,Privatização,active,250,250,Negócios e outros serviços,Negócios e outros serviços
-25030,Serviços de desenvolvimento de negócios,active,250,250,Negócios e outros serviços,Negócios e outros serviços
-25040,Conduta empresarial responsável,active,250,250,Negócios e outros serviços,Negócios e outros serviços
-31110,Política e gestão administrativa da agricultura,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31120,Desenvolvimento agrícola,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31130,Recursos fundiários agrícolas,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31140,Recursos hídricos agrícolas,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31150,Insumos agrícolas,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31161,Produção de culturas alimentares,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31162,Culturas industriais/culturas para exportação,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31163,Pecuária,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31164,Reforma agrária,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31165,Desenvolvimento de alternativas agrícolas,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31166,Expansão agrícola,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31181,Educação/formação sobre agricultura,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31182,Investigação agrícola,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31191,Serviços agrícolas,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31192,Proteção e controle de pragas para plantas e pós-colheitas,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31193,Serviços financeiros agrícolas,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31194,Cooperativas agrícolas,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31195,Serviços pecuários/veterinários,active,311,310,"Agricultura, Silvicultura, Pesca",Agricultura
-31210,Política e gestão administrativa da silvicultura,active,312,310,"Agricultura, Silvicultura, Pesca",Silvicultura
-31220,Desenvolvimento florestal,active,312,310,"Agricultura, Silvicultura, Pesca",Silvicultura
-31261,Lenha/carvão vegetal,active,312,310,"Agricultura, Silvicultura, Pesca",Silvicultura
-31281,Educação/formação sobre silvicultura,active,312,310,"Agricultura, Silvicultura, Pesca",Silvicultura
-31282,Investigação florestal,active,312,310,"Agricultura, Silvicultura, Pesca",Silvicultura
-31291,Serviços florestais,active,312,310,"Agricultura, Silvicultura, Pesca",Silvicultura
-31310,Política e gestão administrativa da pesca,active,313,310,"Agricultura, Silvicultura, Pesca",Pesca
-31320,Desenvolvimento da pesca,active,313,310,"Agricultura, Silvicultura, Pesca",Pesca
-31381,Educação/formação sobre pesca,active,313,310,"Agricultura, Silvicultura, Pesca",Pesca
-31382,Investigação sobre pesca,active,313,310,"Agricultura, Silvicultura, Pesca",Pesca
-31391,Serviços pesqueiros,active,313,310,"Agricultura, Silvicultura, Pesca",Pesca
-32110,Política e gestão administrativa da indústria,active,321,320,"Indústria, extractivas, construção",Indústria
-32120,Desenvolvimento industrial,active,321,320,"Indústria, extractivas, construção",Indústria
-32130,Desenvolvimento de pequenas e médias empresas (PME),active,321,320,"Indústria, extractivas, construção",Indústria
-32140,Indústrias caseiras e artesanato,active,321,320,"Indústria, extractivas, construção",Indústria
-32161,Agroindústrias,active,321,320,"Indústria, extractivas, construção",Indústria
-32162,Indústrias florestais,active,321,320,"Indústria, extractivas, construção",Indústria
-32163,"Têxteis, couros e substitutos",active,321,320,"Indústria, extractivas, construção",Indústria
-32164,Produtos químicos,active,321,320,"Indústria, extractivas, construção",Indústria
-32165,Fábricas de fertilizantes,active,321,320,"Indústria, extractivas, construção",Indústria
-32166,Cimento/cal/gesso,active,321,320,"Indústria, extractivas, construção",Indústria
-32167,Indústria da energia (combustíveis fósseis),active,321,320,"Indústria, extractivas, construção",Indústria
-32168,Produção farmacêutica,active,321,320,"Indústria, extractivas, construção",Indústria
-32169,Indústrias de metais básicos,active,321,320,"Indústria, extractivas, construção",Indústria
-32170,Indústrias de metais não ferrosos,active,321,320,"Indústria, extractivas, construção",Indústria
-32171,Engenharia,active,321,320,"Indústria, extractivas, construção",Indústria
-32172,Indústria de equipamento de transporte,active,321,320,"Indústria, extractivas, construção",Indústria
-32173,Fabricação de biocombustíveis modernos,active,321,320,"Indústria, extractivas, construção",Indústria
-32174,Fabricação de aparelhos domésticos para a cozinha ecológica,active,321,320,"Indústria, extractivas, construção",Indústria
-32182,Investigação e desenvolvimento tecnológicos,active,321,320,"Indústria, extractivas, construção",Indústria
-32210,Política e gestão administrativa dos minerais/minas,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32220,Prospecção e exploração mineral,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32261,Carvão,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32262,Petróleo e gás (montante),active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32263,Metais ferrosos,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32264,Metais não ferrosos,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32265,Metais/materiais preciosos,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32266,Minerais industriais,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32267,Minerais fertilizantes,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32268,Minerais dos fundos marinhos,active,322,320,"Indústria, extractivas, construção",Recursos minerais e mineração
-32310,Política e gestão administrativa da construção,active,323,320,"Indústria, extractivas, construção",Construção
-33110,Política e gestão administrativa do comércio,active,331,331,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos
-33120,Facilitação do comércio,active,331,331,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos
-33130,Acordos de comércio regional (ACR),active,331,331,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos
-33140,Negociações comerciais multilaterais,active,331,331,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos
-33150,Ajustes relacionados ao comércio,active,331,331,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos
-33181,Educação/formação sobre comércio,active,331,331,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos
-33210,Política e gestão administrativa do turismo,active,332,332,Turismo,Turismo
-41010,Política e gestão administrativa do ambiente,active,410,410,Proteção geral do ambiente,Proteção geral do ambiente
-41020,Proteção da biosfera,active,410,410,Proteção geral do ambiente,Proteção geral do ambiente
-41030,Biodiversidade,active,410,410,Proteção geral do ambiente,Proteção geral do ambiente
-41040,Preservação da paisagem,active,410,410,Proteção geral do ambiente,Proteção geral do ambiente
-41081,Educação/formação sobre ambiente,active,410,410,Proteção geral do ambiente,Proteção geral do ambiente
-41082,Investigação ambiental,active,410,410,Proteção geral do ambiente,Proteção geral do ambiente
-43010,Ajuda multissetorial,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43030,Desenvolvimento e gestão urbanos,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43040,Desenvolvimento rural,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43050,Desenvolvimento de alternativas não agrícolas,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43060,Redução do risco de catástrofes,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43071,Política e gestão administrativa da segurança alimentar,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43072,Programas de segurança alimentar doméstica,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43073,Segurança e qualidade alimentares,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43081,Educação/formação multissetorial,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-43082,Instituições científicas/de investigação,active,430,430,"Outros, multissetoriais","Outros, multissetoriais"
-51010,Ajuda relacionada com o apoio orçamental geral,active,510,510,Apoio orçamental geral,Apoio orçamental geral
-52010,Assistência alimentar,active,520,520,Ajuda alimentar ao desenvolvimento,Ajuda alimentar ao desenvolvimento
-53030,Apoio à importação (bens de capital),active,530,530,Outra ajuda por meio de mercadorias,Outra ajuda por meio de mercadorias
-53040,Apoio à importação (mercadorias),active,530,530,Outra ajuda por meio de mercadorias,Outra ajuda por meio de mercadorias
-60010,Ação relacionada com a dívida,active,600,600,Ação relacionada com a dívida,Ação relacionada com a dívida
-60020,Perdão de dívida,active,600,600,Ação relacionada com a dívida,Ação relacionada com a dívida
-60030,Alívio da dívida multilateral,active,600,600,Ação relacionada com a dívida,Ação relacionada com a dívida
-60040,Reescalonamento e refinanciamento,active,600,600,Ação relacionada com a dívida,Ação relacionada com a dívida
-60061,Permuta de dívida por desenvolvimento,active,600,600,Ação relacionada com a dívida,Ação relacionada com a dívida
-60062,Outras permutas de dívida,active,600,600,Ação relacionada com a dívida,Ação relacionada com a dívida
-60063,Recompra de dívida,active,600,600,Ação relacionada com a dívida,Ação relacionada com a dívida
-72010,Assistência e serviços de alívio material,active,720,720,Resposta de emergência,Resposta de emergência
-72040,Assistência alimentar de emergência,active,720,720,Resposta de emergência,Resposta de emergência
-72050,Serviços de coordenação e apoio ao alívio,active,720,720,Resposta de emergência,Resposta de emergência
-73010,Reconstrução e reabilitação pós-emergência imediatas,active,730,730,Ajuda à reconstrução e reabilitação,Ajuda à reconstrução e reabilitação
-74020,Preparação da resposta contra vários riscos,active,740,740,Prevenção e preparação contra catástrofes,Prevenção e preparação contra catástrofes
-91010,Custos administrativos (não atribuíveis a setores),active,910,910,Custos administrativos dos doadores,Custos administrativos dos doadores
-93010,Refugiados/requerentes de asilo em países doadores (não atribuíveis a setores),active,930,930,Refugiados em países doadores,Refugiados em países doadores
-99810,Setores não especificados,active,998,998,Não atribuído/não especificado,Não atribuído/não especificado
-99820,Promoção da conscientização sobre o desenvolvimento (não atribuíveis a setores),active,998,998,Não atribuído/não especificado,Não atribuído/não especificado
+code,name,status,codeforiati:group-name,codeforiati:category-name,codeforiati:group-code,codeforiati:category-code
+11110,Política e gestão administrativa da educação,active,Educação,"Educação, nível não especificado",110,111
+11120,Instalações de educação e formação,active,Educação,"Educação, nível não especificado",110,111
+11130,Formação de professores,active,Educação,"Educação, nível não especificado",110,111
+11182,Investigação educativa,active,Educação,"Educação, nível não especificado",110,111
+11220,Ensino primário,active,Educação,Ensino básico,110,112
+11230,Competências básicas de vida para adultos,active,Educação,Ensino básico,110,112
+11231,Competências básicas de vida para jovens,active,Educação,Ensino básico,110,112
+11232,Ensino primário equivalente para adultos,active,Educação,Ensino básico,110,112
+11240,Educação na primeira infância,active,Educação,Ensino básico,110,112
+11250,Alimentação escolar,active,Educação,Ensino básico,110,112
+11260,Primeiro ciclo do ensino secundário,active,Educação,Ensino básico,110,112
+11320,Segundo ciclo do ensino secundário (modificado e inclui dados do 11322),active,Educação,Ensino secundário,110,113
+11330,Formação profissional,active,Educação,Ensino secundário,110,113
+11420,Ensino superior,active,Educação,Ensino pós-secundário,110,114
+11430,Formação técnica e de gestão avançada,active,Educação,Ensino pós-secundário,110,114
+12110,Política e gestão administrativa da saúde,active,Saúde,"Saúde, geral",120,121
+12181,Educação/formação médica,active,Saúde,"Saúde, geral",120,121
+12182,Investigação médica,active,Saúde,"Saúde, geral",120,121
+12191,Serviços médicos,active,Saúde,"Saúde, geral",120,121
+12220,Cuidados de saúde básica,active,Saúde,Saúde básica,120,122
+12230,Infraestruturas básicas de saúde,active,Saúde,Saúde básica,120,122
+12240,Nutrição Básica,active,Saúde,Saúde básica,120,122
+12250,Controle de doenças infecciosas,active,Saúde,Saúde básica,120,122
+12261,Educação sanitária,active,Saúde,Saúde básica,120,122
+12262,Controle da malária,active,Saúde,Saúde básica,120,122
+12263,Controle da tuberculose,active,Saúde,Saúde básica,120,122
+12264,,active,Saúde,Saúde básica,120,122
+12281,Desenvolvimento do pessoal de saúde,active,Saúde,Saúde básica,120,122
+12310,"Controle de DNT, geral",active,Saúde,Doenças não transmissíveis (DNT),120,123
+12320,Controle do tabagismo,active,Saúde,Doenças não transmissíveis (DNT),120,123
+12330,Controle do consumo nocivo de bebidas alcoólicas e drogas,active,Saúde,Doenças não transmissíveis (DNT),120,123
+12340,Promoção da saúde mental e do bem-estar,active,Saúde,Doenças não transmissíveis (DNT),120,123
+12350,Outros meios de prevenção e tratamento de DNT,active,Saúde,Doenças não transmissíveis (DNT),120,123
+12382,Investigação para prevenção e controle de DNT,active,Saúde,Doenças não transmissíveis (DNT),120,123
+13010,Política e gestão administrativa da população,active,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva,130,130
+13020,Cuidados para a saúde reprodutiva,active,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva,130,130
+13030,Planejamento familiar,active,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva,130,130
+13040,"Controle de DST, incluindo o HIV/AIDS",active,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva,130,130
+13081,Desenvolvimento de pessoal para a população e a saúde reprodutiva,active,Políticas/programas populacionais e saúde reprodutiva,Políticas/programas populacionais e saúde reprodutiva,130,130
+14010,Política e gestão administrativa do setor da água,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14015,Conservação de recursos hídricos (incluindo recolha de dados),active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14020,Abastecimento de água e saneamento – sistemas de grande escala,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14021,Abastecimento de água – sistemas de grande escala,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14022,Saneamento – sistemas de grande escala,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14030,Abastecimento básico de água potável e saneamento básico,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14031,Abastecimento básico de água potável,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14032,Saneamento básico,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14040,Desenvolvimento de bacias fluviais,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14050,Gestão/escoamento da água,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+14081,Educação e formação sobre abastecimento de água e saneamento,active,Abastecimento de água e saneamento,Abastecimento de água e saneamento,140,140
+15110,Política e gestão administrativa do setor público,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15111,Gestão das finanças públicas (GFP),active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15112,Descentralização e apoio à administração pública subnacional,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15113,Organizações e instituições de combate à corrupção,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15114,Mobilização de receitas internas,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15125,Contratação pública,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15130,Desenvolvimento jurídico e judicial,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15142,Política macroeconómica,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15150,Participação democrática e sociedade civil,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15151,Eleições,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15152,Legislaturas e partidos políticos,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15153,Meios de comunicação e livre circulação da informação,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15160,Direitos humanos,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15170,"Organizações, movimentos e instituições governamentais de direitos da mulher",active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15180,Erradicação da violência contra as mulheres e raparigas,active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15190,"Facilitação da migração e da mobilidade ordenadas, seguras, regulares e responsáveis",active,Governo e sociedade civil,"Governo e sociedade civil, geral",150,151
+15210,Gestão e reforma do sistema de segurança,active,Governo e sociedade civil,"Conflitos, paz e segurança",150,152
+15220,"Consolidação da paz civil, prevenção e resolução de conflitos",active,Governo e sociedade civil,"Conflitos, paz e segurança",150,152
+15230,Participação em operações internacionais de consolidação da paz,active,Governo e sociedade civil,"Conflitos, paz e segurança",150,152
+15240,Reintegração e controle de armas leves e de pequeno calibre,active,Governo e sociedade civil,"Conflitos, paz e segurança",150,152
+15250,Remoção de minas terrestres e explosivos remanescentes de guerra,active,Governo e sociedade civil,"Conflitos, paz e segurança",150,152
+15261,Crianças-soldado (prevenção e desmobilização),active,Governo e sociedade civil,"Conflitos, paz e segurança",150,152
+16010,Proteção social,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16020,Criação de emprego,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16030,Política e gestão administrativa da habitação,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16040,Habitação de baixo custo,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16050,Ajuda multissetorial para serviços sociais básicos,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16061,Cultura e lazer,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16062,Reforço da capacidade estatística,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16063,Controle de narcóticos,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16064,Mitigação social do HIV/AIDS,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16070,Direitos laborais,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+16080,Diálogo social,active,Outros serviços e infraestruturas sociais,Outros serviços e infraestruturas sociais,160,160
+21010,Política e gestão administrativa dos transportes,active,Transportes e armazenamento,Transportes e armazenamento,210,210
+21020,Transporte rodoviário,active,Transportes e armazenamento,Transportes e armazenamento,210,210
+21030,Transporte ferroviário,active,Transportes e armazenamento,Transportes e armazenamento,210,210
+21040,Transporte hidroviário,active,Transportes e armazenamento,Transportes e armazenamento,210,210
+21050,Transporte aéreo,active,Transportes e armazenamento,Transportes e armazenamento,210,210
+21061,Armazenamento,active,Transportes e armazenamento,Transportes e armazenamento,210,210
+21081,Educação e formação sobre transporte e armazenamento,active,Transportes e armazenamento,Transportes e armazenamento,210,210
+22010,Política e gestão administrativa das comunicações,active,Comunicações,Comunicações,220,220
+22020,Telecomunicações,active,Comunicações,Comunicações,220,220
+22030,Rádio/televisão/imprensa escrita,active,Comunicações,Comunicações,220,220
+22040,Tecnologias de informação e comunicação (TIC),active,Comunicações,Comunicações,220,220
+23110,Política e gestão administrativa da energia,active,Energia,Política energética,230,231
+23181,Educação/formação sobre energia,active,Energia,Política energética,230,231
+23182,Investigação sobre energia,active,Energia,Política energética,230,231
+23183,Conservação de energia e eficiência do lado da procura,active,Energia,Política energética,230,231
+23210,"Geração de energia, fontes renováveis ​​– várias tecnologias",active,Energia,"Geração de energia, fontes renováveis",230,232
+23220,Centrais de energia hidroelétricas,active,Energia,"Geração de energia, fontes renováveis",230,232
+23230,Energia solar para redes centralizadas,active,Energia,"Geração de energia, fontes renováveis",230,232
+23231,Energia solar para redes isoladas e sistemas autônomos,active,Energia,"Geração de energia, fontes renováveis",230,232
+23232,Energia solar – aplicações térmicas,active,Energia,"Geração de energia, fontes renováveis",230,232
+23240,Energia eólica,active,Energia,"Geração de energia, fontes renováveis",230,232
+23250,Energia marítima,active,Energia,"Geração de energia, fontes renováveis",230,232
+23260,Energia geotérmica,active,Energia,"Geração de energia, fontes renováveis",230,232
+23270,Centrais de energia elétricas alimentadas a biocombustível,active,Energia,"Geração de energia, fontes renováveis",230,232
+23310,"Geração de energia, fontes não renováveis, não especificadas",active,Energia,"Geração de energia, fontes não renováveis",230,233
+23320,Centrais de energia elétricas alimentadas a carvão,active,Energia,"Geração de energia, fontes não renováveis",230,233
+23330,Centrais de energia elétricas alimentadas a petróleo,active,Energia,"Geração de energia, fontes não renováveis",230,233
+23340,Centrais de energia elétricas alimentadas a gás natural,active,Energia,"Geração de energia, fontes não renováveis",230,233
+23350,Centrais de energia elétricas alimentadas a combustíveis fósseis com captura e armazenamento de carbono (CAC),active,Energia,"Geração de energia, fontes não renováveis",230,233
+23360,Centrais de energia elétricas alimentadas a resíduos não renováveis,active,Energia,"Geração de energia, fontes não renováveis",230,233
+23410,Centrais de energia elétricas de energia híbrida,active,Energia,Centrais de energia híbridas,230,234
+23510,Centrais de energia nucleares e segurança nuclear,active,Energia,Centrais de energia nuclear,230,235
+23610,Centrais de aquecimento,active,Energia,Distribuição de energia,230,236
+23620,Aquecimento e refrigeração urbanos,active,Energia,Distribuição de energia,230,236
+23630,Transmissão e distribuição de energia elétrica (redes centralizadas),active,Energia,Distribuição de energia,230,236
+23631,Transmissão e distribuição de energia elétrica (minirredes isoladas),active,Energia,Distribuição de energia,230,236
+23640,Distribuição de gás a retalho,active,Energia,Distribuição de energia,230,236
+23641,Distribuição de combustíveis fósseis líquidos ou sólidos a retalho,active,Energia,Distribuição de energia,230,236
+23642,Infraestruturas de mobilidade elétrica,active,Energia,Distribuição de energia,230,236
+24010,Política e gestão administrativa da área financeira,active,Serviços bancários e financeiros,Serviços bancários e financeiros,240,240
+24020,Instituições monetárias,active,Serviços bancários e financeiros,Serviços bancários e financeiros,240,240
+24030,Intermediários financeios do setor formal,active,Serviços bancários e financeiros,Serviços bancários e financeiros,240,240
+24040,Intermediários financeiros informais/semiformais,active,Serviços bancários e financeiros,Serviços bancários e financeiros,240,240
+24050,"Facilitação, promoção e otimização de remessas monetárias",active,Serviços bancários e financeiros,Serviços bancários e financeiros,240,240
+24081,Educação/formação sobre serviços bancários e financeiros,active,Serviços bancários e financeiros,Serviços bancários e financeiros,240,240
+25010,Política e administração de negócios,active,Negócios e outros serviços,Negócios e outros serviços,250,250
+25020,Privatização,active,Negócios e outros serviços,Negócios e outros serviços,250,250
+25030,Serviços de desenvolvimento de negócios,active,Negócios e outros serviços,Negócios e outros serviços,250,250
+25040,Conduta empresarial responsável,active,Negócios e outros serviços,Negócios e outros serviços,250,250
+31110,Política e gestão administrativa da agricultura,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31120,Desenvolvimento agrícola,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31130,Recursos fundiários agrícolas,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31140,Recursos hídricos agrícolas,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31150,Insumos agrícolas,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31161,Produção de culturas alimentares,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31162,Culturas industriais/culturas para exportação,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31163,Pecuária,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31164,Reforma agrária,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31165,Desenvolvimento de alternativas agrícolas,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31166,Expansão agrícola,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31181,Educação/formação sobre agricultura,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31182,Investigação agrícola,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31191,Serviços agrícolas,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31192,Proteção e controle de pragas para plantas e pós-colheitas,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31193,Serviços financeiros agrícolas,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31194,Cooperativas agrícolas,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31195,Serviços pecuários/veterinários,active,"Agricultura, Silvicultura, Pesca",Agricultura,310,311
+31210,Política e gestão administrativa da silvicultura,active,"Agricultura, Silvicultura, Pesca",Silvicultura,310,312
+31220,Desenvolvimento florestal,active,"Agricultura, Silvicultura, Pesca",Silvicultura,310,312
+31261,Lenha/carvão vegetal,active,"Agricultura, Silvicultura, Pesca",Silvicultura,310,312
+31281,Educação/formação sobre silvicultura,active,"Agricultura, Silvicultura, Pesca",Silvicultura,310,312
+31282,Investigação florestal,active,"Agricultura, Silvicultura, Pesca",Silvicultura,310,312
+31291,Serviços florestais,active,"Agricultura, Silvicultura, Pesca",Silvicultura,310,312
+31310,Política e gestão administrativa da pesca,active,"Agricultura, Silvicultura, Pesca",Pesca,310,313
+31320,Desenvolvimento da pesca,active,"Agricultura, Silvicultura, Pesca",Pesca,310,313
+31381,Educação/formação sobre pesca,active,"Agricultura, Silvicultura, Pesca",Pesca,310,313
+31382,Investigação sobre pesca,active,"Agricultura, Silvicultura, Pesca",Pesca,310,313
+31391,Serviços pesqueiros,active,"Agricultura, Silvicultura, Pesca",Pesca,310,313
+32110,Política e gestão administrativa da indústria,active,"Indústria, extractivas, construção",Indústria,320,321
+32120,Desenvolvimento industrial,active,"Indústria, extractivas, construção",Indústria,320,321
+32130,Desenvolvimento de pequenas e médias empresas (PME),active,"Indústria, extractivas, construção",Indústria,320,321
+32140,Indústrias caseiras e artesanato,active,"Indústria, extractivas, construção",Indústria,320,321
+32161,Agroindústrias,active,"Indústria, extractivas, construção",Indústria,320,321
+32162,Indústrias florestais,active,"Indústria, extractivas, construção",Indústria,320,321
+32163,"Têxteis, couros e substitutos",active,"Indústria, extractivas, construção",Indústria,320,321
+32164,Produtos químicos,active,"Indústria, extractivas, construção",Indústria,320,321
+32165,Fábricas de fertilizantes,active,"Indústria, extractivas, construção",Indústria,320,321
+32166,Cimento/cal/gesso,active,"Indústria, extractivas, construção",Indústria,320,321
+32167,Indústria da energia (combustíveis fósseis),active,"Indústria, extractivas, construção",Indústria,320,321
+32168,Produção farmacêutica,active,"Indústria, extractivas, construção",Indústria,320,321
+32169,Indústrias de metais básicos,active,"Indústria, extractivas, construção",Indústria,320,321
+32170,Indústrias de metais não ferrosos,active,"Indústria, extractivas, construção",Indústria,320,321
+32171,Engenharia,active,"Indústria, extractivas, construção",Indústria,320,321
+32172,Indústria de equipamento de transporte,active,"Indústria, extractivas, construção",Indústria,320,321
+32173,Fabricação de biocombustíveis modernos,active,"Indústria, extractivas, construção",Indústria,320,321
+32174,Fabricação de aparelhos domésticos para a cozinha ecológica,active,"Indústria, extractivas, construção",Indústria,320,321
+32182,Investigação e desenvolvimento tecnológicos,active,"Indústria, extractivas, construção",Indústria,320,321
+32210,Política e gestão administrativa dos minerais/minas,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32220,Prospecção e exploração mineral,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32261,Carvão,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32262,Petróleo e gás (montante),active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32263,Metais ferrosos,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32264,Metais não ferrosos,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32265,Metais/materiais preciosos,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32266,Minerais industriais,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32267,Minerais fertilizantes,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32268,Minerais dos fundos marinhos,active,"Indústria, extractivas, construção",Recursos minerais e mineração,320,322
+32310,Política e gestão administrativa da construção,active,"Indústria, extractivas, construção",Construção,320,323
+33110,Política e gestão administrativa do comércio,active,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos,331,331
+33120,Facilitação do comércio,active,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos,331,331
+33130,Acordos de comércio regional (ACR),active,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos,331,331
+33140,Negociações comerciais multilaterais,active,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos,331,331
+33150,Ajustes relacionados ao comércio,active,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos,331,331
+33181,Educação/formação sobre comércio,active,Políticas comerciais e regulamentos,Políticas comerciais e regulamentos,331,331
+33210,Política e gestão administrativa do turismo,active,Turismo,Turismo,332,332
+41010,Política e gestão administrativa do ambiente,active,Proteção geral do ambiente,Proteção geral do ambiente,410,410
+41020,Proteção da biosfera,active,Proteção geral do ambiente,Proteção geral do ambiente,410,410
+41030,Biodiversidade,active,Proteção geral do ambiente,Proteção geral do ambiente,410,410
+41040,Preservação da paisagem,active,Proteção geral do ambiente,Proteção geral do ambiente,410,410
+41081,Educação/formação sobre ambiente,active,Proteção geral do ambiente,Proteção geral do ambiente,410,410
+41082,Investigação ambiental,active,Proteção geral do ambiente,Proteção geral do ambiente,410,410
+43010,Ajuda multissetorial,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43030,Desenvolvimento e gestão urbanos,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43040,Desenvolvimento rural,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43050,Desenvolvimento de alternativas não agrícolas,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43060,Redução do risco de catástrofes,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43071,Política e gestão administrativa da segurança alimentar,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43072,Programas de segurança alimentar doméstica,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43073,Segurança e qualidade alimentares,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43081,Educação/formação multissetorial,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+43082,Instituições científicas/de investigação,active,"Outros, multissetoriais","Outros, multissetoriais",430,430
+51010,Ajuda relacionada com o apoio orçamental geral,active,Apoio orçamental geral,Apoio orçamental geral,510,510
+52010,Assistência alimentar,active,Ajuda alimentar ao desenvolvimento,Ajuda alimentar ao desenvolvimento,520,520
+53030,Apoio à importação (bens de capital),active,Outra ajuda por meio de mercadorias,Outra ajuda por meio de mercadorias,530,530
+53040,Apoio à importação (mercadorias),active,Outra ajuda por meio de mercadorias,Outra ajuda por meio de mercadorias,530,530
+60010,Ação relacionada com a dívida,active,Ação relacionada com a dívida,Ação relacionada com a dívida,600,600
+60020,Perdão de dívida,active,Ação relacionada com a dívida,Ação relacionada com a dívida,600,600
+60030,Alívio da dívida multilateral,active,Ação relacionada com a dívida,Ação relacionada com a dívida,600,600
+60040,Reescalonamento e refinanciamento,active,Ação relacionada com a dívida,Ação relacionada com a dívida,600,600
+60061,Permuta de dívida por desenvolvimento,active,Ação relacionada com a dívida,Ação relacionada com a dívida,600,600
+60062,Outras permutas de dívida,active,Ação relacionada com a dívida,Ação relacionada com a dívida,600,600
+60063,Recompra de dívida,active,Ação relacionada com a dívida,Ação relacionada com a dívida,600,600
+72010,Assistência e serviços de alívio material,active,Resposta de emergência,Resposta de emergência,720,720
+72040,Assistência alimentar de emergência,active,Resposta de emergência,Resposta de emergência,720,720
+72050,Serviços de coordenação e apoio ao alívio,active,Resposta de emergência,Resposta de emergência,720,720
+73010,Reconstrução e reabilitação pós-emergência imediatas,active,Ajuda à reconstrução e reabilitação,Ajuda à reconstrução e reabilitação,730,730
+74020,Preparação da resposta contra vários riscos,active,Prevenção e preparação contra catástrofes,Prevenção e preparação contra catástrofes,740,740
+91010,Custos administrativos (não atribuíveis a setores),active,Custos administrativos dos doadores,Custos administrativos dos doadores,910,910
+93010,Refugiados/requerentes de asilo em países doadores (não atribuíveis a setores),active,Refugiados em países doadores,Refugiados em países doadores,930,930
+99810,Setores não especificados,active,Não atribuído/não especificado,Não atribuído/não especificado,998,998
+99820,Promoção da conscientização sobre o desenvolvimento (não atribuíveis a setores),active,Não atribuído/não especificado,Não atribuído/não especificado,998,998
