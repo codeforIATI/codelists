@@ -10,12 +10,13 @@
 
 <script setup lang="ts">
 const { t } = useI18n()
-import { withLeadingSlash } from 'ufo'
+import { withLeadingSlash, joinURL } from 'ufo'
 import type { Collections } from '@nuxt/content'
 
 const route = useRoute()
 const { locale } = useI18n()
-const slug = computed(() => withLeadingSlash(String(route.params.slug)))
+const slug = computed(() => Array.isArray(route.params.slug) ? route.params.slug as string[] : [route.params.slug as string])
+const path = computed(() => withLeadingSlash(joinURL(...slug.value)))
 
 
 const main = useStore()
@@ -29,11 +30,11 @@ const codelist = computed(() => { return main.codelists.includes(codelistPageNam
 const { data: page } = await useAsyncData(() => `page-${slug.value}-${locale.value}`, async () => {
     // Build collection name based on current locale
     const collection = ('content_' + locale.value) as keyof Collections
-    const content = await queryCollection(collection).path(slug.value).first()
+    const content = await queryCollection(collection).path(path.value).first()
 
     // Optional: fallback to default locale if content is missing
     if (!content && locale.value !== 'en') {
-        return await queryCollection('content_en').path(slug.value).first()
+        return await queryCollection('content_en').path(path.value).first()
     }
 
     return content
