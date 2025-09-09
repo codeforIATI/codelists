@@ -1,0 +1,1 @@
+import{_ as a}from"./DOxbEvGV.js";import{p as n,o as s,w as p,q as f}from"#entry";const l={__name:"ProseA",props:{href:{type:String,default:""},target:{type:String,default:void 0,required:!1}},setup(e){const t=e;return(r,_)=>{const o=a;return s(),n(o,{href:t.href,target:t.target},{default:p(()=>[f(r.$slots,"default")]),_:3},8,["href","target"])}}};export{l as default};
