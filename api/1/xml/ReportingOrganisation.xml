@@ -2966,7 +2966,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lepra</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-51018586</code>
             <name>
                 <narrative>Zimmerman Zimmerman</narrative>
@@ -20265,6 +20265,16 @@
             <codeforiati:registry-identifier>t2p</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-47062</code>
+            <name>
+                <narrative>International Institute of Tropical Agriculture (IITA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iita_2022</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>JO-COA-0301-57112</code>
             <name>
                 <narrative>Inter Islamic Network for Water Resources Development and Management</narrative>
@@ -21615,6 +21625,16 @@
             <codeforiati:registry-identifier>via</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-05380206</code>
+            <name>
+                <narrative>Joint Nature Conservation Committee</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>jncc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-02525806</code>
             <name>
                 <narrative>Air Charter Service Group Ltd</narrative>
@@ -22305,6 +22325,16 @@
             <codeforiati:registry-identifier>sci2025</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-CIP-2007-012585-08</code>
+            <name>
+                <narrative>Reach Digital Health NPC</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rdh</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-53-0196603</code>
             <name>
                 <narrative>Georgetown University</narrative>
@@ -22425,6 +22455,16 @@
             <codeforiati:registry-identifier>dwb_africa</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-DUNS-499432771</code>
+            <name>
+                <narrative>Navrongo Health Research Centre</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nhrc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-SAM-VJ8RGVMEPAT7</code>
             <name>
                 <narrative>New Digital Trade Coalition Inc.</narrative>
@@ -22505,6 +22545,16 @@
             <codeforiati:registry-identifier>tjn</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-CIP-2022-449689-08</code>
+            <name>
+                <narrative>Energy Council of South Africa</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>energycouncilsa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FR-INSEE-93282389100019</code>
             <name>
                 <narrative>piermarc</narrative>
@@ -22533,6 +22583,36 @@
             <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>clim-eat</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SL-NRA-1136607-8</code>
+            <name>
+                <narrative>Institute of Gender and Children's Health Research</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sierra Leone</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>igchr_sierraleone</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SL-OARG-2420280</code>
+            <name>
+                <narrative>Centre of Dialogue on Human Settlement and Poverty Alleviation (CODOHSAPA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sierra Leone</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>codohsapa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-08195029</code>
+            <name>
+                <narrative>Environmental Finance Limited, trading as Finance Earth</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>finance_earth</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>US-EIN-52-1780162</code>

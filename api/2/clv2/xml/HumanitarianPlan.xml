@@ -263,6 +263,14 @@
             <name>Sudan Humanitarian Needs and Response Plan 2025</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>FSYR25a</code>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2025</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2025-07-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
+            <name>Syrian Arab Republic Humanitarian Response Priorities As-Sweida Crisis Addendum 2025</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FSYR25</code>
             <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
             <codeforiati:plan-year>2025</codeforiati:plan-year>
