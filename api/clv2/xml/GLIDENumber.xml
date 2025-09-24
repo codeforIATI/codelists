@@ -17,6 +17,86 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2025-000170-CHN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23627</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>CHN</codeforiati:country-code>
+            <codeforiati:date>2025-09-24</codeforiati:date>
+            <codeforiati:glide-serial>2025-000170</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>China, People's Republic</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2025-000170-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23626</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2025-09-21</codeforiati:date>
+            <codeforiati:glide-serial>2025-000170</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2025-000170-TWN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23628</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>TWN</codeforiati:country-code>
+            <codeforiati:date>2025-09-24</codeforiati:date>
+            <codeforiati:glide-serial>2025-000170</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Taiwan (China)</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2025-000170-VNM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23624</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:date>2025-09-23</codeforiati:date>
+            <codeforiati:glide-serial>2025-000170</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Viet Nam</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2025-000169-SLE</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23623</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>SLE</codeforiati:country-code>
+            <codeforiati:date>2025-08-31</codeforiati:date>
+            <codeforiati:glide-serial>2025-000169</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Sierra Leone</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2025-000168-SSD</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23622</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>SSD</codeforiati:country-code>
+            <codeforiati:date>2025-07-15</codeforiati:date>
+            <codeforiati:glide-serial>2025-000168</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>South Sudan</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2025-000167-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23621</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2025-09-18</codeforiati:date>
+            <codeforiati:glide-serial>2025-000167</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2025-000166-RUS</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23620</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:country-code>RUS</codeforiati:country-code>
+            <codeforiati:date>2025-09-18</codeforiati:date>
+            <codeforiati:glide-serial>2025-000166</codeforiati:glide-serial>
+            <codeforiati:event>Earthquake</codeforiati:event>
+            <codeforiati:country>Russia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>LS-2025-000165-MYS</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23619</url>
             <codeforiati:event-code>LS</codeforiati:event-code>
@@ -1725,6 +1805,16 @@
             <codeforiati:glide-serial>2025-000001</codeforiati:glide-serial>
             <codeforiati:event>Earthquake</codeforiati:event>
             <codeforiati:country>Ethiopia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2024-000235-BEN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23625</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:country-code>BEN</codeforiati:country-code>
+            <codeforiati:date>2024-06-26</codeforiati:date>
+            <codeforiati:glide-serial>2024-000235</codeforiati:glide-serial>
+            <codeforiati:event>Flood</codeforiati:event>
+            <codeforiati:country>Benin</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
             <code>DR-2024-000234-PNG</code>

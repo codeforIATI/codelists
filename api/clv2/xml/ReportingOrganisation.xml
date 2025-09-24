@@ -18833,6 +18833,14 @@
             <name>American University of Beirut</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-CLAD</code>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Venezuela (Bolivarian Republic of)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>clad</codeforiati:registry-identifier>
+            <name>Centro Latinoamericano de Administraci&#243;n para el Desarrollo</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1180966</code>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>

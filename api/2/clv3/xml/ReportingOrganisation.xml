@@ -22525,6 +22525,16 @@
             <codeforiati:registry-identifier>auob</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-CLAD</code>
+            <name>
+                <narrative>Centro Latinoamericano de Administración para el Desarrollo</narrative>
+            </name>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Venezuela (Bolivarian Republic of)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>clad</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1180966</code>
             <name>
                 <narrative>Myanmar Trust UK</narrative>

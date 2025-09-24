@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2025-09-18T22:15:24.054891+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2025-09-24T07:28:42.333040+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -9217,6 +9217,11 @@
   <ReportingOrganisation>
     <code>XI-ROR-04pznsd21</code>
     <name>American University of Beirut</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>XI-IATI-CLAD</code>
+    <name>Centro Latinoamericano de Administraci&#243;n para el Desarrollo</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
