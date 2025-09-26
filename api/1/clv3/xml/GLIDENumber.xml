@@ -27,6 +27,104 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2025-000177-YEM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23635</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>YEM</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Yemen</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-09-16</codeforiati:date>
+            <codeforiati:glide-serial>2025-000177</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2025-000176-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23634</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Tropical Cyclone</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Philippines</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-09-25</codeforiati:date>
+            <codeforiati:glide-serial>2025-000176</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2025-000175-VEN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23633</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>VEN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Venezuela</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-09-25</codeforiati:date>
+            <codeforiati:glide-serial>2025-000175</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2025-000174-HTI</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23632</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>HTI</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Haiti</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-09-16</codeforiati:date>
+            <codeforiati:glide-serial>2025-000174</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2025-000173-VEN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23631</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>VEN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Venezuela</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-09-24</codeforiati:date>
+            <codeforiati:glide-serial>2025-000173</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DR-2025-000172-SOM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23630</url>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Drought</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>SOM</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Somalia</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-09-24</codeforiati:date>
+            <codeforiati:glide-serial>2025-000172</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2025-000171-IND</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23629</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>India</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-08-16</codeforiati:date>
+            <codeforiati:glide-serial>2025-000171</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2025-000170-CHN</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23627</url>
             <codeforiati:event-code>TC</codeforiati:event-code>
