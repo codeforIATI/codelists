@@ -18065,6 +18065,14 @@
             <name>Southeast Asia Freedom of Expression Network (SAFEnet)</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>IT-CF-97050280581</code>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Italy</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cispngo</codeforiati:registry-identifier>
+            <name>Comitato Internazionale per lo Sviluppo dei Popoli</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NG-CAC-6896199</code>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -18919,6 +18927,38 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ef-2025</codeforiati:registry-identifier>
             <name>Eurasia Foundation</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-35-2725269</code>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sfa_foundation</codeforiati:registry-identifier>
+            <name>Science for Africa Foundation</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG-NGO-INDP51781129NB</code>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rac-001</codeforiati:registry-identifier>
+            <name>RWENZORI ANTI CORRUP0TION COALITION</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UA-EDR-42661077</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>imtd_int_11</codeforiati:registry-identifier>
+            <name>Consumer society IMTD-INTERNATIONAL</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-00559784</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pirbright_institute</codeforiati:registry-identifier>
+            <name>The Pirbright Institute</name>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
