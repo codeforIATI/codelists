@@ -27,6 +27,76 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>FL-2025-000193-MEX</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23651</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>MEX</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Mexico</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-08-06</codeforiati:date>
+            <codeforiati:glide-serial>2025-000193</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2025-000192-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23650</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Philippines</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-12</codeforiati:date>
+            <codeforiati:glide-serial>2025-000192</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2025-000191-ETH</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23649</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>ETH</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Ethiopia</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-11</codeforiati:date>
+            <codeforiati:glide-serial>2025-000191</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2025-000190-EGY</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23648</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>EGY</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Egypt</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-10</codeforiati:date>
+            <codeforiati:glide-serial>2025-000190</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2025-000189-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23647</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Philippines</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-10</codeforiati:date>
+            <codeforiati:glide-serial>2025-000189</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EQ-2025-000188-CHN</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23646</url>
             <codeforiati:event-code>EQ</codeforiati:event-code>

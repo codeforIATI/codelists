@@ -18960,6 +18960,14 @@
             <codeforiati:registry-identifier>pirbright_institute</codeforiati:registry-identifier>
             <name>The Pirbright Institute</name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802002-3209</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>smc</codeforiati:registry-identifier>
+            <name>SMC-Faith in Development</name>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
