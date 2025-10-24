@@ -49,7 +49,7 @@ BD-COA,BD,https://gov-id-finder.codeforiati.org/countries/BD/,active,True
 BD-NAB,BD,http://www.ngoab.gov.bd,active,True
 BD-NBR,BD,https://nbr.gov.bd/,active,True
 BD-ROC,BD,https://roc.gov.bd/,active,True
-BE-BCE_KBO,BE,http://economie.fgov.be/fr/entreprises/BCE,active,False
+BE-BCE_KBO,BE,http://economie.fgov.be/fr/entreprises/BCE,active,True
 BE-COA,BE,https://gov-id-finder.codeforiati.org/countries/BE/,active,False
 BE-GTCF,BE,http://www.juridat.be/tribunal_commerce/bruxelles/index.htm,withdrawn,False
 BF-COA,BF,https://gov-id-finder.codeforiati.org/countries/BF/,active,True
@@ -68,7 +68,7 @@ BO-CINS,BO,https://www.sicoes.gob.bo/portal/clasificadores/institucional.php,act
 BO-COA,BO,https://gov-id-finder.codeforiati.org/countries/BO/,active,True
 BO-NIT,BO,,active,False
 BQ-COA,BQ,https://gov-id-finder.codeforiati.org/countries/BQ/,active,False
-BR-CNPJ,BR,http://cnpj.info/,active,True
+BR-CNPJ,BR,https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas,active,True
 BR-COA,BR,https://gov-id-finder.codeforiati.org/countries/BR/,active,False
 BS-COA,BS,https://gov-id-finder.codeforiati.org/countries/BS/,active,False
 BT-COA,BT,https://gov-id-finder.codeforiati.org/countries/BT/,active,True
@@ -88,7 +88,7 @@ CA_BC-BRC_CBR,CA,http://www.bcregistryservices.gov.bc.ca/bcreg/corppg/index.page
 CA_MB-MTB,CA,https://direct.gov.mb.ca/mbohtml/html/internet/en/mb_online.html,active,False
 CA_NB-NWB_NOB,CA,https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp,active,False
 CA_NL-NFL_TNL,CA,http://www.servicenl.gov.nl.ca/registries/companies.html,active,False
-CA_NS-NVS_NVE,CA,http://novascotia.ca/sns/access/business/registry-joint-stock-companies.asp,active,False
+CA_NS-NVS_NVE,CA,http://novascotia.ca/sns/access/business/registry-joint-stock-companies.asp,active,True
 CA_NT-NWT_TNO,CA,https://www.justice.gov.nt.ca/en/divisions/legal-registries-division/corporate-registries/,active,False
 CA_NU-NNV,CA,http://nunavutlegalregistries.ca/cr_index_en.shtml,active,False
 CA_ON-ONT,CA,https://www.ontario.ca/page/business-and-economy,active,False
@@ -128,10 +128,10 @@ CX-COA,CX,https://gov-id-finder.codeforiati.org/countries/CX/,active,False
 CY-COA,CY,https://gov-id-finder.codeforiati.org/countries/CY/,active,False
 CY-DRCOR,CY,https://efiling.drcor.mcit.gov.cy/DrcorPublic/Default.aspx?cultureInfo=en-AU,active,True
 CZ-COA,CZ,https://gov-id-finder.codeforiati.org/countries/CZ/,active,False
-CZ-DIC,CZ,http://www.kurzy.cz/dic/,active,True
+CZ-DIC,CZ,https://mfcr.cz/en/regulation-and-taxes/taxes,active,True
 CZ-ICO,CZ,http://wwwinfo.mfcr.cz/ares/ares_es.html.en,active,False
 DE-COA,DE,https://gov-id-finder.codeforiati.org/countries/DE/,active,False
-DE-CR,DE,https://www.handelsregister.de/rp_web/welcome.do,active,True
+DE-CR,DE,https://www.handelsregister.de/rp_web/welcome.xhtml,active,True
 DJ-COA,DJ,https://gov-id-finder.codeforiati.org/countries/DJ/,active,False
 DK-COA,DK,https://gov-id-finder.codeforiati.org/countries/DK/,active,False
 DK-CVR,DK,https://datacvr.virk.dk/data/,active,False
@@ -154,7 +154,7 @@ ES-MDJ,ES,https://www.mjusticia.gob.es/ca/ciudadania/registros,active,True
 ES-NIF,ES,http://www.agenciatributaria.es/AEAT.internet/en_gb/Inicio/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Empresas_y_profesionales__Declaracion_censal__Modelos_036_y_037/Informacion/NIF_de_personas_juridicas_y_entidades.shtml,active,False
 ES-RMC,ES,http://www.rmc.es/Home.aspx,active,True
 ET-COA,ET,https://gov-id-finder.codeforiati.org/countries/ET/,active,True
-ET-CSA,ET,http://www.chsa.gov.et/,active,False
+ET-CSA,ET,https://acso.gov.et/,active,False
 ET-MFA,ET,http://www.mfa.gov.et/,active,False
 ET-MOT,ET,http://www.mot.gov.et,active,False
 FI-COA,FI,https://gov-id-finder.codeforiati.org/countries/FI/,active,False
@@ -166,7 +166,7 @@ FM-COA,FM,https://gov-id-finder.codeforiati.org/countries/FM/,active,False
 FO-COA,FO,https://gov-id-finder.codeforiati.org/countries/FO/,active,False
 FR-COA,FR,https://gov-id-finder.codeforiati.org/countries/FR/,active,False
 FR-INSEE,FR,http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm,withdrawn,False
-FR-RCS,FR,http://www.infogreffe.fr,active,False
+FR-RCS,FR,http://www.infogreffe.fr,active,True
 GA-COA,GA,https://gov-id-finder.codeforiati.org/countries/GA/,active,False
 GB-CASC,GB,https://github.com/ThreeSixtyGiving/cascs/blob/master/readme.md,active,True
 GB-CHC,GB,https://www.gov.uk/government/organisations/charity-commission,active,True
@@ -372,7 +372,7 @@ NL-OWMS,NL,http://standaarden.overheid.nl/owms/4.0/doc/waardelijsten,active,Fals
 NO-BRC,NO,http://www.brreg.no/,active,False
 NO-COA,NO,https://gov-id-finder.codeforiati.org/countries/NO/,active,False
 NP-COA,NP,https://gov-id-finder.codeforiati.org/countries/NP/,active,True
-NP-CRO,NP,http://www.cro.gov.np/,active,False
+NP-CRO,NP,https://www.ocr.gov.np/,active,True
 NP-IRD,NP,https://ird.gov.np/,active,True
 NP-SWC,NP,http://www.swc.org.np/,active,False
 NR-COA,NR,https://gov-id-finder.codeforiati.org/countries/NR/,active,True
@@ -386,6 +386,7 @@ PE-RUC,PE,https://www.sunat.gob.pe/,active,True
 PE-SUNARP,PE,https://www.sunarp.gob.pe/dn-personas-juridicas.asp,active,True
 PF-COA,PF,https://gov-id-finder.codeforiati.org/countries/PF/,active,False
 PG-COA,PG,https://gov-id-finder.codeforiati.org/countries/PG/,active,True
+PG-IPA,PG,http://www.ipa.gov.pg/,active,True
 PH-COA,PH,https://gov-id-finder.codeforiati.org/countries/PH/,active,True
 PH-SEC,PH,http://www.sec.gov.ph/,active,True
 PK-COA,PK,https://gov-id-finder.codeforiati.org/countries/PK/,active,False
@@ -421,8 +422,9 @@ RU-INN,RU,https://russianpartner.biz/,active,True
 RU-OGRN,RU,https://www.egrul.ru/,active,True
 RW-COA,RW,https://gov-id-finder.codeforiati.org/countries/RW/,active,True
 RW-RGB,RW,http://rgb.rw/,active,False
-RW-RRA,RW,https://www.rra.gov.rw/index.php?id=45&L=1%27A%3D0,active,False
+RW-RRA,RW,https://www.rra.gov.rw/en/home,active,False
 SA-COA,SA,https://gov-id-finder.codeforiati.org/countries/SA/,active,False
+SB-BR,SB,https://www.solomonbusinessregistry.gov.sb/,active,True
 SB-COA,SB,https://gov-id-finder.codeforiati.org/countries/SB/,active,True
 SC-COA,SC,https://gov-id-finder.codeforiati.org/countries/SC/,active,False
 SD-COA,SD,https://gov-id-finder.codeforiati.org/countries/SD/,active,False
@@ -455,7 +457,7 @@ SS-COA,SS,https://gov-id-finder.codeforiati.org/countries/SS/,active,False
 SS-RRC,SS,,active,False
 ST-COA,ST,https://gov-id-finder.codeforiati.org/countries/ST/,active,False
 SV-COA,SV,https://gov-id-finder.codeforiati.org/countries/SV/,active,False
-SV-NIT,SV,https://www.transparencia.gob.sv/institutions/dgii/services/7180,active,False
+SV-NIT,SV,https://www.mh.gob.sv/,active,False
 SX-COA,SX,https://gov-id-finder.codeforiati.org/countries/SX/,active,False
 SY-COA,SY,https://gov-id-finder.codeforiati.org/countries/SY/,active,False
 SZ-CIT,SZ,https://www.gov.sz/index.php/ministries-departments/minnistry-of-commerce,active,True
@@ -477,6 +479,7 @@ TO-COA,TO,https://gov-id-finder.codeforiati.org/countries/TO/,active,False
 TR-COA,TR,https://gov-id-finder.codeforiati.org/countries/TR/,active,False
 TR-MERSIS,TR,https://mersis.gtb.gov.tr/,active,True
 TR-MOI,TR,https://www.dernekler.gov.tr/,active,False
+TR-VKN,TR,https://www.gib.gov.tr/,active,False
 TT-COA,TT,https://gov-id-finder.codeforiati.org/countries/TT/,active,False
 TV-COA,TV,https://gov-id-finder.codeforiati.org/countries/TV/,active,False
 TW-COA,TW,https://gov-id-finder.codeforiati.org/countries/TW/,active,False
@@ -490,7 +493,7 @@ UG-204CBO,UG,https://www.ngobureau.go.ug/en/services/community-based-organisatio
 UG-COA,UG,https://gov-id-finder.codeforiati.org/countries/UG/,active,True
 UG-NGB,UG,http://www.mia.go.ug/?page_id=62,withdrawn,False
 UG-NGO,UG,https://ngobureau.go.ug/,active,True
-UG-RSB,UG,http://www.ursb.go.ug/,active,False
+UG-RSB,UG,https://ursb.go.ug/,active,True
 UM-COA,UM,https://gov-id-finder.codeforiati.org/countries/UM/,active,False
 US-COA,US,https://gov-id-finder.codeforiati.org/countries/US/,active,False
 US-DOS,US,http://www.companieshouse.gov.uk/links/usaLink.shtml,withdrawn,False
@@ -507,6 +510,7 @@ VG-COA,VG,https://gov-id-finder.codeforiati.org/countries/VG/,active,False
 VI-COA,VI,https://gov-id-finder.codeforiati.org/countries/VI/,active,False
 VN-COA,VN,https://gov-id-finder.codeforiati.org/countries/VN/,active,False
 VN-MOST,VN,https://www.most.gov.vn/en/Pages/home.aspx,active,False
+VN-TIN,VN,https://vbpl.vn/TW/Pages/vbpqen-toanvan.aspx?ItemID=5946,active,False
 VU-COA,VU,https://gov-id-finder.codeforiati.org/countries/VU/,active,False
 WF-COA,WF,https://gov-id-finder.codeforiati.org/countries/WF/,active,False
 WS-COA,WS,https://gov-id-finder.codeforiati.org/countries/WS/,active,False
@@ -514,7 +518,7 @@ XE-EXAMPLE,,,active,False
 XI-BRIDGE,,https://bridge-registry.org/,withdrawn,True
 XI-DUNS,XI,https://www.dnb.com/duns-number.html,active,True
 XI-EORI,XI,http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp,active,False
-XI-GRID,,https://www.grid.ac/,active,False
+XI-GRID,XI,https://www.grid.ac/,withdrawn,True
 XI-IATI,,http://iatistandard.org/codelists/IATIOrganisationIdentifier/,active,False
 XI-LEI,XI,https://www.gleif.org/en/lei-data/global-lei-index,active,True
 XI-PB,BR;CH;GR;US;DE;GB;NZ,http://publicbodies.org/,active,False
@@ -522,7 +526,7 @@ XI-PID,XI,https://permid.org,active,False
 XI-ROR,XI,https://ror.org/,active,True
 XI-WIKIDATA,XI,https://www.wikidata.org/,active,True
 XK-COA,XK,https://gov-id-finder.codeforiati.org/countries/XK/,active,False
-XM-DAC,,http://www.oecd.org/dac/stats/dacandcrscodelists.htm,active,True
+XM-DAC,,https://development-finance-codelists.oecd.org/CodesList.aspx,active,True
 XM-OCHA,,http://www.unocha.org,active,True
 XR-EUCB,XI,https://publications.europa.eu/en/web/eu-vocabularies/at-dataset/-/resource/dataset/corporate-body?target=About,active,True
 XR-NUTS,HR;PT;AT;SK;NL;MT;ES;LT;GR;IE;EE;CY;CZ;FI;DE;LV;GB;SI;BG;SE;FR;HU;PL;LU;BE;IT;RO,http://ec.europa.eu/eurostat/web/nuts/local-administrative-units,active,False
@@ -531,7 +535,7 @@ YE-CR,YE,https://moit-ye.com/,active,True
 YE-MOPIC,YE,https://mopic-yemen.org/,active,False
 YE-MSAL,YE,http://www.yemen.gov.ye/portal/mosal/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/tabid/2201/Default.aspx,active,False
 YT-COA,YT,https://gov-id-finder.codeforiati.org/countries/YT/,active,False
-ZA-CIP,ZA,http://www.cipro.gov.za/,active,False
+ZA-CIP,ZA,https://www.cipc.co.za/,active,False
 ZA-CIT,ZA,https://www.sars.gov.za/,active,False
 ZA-COA,ZA,https://gov-id-finder.codeforiati.org/countries/ZA/,active,True
 ZA-NPO,ZA,http://www.npo.gov.za/,active,False

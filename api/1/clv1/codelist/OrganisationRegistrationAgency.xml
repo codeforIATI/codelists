@@ -1,4 +1,4 @@
-<codelist name="OrganisationRegistrationAgency" date-last-modified="2025-10-24T07:21:36.471518+00:00" version="" xml:lang="en">
+<codelist name="OrganisationRegistrationAgency" date-last-modified="2025-10-24T12:24:29.437627+00:00" version="" xml:lang="en">
   <OrganisationRegistrationAgency>
     <code>AD-COA</code>
     <name>Andorra Chart of Accounts</name>
@@ -548,7 +548,7 @@ RJSC registers various organizations and ensures that they operate according to 
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>BE-BCE_KBO</code>
-    <name>Crossroads Bank for Enterprises </name>
+    <name>Crossroads Bank for Enterprises (Belgium)</name>
     <language>en</language>
     <description>The Crossroads Bank for Enterprises (BCE, ECB, CBE) is the registration office for companies in Belgium. The ECB compiles a list of business identification numbers, maintains the database and provides the list in an available format.
 
@@ -561,14 +561,14 @@ RJSC registers various organizations and ensures that they operate according to 
 a) carries on an economic and professional activity in Belgium, as usual, the main or supplementary basis; 
 b) or must register in fulfillment of an obligation imposed by legislation Belgium other than that covered by this Act;
 5. associations without legal personality must be registered pursuant to an obligation imposed by Belgian legislation other than that covered by this Act;
-6. the establishment of units of the above mentioned companies." [3]
+6. the establishment of units of the above mentioned companies." [1]
 
-"The Crossroads Bank for Enterprises (BCE) is a register of the Ministry of Economy which includes all the companies basic identification data and their business units. The ECB's management department is responsible for recording, backup, manage and make available data from the ECB. The ECB is one of the authority for initiatives, application of the principle of single data collection, to simplify administrative procedures for businesses and improve the efficiency of public services." [1]
+"The Crossroads Bank for Enterprises (CBE) is a database owned by the FPS Economy containing all the basic data concerning companies and their business units. The purpose of the CBE is twofold: 1) increasing the efficiency of public services; and 2) simplifying administrative procedures for companies." [2]
 
-"It centralises the basic identification data of enterprises and establishment units and communicate them to the various authorities. The ECB gives each company and business unit a unique identification number that allows the authorities to exchange information about them." [2]
+"The CBE centralises the basic data of companies and business unit and disseminates it to several competent authorities. The CBE assigns a unique identification number to each company and business unit. This identification number allows authorities to exchange information." [3]
 
-[1][2] http://economie.fgov.be/fr/entreprises/BCE/#.WC9BdqIrL8o
-[3] http://economie.fgov.be/fr/entreprises/BCE/inscription/#.WC9BAqIrL8o</description>
+[1] https://economie.fgov.be/en/themes/enterprises/crossroads-bank-enterprises/registration-crossroads-bank 
+[2][3] https://economie.fgov.be/en/themes/enterprises/crossroads-bank-enterprises</description>
     <category>BE</category>
     <category-name>Belgium</category-name>
   </OrganisationRegistrationAgency>
@@ -811,10 +811,12 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>BR-CNPJ</code>
-    <name>National Registry of Legal Entities</name>
+    <name>National Registry of Legal Entities (Brazil)</name>
     <language>en</language>
     <description>The CNPJ is the national registry that administers identification numbers issued by the Minist&#233;rio da Fazenda, for all non-personal legal entities in Brazil.
+
 Organizations register exclusively on the Federal Revenue website. After filling in the necessary data online, relevant documents are sent by mail or presented in person.
+
 The CNPJ Registration Number is a fourteen digit number that must be included on all receipts and invoices. Tax authorities assign an eight-digit company registration number that makes up the first part of the CNPJ. The following four digits refer to the business place or branch. Company headquarters are usually assigned the number 0001 for this section of the identification number, with other branches receiving different numbers. The final two numbers are check digits.</description>
     <category>BR</category>
     <category-name>Brazil</category-name>
@@ -1049,7 +1051,9 @@ Not all non-profit organisations must register to become a charity. Detailed inf
     <code>CA_NS-NVS_NVE</code>
     <name>Nova Scotia Registry of Joint Stock Companies </name>
     <language>en</language>
-    <description>This entry was imported from the Open Corporates Jurisdiction List.</description>
+    <description>Find business or non-profit information on file for the province of Nova Scotia with the Registry of Joint Stock Companies. This includes official names, addresses, registration dates, names and addresses of recognized agents, and names of partners, directors and officers.
+
+This list entry was originally imported from the Open Corporates Jurisdiction List.</description>
     <category>CA</category>
     <category-name>Canada</category-name>
   </OrganisationRegistrationAgency>
@@ -1496,11 +1500,11 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>CZ-DIC</code>
-    <name>Tax ID (DI&#268;) Czech Republic</name>
+    <name>Tax ID (DI&#268;) - Ministry of Finance of the Czech Republic</name>
     <language>en</language>
-    <description>A VAT registration number (DI&#268;) is a unique and unambiguous identification of each tax entity, a legal or natural person who is a taxpayer (taxpayer). The tax identification number is assigned only after the entity, natural or legal person, obtains its I&#268;O - its unique identification number. Note that the list [CZ-ICO](/list/CZ-ICO) might therefore provide a better set of identifiers for legal entities.
+    <description>A VAT registration number (DI&#268;) is a unique and unambiguous identification of each entity or individual that is a taxpayer. The tax identification number is assigned only after the entity, natural, or legal person obtains its I&#268;O (unique identification number). Note that the list CZ-ICO (https://org-id.guide/list/CZ-ICO) might therefore provide a better set of identifiers for legal entities.
 
-You can search by VAT (DI&#268;) number for a of the VAT payer registered in the Czech Republic. You can also use your company ID or company name or your business name and surname if you want to verify your VAT payer details.</description>
+You can search by VAT (DI&#268;) number of the VAT payer registered in the Czech Republic. You can also use your company ID, company name or your business name and surname if you want to verify your VAT payer details.</description>
     <category>CZ</category>
     <category-name>Czechia</category-name>
   </OrganisationRegistrationAgency>
@@ -1545,7 +1549,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 
 The Common Register Portal of the German Federal States allows a search across all the court records. 
 
-To distinguish between the identifiers from different courts, the individual 'Registration Agency' identifier from each court, from the Global Legal Entity Identifier Foundation's [Registration Authorities list](https://www.gleif.org/en/about-lei/code-lists/gleif-registration-authorities-list) should be used, giving identifiers of the form:
+To distinguish between the identifiers from different courts, the individual 'Registration Agency' identifier from each court, from the Global Legal Entity Identifier Foundation's Registration Authorities list (https://www.gleif.org/en/about-lei/code-lists/gleif-registration-authorities-list) should be used, giving identifiers of the form:
 
 &gt; DE-CR-[COURT IDENTIFIER]-[COMPANY IDENTIFIER]
 
@@ -1986,9 +1990,11 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>ET-CSA</code>
-    <name>Charities and Societies Agency (Ethiopia)</name>
+    <name>Authority for Civil Society Organizations (ACSO) - Ethiopia</name>
     <language>en</language>
-    <description>Most Charities and Societies which operate in Ethiopia are required to register with the Charities and Societies Agency, an institution of the Federal Government, which issues certificates of legal personality to those registered.</description>
+    <description>The Authority for Civil Society Organizations, previously known as the Charities and Societies Agency (CSA), is a governmental body in Ethiopia responsible for registering, supporting, and monitoring civil society organizations (CSOs).
+
+Most charities and societies that operate in Ethiopia are required to register.</description>
     <category>ET</category>
     <category-name>Ethiopia</category-name>
   </OrganisationRegistrationAgency>
@@ -2181,17 +2187,13 @@ Information concerning companies entered on the Trade and Companies Register wit
 Information concerning companies not entered on the Trade and Companies Register is taken from data on the SIRENE listing held by INSEE." [5]
 
 "WHAT DOCUMENTS ARE AVAILABLE ON THE INFOGREFFE WEBSITE?
-Infogreffe makes the following information available to the general public:
+Infogreffe makes the following information available to the general public.
 
-Free information
+Free information:
 &#8226;    Company search and information form
 &#8226;    Key figures concerning a company
 &#8226;    Implementing tracking (free alert, paid consultation).
-&#8226;    Lists of articles of association and company deeds available.
-&#8226;    Your formalities with online help to be incorporated on the Trade and Companies Register.
-
-Paid information
-View, download, order" [6]
+&#8226;    Lists of articles of association and company deeds available. [6]
 
 [1] http://www.startbusinessinfrance.com/blog/post/tip-what-is-a-siren-or-siret-number
 [2] https://en.wikipedia.org/wiki/SIRET_code
@@ -3241,7 +3243,7 @@ The Registrar of Company takes care of company registration (also known as incor
     <language>en</language>
     <description>The Foreign Contributions (Regulation) Act required NGOs in receipt of foreign funding in India to register with the government. They are assigned an FRCA Registration Number.
 
-</description>
+Lists of registered organisations can be found online by state and year: https://fcraonline.nic.in/fc8_statewise.aspx</description>
     <category>IN</category>
     <category-name>India</category-name>
   </OrganisationRegistrationAgency>
@@ -4613,7 +4615,9 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <code>NA-NAMRA</code>
     <name>Namibia Revenue Agency </name>
     <language>en</language>
-    <description>The Namibia Revenue Agency maintains the details of all businesses, non-profits and individuals who are required to submit income tax returns. All legal entities must be registered with the Revenue Agency upon incorporation. Information regarding an entity can be requested from the Revenue Agency by the registered representative of the entity, accountants or auditors.
+    <description>The Namibia Revenue Agency maintains the details of all businesses, non-profits and individuals who are required to submit income tax returns. 
+
+All legal entities must be registered with the Revenue Agency upon incorporation. Information regarding an entity can be requested from the Revenue Agency by the registered representative of the entity, accountants or auditors.
 </description>
     <category>NA</category>
     <category-name>Namibia</category-name>
@@ -4836,7 +4840,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>NP-CRO</code>
-    <name>Company Registrar Office</name>
+    <name>Nepal Company Registrar Office</name>
     <language>en</language>
     <description>All companies operating in Nepal must register with the Office of the Company Registrar Office. This database is available for search on the Office homepage.
 
@@ -4854,13 +4858,14 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 
 This register covers individuals as well as legal entities. Org-id does not recommend using the PAN of an individual person as a unique identifier.
 
-The PAN is described as follows[1]:
+The PAN is described as follows [1]:
 
-PAN is a unique identification number, which is issued to all the taxpayers and Tax Deducted at Source (TDS) withholding agents throughout the kingdom. PAN identifies each taxpayer or TDS withholding agent uniquely countrywide.
-PAN is necessary to process taxpayers or TDS withholding agents using computer systems.
-PAN is allotted only once in the lifetime of a taxpayer or TDS withholding agent. It never changes.
+- A unique identification number, which is issued to all the taxpayers and Tax Deducted at Source (TDS) withholding agents throughout the kingdom. 
+- It identifies each taxpayer or TDS withholding agent uniquely countrywide.
+- It is necessary to process taxpayers or TDS withholding agents using computer systems.
+- It is allotted only once in the lifetime of a taxpayer or TDS withholding agent. It never changes.
 
-[1] https://ird.gov.np/Content/ContentAttachment/1020/IndividualRegistration(English)1172014102329AM.pdf</description>
+[1] https://nepaltradeportal.gov.np/resources/docs/IndividualRegistration(English)1172014102329AM.pdf</description>
     <category>NP</category>
     <category-name>Nepal</category-name>
   </OrganisationRegistrationAgency>
@@ -5012,6 +5017,23 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+    <category>PG</category>
+    <category-name>Papua New Guinea</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>PG-IPA</code>
+    <name>Investment Promotion Authority - Papua New Guinea</name>
+    <language>en</language>
+    <description>The Papua New Guinea Investment Promotion Authority (IPA) is a government agency responsible for promoting and facilitating both foreign and domestic investment in the country. It was established by the Investment Promotion Act of 1992.
+
+The IPA houses several key offices, including the Companies Office of PNG, the Securities Commission of PNG, and the Intellectual Property Office of PNG.
+
+The IPA also maintains a registry for various organizations: 
+* Associations 
+* Business groups 
+* Business names 
+* Companies 
+* Foreign enterprises</description>
     <category>PG</category>
     <category-name>Papua New Guinea</category-name>
   </OrganisationRegistrationAgency>
@@ -5475,7 +5497,7 @@ Based on examples from the Official Gazette the final four digits of the identif
 
 "This is a unique number which is issued to a taxpayer by the tax Administration. It is obligatory for every taxpayer to have this unique number. Taxpayers have the obligation to indicate this number on all correspondences they do with RRA. This number has to be indicated on all documents which the taxpayer provides to the tax administration as proof."
 
-A TIN is issued after the person or entity submits the required papers to the Revenue Authority. Note that from Feb 2015, no RRA TIN certificate is issued to newly registered companies. Instead, a TIN is issued at the point of company registration with the Rwanda Development Board (https://org.rdb.rw/busregonline) and the registration certificate contains the TIN. See: https://www.rra.gov.rw/typo3conf/ext/complete/Resources/Public/download/pdf/itangazo_tin_17_feb.pdf</description>
+A TIN is issued after the person or entity submits the required papers to the Revenue Authority. Note that from Feb 2015, no RRA TIN certificate is issued to newly registered companies. Instead, a TIN is issued at the point of company registration with the Rwanda Development Board (https://org.rdb.rw/) and the registration certificate contains the TIN.</description>
     <category>RW</category>
     <category-name>Rwanda</category-name>
   </OrganisationRegistrationAgency>
@@ -5490,6 +5512,16 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 [1] https://gov-id-finder.codeforiati.org/about</description>
     <category>SA</category>
     <category-name>Saudi Arabia</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>SB-BR</code>
+    <name>Solomon Islands Business Registry</name>
+    <language>en</language>
+    <description>The Solomon Islands Business Registry is an electronic register for all companies, business names, and foreign investments within the country. It is managed by the Solomon Islands Government.
+
+The registry provides various online services, allowing users to search for details on companies, their directors, shareholders, and registered business names. It also offers information regarding foreign investment policies, available incentives, and the registration process for foreign investors. The platform facilitates the registration, modification, and removal of companies and business names, with information on associated fees and relevant legislation.</description>
+    <category>SB</category>
+    <category-name>Solomon Islands</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>SB-COA</code>
@@ -5531,11 +5563,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <code>SE-BLV</code>
     <name>Bolagsverket </name>
     <language>en</language>
-    <description>The Swedish Companies Registration Office (Bolagsverket) registers all business operating in Sweden, except for sole traders. This registry is available to search online. All entities are given an organisation number that can be used as an identifer.
-
-"All forms of business enterprise except for sole traders have to be registered with the Swedish Companies Registration Office before starting to operate." [1]
-
-[1] https://www.verksamt.se/en/web/international/starting/get-started-business-registration-and-tax</description>
+    <description>This code was previously used for the Swedish Companies Registration Office's (Bolagsverket) organisation references. It has been deprecated in favour of https://org-id.guide/list/SE-ON and should no longer be used.</description>
     <category>SE</category>
     <category-name>Sweden</category-name>
   </OrganisationRegistrationAgency>
@@ -5555,7 +5583,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <code>SE-KK</code>
     <name>Legal, Financial and Administrative Services Agency (Sweden)</name>
     <language>en</language>
-    <description>A Swedish administrative authority under the Ministry of Finance, which is responsible for the registration of religious communities and organisational units of religious communities. </description>
+    <description>This code was previously used for the Swedish Legal, Financial and Administrative Services Agency's organisation references. It has been deprecated in favour of https://org-id.guide/list/SE-ON and should no longer be used.</description>
     <category>SE</category>
     <category-name>Sweden</category-name>
   </OrganisationRegistrationAgency>
@@ -5895,7 +5923,11 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <code>SV-NIT</code>
     <name>Tax Identification Number (El Salvador)</name>
     <language>en</language>
-    <description>The NIT is required for all organisations, including businesses and NGOs. First step is online pre-registration at https://miempresa.gob.sv/ then in person with the Direcci&#243;n General de Impuestos Internos (DGII) del Ministerio de Hacienda. Structure (all numerical): xxxx-xxxxxx-xxx-x digit (like 0614-241287-102-5). The first section (4 digits) is a municipality code, the second section of 6 digits is the date the organisation was established (or date of birth in case of a natural person). The third 3-digit section is a running number. The last digit is a verification digit.</description>
+    <description>The NIT is required for all organisations, including businesses and NGOs.
+
+The first step is online pre-registration (likely via the portal: https://creaempresa.cnr.gob.sv), then in person with the Direcci&#243;n General de Impuestos Internos (DGII) del Ministerio de Hacienda.
+
+NIT numbers are 14 digits long (all numerical - e.g. 0614-241287-102-5). The first section (4 digits) is a municipality code, the second section of 6 digits is the date the organisation was established (or date of birth in case of a natural person). The third 3-digit section is a running number. The last digit is a verification digit.</description>
     <category>SV</category>
     <category-name>El Salvador</category-name>
   </OrganisationRegistrationAgency>
@@ -6133,6 +6165,14 @@ During registration, they will be given a registration number. </description>
     <category-name>T&#252;rkiye</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>TR-VKN</code>
+    <name>Tax Identification Number (VKN), T&#252;rkiye</name>
+    <language>en</language>
+    <description>The Tax Identification Number (Vergi Kimlik Numaras&#305;, VKN) is issued by the Turkish Revenue Administration (Gelir &#304;daresi Ba&#351;kanl&#305;&#287;&#305;, G&#304;B) under the Ministry of Treasury and Finance. All legal entities, including companies, associations, foundations, and other organisations with legal personality, are required to obtain a VKN. These numbers can therefore be reliably used as identifiers in open data publications. Identifiers are numeric, 10 digits.</description>
+    <category>TR</category>
+    <category-name>T&#252;rkiye</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>TT-COA</code>
     <name>Trinidad and Tobago Chart of Accounts</name>
     <language>en</language>
@@ -6280,9 +6320,11 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <code>UG-NGB</code>
     <name>NGO Board, Ministry of Internal Affairs (Uganda)</name>
     <language>en</language>
-    <description>All NGOs wishing to operate in Uganda must register with the NGO Board of the Ministry of Internal Affairs. 
+    <description>This list is deprecated and should no longer be used. Refer to https://org-id.guide/list/UG-NGO instead. 
 
-"The National NGO Board under the Ministry of Internal Affairs, which is the lead Ministry, is legally mandated to register, regulate, coordinate and monitor NGOs in Uganda."</description>
+ All NGOs wishing to operate in Uganda now register with the Ugandan National Bureau for NGOs (NGO Bureau), which is a semi-autonomous body under the Ministry of Internal Affairs. 
+
+ Previously, this registration was with the National 'NGO Board'.</description>
     <category>UG</category>
     <category-name>Uganda</category-name>
   </OrganisationRegistrationAgency>
@@ -6298,9 +6340,9 @@ It issues certificates of registration to NGOs.</description>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>UG-RSB</code>
-    <name>Registration Services Bureau</name>
+    <name>Uganda Registration Services Bureau (URSB)</name>
     <language>en</language>
-    <description>Businesses and NGOs register with the Registration Services Bureau and receive an identification number. This number can be used as an identifier. A publicly available database can be search on the Bureau website.</description>
+    <description>Businesses and NGOs in Uganda register with the Registration Services Bureau and receive an identification number. This number can be used as an identifier. A publicly available database can be searched on the Bureau website.</description>
     <category>UG</category>
     <category-name>Uganda</category-name>
   </OrganisationRegistrationAgency>
@@ -6494,6 +6536,14 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <category-name>Viet Nam</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>VN-TIN</code>
+    <name>Viet Nam Tax Identification Number (TIN)</name>
+    <language>en</language>
+    <description>The Tax Identification Number (TIN) is issued by the General Department of Taxation under the Ministry of Finance in Viet Nam. All legal entities, including companies, vocational colleges, NGOs, and other organisations with legal personality, are required to obtain a TIN. These numbers can therefore be reliably used as identifiers in open data publications. Identifiers are numeric, typically 10 digits, with 13 digits used for branches or dependent units.</description>
+    <category>VN</category>
+    <category-name>Viet Nam</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>VU-COA</code>
     <name>Vanuatu Chart of Accounts</name>
     <language>en</language>
@@ -6574,15 +6624,13 @@ D-U-N-S Numbers are location-specific so one legal entity may have many associat
     <code>XI-GRID</code>
     <name>Global Research Identifiers Database</name>
     <language>en</language>
-    <description>The Global Research Identifiers Database collects information on research institutions and assigns them a unique identifier.
+    <description>The Global Research Identifiers Database previously assigned unique identifiers to research institutions. It has been deprecated in favour of https://org-id.guide/list/XI-ROR and should no longer be used.
 
-It draws on information from funding datasets, and claims over 90% coverage of institutions. 
+It recorded information on the nature of the research organisation, covering companies, education establishments, healthcare, non-profits, government and other entity types. 
 
-It records information on the nature of the research organisation, covering companies, education establishments, healthcare, non-profits, government and other entity types. 
-
-GRID also records parent-child relationships between entities, and 'related relationships' for cross-linkages. 
-
-It includes cross-linkages to a range of other identifier sources. </description>
+GRID also recorded parent-child relationships between entities, related relationships and cross-linkages to a range of other identifier sources.</description>
+    <category>XI</category>
+    <category-name></category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>XI-IATI</code>
@@ -6693,7 +6741,7 @@ OCHA assigns it's own organisation identifiers to parties involved in funding or
 
 Previously OCHA used identifiers from its Financial Tracking System (FTS) list. It has now changed and uses identifiers from its Humanitarian Programme Cycle (HPC) list. 
 
-Organisations may have different identifiers on the two lists. For example, if an organisation has a legacy code of XM-OCHA-FTS3524 then it does NOT automatically have a new code of XM-OCHA-HPC3524.The deprecated list may be found at http://fts.unocha.org/api/v1/organization.xml although this should only be used for checking historic data and there is no guarantee that it will remain accessible in the future.</description>
+Organisations may have different identifiers on the two lists. For example, if an organisation has a legacy code of XM-OCHA-FTS3524 then it does NOT automatically have a new code of XM-OCHA-HPC3524. The deprecated FTS identifier list is no longer available online.</description>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>XR-EUCB</code>
@@ -6792,14 +6840,14 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <code>ZA-CIP</code>
     <name>Companies and Intellectual Property Commission (CIPC)</name>
     <language>en</language>
-    <description>The Companies and Intellectual Property Commission (CIPC) is responsible for company registration in South Africa. There is a basic free database search, or users can subscribe to the CIPC website.
+    <description>The Companies and Intellectual Property Commission (CIPC) is responsible for company registration in South Africa. Users need to log in to https://bizportal.gov.za/ to perform a business search.
 
-"Functions of the Commission
+"Functions of the Commission:
 
-Registration of Companies, Co-operatives and Intellectual Property Rights (trade marks, patents, designs and copyright) and maintenance thereof
-Disclosure of Information on its business registers" [1] 
+- The CIPC does registration of companies, co-operatives and intellectual property rights (trade marks, patents, designs and copyright) and maintenance thereof.
+- Disclosure of Information on its business registers" [1] 
 
-[1] http://www.cipc.co.za/index.php/about/our-functions/</description>
+[1] https://www.cipc.co.za/?page_id=685</description>
     <category>ZA</category>
     <category-name>South Africa</category-name>
   </OrganisationRegistrationAgency>
