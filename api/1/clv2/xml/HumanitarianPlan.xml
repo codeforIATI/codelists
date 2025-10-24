@@ -3030,7 +3030,7 @@
             <codeforiati:plan-end-date>2017-12-31</codeforiati:plan-end-date>
             <name>Afghanistan Humanitarian Response Plan 2017</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>OBGD17</code>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2017</codeforiati:plan-year>
@@ -3134,7 +3134,7 @@
             <codeforiati:plan-end-date>2017-12-31</codeforiati:plan-end-date>
             <name>Haiti Humanitarian Response Plan 2017</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>O17</code>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2017</codeforiati:plan-year>
@@ -3255,6 +3255,22 @@
             <name>Congo Plan de R&#233;ponse Humanitaire 2017</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RAIAATGBHSBLMKNAMAFSXMTCAVGB17</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2017</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2017-09-15</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2017-12-31</codeforiati:plan-end-date>
+            <name>Hurricane Irma Regional Response Plan for the Caribbean Region 2017</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HBGD17</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2017</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2017-08-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2017-12-31</codeforiati:plan-end-date>
+            <name>Rohingya Humanitarian Crisis Joint Response Plan 2017</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HSSD17</code>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2017</codeforiati:plan-year>
@@ -3326,7 +3342,7 @@
             <codeforiati:plan-end-date>2017-12-31</codeforiati:plan-end-date>
             <name>Yemen Humanitarian Response Plan 2017</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>OEUR16</code>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2016</codeforiati:plan-year>
@@ -3551,6 +3567,22 @@
             <name>Occupied Palestinian Territory Humanitarian Response Plan 2016</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RGRCHRVMKDSRBSVNTUR16</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2016</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2016-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2016-12-31</codeforiati:plan-end-date>
+            <name>Regional Refugee and Migrant Response Plan for Europe 2016</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RBFACMRGMBMLIMRTNERNGASENTCD16</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2016</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2016-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2016-12-31</codeforiati:plan-end-date>
+            <name>Sahel Region Call for Humanitarian Aid 2016</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HSSD16</code>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2016</codeforiati:plan-year>
@@ -3558,7 +3590,7 @@
             <codeforiati:plan-end-date>2016-12-31</codeforiati:plan-end-date>
             <name>South Sudan Humanitarian Response Plan 2016</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HXSHL16</code>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2016</codeforiati:plan-year>
@@ -3807,6 +3839,14 @@
             <name>Occupied Palestinian Territory Strategic Response Plan 2015</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RBFACMRGMBMLIMRTNERNGASENTCD15</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2015</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2015-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2015-12-31</codeforiati:plan-end-date>
+            <name>Sahel Region Call for Humanitarian Aid 2015</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HSSD15</code>
             <codeforiati:plan-type>Strategic response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2015</codeforiati:plan-year>
@@ -3814,7 +3854,7 @@
             <codeforiati:plan-end-date>2015-12-31</codeforiati:plan-end-date>
             <name>South Sudan Strategic Response Plan 2015</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HXSHL15</code>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2015</codeforiati:plan-year>
@@ -4094,6 +4134,14 @@
             <codeforiati:plan-end-date>2014-12-31</codeforiati:plan-end-date>
             <name>R&#233;publique du Congo Plan de R&#233;ponse 2014</name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>RBFACMRGMBMLIMRTNERNGASENTCD14</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2014</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2014-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2014-12-31</codeforiati:plan-end-date>
+            <name>Sahel Region Strategic Response Plan 2014</name>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>HSSD14</code>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
@@ -4102,7 +4150,7 @@
             <codeforiati:plan-end-date>2014-06-30</codeforiati:plan-end-date>
             <name>Republic of South Sudan - Crisis Response Plan 2014</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HXSHL14</code>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2014</codeforiati:plan-year>
@@ -4839,6 +4887,14 @@
             <name>Haiti Humanitarian Appeal (Revised) (January - December 2010)</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>CIRQ10</code>
+            <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
+            <codeforiati:plan-year>2010</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2010-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2010-12-31</codeforiati:plan-end-date>
+            <name>Iraq Humanitarian Action Plan 2010</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>OIRQ10</code>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2010</codeforiati:plan-year>
@@ -4887,6 +4943,14 @@
             <name>Pakistan Floods Relief and Early Recovery Response Plan (Revised) (August 2010 - July 2011)</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>CPAK10</code>
+            <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
+            <codeforiati:plan-year>2010</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2010-02-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2010-12-31</codeforiati:plan-end-date>
+            <name>Pakistan Humanitarian Response Plan (February - December 2010)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>OPAK10</code>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2010</codeforiati:plan-year>
@@ -4919,6 +4983,14 @@
             <name>Somalia 2010</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>CLKA10</code>
+            <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
+            <codeforiati:plan-year>2010</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2010-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2010-12-31</codeforiati:plan-end-date>
+            <name>Sri Lanka Common Humanitarian Action Plan 2010</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>OLKA10</code>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2010</codeforiati:plan-year>
@@ -4943,6 +5015,14 @@
             <name>Uganda 2010</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2010</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2010-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2010-12-31</codeforiati:plan-end-date>
+            <name>West Africa 2010</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXWAF10</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2010</codeforiati:plan-year>
@@ -5031,6 +5111,14 @@
             <name>Indonesia West Sumatra Earthquake Humanitarian Response Plan 2009</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RIRQ09</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2009</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2009-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2009-12-31</codeforiati:plan-end-date>
+            <name>Iraq and the region 2009</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CIRQ09</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2009</codeforiati:plan-year>
@@ -5151,6 +5239,14 @@
             <name>Uganda 2009</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2009</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2009-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2009-12-31</codeforiati:plan-end-date>
+            <name>West Africa 2009</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXWAF09</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2009</codeforiati:plan-year>
@@ -5311,6 +5407,14 @@
             <name>Lao PDR Joint Appeal for Flood Recovery and Rehabilitation 2008</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>OLBR08</code>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2008</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2008-03-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2008-12-31</codeforiati:plan-end-date>
+            <name>Liberia Critical Humanitarian Gaps 2008</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CLBR08</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2008</codeforiati:plan-year>
@@ -5360,7 +5464,7 @@
         </codelist-item>
         <codelist-item status="active">
             <code>FMOZ08</code>
-            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2008</codeforiati:plan-year>
             <codeforiati:plan-start-date>2008-02-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2008-08-08</codeforiati:plan-end-date>
@@ -5415,6 +5519,14 @@
             <name>Uganda 2008</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2008</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2008-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2008-12-31</codeforiati:plan-end-date>
+            <name>West Africa 2008</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXWAF08</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2008</codeforiati:plan-year>
@@ -5528,7 +5640,7 @@
         </codelist-item>
         <codelist-item status="active">
             <code>OIRQ0708</code>
-            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2007</codeforiati:plan-year>
             <codeforiati:plan-start-date>2007-10-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2008-12-31</codeforiati:plan-end-date>
@@ -5647,6 +5759,14 @@
             <name>Somalia 2007</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>CLKA07</code>
+            <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
+            <codeforiati:plan-year>2007</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2007-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2007-06-30</codeforiati:plan-end-date>
+            <name>Sri Lanka Common Humanitarian Action Plan 2007</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>OLKA07</code>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2007</codeforiati:plan-year>
@@ -5703,6 +5823,14 @@
             <name>Uganda Floods Flash Appeal 2007</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2007</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2007-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2007-12-31</codeforiati:plan-end-date>
+            <name>West Africa 2007</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXWAF07</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2007</codeforiati:plan-year>
@@ -5967,6 +6095,14 @@
             <name>Uganda 2006</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RBFAGNBMLIMRTNERSENTGO06</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2006</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2006-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2006-12-31</codeforiati:plan-end-date>
+            <name>West Africa 2006</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXWAF06</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2006</codeforiati:plan-year>
@@ -6079,6 +6215,14 @@
             <name>Eritrea 2005</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R05</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2005</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2005-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2005-06-30</codeforiati:plan-end-date>
+            <name>Indian Ocean Earthquake-Tsunami  2005</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXGLR05</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2005</codeforiati:plan-year>
@@ -6110,7 +6254,7 @@
             <codeforiati:plan-end-date>2005-08-01</codeforiati:plan-end-date>
             <name>Guyana  2005</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>FXINDTSU05</code>
             <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
             <codeforiati:plan-year>2005</codeforiati:plan-year>
@@ -6151,6 +6295,22 @@
             <name>Somalia 2005</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R0506</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2005</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2005-11-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2006-05-31</codeforiati:plan-end-date>
+            <name>West and Central Africa Region Cholera 2005</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OSDN05</code>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2005</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2005-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2005-12-31</codeforiati:plan-end-date>
+            <name>Sudan - Humanitarian &amp; Recovery Components of the 2005 Work Plan</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>FXSASIA0506</code>
             <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
             <codeforiati:plan-year>2005</codeforiati:plan-year>
@@ -6158,7 +6318,7 @@
             <codeforiati:plan-end-date>2006-04-10</codeforiati:plan-end-date>
             <name>South Asia Earthquake 2005</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CSDN05</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2005</codeforiati:plan-year>
@@ -6176,13 +6336,13 @@
         </codelist-item>
         <codelist-item status="active">
             <code>CXWAF05</code>
-            <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2005</codeforiati:plan-year>
             <codeforiati:plan-start-date>2005-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2005-12-31</codeforiati:plan-end-date>
             <name>West Africa 2005</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>FXWAF0506</code>
             <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
             <codeforiati:plan-year>2005</codeforiati:plan-year>
@@ -6263,6 +6423,14 @@
             <name>Chechnya and Neighbouring Republics (RF) 2004</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R04</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2004</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2004-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2004-12-31</codeforiati:plan-end-date>
+            <name>West Africa Sub-Regional 2004</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CCIV04</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2004</codeforiati:plan-year>
@@ -6294,7 +6462,7 @@
             <codeforiati:plan-end-date>2004-12-31</codeforiati:plan-end-date>
             <name>Eritrea 2004</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXGLR04</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2004</codeforiati:plan-year>
@@ -6430,7 +6598,7 @@
             <codeforiati:plan-end-date>2004-12-31</codeforiati:plan-end-date>
             <name>Uganda 2004</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXWAF04</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2004</codeforiati:plan-year>
@@ -6503,6 +6671,22 @@
             <name>Colombia (HAP) 2003</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RCIV03</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2003</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2003-04-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2003-12-31</codeforiati:plan-end-date>
+            <name>Cote d'Ivoire + 5 2003</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RCIV0203</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2003</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2002-11-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2003-01-31</codeforiati:plan-end-date>
+            <name>C&#244;te d'Ivoire and the West Africa Sub-Region 2002-2003 </name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CCIV03</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2003</codeforiati:plan-year>
@@ -6510,7 +6694,7 @@
             <codeforiati:plan-end-date>2003-12-31</codeforiati:plan-end-date>
             <name>Cote d'Ivoire + 5 2003</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>FCIV0203</code>
             <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
             <codeforiati:plan-year>2003</codeforiati:plan-year>
@@ -6543,6 +6727,14 @@
             <name>Eritrea 2003</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R03</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2003</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2003-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2003-12-31</codeforiati:plan-end-date>
+            <name>Great Lakes Region and Central Africa 2003</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXGLR03</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2003</codeforiati:plan-year>
@@ -6591,6 +6783,14 @@
             <name>Humanitarian Crisis in Southern Africa - MOZAMBIQUE (July 2003 - June 2004)</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R0304</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2003</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2003-07-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2004-06-30</codeforiati:plan-end-date>
+            <name>Humanitarian Crisis in Southern Africa - REGION (July 2003 - June 2004)</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXSAF0304</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2003</codeforiati:plan-year>
@@ -6631,6 +6831,14 @@
             <name>Indonesia 2003</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>FIRQ03</code>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2003</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2003-04-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2003-12-31</codeforiati:plan-end-date>
+            <name>Iraq Crisis 2003</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CIRQ03</code>
             <codeforiati:plan-type>Consolidated inter-agency appeal</codeforiati:plan-type>
             <codeforiati:plan-year>2003</codeforiati:plan-year>
@@ -6751,6 +6959,14 @@
             <name>Eritrea 2002</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R02</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2002</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2002-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2002-12-31</codeforiati:plan-end-date>
+            <name>West Africa 2002</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXGLR02</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2002</codeforiati:plan-year>
@@ -6783,6 +6999,14 @@
             <name>Humanitarian Crisis in Southern Africa 2002 - MALAWI</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R0203</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2002</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2002-07-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2003-06-30</codeforiati:plan-end-date>
+            <name>Humanitarian Crisis in Southern Africa 2002 - REGION</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CXSAF0203</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2002</codeforiati:plan-year>
@@ -6886,7 +7110,7 @@
             <codeforiati:plan-end-date>2002-12-31</codeforiati:plan-end-date>
             <name>Somalia 2002</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXSEUR02</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2002</codeforiati:plan-year>
@@ -6918,7 +7142,7 @@
             <codeforiati:plan-end-date>2002-12-31</codeforiati:plan-end-date>
             <name>Uganda 2002</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXWAF02</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2002</codeforiati:plan-year>
@@ -6975,6 +7199,14 @@
             <name>Djibouti Drought 2001</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R01</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2001</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2001-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2001-12-31</codeforiati:plan-end-date>
+            <name>West Africa 2001</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>OXHAF01</code>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2001</codeforiati:plan-year>
@@ -6998,7 +7230,7 @@
             <codeforiati:plan-end-date>2001-12-31</codeforiati:plan-end-date>
             <name>Ethiopia 2001</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXGLR01</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2001</codeforiati:plan-year>
@@ -7054,7 +7286,7 @@
             <codeforiati:plan-end-date>2001-12-31</codeforiati:plan-end-date>
             <name>Somalia 2001</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXSEUR01</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2001</codeforiati:plan-year>
@@ -7102,7 +7334,7 @@
             <codeforiati:plan-end-date>2001-12-31</codeforiati:plan-end-date>
             <name>Uganda 2001</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXWAF01</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2001</codeforiati:plan-year>
@@ -7142,7 +7374,7 @@
             <codeforiati:plan-end-date>2000-12-31</codeforiati:plan-end-date>
             <name>Democratic Republic of the Congo 2000</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXGLR00</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2000</codeforiati:plan-year>
@@ -7190,7 +7422,7 @@
             <codeforiati:plan-end-date>2000-12-31</codeforiati:plan-end-date>
             <name>Somalia 2000</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CXSEUR00</code>
             <codeforiati:plan-type>Consolidated appeals process</codeforiati:plan-type>
             <codeforiati:plan-year>2000</codeforiati:plan-year>
@@ -7233,15 +7465,23 @@
         <codelist-item status="active">
             <code>CTLS9900</code>
             <codeforiati:plan-type>Consolidated inter-agency appeal</codeforiati:plan-type>
-            <codeforiati:plan-year>1999</codeforiati:plan-year>
+            <codeforiati:plan-year>2000</codeforiati:plan-year>
             <codeforiati:plan-start-date>1999-10-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2000-12-31</codeforiati:plan-end-date>
             <name>East Timor Consolidated Inter Agency Appeal 2000</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>R00</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2000</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2000-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2000-12-31</codeforiati:plan-end-date>
+            <name>Southeastern Europe 2000</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CRUS9900</code>
             <codeforiati:plan-type>Consolidated inter-agency appeal</codeforiati:plan-type>
-            <codeforiati:plan-year>1999</codeforiati:plan-year>
+            <codeforiati:plan-year>2000</codeforiati:plan-year>
             <codeforiati:plan-start-date>1999-12-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2000-12-31</codeforiati:plan-end-date>
             <name>Northern Caucasus (Russian Federation) Consolidated Inter Agency Appeal 2000</name>
@@ -7249,7 +7489,7 @@
         <codelist-item status="active">
             <code>CIDN9900</code>
             <codeforiati:plan-type>Consolidated inter-agency appeal</codeforiati:plan-type>
-            <codeforiati:plan-year>1999</codeforiati:plan-year>
+            <codeforiati:plan-year>2000</codeforiati:plan-year>
             <codeforiati:plan-start-date>1999-10-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2000-12-31</codeforiati:plan-end-date>
             <name>West Timor (Indonesia) Consolidated Inter Agency Appeal 2000</name>

@@ -1,4 +1,4 @@
-<codelist name="HumanitarianPlan" date-last-modified="2025-10-24T12:24:29.034479+00:00" version="" xml:lang="en">
+<codelist name="HumanitarianPlan" date-last-modified="2025-10-24T15:23:58.799289+00:00" version="" xml:lang="en">
   <HumanitarianPlan>
     <code>HAFG25</code>
     <name>Afghanistan Humanitarian Needs and Response Plan 2025</name>
@@ -2030,6 +2030,16 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>RAIAATGBHSBLMKNAMAFSXMTCAVGB17</code>
+    <name>Hurricane Irma Regional Response Plan for the Caribbean Region 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>HBGD17</code>
+    <name>Rohingya Humanitarian Crisis Joint Response Plan 2017</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>HSSD17</code>
     <name>South Sudan Humanitarian Response Plan 2017</name>
     <language>en</language>
@@ -2215,6 +2225,16 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>RGRCHRVMKDSRBSVNTUR16</code>
+    <name>Regional Refugee and Migrant Response Plan for Europe 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBFACMRGMBMLIMRTNERNGASENTCD16</code>
+    <name>Sahel Region Call for Humanitarian Aid 2016</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>HSSD16</code>
     <name>South Sudan Humanitarian Response Plan 2016</name>
     <language>en</language>
@@ -2372,6 +2392,11 @@
   <HumanitarianPlan>
     <code>HPSE15</code>
     <name>Occupied Palestinian Territory Strategic Response Plan 2015</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBFACMRGMBMLIMRTNERNGASENTCD15</code>
+    <name>Sahel Region Call for Humanitarian Aid 2015</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -2552,6 +2577,11 @@
   <HumanitarianPlan>
     <code>HCOG14</code>
     <name>R&#233;publique du Congo Plan de R&#233;ponse 2014</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBFACMRGMBMLIMRTNERNGASENTCD14</code>
+    <name>Sahel Region Strategic Response Plan 2014</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -3020,6 +3050,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>CIRQ10</code>
+    <name>Iraq Humanitarian Action Plan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>OIRQ10</code>
     <name>Iraq Humanitarian Action Plan 2010</name>
     <language>en</language>
@@ -3050,6 +3085,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>CPAK10</code>
+    <name>Pakistan Humanitarian Response Plan (February - December 2010)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>OPAK10</code>
     <name>Pakistan Humanitarian Response Plan (February - December 2010)</name>
     <language>en</language>
@@ -3070,6 +3110,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>CLKA10</code>
+    <name>Sri Lanka Common Humanitarian Action Plan 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>OLKA10</code>
     <name>Sri Lanka Common Humanitarian Action Plan 2010</name>
     <language>en</language>
@@ -3082,6 +3127,11 @@
   <HumanitarianPlan>
     <code>CUGA10</code>
     <name>Uganda 2010</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBENBFACIVGHAGINGNBLBRMLIMRTNERNGASENSLETGO10</code>
+    <name>West Africa 2010</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -3137,6 +3187,11 @@
   <HumanitarianPlan>
     <code>FIDN09</code>
     <name>Indonesia West Sumatra Earthquake Humanitarian Response Plan 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RIRQ09</code>
+    <name>Iraq and the region 2009</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -3212,6 +3267,11 @@
   <HumanitarianPlan>
     <code>CUGA09</code>
     <name>Uganda 2009</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBENBFACIVGHAGINGNBLBRMLIMRTNERSENSLETGO09</code>
+    <name>West Africa 2009</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -3315,6 +3375,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>OLBR08</code>
+    <name>Liberia Critical Humanitarian Gaps 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>CLBR08</code>
     <name>Liberia Critical Humanitarian Gaps 2008</name>
     <language>en</language>
@@ -3377,6 +3442,11 @@
   <HumanitarianPlan>
     <code>CUGA08</code>
     <name>Uganda 2008</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBENBFAGHAGINGMBGNBLBRMLIMRTNERSENSLETGO08</code>
+    <name>West Africa 2008</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -3525,6 +3595,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>CLKA07</code>
+    <name>Sri Lanka Common Humanitarian Action Plan 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>OLKA07</code>
     <name>Sri Lanka Common Humanitarian Action Plan 2007</name>
     <language>en</language>
@@ -3557,6 +3632,11 @@
   <HumanitarianPlan>
     <code>FUGA0708</code>
     <name>Uganda Floods Flash Appeal 2007</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RBENBFACIVCPVGHAGINGNBLBRMLIMRTNERSENSLETGO07</code>
+    <name>West Africa 2007</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -3725,6 +3805,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>RBFAGNBMLIMRTNERSENTGO06</code>
+    <name>West Africa 2006</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>CXWAF06</code>
     <name>West Africa 2006</name>
     <language>en</language>
@@ -3795,6 +3880,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>R05</code>
+    <name>Indian Ocean Earthquake-Tsunami  2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>CXGLR05</code>
     <name>Great Lakes Region 2005</name>
     <language>en</language>
@@ -3837,6 +3927,16 @@
   <HumanitarianPlan>
     <code>CSOM05</code>
     <name>Somalia 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>R0506</code>
+    <name>West and Central Africa Region Cholera 2005</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OSDN05</code>
+    <name>Sudan - Humanitarian &amp; Recovery Components of the 2005 Work Plan</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -3907,6 +4007,11 @@
   <HumanitarianPlan>
     <code>CRUS04</code>
     <name>Chechnya and Neighbouring Republics (RF) 2004</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>R04</code>
+    <name>West Africa Sub-Regional 2004</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -4060,6 +4165,16 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>RCIV03</code>
+    <name>Cote d'Ivoire + 5 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RCIV0203</code>
+    <name>C&#244;te d'Ivoire and the West Africa Sub-Region 2002-2003 </name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>CCIV03</code>
     <name>Cote d'Ivoire + 5 2003</name>
     <language>en</language>
@@ -4082,6 +4197,11 @@
   <HumanitarianPlan>
     <code>CERI03</code>
     <name>Eritrea 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>R03</code>
+    <name>Great Lakes Region and Central Africa 2003</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -4115,6 +4235,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>R0304</code>
+    <name>Humanitarian Crisis in Southern Africa - REGION (July 2003 - June 2004)</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>CXSAF0304</code>
     <name>Humanitarian Crisis in Southern Africa - REGION (July 2003 - June 2004)</name>
     <language>en</language>
@@ -4137,6 +4262,11 @@
   <HumanitarianPlan>
     <code>CIDN03</code>
     <name>Indonesia 2003</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FIRQ03</code>
+    <name>Iraq Crisis 2003</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -4215,6 +4345,11 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>R02</code>
+    <name>West Africa 2002</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>CXGLR02</code>
     <name>Great Lakes Region and Central Africa 2002</name>
     <language>en</language>
@@ -4232,6 +4367,11 @@
   <HumanitarianPlan>
     <code>CMWI0203</code>
     <name>Humanitarian Crisis in Southern Africa 2002 - MALAWI</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>R0203</code>
+    <name>Humanitarian Crisis in Southern Africa 2002 - REGION</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -4352,6 +4492,11 @@
   <HumanitarianPlan>
     <code>ODJI01</code>
     <name>Djibouti Drought 2001</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>R01</code>
+    <name>West Africa 2001</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -4517,6 +4662,11 @@
   <HumanitarianPlan>
     <code>CTLS9900</code>
     <name>East Timor Consolidated Inter Agency Appeal 2000</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>R00</code>
+    <name>Southeastern Europe 2000</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
