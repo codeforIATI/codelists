@@ -17,6 +17,46 @@
             <codeforiati:country>(Non-Localized)</codeforiati:country>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2025-000196-HTI</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23655</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>HTI</codeforiati:country-code>
+            <codeforiati:date>2025-10-21</codeforiati:date>
+            <codeforiati:glide-serial>2025-000196</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Haiti</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2025-000195-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23653</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:date>2025-10-18</codeforiati:date>
+            <codeforiati:glide-serial>2025-000195</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Philippines</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2025-000195-VNM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23654</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:date>2025-10-22</codeforiati:date>
+            <codeforiati:glide-serial>2025-000195</codeforiati:glide-serial>
+            <codeforiati:event>Tropical Cyclone</codeforiati:event>
+            <codeforiati:country>Viet Nam</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VO-2025-000194-IDN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23652</url>
+            <codeforiati:event-code>VO</codeforiati:event-code>
+            <codeforiati:country-code>IDN</codeforiati:country-code>
+            <codeforiati:date>2025-10-14</codeforiati:date>
+            <codeforiati:glide-serial>2025-000194</codeforiati:glide-serial>
+            <codeforiati:event>Volcano</codeforiati:event>
+            <codeforiati:country>Indonesia</codeforiati:country>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2025-000193-MEX</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23651</url>
             <codeforiati:event-code>FL</codeforiati:event-code>
