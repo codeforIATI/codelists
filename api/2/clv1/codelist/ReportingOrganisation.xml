@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2025-10-24T15:23:38.356848+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2025-10-29T16:41:21.739730+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -2452,6 +2452,11 @@
   <ReportingOrganisation>
     <code>GB-CHC-222655</code>
     <name>Liverpool School of Tropical Medicine</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>GB-COH-RC000710</code>
+    <name>Queen Mary University of London</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -8350,6 +8355,11 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>GB-COH-46049</code>
+    <name>test dave</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>KE-KRA-P052007235U</code>
     <name>Imfact Working Capital Solutions Limited</name>
     <language>en</language>
@@ -8627,6 +8637,11 @@
   <ReportingOrganisation>
     <code>GB-COH-12482833</code>
     <name>AmplifyChange</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>YE-MOPIC-0036</code>
+    <name>Partners Yemen</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -9250,6 +9265,11 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>ET-CSA-1560</code>
+    <name>Ethiopian Orthodox Church, Developement and Inter Church Aid Commssion (EOC-DICAC)</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>KE-RCO-CPR-2014-161876</code>
     <name>Millennium Water Alliance Kenya</name>
     <language>en</language>
@@ -9295,8 +9315,23 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>TR-VKN-4940457659</code>
+    <name>KAMER Women's Centre Education, Production, Consultation and Solidarity Foundation</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>GB-COH-00559784</code>
     <name>The Pirbright Institute</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>UA-EDR-38621206</code>
+    <name>Right to Protection Charitable Fund</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>UA-COA-44916875</code>
+    <name>&#1057;&#1053;&#1040;RITABLE ORGANIZATHION &#171;&#1057;&#1053;&#1040;RITABLE FOUNDATHION &#171;VERITAS SPES+ UKRAINE&#187;</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>

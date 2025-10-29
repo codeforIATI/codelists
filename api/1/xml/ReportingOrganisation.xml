@@ -6334,6 +6334,16 @@
             <codeforiati:registry-identifier>lstm</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-RC000710</code>
+            <name>
+                <narrative>Queen Mary University of London</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>queen_mary_london</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-200201282375</code>
             <name>
                 <narrative>Urgent Action Fund-Africa</narrative>
@@ -20785,6 +20795,16 @@
             <codeforiati:registry-identifier>ifes</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-46049</code>
+            <name>
+                <narrative>test dave</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>testdave</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P052007235U</code>
             <name>
                 <narrative>Imfact Working Capital Solutions Limited</narrative>
@@ -21343,6 +21363,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>amplifychange</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>YE-MOPIC-0036</code>
+            <name>
+                <narrative>Partners Yemen</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Yemen</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>partnersyemen</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SZ-CIT-201710132021804</code>
@@ -22585,6 +22615,16 @@
             <codeforiati:registry-identifier>piermarc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ET-CSA-1560</code>
+            <name>
+                <narrative>Ethiopian Orthodox Church, Developement and Inter Church Aid Commssion (EOC-DICAC)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>eocdicac</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-RCO-CPR-2014-161876</code>
             <name>
                 <narrative>Millennium Water Alliance Kenya</narrative>
@@ -22675,6 +22715,16 @@
             <codeforiati:registry-identifier>imtd_int_11</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>TR-VKN-4940457659</code>
+            <name>
+                <narrative>KAMER Women's Centre Education, Production, Consultation and Solidarity Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kamer</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-00559784</code>
             <name>
                 <narrative>The Pirbright Institute</narrative>
@@ -22683,6 +22733,26 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>pirbright_institute</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UA-EDR-38621206</code>
+            <name>
+                <narrative>Right to Protection Charitable Fund</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>r2p</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UA-COA-44916875</code>
+            <name>
+                <narrative>СНАRITABLE ORGANIZATHION «СНАRITABLE FOUNDATHION «VERITAS SPES+ UKRAINE»</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>vs</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SE-ON-802002-3209</code>
