@@ -27,6 +27,90 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>EQ-2025-000202-AFG</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23662</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>AFG</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Afghanistan</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-11-02</codeforiati:date>
+            <codeforiati:glide-serial>2025-000202</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2025-000201-CUB</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23660</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>CUB</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Cuba</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-28</codeforiati:date>
+            <codeforiati:glide-serial>2025-000201</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2025-000200-CUB</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23659</url>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Epidemic</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>CUB</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Cuba</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-15</codeforiati:date>
+            <codeforiati:glide-serial>2025-000200</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AV-2025-000199-TJK</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23658</url>
+            <codeforiati:event-code>AV</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Snow Avalanche</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>TJK</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Tajikistan</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-25</codeforiati:date>
+            <codeforiati:glide-serial>2025-000199</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2025-000198-VNM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23657</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Viet Nam</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-29</codeforiati:date>
+            <codeforiati:glide-serial>2025-000198</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2025-000197-TUR</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23656</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>TUR</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Turkey</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-27</codeforiati:date>
+            <codeforiati:glide-serial>2025-000197</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2025-000196-HTI</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23655</url>
             <codeforiati:event-code>TC</codeforiati:event-code>
@@ -38,6 +122,20 @@
                 <narrative>Haiti</narrative>
             </codeforiati:country>
             <codeforiati:date>2025-10-21</codeforiati:date>
+            <codeforiati:glide-serial>2025-000196</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2025-000196-JAM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23661</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Tropical Cyclone</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>JAM</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Jamaica</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-10-28</codeforiati:date>
             <codeforiati:glide-serial>2025-000196</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
