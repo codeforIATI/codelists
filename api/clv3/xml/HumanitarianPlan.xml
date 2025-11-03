@@ -413,12 +413,22 @@
         <codelist-item status="active">
             <code>OVNM25</code>
             <name>
-                <narrative>Viet Nam Joint Response Plan for Typhoon Yagi and Floods 2025</narrative>
+                <narrative>Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025</narrative>
             </name>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2025</codeforiati:plan-year>
             <codeforiati:plan-start-date>2025-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2025-06-30</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OVNM25a</code>
+            <name>
+                <narrative>Viet Nam 25-26 Joint Response Plan multiple Typhoons and Floods 2025</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2025</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2025-10-28</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
             <code>HYEM25</code>
@@ -923,7 +933,7 @@
         <codelist-item status="active">
             <code>OVNM24</code>
             <name>
-                <narrative>Viet Nam  Joint Response Plan for Typhoon Yagi and Floods 2024</narrative>
+                <narrative>Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2024</narrative>
             </name>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2024</codeforiati:plan-year>
