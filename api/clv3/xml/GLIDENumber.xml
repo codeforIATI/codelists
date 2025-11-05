@@ -27,6 +27,20 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2025-000203-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23663</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Tropical Cyclone</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Philippines</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-11-03</codeforiati:date>
+            <codeforiati:glide-serial>2025-000203</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EQ-2025-000202-AFG</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23662</url>
             <codeforiati:event-code>EQ</codeforiati:event-code>
