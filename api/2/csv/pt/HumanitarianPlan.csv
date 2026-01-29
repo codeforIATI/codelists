@@ -1,4 +1,34 @@
 code,status,codeforiati:plan-year,codeforiati:plan-start-date,codeforiati:plan-type,codeforiati:plan-end-date
+HAFG26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HBFA26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HCMR26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HCOL26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+FPSE26,active,2026,2026-01-01,Flash appeal,2026-12-31
+HHTI26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HMLI26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HMOZ26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HMMR26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HNER26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HNGA26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+OPAK26,active,2026,2026-01-01,Other,2026-04-30
+RREG26,active,2026,2026-01-01,Regional response plan,2026-12-31
+RBGD26,active,2026,2026-01-01,Regional response plan,2026-12-31
+HCAF26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HCOD26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HSOM26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HSSD26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+OLKA2526,active,2026,2025-12-11,Other,2026-04-30
+RREG26a,active,2026,2026-01-01,Regional response plan,2026-12-31
+HSDN26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HSYR26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+RJORLBNTUR26,active,2026,2026-01-01,Regional response plan,2026-12-31
+HTCD26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+RUGA26,active,2026,2026-01-01,Regional response plan,2026-12-31
+HUKR26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+HVEN26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
+RREG26b,active,2026,2026-01-01,Regional response plan,2026-12-31
+OVNM26,active,2026,2026-01-01,Other,2026-12-31
+HYEM26,active,2026,2026-01-01,Humanitarian needs and response plan,2026-12-31
 HAFG25,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
 RIRNPAK25,active,2025,2025-01-01,Regional response plan,2025-12-31
 OBGD25,active,2025,2025-01-01,Other,2025-03-31
@@ -21,6 +51,7 @@ HMMR25a,active,2025,2025-04-01,Humanitarian needs and response plan,2025-12-31
 HMMR25b,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
 HNER25,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
 HNGA25,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
+OPAK25,active,2025,2025-10-20,Other,2025-12-31
 OPHL25,active,2025,2025-01-01,Other,2025-04-30
 RRHOAY25,active,2025,2025-01-01,Regional response plan,2025-12-31
 RBGD25,active,2025,2025-01-01,Regional response plan,2025-12-31
@@ -31,7 +62,7 @@ HSSD25,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
 RETHKENUGA25,active,2025,2025-01-01,Regional response plan,2025-12-31
 RRSDN25,active,2025,2025-01-01,Regional response plan,2025-12-31
 HSDN25,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
-FSYR25a,active,2025,2025-07-01,Flash appeal,2025-12-31
+FSYR25a,withdrawn,2025,2025-07-01,Flash appeal,2025-12-31
 FSYR25,active,2025,2025-01-01,Flash appeal,2025-12-31
 RSYR25,active,2025,2025-01-01,Regional response plan,2025-12-31
 HTCD25,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
@@ -39,7 +70,8 @@ HUKR25,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
 RUKRN25,active,2025,2025-01-01,Regional response plan,2025-12-31
 HVEN25,active,2025,2025-01-01,Humanitarian response plan,2025-12-31
 RREG25,active,2025,2025-01-01,Regional response plan,2025-12-31
-OVNM25,active,2025,2025-01-01,Other,2025-06-30
+OVNM25b,active,2025,2025-01-01,Other,2025-06-30
+OVNM25,withdrawn,2025,2025-01-01,Other,2025-06-30
 OVNM25a,active,2025,2025-10-28,Other,2025-12-31
 HYEM25,active,2025,2025-01-01,Humanitarian needs and response plan,2025-12-31
 FZMB25,active,2025,2025-01-01,Flash appeal,2025-06-30

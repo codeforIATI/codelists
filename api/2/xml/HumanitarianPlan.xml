@@ -11,6 +11,306 @@
     </metadata>
     <codelist-items>
         <codelist-item status="active">
+            <code>HAFG26</code>
+            <name>
+                <narrative>Afghanistan Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HBFA26</code>
+            <name>
+                <narrative>Burkina Faso Besoins Humanitaires et Plan de Réponse 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HCMR26</code>
+            <name>
+                <narrative>Cameroon Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HCOL26</code>
+            <name>
+                <narrative>Colombia Necesidades Humanitarias y Plan de Respuesta 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FPSE26</code>
+            <name>
+                <narrative>Escalation of Hostilities in the OPT Flash Appeal 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HHTI26</code>
+            <name>
+                <narrative>Haiti Besoins Humanitaires et Plan de Réponse 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HMLI26</code>
+            <name>
+                <narrative>Mali Besoins Humanitaires et Plan de Réponse 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HMOZ26</code>
+            <name>
+                <narrative>Mozambique Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HMMR26</code>
+            <name>
+                <narrative>Myanmar Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HNER26</code>
+            <name>
+                <narrative>Niger Besoins Humanitaires et Plan de Réponse 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HNGA26</code>
+            <name>
+                <narrative>Nigeria Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OPAK26</code>
+            <name>
+                <narrative>Pakistan Floods Support Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-04-30</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RREG26</code>
+            <name>
+                <narrative>Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RBGD26</code>
+            <name>
+                <narrative>Rohingya Humanitarian Crisis Joint Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HCAF26</code>
+            <name>
+                <narrative>République Centrafricaine Besoins Humanitaires et Plan de Réponse 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HCOD26</code>
+            <name>
+                <narrative>République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSOM26</code>
+            <name>
+                <narrative>Somalia Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSSD26</code>
+            <name>
+                <narrative>South Sudan Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OLKA2526</code>
+            <name>
+                <narrative>Sri Lanka Humanitarian Priorities Plan Cyclone Ditwa 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2025-12-11</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-04-30</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RREG26a</code>
+            <name>
+                <narrative>Sudan Emergency: Regional Refugee Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSDN26</code>
+            <name>
+                <narrative>Sudan Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSYR26</code>
+            <name>
+                <narrative>Syrian Arab Republic Humanitarian Response Priorities 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RJORLBNTUR26</code>
+            <name>
+                <narrative>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HTCD26</code>
+            <name>
+                <narrative>Tchad Besoins Humanitaires et Plan de Réponse 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RUGA26</code>
+            <name>
+                <narrative>Uganda Regional Refugee Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HUKR26</code>
+            <name>
+                <narrative>Ukraine Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HVEN26</code>
+            <name>
+                <narrative>Venezuela Plan de Respuesta Humanitaria 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RREG26b</code>
+            <name>
+                <narrative>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OVNM26</code>
+            <name>
+                <narrative>Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HYEM26</code>
+            <name>
+                <narrative>Yemen Humanitarian Needs and Response Plan 2026</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HAFG25</code>
             <name>
                 <narrative>Afghanistan Humanitarian Needs and Response Plan 2025</narrative>
@@ -231,6 +531,16 @@
             <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>OPAK25</code>
+            <name>
+                <narrative>Pakistan Floods Support Plan 2025</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2025</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2025-10-20</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>OPHL25</code>
             <name>
                 <narrative>Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025</narrative>
@@ -330,7 +640,7 @@
             <codeforiati:plan-start-date>2025-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>FSYR25a</code>
             <name>
                 <narrative>Syrian Arab Republic Humanitarian Response Priorities As-Sweida Crisis Addendum 2025</narrative>
@@ -411,6 +721,16 @@
             <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>OVNM25b</code>
+            <name>
+                <narrative>Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2025</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2025-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2025-06-30</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>OVNM25</code>
             <name>
                 <narrative>Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025</narrative>
@@ -423,7 +743,7 @@
         <codelist-item status="active">
             <code>OVNM25a</code>
             <name>
-                <narrative>Viet Nam 25-26 Joint Response Plan multiple Typhoons and Floods 2025</narrative>
+                <narrative>Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025</narrative>
             </name>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2025</codeforiati:plan-year>
