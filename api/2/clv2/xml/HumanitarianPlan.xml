@@ -39,6 +39,14 @@
             <name>Colombia Necesidades Humanitarias y Plan de Respuesta 2026</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>OCUB26</code>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+            <name>Cuba Plan of Action 2026 &#8211; Response to Hurricane Melissa</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FPSE26</code>
             <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
             <codeforiati:plan-year>2026</codeforiati:plan-year>
@@ -47,12 +55,44 @@
             <name>Escalation of Hostilities in the OPT Flash Appeal 2026</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>O26</code>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+            <name>Global Humanitarian Overview GHO 2026 (Plan not yet defined) 2026</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HHTI26</code>
             <codeforiati:plan-type>Humanitarian needs and response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2026</codeforiati:plan-year>
             <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
             <name>Haiti Besoins Humanitaires et Plan de R&#233;ponse 2026</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RIRN26</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-03-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-05-31</codeforiati:plan-end-date>
+            <name>Islamic Republic of Iran Flash Refugee Response Plan March - May 2026</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FLBN26</code>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-03-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-08-31</codeforiati:plan-end-date>
+            <name>Lebanon Flash Appeal 2026</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FMDG26</code>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-03-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-05-31</codeforiati:plan-end-date>
+            <name>Madagascar Appel &#201;clair Cyclones Fytia et Gezani 2026</name>
         </codelist-item>
         <codelist-item status="active">
             <code>HMLI26</code>
@@ -103,6 +143,14 @@
             <name>Pakistan Floods Support Plan 2026</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>RREG26c</code>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+            <name>Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2026</name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>RREG26</code>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2026</codeforiati:plan-year>
@@ -293,6 +341,14 @@
             <codeforiati:plan-start-date>2025-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
             <name>Colombia Necesidades Humanitarias y Plan de Respuesta 2025</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OCUB25</code>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2025</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2025-10-29</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
+            <name>Cuba Plan of Action 2025 &#8211; Response to Hurricane Melissa</name>
         </codelist-item>
         <codelist-item status="active">
             <code>RDRC_RRP25</code>

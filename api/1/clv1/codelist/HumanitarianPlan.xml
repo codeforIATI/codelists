@@ -1,4 +1,4 @@
-<codelist name="HumanitarianPlan" date-last-modified="2026-07-16T11:54:49.487380+00:00" version="" xml:lang="en">
+<codelist name="HumanitarianPlan" date-last-modified="2026-07-16T11:55:07.891911+00:00" version="" xml:lang="en">
   <HumanitarianPlan>
     <code>HAFG26</code>
     <name>Afghanistan Humanitarian Needs and Response Plan 2026</name>
@@ -20,13 +20,38 @@
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>OCUB26</code>
+    <name>Cuba Plan of Action 2026 &#8211; Response to Hurricane Melissa</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>FPSE26</code>
     <name>Escalation of Hostilities in the OPT Flash Appeal 2026</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
+    <code>O26</code>
+    <name>Global Humanitarian Overview GHO 2026 (Plan not yet defined) 2026</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
     <code>HHTI26</code>
     <name>Haiti Besoins Humanitaires et Plan de R&#233;ponse 2026</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RIRN26</code>
+    <name>Islamic Republic of Iran Flash Refugee Response Plan March - May 2026</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FLBN26</code>
+    <name>Lebanon Flash Appeal 2026</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FMDG26</code>
+    <name>Madagascar Appel &#201;clair Cyclones Fytia et Gezani 2026</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -57,6 +82,11 @@
   <HumanitarianPlan>
     <code>OPAK26</code>
     <name>Pakistan Floods Support Plan 2026</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>RREG26c</code>
+    <name>Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2026</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
@@ -177,6 +207,11 @@
   <HumanitarianPlan>
     <code>HCOL25</code>
     <name>Colombia Necesidades Humanitarias y Plan de Respuesta 2025</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>OCUB25</code>
+    <name>Cuba Plan of Action 2025 &#8211; Response to Hurricane Melissa</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
