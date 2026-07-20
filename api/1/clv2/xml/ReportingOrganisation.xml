@@ -20385,6 +20385,14 @@
             <name>Rift Partners GmbH</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>TZ-NNCB-06NGO-00010000</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tanzania, the United Republic of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ewaki-2026</codeforiati:registry-identifier>
+            <name>Endeleza Wazee Kigoma (EWAKI)</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-GOV-28</code>
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
@@ -20497,6 +20505,14 @@
             <name>Partners In Health</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-SAM-P8V7YEC1GN34</code>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pangeaafrica</codeforiati:registry-identifier>
+            <name>Pangea Africa Ltd</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CR-RPJ-3-002-248583</code>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -20538,8 +20554,8 @@
         </codelist-item>
         <codelist-item status="active">
             <code>IN-MHA-094421947</code>
-            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
-            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:organisation-type-code>24</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Partner Country based NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>iphbengaluru</codeforiati:registry-identifier>
             <name>Institute of Public Health Bengaluru</name>
@@ -20567,6 +20583,14 @@
             <codeforiati:hq-country-or-region>Thailand</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>rapid-asia</codeforiati:registry-identifier>
             <name>Rapid Asia Co., Ltd.</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PK-VSWA-2172-2003</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>idea_pakistan</codeforiati:registry-identifier>
+            <name>IDEA (Initiative for Development &amp; Empowerment Axis)</name>
         </codelist-item>
         <codelist-item status="active">
             <code>SE-ON-802426-1664</code>

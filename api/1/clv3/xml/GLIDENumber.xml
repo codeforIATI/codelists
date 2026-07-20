@@ -27,6 +27,48 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>DR-2026-000117-ETH</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23864</url>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Drought</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>ETH</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Ethiopia</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-04-21</codeforiati:date>
+            <codeforiati:glide-serial>2026-000117</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000116-KAZ</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23862</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>KAZ</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Kazakhstan</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-16</codeforiati:date>
+            <codeforiati:glide-serial>2026-000116</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VO-2026-000115-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23861</url>
+            <codeforiati:event-code>VO</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Volcano</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Philippines</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-16</codeforiati:date>
+            <codeforiati:glide-serial>2026-000115</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2026-000114-KGZ</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23859</url>
             <codeforiati:event-code>FL</codeforiati:event-code>
@@ -304,6 +346,20 @@
                 <narrative>China, People's Republic</narrative>
             </codeforiati:country>
             <codeforiati:date>2026-07-07</codeforiati:date>
+            <codeforiati:glide-serial>2026-000098</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2026-000098-LAO</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23860</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Tropical Cyclone</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>LAO</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Lao People's Democratic Republic</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-02</codeforiati:date>
             <codeforiati:glide-serial>2026-000098</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
@@ -1761,6 +1817,20 @@
             </codeforiati:country>
             <codeforiati:date>2026-01-11</codeforiati:date>
             <codeforiati:glide-serial>2026-000001</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DR-2025-000239-ALB</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23863</url>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Drought</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>ALB</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Albania</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2025-12-11</codeforiati:date>
+            <codeforiati:glide-serial>2025-000239</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
             <code>DR-2025-000238-MDG</code>
