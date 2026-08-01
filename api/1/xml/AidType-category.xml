@@ -90,5 +90,12 @@
                 <narrative xml:lang="fr">Regroupe diverses contributions qui n’entraînent pas de mouvement de fonds transnationaux.</narrative>
             </description>
         </codelist-item>
+        <codelist-item status="active">
+            <code>J</code>
+            <name>
+                <narrative>In-kind donation of goods</narrative>
+                <narrative xml:lang="fr">Dons en nature</narrative>
+            </name>
+        </codelist-item>
     </codelist-items>
 </codelist>

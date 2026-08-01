@@ -322,6 +322,18 @@
             </description>
             <category>430</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>434</code>
+            <name>
+                <narrative>Multilateral hybrid capital</narrative>
+                <narrative xml:lang="fr">Capital hybride multilatéral</narrative>
+            </name>
+            <description>
+                <narrative>Hybrid capital instruments issued by multilateral institutions</narrative>
+                <narrative xml:lang="fr">Instruments de capital hybride émis par des institutions multilatérales</narrative>
+            </description>
+            <category>430</category>
+        </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>451</code>
             <name>

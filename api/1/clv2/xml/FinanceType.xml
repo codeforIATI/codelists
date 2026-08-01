@@ -238,6 +238,14 @@
             <description>Including convertible debt or equity.</description>
             <description xml:lang="fr">Incluant les dettes convertibles et les actions.</description>
         </codelist-item>
+        <codelist-item status="active">
+            <code>434</code>
+            <category>430</category>
+            <name>Multilateral hybrid capital</name>
+            <name xml:lang="fr">Capital hybride multilat&#233;ral</name>
+            <description>Hybrid capital instruments issued by multilateral institutions</description>
+            <description xml:lang="fr">Instruments de capital hybride &#233;mis par des institutions multilat&#233;rales</description>
+        </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>451</code>
             <category>450</category>

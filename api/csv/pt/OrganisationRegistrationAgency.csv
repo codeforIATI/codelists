@@ -44,6 +44,7 @@ AX-COA,AX,https://gov-id-finder.codeforiati.org/countries/AX/,active,False
 AZ-COA,AZ,https://gov-id-finder.codeforiati.org/countries/AZ/,active,False
 AZ-IVI,AZ,https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp,active,True
 BA-COA,BA,https://gov-id-finder.codeforiati.org/countries/BA/,active,False
+BA-JIB,BA,https://www.uino.gov.ba,active,True
 BB-COA,BB,https://gov-id-finder.codeforiati.org/countries/BB/,active,False
 BD-COA,BD,https://gov-id-finder.codeforiati.org/countries/BD/,active,True
 BD-NAB,BD,http://www.ngoab.gov.bd,active,True
@@ -110,7 +111,7 @@ CI-MOI,CI,http://interieur.gouv.ci/,active,False
 CK-COA,CK,https://gov-id-finder.codeforiati.org/countries/CK/,active,False
 CL-COA,CL,https://gov-id-finder.codeforiati.org/countries/CL/,active,False
 CL-MP,CL,https://www.mercadopublico.cl/Home,active,True
-CL-RUT,CL,http://www.chileproveedores.cl/,active,True
+CL-RUT,CL,https://homer.sii.cl/,active,False
 CM-COA,CM,https://gov-id-finder.codeforiati.org/countries/CM/,active,True
 CM-NIU,CM,https://www.impots.cm/,active,True
 CN-COA,CN,https://gov-id-finder.codeforiati.org/countries/CN/,active,False
@@ -118,6 +119,7 @@ CN-SAIC,CN,http://gsxt.saic.gov.cn/,active,False
 CN-USCI,CN,http://ngo.mps.gov.cn/ngo/portal/toInfogs.do,active,True
 CO-CCB,CO,http://www.ccb.org.co/,active,False
 CO-COA,CO,https://gov-id-finder.codeforiati.org/countries/CO/,active,False
+CO-NIT,CO,https://www.dian.gov.co/tramitesservicios/tramites-y-servicios/tributarios/Paginas/RUT.aspx,active,True
 CO-RUE,CO,http://www.rues.org.co/RUES_Web/,active,False
 CR-COA,CR,https://gov-id-finder.codeforiati.org/countries/CR/,active,False
 CR-RPJ,CR,http://www.registronacional.go.cr/,active,True
@@ -157,6 +159,7 @@ ET-COA,ET,https://gov-id-finder.codeforiati.org/countries/ET/,active,True
 ET-CSA,ET,https://acso.gov.et/,active,False
 ET-MFA,ET,http://www.mfa.gov.et/,active,False
 ET-MOT,ET,http://www.mot.gov.et,active,False
+ET-TIN,ET,https://www.mor.gov.et/,active,True
 FI-COA,FI,https://gov-id-finder.codeforiati.org/countries/FI/,active,False
 FI-PRO,FI,http://www.prh.fi/en/index.html,active,True
 FI-VERO,FI,https://www.ytj.fi/en/index/vatnumber.html,active,True
@@ -203,6 +206,7 @@ GG-RCE,GG,http://www.guernseyregistry.com/,active,False
 GH-COA,GH,https://gov-id-finder.codeforiati.org/countries/GH/,active,True
 GH-DSW,GH,http://mogcsp.gov.gh/department-of-social-developments/,active,False
 GH-RGD,GH,http://rgd.gov.gh/,active,True
+GH-TIN,GH,https://gra.gov.gh/tin/,active,False
 GI-COA,GI,https://gov-id-finder.codeforiati.org/countries/GI/,active,False
 GL-COA,GL,https://gov-id-finder.codeforiati.org/countries/GL/,active,False
 GM-COA,GM,https://gov-id-finder.codeforiati.org/countries/GM/,active,True
@@ -248,8 +252,10 @@ IM-GR,IM,http://www.gov.im/registries/courts/charities/,active,True
 IN-COA,IN,https://gov-id-finder.codeforiati.org/countries/IN/,active,False
 IN-MCA,IN,http://www.mca.gov.in/,active,True
 IN-MHA,IN,https://fcraonline.nic.in/,active,False
+IN-PAN,IN,https://www.incometaxindia.gov.in/pan,active,False
 IO-COA,IO,https://gov-id-finder.codeforiati.org/countries/IO/,active,False
 IQ-COA,IQ,https://gov-id-finder.codeforiati.org/countries/IQ/,active,False
+IQ-MOT,IQ,https://tasjeel.mot.gov.iq/,active,True
 IQ-NGO,IQ,http://www.ngoao.gov.iq/,active,False
 IR-COA,IR,https://gov-id-finder.codeforiati.org/countries/IR/,active,False
 IS-COA,IS,https://gov-id-finder.codeforiati.org/countries/IS/,active,False
@@ -281,6 +287,7 @@ KG-TIN,KG,http://register.minjust.gov.kg/register/SearchAction.seam,active,True
 KH-COA,KH,https://gov-id-finder.codeforiati.org/countries/KH/,active,False
 KH-INGO,KH,https://www.mfaic.gov.kh/,active,True
 KH-NNGO,KH,https://cambodiacounsel.com/ngo-registration/,active,False
+KH-TIN,KH,https://www.tax.gov.kh/en/,active,False
 KI-COA,KI,https://gov-id-finder.codeforiati.org/countries/KI/,active,True
 KM-COA,KM,https://gov-id-finder.codeforiati.org/countries/KM/,active,False
 KN-COA,KN,https://gov-id-finder.codeforiati.org/countries/KN/,active,True
@@ -303,7 +310,9 @@ LK-NGO,LK,http://www.ngosecretariat.gov.lk/,active,True
 LR-COA,LR,https://gov-id-finder.codeforiati.org/countries/LR/,active,True
 LR-MFDPNGO,LR,https://www.mfdp.gov.lr/index.php/budget-planning/assistant-min-regional-sectoral/ngo-unit,active,False
 LS-COA,LS,https://gov-id-finder.codeforiati.org/countries/LS/,active,True
+LS-HEI,LS,https://www.education.gov.ls/,active,False
 LS-LCN,LS,http://www.lcn.org.ls/,withdrawn,False
+LS-SRN,LS,,active,False
 LT-COA,LT,https://gov-id-finder.codeforiati.org/countries/LT/,active,False
 LT-PVM,LT,https://www.vmi.lt/,active,True
 LT-RC,LT,http://www.registrucentras.lt/jar/index_en.php,active,True
@@ -318,6 +327,7 @@ MC-RCI,MC,https://service-public-entreprises.gouv.mc/Creation-d-activite/Demarch
 MD-COA,MD,https://gov-id-finder.codeforiati.org/countries/MD/,active,False
 MD-IDNO,MD,http://www.idno.md/,active,True
 ME-COA,ME,https://gov-id-finder.codeforiati.org/countries/ME/,active,False
+ME-PIB,ME,https://www.gov.me/en/taxadministration,active,False
 MF-COA,MF,https://gov-id-finder.codeforiati.org/countries/MF/,active,False
 MG-COA,MG,https://gov-id-finder.codeforiati.org/countries/MG/,active,True
 MG-NIF,MG,https://www.impots.mg/,active,False
@@ -378,6 +388,8 @@ NP-SWC,NP,http://www.swc.org.np/,active,False
 NR-COA,NR,https://gov-id-finder.codeforiati.org/countries/NR/,active,True
 NU-COA,NU,https://gov-id-finder.codeforiati.org/countries/NU/,active,False
 NZ-COA,NZ,https://gov-id-finder.codeforiati.org/countries/NZ/,active,False
+NZ-CR,NZ,https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register,active,True
+NZ-NZBN,NZ,https://www.nzbn.govt.nz/,active,True
 OM-COA,OM,https://gov-id-finder.codeforiati.org/countries/OM/,active,False
 PA-COA,PA,https://gov-id-finder.codeforiati.org/countries/PA/,active,False
 PA-PRP,PA,https://www.panadata.net/en/organizaciones,active,True
@@ -394,6 +406,7 @@ PK-NTN,PK,https://e.fbr.gov.pk/esbn/Verification#,active,True
 PK-PCP,PK,http://pcp.org.pk/index.php,withdrawn,False
 PK-SEC,PK,https://www.secp.gov.pk/,active,True
 PK-VSWA,PK,http://social_welfare.kp.gov.pk/,active,False
+PK_IS-IRT,PK,https://ictadministration.gov.pk/,active,False
 PL-COA,PL,https://gov-id-finder.codeforiati.org/countries/PL/,active,False
 PL-KRS,PL,https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu,active,True
 PL-NIP,PL,https://pl.wikipedia.org/wiki/NIP,active,True
@@ -405,12 +418,13 @@ PS-COA,PS,https://gov-id-finder.codeforiati.org/countries/PS/,active,False
 PS-MOI,PS,http://www.moi.pna.ps/NGOs/List,active,False
 PS-TIN,PS,http://www.pmof.ps/,active,False
 PT-COA,PT,https://gov-id-finder.codeforiati.org/countries/PT/,active,False
-PT-NIPPC,PT,https://www.portaldocidadao.pt/,active,True
+PT-NIPPC,PT,https://www.gov.pt/,active,False
 PW-COA,PW,https://gov-id-finder.codeforiati.org/countries/PW/,active,True
 PY-COA,PY,https://gov-id-finder.codeforiati.org/countries/PY/,active,False
 PY-PGN,PY,http://www.hacienda.gov.py/web-hacienda/archivo.php?a=keke1117221b211c20db1d141bdedcdde2db1019ke2016131610ke111c1fdedcdde2da1d1113ke0ac&x=6262001&y=keke0ac,active,True
 PY-RUC,PY,http://www.hacienda.gov.py/web-hacienda/index.php?c=77,active,True
 QA-COA,QA,https://gov-id-finder.codeforiati.org/countries/QA/,active,False
+QA-MOI,QA,https://portal.moi.gov.qa/,active,False
 RE-COA,RE,https://gov-id-finder.codeforiati.org/countries/RE/,active,False
 RO-COA,RO,https://gov-id-finder.codeforiati.org/countries/RO/,active,False
 RO-CUI,RO,http://www.onrc.ro/index.php/ro/,active,True
@@ -431,7 +445,7 @@ SD-COA,SD,https://gov-id-finder.codeforiati.org/countries/SD/,active,False
 SE-BLV,SE,http://www.bolagsverket.se/,withdrawn,False
 SE-COA,SE,https://gov-id-finder.codeforiati.org/countries/SE/,active,False
 SE-KK,SE,https://www.kammarkollegiet.se/,withdrawn,False
-SE-ON,SE,http://www.bolagsverket.se/ff/foretagsformer/organisationsnummer-1.7902,active,True
+SE-ON,SE,https://bolagsverket.se/foretag/organisationsnummer.1207.html,active,True
 SG-ACRA,SG,http://www.acra.gov.sg/,active,False
 SG-COA,SG,https://gov-id-finder.codeforiati.org/countries/SG/,active,False
 SG-COC,SG,https://www.charities.gov.sg/Pages/Home.aspx,active,True
@@ -466,10 +480,13 @@ TC-COA,TC,https://gov-id-finder.codeforiati.org/countries/TC/,active,False
 TD-COA,TD,https://gov-id-finder.codeforiati.org/countries/TD/,active,True
 TF-COA,TF,https://gov-id-finder.codeforiati.org/countries/TF/,active,False
 TG-COA,TG,https://gov-id-finder.codeforiati.org/countries/TG/,active,True
+TG-NIF,TG,https://www.otr.tg/,active,True
+TG-ONE,TG,https://service-public.gouv.tg/service/650355ca26be2564074f87c6/creation-dissolution/demande-d-attestation-de-reconnaissance-de-la-qualite-d-ong,active,False
 TH-COA,TH,https://gov-id-finder.codeforiati.org/countries/TH/,active,False
 TH-MOI,TH,https://moi.go.th/moi/,active,False
 TH-TIN,TH,https://www.rd.go.th/publish/272.0.html,active,False
 TJ-COA,TJ,https://gov-id-finder.codeforiati.org/countries/TJ/,active,False
+TJ-TIN,TJ,http://andoz.tj/,active,False
 TK-COA,TK,https://gov-id-finder.codeforiati.org/countries/TK/,active,False
 TL-COA,TL,https://gov-id-finder.codeforiati.org/countries/TL/,active,True
 TM-COA,TM,https://gov-id-finder.codeforiati.org/countries/TM/,active,False
@@ -478,14 +495,14 @@ TN-RNE,TN,https://www.registre-entreprises.tn/rne-public/#/recherche-pm,active,F
 TO-COA,TO,https://gov-id-finder.codeforiati.org/countries/TO/,active,False
 TR-COA,TR,https://gov-id-finder.codeforiati.org/countries/TR/,active,False
 TR-MERSIS,TR,https://mersis.gtb.gov.tr/,active,True
-TR-MOI,TR,https://www.dernekler.gov.tr/,active,False
+TR-MOI,TR,https://www.siviltoplum.gov.tr/,active,False
 TR-VKN,TR,https://www.gib.gov.tr/,active,False
 TT-COA,TT,https://gov-id-finder.codeforiati.org/countries/TT/,active,False
 TV-COA,TV,https://gov-id-finder.codeforiati.org/countries/TV/,active,False
 TW-COA,TW,https://gov-id-finder.codeforiati.org/countries/TW/,active,False
 TZ-BRLA,TZ,http://www.brela.go.tz/,active,False
 TZ-COA,TZ,https://gov-id-finder.codeforiati.org/countries/TZ/,active,True
-TZ-NNCB,TZ,http://www.tnnc.go.tz,active,False
+TZ-NNCB,TZ,https://nis.jamii.go.tz/,active,True
 TZ-TRA,TZ,https://www.tra.go.tz/index.php,active,False
 UA-COA,UA,https://gov-id-finder.codeforiati.org/countries/UA/,active,False
 UA-EDR,UA,https://usr.minjust.gov.ua/ua/home,active,False
@@ -541,8 +558,9 @@ ZA-COA,ZA,https://gov-id-finder.codeforiati.org/countries/ZA/,active,True
 ZA-NPO,ZA,http://www.npo.gov.za/,active,False
 ZA-PBO,ZA,http://www.sars.gov.za/home.asp?pid=170,withdrawn,False
 ZM-COA,ZM,https://gov-id-finder.codeforiati.org/countries/ZM/,active,True
-ZM-PCR,ZM,http://www.pacra.org.zm/,active,False
-ZM-RNGO,ZM,https://www.mcdsw.gov.zm/?page_id=5232,active,False
+ZM-PCR,ZM,http://www.pacra.org.zm/,active,True
+ZM-RNGO,ZM,https://www.mcdss.gov.zm/?page_id=1990,active,False
+ZM-RS,ZM,https://www.mohais.gov.zm/?page_id=1562,active,False
 ZW-COA,ZW,https://gov-id-finder.codeforiati.org/countries/ZW/,active,True
 ZW-PVO,ZW,,active,False
 ZW-ROD,ZW,http://www.dcip.gov.zw/,active,False

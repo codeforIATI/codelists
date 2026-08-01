@@ -1,4 +1,4 @@
-<codelist name="OrganisationRegistrationAgency" date-last-modified="2026-07-20T13:28:53.582570+00:00" version="" xml:lang="en">
+<codelist name="OrganisationRegistrationAgency" date-last-modified="2026-08-01T12:54:05.807809+00:00" version="" xml:lang="en">
   <OrganisationRegistrationAgency>
     <code>AD-COA</code>
     <name>Andorra Chart of Accounts</name>
@@ -472,6 +472,14 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+    <category>BA</category>
+    <category-name>Bosnia and Herzegovina</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>BA-JIB</code>
+    <name>Unique Identification Number (Tax)</name>
+    <language>en</language>
+    <description>The issuing of Unique Identification Numbers in Bosnia and Herzegovina is delegated to three decentralised entities: the Federation of Bosnia and Herzegovina, Republika Srpska and the Br&#269;ko District. The Indirect Taxation Authority of Bosnia and Herzegovina (ITA/UINO) provides official verification tools for validating a JIB for entities that are registered to pay VAT across all three delegated entities, which excludes some organisations. Where an organisation doesn't appear in the UINO tool, verification can be made by asking for a JIB registration certificate. Organisations may also publish their JIB on their website.</description>
     <category>BA</category>
     <category-name>Bosnia and Herzegovina</category-name>
   </OrganisationRegistrationAgency>
@@ -1274,7 +1282,9 @@ The use of Mercado P&#250;blico identifiers is considered a temporary measure. T
     <language>en</language>
     <description>Any company that will be subject to taxes in Chile must obtain a Rol &#218;nico Tributario (RUT).  
 
-A RUT has 7 or 8 digits, plus a check digit. Identifiers should be presented without any punctuation and including the check digit. </description>
+A RUT has 7 or 8 digits, plus a check digit. Identifiers should be presented without any punctuation and including the check digit. 
+
+The Servicio de Impuestos Internos (SII) is the official tax authority responsible for issuing the RUT in Chile. It is essential for individuals and businesses to register with the SII to obtain their tax number.</description>
     <category>CL</category>
     <category-name>Chile</category-name>
   </OrganisationRegistrationAgency>
@@ -1370,6 +1380,20 @@ Users should refer to CO-RUE for unique identifiers for Colombia. CO-CCB has ben
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+    <category>CO</category>
+    <category-name>Colombia</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>CO-NIT</code>
+    <name>Colombian Tax Identification Number</name>
+    <language>en</language>
+    <description>The NIT is a tax identification number assigned by DIAN (Direcci&#243;n de Impuestos y Aduanas Nacionales), Colombia's national tax and customs authority. It uniquely identifies legal entities, businesses, and individuals for tax purposes. 
+
+To obtain a NIT an application must be made to the DIAN for a Registro &#218;nico Tributario (RUT) during which process the NIT will be assigned.
+
+The NIT consists of a 9-digit base number plus a single verification digit, separated by a hyphen. This verification digit should be omitted when creating an organisation reference. The NIT is sometimes written as three 3-digit numbers, separated by dots, in which case the dots should be removed.
+
+</description>
     <category>CO</category>
     <category-name>Colombia</category-name>
   </OrganisationRegistrationAgency>
@@ -2027,6 +2051,14 @@ Encourage and register the establishment of chambers of commerce and sectorial a
     <category-name>Ethiopia</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>ET-TIN</code>
+    <name>Ethiopia Tax Identification Number</name>
+    <language>en</language>
+    <description>TIN is a ten-digit identifier assigned to individuals and entities for tax purposes in Ethiopia. It is a permanent identification number and never changes. TINS are administered by the Ethiopian Ministry of Revenue. A TIN is assigned to: individual taxpayers; sole proprietors; partnerships; companies and legal entities; other organisations with tax obligations.</description>
+    <category>ET</category>
+    <category-name>Ethiopia</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>FI-COA</code>
     <name>Finland Chart of Accounts</name>
     <language>en</language>
@@ -2666,6 +2698,14 @@ Searches of the register, by company name, can be made at https://egovonline.geg
     <category-name>Ghana</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>GH-TIN</code>
+    <name>Ghana Tax Identification Number (TIN)</name>
+    <language>en</language>
+    <description>The Tax Identification Number (TIN) in Ghana is issued by the Ghana Revenue Authority (GRA) under the Tax Identification Number Act, 2002 (Act 632). All legal entities, including companies, public institutions, NGOs, charities, and other organisations with legal personality, are required to register for a TIN for tax and administrative purposes. These identifiers are therefore suitable for use as reliable organisation identifiers in open data publications. TINs are typically alphanumeric and are assigned upon registration with the GRA.</description>
+    <category>GH</category>
+    <category-name>Ghana</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>GI-COA</code>
     <name>Gibraltar Chart of Accounts</name>
     <language>en</language>
@@ -3248,6 +3288,14 @@ Lists of registered organisations can be found online by state and year: https:/
     <category-name>India</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>IN-PAN</code>
+    <name>India Permanent Account Number</name>
+    <language>en</language>
+    <description>PAN is a ten-character alpha-numeric identifier assigned automatically at the time of creation/incorporation to individuals and entities for tax purposes in India. PANs are administered by India's Income Tax Department. It is a permanent, stable identification number and does not change. Notably the fourth character is a letter denoting the legal structure of the holder.</description>
+    <category>IN</category>
+    <category-name>India</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>IO-COA</code>
     <name>British Indian Ocean Territory (the) Chart of Accounts</name>
     <language>en</language>
@@ -3268,6 +3316,14 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+    <category>IQ</category>
+    <category-name>Iraq</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>IQ-MOT</code>
+    <name>Iraq Ministry of Trade &#8211; Registrar of Companies</name>
+    <language>en</language>
+    <description>The Registrar of Companies operates under the Ministry of Trade of the Republic of Iraq and is responsible for the registration of companies in Iraq. Upon incorporation, companies are assigned an official registration number which appears on the certificate of incorporation and related legal documents. These identifiers can be used to uniquely identify companies in open data publications such as IATI.</description>
     <category>IQ</category>
     <category-name>Iraq</category-name>
   </OrganisationRegistrationAgency>
@@ -3666,6 +3722,22 @@ After obtaining MOFA or MOI approval to be established, a foreign or local NGO m
     <category-name>Cambodia</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>KH-TIN</code>
+    <name>Cambodia Tax Identification Number</name>
+    <language>en</language>
+    <description>The Tax Identification Number (TIN) is issued by the General Department of Taxation in Cambodia. All tax paying entities, including companies, NGOs, and other organisations with legal personality, are required to obtain a TIN, which is unique to the entity or person and persists over time. These identifiers can therefore be reliably used as identifiers in open data publications. 
+Identifiers are formed using one letter + a twelve-digit code (e.g., L00X-XXXXXXXXX). 
+
+Structure: 
+L00: Standard prefix (may vary depending on registration system) 
+X: Indicates the registration type/source (e.g., G for general) 
+XXXXXXXXXXX: Unique 11-digit numeric sequence assigned to the taxpayer 
+
+There is no online register.</description>
+    <category>KH</category>
+    <category-name>Cambodia</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>KI-COA</code>
     <name>Kiribati Chart of Accounts</name>
     <language>en</language>
@@ -3946,6 +4018,14 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <category-name>Lesotho</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>LS-HEI</code>
+    <name>Lesotho Higher Education Institution Registration Number (HEI)</name>
+    <language>en</language>
+    <description>Higher Education Institution (HEI) Registration Numbers are issued by the Ministry of Education and Training of the Kingdom of Lesotho. These identifiers are assigned to institutions registered under the Higher Education Act, 2004, as confirmed in official registration certificates issued by the Ministry. HEI numbers are used for accreditation, compliance, and regulatory oversight of institutions offering higher education programmes in Lesotho.</description>
+    <category>LS</category>
+    <category-name>Lesotho</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>LS-LCN</code>
     <name>Lesotho Council of Non Governmental Organisations</name>
     <language>en</language>
@@ -3954,6 +4034,16 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 "The Lesotho Council of Non-Governmental Organisations (LCN) is an umbrella organizations for NGOs in Lesotho. It was established in May 1990 with an objective of providing supportive services to the NGO Community. The Council implements this through networking and leadership training and development, information dissemination, capacity building, coordination, advocacy and representation when dealing with the government and the international community." [1]
 
 [1] http://www.lcn.org.ls/about/default.php</description>
+    <category>LS</category>
+    <category-name>Lesotho</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>LS-SRN</code>
+    <name>Society Registration Number, Lesotho</name>
+    <language>en</language>
+    <description>The Registrar General&#8217;s Office of Lesotho is responsible for a range of activities: patents, marriages, citizenship, the registration of publications and the collection of government revenue.
+
+It is also responsible for the registration of societies, including Non-Government Organisations. </description>
     <category>LS</category>
     <category-name>Lesotho</category-name>
   </OrganisationRegistrationAgency>
@@ -4152,6 +4242,24 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <category-name>Montenegro</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>ME-PIB</code>
+    <name>Montenegro Tax Identification Number</name>
+    <language>en</language>
+    <description>The Tax Identification Number (Poreski Identifikacioni Broj &#8211; PIB) is assigned to businesses and legal entities in Montenegro for tax-related activities. 
+
+The Tax Administration of Montenegro (Poreska uprava Crne Gore) is responsible for issuing identification numbers. Typically, organisations register with the Central Register of Business Entities (CRPS) first, then submit their company registration documents to the Tax Administration.
+
+Format of Montenegro tax numbers:
+
+- Length: 8 digits
+- Type: Numeric only (no letters)
+- A PIB is a unique identifier, which does not change once assigned
+- Example format: 01234567
+- No available online search</description>
+    <category>ME</category>
+    <category-name>Montenegro</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>MF-COA</code>
     <name>Saint Martin (French part) Chart of Accounts</name>
     <language>en</language>
@@ -4268,9 +4376,13 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <code>MM-MHA</code>
     <name>Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations</name>
     <language>en</language>
-    <description>The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed. 
+    <description>The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.
 
-There is no URL for the Ministry, nor is there a publicly available database of NGO information.</description>
+There is no URL for the Ministry, nor is there a publicly available database of NGO information.
+
+This list is also considered the modern equivalent for societies and associations previously registered under earlier legislation, including the Association Registration Law 2014 and the colonial-era Societies Registration Act (under which some organisations may hold certificates predating Myanmar's independence in 1948).
+
+Where an organisation's registration predates the current system, the registration year should be included as part of the identifier to ensure uniqueness (e.g. MM-MHA-0004-1951), following the same convention used for other lists where numbering may reset across years.</description>
     <category>MM</category>
     <category-name>Myanmar</category-name>
   </OrganisationRegistrationAgency>
@@ -4920,6 +5032,44 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <category-name>New Zealand</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>NZ-CR</code>
+    <name>New Zealand Charities Register</name>
+    <language>en</language>
+    <description>New Zealand's charity regulator, Charities Services, assigns each registered charity a Charities Registration Number. This is often referred to as a 'CC' number because it typically begins with those letters.
+
+Only registered charities receive a Charities Registration Number. Registration under the Charities Act 2005 is voluntary, although registration is generally required to access charitable tax exemptions and to describe the organisation as a registered charitable entity. [1]
+
+[1] https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/about-the-charities-register</description>
+    <category>NZ</category>
+    <category-name>New Zealand</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>NZ-NZBN</code>
+    <name>New Zealand Business Number</name>
+    <language>en</language>
+    <description>The New Zealand Business Number (NZBN) is New Zealand's official business identifier system. It is a unique identifier designed to provide a single, authoritative way to identify businesses and share core business information.
+
+The NZBN is available to all New Zealand businesses and organisations, including:
+- Companies
+- Sole traders (self-employed individuals)
+- Partnerships
+- Trusts
+- Registered charities
+- Incorporated societies
+- Government agencies
+- Other registered organisations carrying on business activities in New Zealand. 
+
+The NZBN is intended to be a persistent identifier for the business entity to which it is assigned. [1]
+
+Many registered entities (such as companies registered with the Companies Office) are automatically allocated an NZBN. Sole traders, partnerships, trusts, and some other entities may need to apply for one if they do not already have one. [2]
+
+[1] https://www.nzbn.govt.nz/whats-an-nzbn/about/
+[2] https://www.nzbn.govt.nz/get-an-nzbn/applying-for-an-nzbn
+</description>
+    <category>NZ</category>
+    <category-name>New Zealand</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>OM-COA</code>
     <name>Oman Chart of Accounts</name>
     <language>en</language>
@@ -5124,6 +5274,24 @@ Authority" [1]
     <category-name>Pakistan</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>PK_IS-IRT</code>
+    <name>Islamabad Registrar of Trusts, Pakistan</name>
+    <language>en</language>
+    <description>Registration and regulation of Trusts in Pakistan were previously governed under the Trusts Act, 1882. New laws governing Trusts were enacted in 2020 whereby each province now has full autonomy regarding trust registration and other trust-related deeds. They are:
+
+- The Islamabad Capital Territory Trust Act, 2020
+- The Punjab Trusts Act, 2020
+- The Sindh Trusts Act, 2020
+- The Khyber Pakhtunkhwa Trust Act, 2020
+- The Balochistan Trusts Act, 2020
+
+This list is for trusts registered with the Sub-Registrar in the province of Islamabad.
+
+The official government authority that handles trust registration and related matters in Islamabad is part of the Islamabad Capital Territory Administration (ICT Administration) &#8212; specifically within the Directorate of Labour and Industries, under the Islamabad Capital Territory Trust Act, 2020.</description>
+    <category>PK</category>
+    <category-name>Pakistan</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>PL-COA</code>
     <name>Poland Chart of Accounts</name>
     <language>en</language>
@@ -5318,6 +5486,18 @@ The identification number is created primarily for tax purposes.</description>
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+    <category>QA</category>
+    <category-name>Qatar</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>QA-MOI</code>
+    <name>Qatar Ministry of Interior - Establishment Number</name>
+    <language>en</language>
+    <description>An establishment number (also known as a computer card number or establishment ID) in Qatar is a unique identifier assigned by the Ministry of Interior (MOI) and used for registration with the Ministry of Labour (MOL). 
+
+It is required for official labour transactions, such as obtaining work permits, and is part of the documentation provided upon company registration/incorporation in Qatar.
+
+The establishment number is 8-digits long and numeric. It does not change once assigned.</description>
     <category>QA</category>
     <category-name>Qatar</category-name>
   </OrganisationRegistrationAgency>
@@ -5591,13 +5771,16 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <code>SE-ON</code>
     <name>Business Registration Number (Organisationsnummer), Sweden</name>
     <language>en</language>
-    <description>"The organization number is a unique identifier assigned to legal entities, such as companies and associations. 
+    <description>The organization number is a unique identifier assigned to legal entities, such as companies and associations. 
 
-The authority that registers the company or association when it is to be started assigns the organizational number. Most companies and associations have their organization number from the Swedish Companies Registration Office [Bolagsverket](http://www.bolagsverket.se). But also, for example, the Swedish Tax Agency and Land Survey allocate organizational numbers.
+"The authority that registers the company or association when it is to be started assigns the organization number. Most companies and associations receive their organization number from the Swedish Companies Registration Office (Bolagsverket). 
 
-From the Swedish Companies Registration Office, the company or association has its organization number when we have decided to register. The organization number is on the registration certificate that we send out."[1]
+ Some other examples of authorities that assign organization numbers are:
+ * the Swedish Tax Agency 
+ * Kammarkollegiet (registered religious communities) 
+  * Land Survey (community associations)" [1]
 
-"The first digit of the organization number is called "Group Number" and specifies the company form or other legal form to which the legal entity is grouped. The following group numbers may occur.
+"The first digit of the organization number is called "Group Number" and specifies the company form or other legal form to which the legal entity is grouped. The following group numbers may occur:
 
 1 - Death certificate
 2 - State, county council, municipalities, parishes
@@ -5606,11 +5789,9 @@ From the Swedish Companies Registration Office, the company or association has i
 6 - Single company
 7 - Economic associations , tenant-owner associations
 8 - Ideal associations and foundations
-9 - Trading companies , limited companies and simple companies"[2]
+9 - Trading companies , limited companies and simple companies" [2]
 
-Non-commerical organsiation are searchable through other third-party applications, e.g. https://www.allabolag.se/
-
-[1] http://www.bolagsverket.se/ff/foretagsformer/organisationsnummer-1.7902
+[1] https://bolagsverket.se/foretag/organisationsnummer.1207.html
 [2] https://sv.wikipedia.org/wiki/Organisationsnummer#Organisationsnummer</description>
     <category>SE</category>
     <category-name>Sweden</category-name>
@@ -6026,6 +6207,26 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <category-name>Togo</category-name>
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
+    <code>TG-NIF</code>
+    <name>Togo National Tax Identification Number (NIF)</name>
+    <language>en</language>
+    <description>The Num&#233;ro d'Identification Fiscale (NIF) is a tax identification number issued by the Office Togolais des Recettes (OTR). NIFs are assigned to registered taxpayers, including legal entities, and appear on official tax registration documents. The identifier may be used to identify organisations in open data publications such as IATI.</description>
+    <category>TG</category>
+    <category-name>Togo</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>TG-ONE</code>
+    <name>NGO Registration Number, Togo</name>
+    <language>en</language>
+    <description>To register as a national NGO an organisation must be an apolitical, non-profit and non-commercial national association created to carry out an activity of general interest, solidarity or voluntary cooperation for development and have operated at least two years of activities on the national territory.
+
+To register as an international or foreign NGO an organisation must carry out activities of general interest of a priority nature and falling within the competence of the Togolese government.
+
+Organisations apply via an online procedure, which also outlines a comprehensive set of requirements for each NGO type.</description>
+    <category>TG</category>
+    <category-name>Togo</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
     <code>TH-COA</code>
     <name>Thailand Chart of Accounts</name>
     <language>en</language>
@@ -6062,6 +6263,30 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+    <category>TJ</category>
+    <category-name>Tajikistan</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>TJ-TIN</code>
+    <name>Tajikstan Tax Identification Number</name>
+    <language>en</language>
+    <description>Under Tajik law, all legal entities &#8212; including NGOs &#8212; are required to register with the national tax authority (Tax Committee under the Government of the Republic of Tajikistan). 
+
+Once the entity is registered with the tax authority:
+
+- the tax authority issues the Taxpayer Identification Number (TIN) to the organization
+- this number is assigned once and cannot be changed or reused, even if the entity is later dissolved
+- the entity typically receives a certificate confirming the assignment of the TIN from the tax authority.
+
+The TIN is used for all official tax reporting, financial transactions, and interactions with tax authorities in Tajikistan.
+
+TINs consist of 9 digits. The specific structure includes:&#8203; 
+
+- First Part: Indicates the entity type or individual categorization.&#8203; 
+- Middle Section: A unique identifier related to individual or business registration numbers.&#8203; 
+- Last Section: Digits used for validation purposes. [1]
+
+[1] https://taxdo.com/resources/global-tax-id-validation-guide/tajikistan</description>
     <category>TJ</category>
     <category-name>Tajikistan</category-name>
   </OrganisationRegistrationAgency>
@@ -6156,9 +6381,9 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
   </OrganisationRegistrationAgency>
   <OrganisationRegistrationAgency>
     <code>TR-MOI</code>
-    <name>Department of Associations (Ministry of Interior, Turkey)</name>
+    <name>Directorate General for Relations with Civil Society (Ministry of Interior, Turkey)</name>
     <language>en</language>
-    <description>All non-profit associations operating in Turkey should register with the Department of Associations. 
+    <description>All non-profit associations operating in Turkey should register with the Directorate General for Relations with Civil Society (Formerly the Department of Associations). 
 
 During registration, they will be given a registration number. </description>
     <category>TR</category>
@@ -6937,6 +7162,18 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
     <name>Department of Registrar for NGOs</name>
     <language>en</language>
     <description>All NGOs, including INGOs, are required since 2009 to be registered here to be allowed to operate (Act 16, 2009). Registration needs to be renewed every 5 years. The year of registration/renewal is part of the ID but should be omitted.</description>
+    <category>ZM</category>
+    <category-name>Zambia</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>ZM-RS</code>
+    <name>Zambia Registrar of Societies</name>
+    <language>en</language>
+    <description>The Registrar of Societies, a department under the Ministry of Home Affairs and Internal Security, registers organisations under the Societies Act Chapter 119 of the Laws of Zambia. The register covers a wide range of society types including political parties, religious groups, pressure groups, international societies, professional societies, cultural groups, sports clubs, women's and youth groups, and community service organisations such as orphanages and welfare organisations.
+
+Organisations apply to the Registrar of Societies for registration and, upon approval, receive a Certificate of Society Registration. Registration is subject to annual renewal (payment due before 31st March each year).
+
+Note that the Registrar of Societies is distinct from the Registrar of NGOs (under the Ministry of Community Development and Social Services), which registers organisations under the Non-Governmental Organisations Act No. 16 of 2009. Registration is subject to renewal, but there is nothing to suggest that IDs are not stable through renewal except where a name change is involved.</description>
     <category>ZM</category>
     <category-name>Zambia</category-name>
   </OrganisationRegistrationAgency>

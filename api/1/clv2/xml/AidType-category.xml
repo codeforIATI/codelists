@@ -58,6 +58,11 @@
             <description>Groups a number of contributions that do not give rise to a cross-border flow.</description>
             <description xml:lang="fr">Regroupe diverses contributions qui n&#8217;entra&#238;nent pas de mouvement de fonds transnationaux.</description>
         </codelist-item>
+        <codelist-item status="active">
+            <code>J</code>
+            <name>In-kind donation of goods</name>
+            <name xml:lang="fr">Dons en nature</name>
+        </codelist-item>
     </codelist-items>
 </codelist>
 

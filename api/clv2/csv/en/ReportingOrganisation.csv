@@ -509,7 +509,7 @@ UG-RSB-29587,The Uganda Association of Women Lawyers (FIDA Uganda),active,Nation
 US-EIN-31-1812979,CREA,active,International NGO,21,creausa-org,India
 NL-KVK-52957535,Free Press Unlimited,active,International NGO,21,free_press_unlimited,Netherlands (the)
 NL-KVK-41172933,WASTE advisers on urban environment and development,active,Foundation,60,waste,Netherlands (the)
-FR-SIRET-77566669600015,SECOURS CATHOLIQUE - CARITAS FRANCE,active,International NGO,21,sccf,France
+FR-SIRET-77566669600015,Secours Catholique - Caritas France,active,International NGO,21,sccf,France
 GB-CHC-1062638,Disasters Emergency Committee,active,National NGO,22,dec-uk,United Kingdom of Great Britain and Northern Ireland (the)
 US-EIN-91-1179750,Peace Brigades International,active,International NGO,21,pbi_io,United States of America (the)
 NL-KVK-40409352,Netherlands Red Cross,active,International NGO,21,nlrc,Netherlands (the)
@@ -1013,7 +1013,7 @@ NL-KVK-70048436,Global Rights Compliance Foundation,active,Foundation,60,grc2018
 US-EIN-11-3580024,International Center for Transitional Justice,active,International NGO,21,ictj,United States of America (the)
 DK-CVR-19348407,CISU,active,National NGO,22,cisu,Denmark
 UG-NGB-0498,Mukisa Foundation,active,National NGO,22,mukisa_foundation,Uganda
-NL-KVK-27367015,Netherlands Organisation for Scientific Research (NWO),active,Government,10,nwo,Netherlands (the)
+NL-KVK-27367015,Dutch Research Council (NWO),active,Government,10,nwo,Netherlands (the)
 US-EIN-13-3377893,Rainforest Alliance,active,International NGO,21,rainforest-alliance,United States of America (the)
 GB-CHC-1127366,British Asian Trust,active,International NGO,21,b_a_t,United Kingdom of Great Britain and Northern Ireland (the)
 RW-RGB-002-RGB-NGO-2017,EDUCATION DEVELOPMENT TRUST - RWANDA,withdrawn,International NGO,21,edt_rwanda,Rwanda
@@ -1836,7 +1836,7 @@ UA-EDR-24719411,"ARGUS, Company with Foreign Capital",active,Private Sector,70,a
 CA-CRA_ACR-892100884,Commonwealth of Learning,active,Other Public Sector,15,col,Canada
 GB-CHC-210639,The Royal United Services Institute for Defence and Security Studies,active,National NGO,22,rusi,United Kingdom of Great Britain and Northern Ireland (the)
 XM-OCHA-HPC1888,Rainwater Association of Somalia-RAAS,active,National NGO,22,inforaas,Somalia
-XM-OCHA-HPC6052,Himilo Relief and Development Association (HIRDA),active,National NGO,22,hirda,Somalia
+XM-OCHA-HPC6052,Himilo Relief and Development Association （HIRDA Somalia）,active,National NGO,22,hirda,Somalia
 BE-BCE_KBO-0665.649.335,Seefar Foundation,active,International NGO,21,seefarfoundation,Belgium
 XM-OCHA-HPC5902,PHYSICIANS ACROSS CONTINENTS (PAC),active,International NGO,21,pac_som,Somalia
 XM-OCHA-HPC3382,Somali Community Concern,active,National NGO,22,scc_2025,Somalia
@@ -2042,10 +2042,20 @@ GB-GOV-28,Medicines and Healthcare products Regulatory Agency (MHRA),active,Othe
 MX-RFC-UAQ510111MQ9,Universidad Autonoma de Queretaro,active,"Academic, Training and Research",80,uaq,Mexico
 CO-NIT-901269139,Fundación Oxfam Colombia,active,National NGO,22,fundacion_oxfam_colombia,Colombia
 KE-KRA-P051915774Y,Africa Research & Impact Network (ARIN),active,Other,90,arin,Kenya
+IN-MHA-231660448,CENTRE FOR CHRONIC DISEASE CONTROL,active,National NGO,22,ccdc_india,India
+TG-NIF-1000047187,Women in Law and Development in Africa-Afrique de l’Ouest (WiLDAF-AO),active,International NGO,21,wildafao,Togo
 CH-FDJP-CHE365512867,NCD Alliance,active,International NGO,21,ncdalliance,Switzerland
 XI-ROR-0405n5e57,National Institute of Mental Health and Neuro Sciences (NIMHANS),active,Government,10,nimhans,India
 SE-ON-802416-0262,Fredens Hus,active,National NGO,22,fredenshus,Sweden
 SE-ON-802539-4035,ADRA Sweden,active,International NGO,21,adra-sweden,Sweden
+GB-COH-07921860,Institutional Investors Group on Climate Change,active,Other Public Sector,15,iigcc,United Kingdom of Great Britain and Northern Ireland (the)
+MZ-MOJ-100493543,Associaçao de Protecao do Idosos de Tete,active,National NGO,22,apite,Mozambique
+GB-COH-12075030,Impact Knowledge Limited T/A Impact Capital Africa,active,Private Sector in Provider Country,71,ica,United Kingdom of Great Britain and Northern Ireland (the)
+GB-CHC-1111719,Anglo American Foundation,active,Foundation,60,aaf,United Kingdom of Great Britain and Northern Ireland (the)
+TZ-NNCB-00NGO00009862,Mtandao wa vikundi vya wakulima na wafugaji Nyancha,active,National NGO,22,mviwanya,"Tanzania, the United Republic of"
+UA-EDR-45583070,VRUNA,active,National NGO,22,vruna,Ukraine
+XI-ROR-01ej9dk98,University of Melbourne,active,"Academic, Training and Research",80,unimelb,Australia
+TH-MOI-KhorThor3005,Thai Lawyers for Human Rights,active,Foundation,60,tlhr,Thailand
 SE-ON-252002-6135,Trossamfundet Svenska kyrkan,active,Other,90,cos,Sweden
 SE-ON-802402-6521,Clowns Without Borders Sweden,active,International NGO,21,cwb-sweden,Sweden
 GB-UKPRN-10001282,University of Northumbria,active,"Academic, Training and Research",80,northumbriauni,United Kingdom of Great Britain and Northern Ireland (the)
@@ -2053,6 +2063,11 @@ SE-ON-202100-5984,Swedish Civil Defence and Resilience Agency,active,Government,
 XI-ROR-03GH19D6,The University of Zambia,active,"Academic, Training and Research",80,unza,Zambia
 MW-RG-11429,Partners In Health,active,International NGO,21,pih,Malawi
 US-SAM-P8V7YEC1GN34,Pangea Africa Ltd,active,Private Sector,70,pangeaafrica,Ghana
+ZA-CIP-2025-956558-08,Impact Finance Facility NPC,active,Other,90,iff-npc,South Africa
+ZA-CIT-9063151162,University of KwaZulu-Natal,active,"Academic, Training and Research",80,ukzn,South Africa
+MZ-MOJ-821-B,Diocese dos Libombos - ASA,active,Partner Country based NGO,24,asa,Mozambique
+BR-CNPJ-01567601-0001-43,Universidade Federal de Goiás,active,"Academic, Training and Research",80,ufg,Brazil
+ET-CSA-0067,Tesfa Social & Development Association,active,National NGO,22,tsda,Ethiopia
 CR-RPJ-3-002-248583,Comunidades Ecologistas La Ceiba - COECOCEIBA,active,National NGO,22,coecoceiba,Costa Rica
 TZ-NNCB-00NGO-R-4900,OKIA TANZANIA,active,,,okia-tz,"Tanzania, the United Republic of"
 FR-RCS-83162039800030,The Alliance for International Medical Action (ALIMA),active,International NGO,21,alima,France

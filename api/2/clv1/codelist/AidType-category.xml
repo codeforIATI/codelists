@@ -1,4 +1,4 @@
-<codelist name="AidType-category" date-last-modified="2026-07-20T13:28:33.659896+00:00" version="" xml:lang="en">
+<codelist name="AidType-category" date-last-modified="2026-08-01T12:53:44.747741+00:00" version="" xml:lang="en">
   <AidType-category>
     <code>A</code>
     <name>Budget support</name>
@@ -43,5 +43,10 @@
     <name>Other in-donor expenditures</name>
     <language>en</language>
     <description>Groups a number of contributions that do not give rise to a cross-border flow.</description>
+  </AidType-category>
+  <AidType-category>
+    <code>J</code>
+    <name>In-kind donation of goods</name>
+    <language>en</language>
   </AidType-category>
 </codelist>

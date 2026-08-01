@@ -1,4 +1,4 @@
-<codelist name="FinanceType" date-last-modified="2026-07-20T13:28:55.794076+00:00" version="" xml:lang="en">
+<codelist name="FinanceType" date-last-modified="2026-08-01T12:54:04.787838+00:00" version="" xml:lang="en">
   <FinanceType>
     <code>1</code>
     <name>GNI: Gross National Income</name>
@@ -200,6 +200,14 @@
     <name>Other hybrid instruments</name>
     <language>en</language>
     <description>Including convertible debt or equity.</description>
+    <category>430</category>
+    <category-name>MEZZANINE FINANCE INSTRUMENTS</category-name>
+  </FinanceType>
+  <FinanceType>
+    <code>434</code>
+    <name>Multilateral hybrid capital</name>
+    <language>en</language>
+    <description>Hybrid capital instruments issued by multilateral institutions</description>
     <category>430</category>
     <category-name>MEZZANINE FINANCE INSTRUMENTS</category-name>
   </FinanceType>

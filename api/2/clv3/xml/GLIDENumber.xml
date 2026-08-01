@@ -27,6 +27,272 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>WF-2026-000138-DZA</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23886</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>DZA</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Algeria</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-18</codeforiati:date>
+            <codeforiati:glide-serial>2026-000138</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2026-000137-VNM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23885</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Viet Nam</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-18</codeforiati:date>
+            <codeforiati:glide-serial>2026-000137</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2026-000136-CHN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23884</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>CHN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>China, People's Republic</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-25</codeforiati:date>
+            <codeforiati:glide-serial>2026-000136</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EQ-2026-000135-JPN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23883</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>JPN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Japan</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-28</codeforiati:date>
+            <codeforiati:glide-serial>2026-000135</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2026-000134-TCD</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23882</url>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Epidemic</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>TCD</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Chad</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-15</codeforiati:date>
+            <codeforiati:glide-serial>2026-000134</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2026-000133-CHN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23881</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Tropical Cyclone</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>CHN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>China, People's Republic</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-27</codeforiati:date>
+            <codeforiati:glide-serial>2026-000133</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TC-2026-000133-PHL</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23880</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Tropical Cyclone</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>PHL</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Philippines</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-27</codeforiati:date>
+            <codeforiati:glide-serial>2026-000133</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000132-TUN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23879</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>TUN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Tunisia</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-21</codeforiati:date>
+            <codeforiati:glide-serial>2026-000132</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000131-ESP</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23878</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>ESP</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Spain</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-25</codeforiati:date>
+            <codeforiati:glide-serial>2026-000131</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000130-ESP</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23877</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>ESP</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Spain</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-22</codeforiati:date>
+            <codeforiati:glide-serial>2026-000130</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000129-FRA</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23876</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>FRA</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>France</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-22</codeforiati:date>
+            <codeforiati:glide-serial>2026-000129</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000128-ESP</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23875</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>ESP</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Spain</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-18</codeforiati:date>
+            <codeforiati:glide-serial>2026-000128</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2026-000127-CHN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23874</url>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flash Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>CHN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>China, People's Republic</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-26</codeforiati:date>
+            <codeforiati:glide-serial>2026-000127</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000126-TUR</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23873</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>TUR</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Turkey</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-15</codeforiati:date>
+            <codeforiati:glide-serial>2026-000126</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2026-000122-USA</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23869</url>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flash Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>USA</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>United States</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-21</codeforiati:date>
+            <codeforiati:glide-serial>2026-000122</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2026-000121-IND</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23868</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>India</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-18</codeforiati:date>
+            <codeforiati:glide-serial>2026-000121</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2026-000120-AFG</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23867</url>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flash Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>AFG</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Afghanistan</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-20</codeforiati:date>
+            <codeforiati:glide-serial>2026-000120</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000119-CAN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23866</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>CAN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Canada</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-17</codeforiati:date>
+            <codeforiati:glide-serial>2026-000119</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LS-2026-000118-CHN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23865</url>
+            <codeforiati:event-code>LS</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Land Slide</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>CHN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>China, People's Republic</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-17</codeforiati:date>
+            <codeforiati:glide-serial>2026-000118</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>DR-2026-000117-ETH</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23864</url>
             <codeforiati:event-code>DR</codeforiati:event-code>

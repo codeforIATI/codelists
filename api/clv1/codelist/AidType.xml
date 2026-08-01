@@ -1,4 +1,4 @@
-<codelist name="AidType" date-last-modified="2026-07-20T13:28:34.807093+00:00" version="" xml:lang="en">
+<codelist name="AidType" date-last-modified="2026-08-01T12:53:46.485168+00:00" version="" xml:lang="en">
   <AidType>
     <code>A01</code>
     <name>General budget support</name>
@@ -219,5 +219,14 @@
     <category>H</category>
     <category-name>Other in-donor expenditures</category-name>
     <category-description>Groups a number of contributions that do not give rise to a cross-border flow.</category-description>
+  </AidType>
+  <AidType>
+    <code>J01</code>
+    <name>In-kind donation of goods</name>
+    <language>en</language>
+    <description>Donation of goods and materials. Includes food, equipment&#13;
+(including medical equipment), materials, and motor vehicles.</description>
+    <category>J</category>
+    <category-name>In-kind donation of goods</category-name>
   </AidType>
 </codelist>

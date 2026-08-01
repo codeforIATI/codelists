@@ -248,6 +248,15 @@
             <description>Costs incurred in other non-ODA eligible provider countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months. The host and origin country of refugees/asylum seekers shall be specified in one of the descriptive fields of the CRS (fields 14 or 19).</description>
             <description xml:lang="fr">Co&#251;ts encourus dans d'autres pays fournisseurs non &#233;ligibles &#224; l'APD pour l'assistance de base aux demandeurs d'asile et aux r&#233;fugi&#233;s des pays en d&#233;veloppement, jusqu'&#224; 12 mois. Le pays d'accueil et d'origine des r&#233;fugi&#233;s/demandeurs d'asile doit &#234;tre pr&#233;cis&#233; dans l'un des champs descriptifs du SNPC (champs 14 ou 19).</description>
         </codelist-item>
+        <codelist-item status="active">
+            <code>J01</code>
+            <category>J</category>
+            <name>In-kind donation of goods</name>
+            <name xml:lang="fr">Dons en nature</name>
+            <description>Donation of goods and materials. Includes food, equipment&#13;
+(including medical equipment), materials, and motor vehicles.</description>
+            <description xml:lang="fr">Dons en nature de bien et mat&#233;riels. Cela comprend l'alimentation, les &#233;quipements (dont &#233;quipements m&#233;dicaux) du mat&#233;riel et les v&#233;hicules motoris&#233;s.</description>
+        </codelist-item>
     </codelist-items>
 </codelist>
 

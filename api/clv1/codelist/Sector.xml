@@ -1,4 +1,4 @@
-<codelist name="Sector" date-last-modified="2026-07-20T13:28:32.562770+00:00" version="" xml:lang="en">
+<codelist name="Sector" date-last-modified="2026-08-01T12:53:45.276464+00:00" version="" xml:lang="en">
   <Sector>
     <code>11110</code>
     <name>Education policy and administrative management</name>
@@ -779,7 +779,7 @@
     <code>15160</code>
     <name>Human rights</name>
     <language>en</language>
-    <description>Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation and code 15180 for ending violence against women and girls. Use code 15190 for human rights programming for refugees or migrants, including when they are victims of trafficking.Use code 16070 for Fundamental Principles and Rights at Work, i.e. Child Labour, Forced Labour, Non-discrimination in employment and occupation, Freedom of Association and Collective Bargaining.)</description>
+    <description>Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation and code 15180 for ending violence against women and girls. Use code 15190 for human rights programming for refugees or migrants, including when they are victims of trafficking.Use code 16070 for Fundamental Principles and Rights at Work, i.e. Child Labour, Forced Labour, Non-discrimination in employment and occupation, Freedom of Association and Collective Bargaining.)</description>
     <category>151</category>
     <category-name>Government &amp; Civil Society-general</category-name>
     <category-description>N.B. Use code 51010 for general budget support.</category-description>
@@ -2079,7 +2079,7 @@
   </Sector>
   <Sector>
     <code>32174</code>
-    <name>Clean cooking appliances manufacturing</name>
+    <name>Clean cooking appliances manufacturing, market development and distribution</name>
     <language>en</language>
     <description>Includes manufacturing and distribution of efficient biomass cooking stoves, gasifiers, liquid biofuels stoves, solar stoves, gas and biogas stoves, electric stoves.</description>
     <category>321</category>

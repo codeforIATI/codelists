@@ -352,5 +352,18 @@
             </description>
             <category>H</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>J01</code>
+            <name>
+                <narrative>In-kind donation of goods</narrative>
+                <narrative xml:lang="fr">Dons en nature</narrative>
+            </name>
+            <description>
+                <narrative>Donation of goods and materials. Includes food, equipment&#13;
+(including medical equipment), materials, and motor vehicles.</narrative>
+                <narrative xml:lang="fr">Dons en nature de bien et matériels. Cela comprend l'alimentation, les équipements (dont équipements médicaux) du matériel et les véhicules motorisés.</narrative>
+            </description>
+            <category>J</category>
+        </codelist-item>
     </codelist-items>
 </codelist>
