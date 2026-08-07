@@ -27,6 +27,90 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>TC-2026-000144-JPN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23892</url>
+            <codeforiati:event-code>TC</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Tropical Cyclone</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>JPN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Japan</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-08-06</codeforiati:date>
+            <codeforiati:glide-serial>2026-000144</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DR-2026-000143-COD</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23891</url>
+            <codeforiati:event-code>DR</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Drought</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>COD</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Congo Democratic Republic</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-05-21</codeforiati:date>
+            <codeforiati:glide-serial>2026-000143</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000142-GRC</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23890</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>GRC</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Greece</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-31</codeforiati:date>
+            <codeforiati:glide-serial>2026-000142</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2026-000141-MMR</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23889</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>MMR</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Myanmar</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-30</codeforiati:date>
+            <codeforiati:glide-serial>2026-000141</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>WF-2026-000140-GRC</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23888</url>
+            <codeforiati:event-code>WF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Wild fire</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>GRC</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Greece</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-30</codeforiati:date>
+            <codeforiati:glide-serial>2026-000140</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FF-2026-000139-IND</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23887</url>
+            <codeforiati:event-code>FF</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flash Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>IND</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>India</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-27</codeforiati:date>
+            <codeforiati:glide-serial>2026-000139</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>WF-2026-000138-DZA</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23886</url>
             <codeforiati:event-code>WF</codeforiati:event-code>

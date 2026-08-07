@@ -24985,6 +24985,26 @@
             <codeforiati:registry-identifier>wcpf</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-954616</code>
+            <name>
+                <narrative>Institute for Fiscal Studies</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom of Great Britain and Northern Ireland (the)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>IFS</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PH-SEC-0000186387</code>
+            <name>
+                <narrative>Caucus of Development NGO Networks Inc.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Philippines (the)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>code-ngo</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PH-SEC-AN96001837</code>
             <name>
                 <narrative>WWF Philippines</narrative>
