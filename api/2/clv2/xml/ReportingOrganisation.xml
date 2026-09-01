@@ -20144,7 +20144,7 @@
             <codeforiati:registry-identifier>svalornala</codeforiati:registry-identifier>
             <name>Svalorna Latinamerika</name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CA_AB-ABT-555</code>
             <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
@@ -20809,6 +20809,22 @@
             <name>Institute for Fiscal Studies</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>MM-MHA-0004-1951</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Myanmar</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mbcu</codeforiati:registry-identifier>
+            <name>Myanmar Baptist Churches Union</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CR-RPJ-300304509309</code>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Costa Rica</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>catie</codeforiati:registry-identifier>
+            <name>Centro Agron&#243;mico Tropical de Investigaci&#243;n y Ense&#241;anza-CATIE</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PH-SEC-0000186387</code>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -20841,6 +20857,38 @@
             <name>National Association For Popular Action (AMEL)</name>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-21805120120102</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>afosi</codeforiati:registry-identifier>
+            <name>Action For Sustainability Initiative</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-NCB-218051200902226007</code>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>chrips</codeforiati:registry-identifier>
+            <name>CENTRE FOR HUMAN RIGHTS AND POLICY STUDIES</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-RCO-CPR-2013-112912</code>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>eed_2013</codeforiati:registry-identifier>
+            <name>EED Advisory Limited</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-MHA-231660424</code>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>irade</codeforiati:registry-identifier>
+            <name>Integrated Research and Action For Developement</name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GH-TIN-V0004994299</code>
             <codeforiati:organisation-type-code/>
             <codeforiati:organisation-type/>
@@ -20855,6 +20903,22 @@
             <codeforiati:hq-country-or-region>Sierra Leone</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>slurc</codeforiati:registry-identifier>
             <name>Sierra Leone Urban Research Centre (SLURC)</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-ROR-05m2fqn25</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Thailand</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>med-cmu</codeforiati:registry-identifier>
+            <name>Chiang Mai University</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-CHE-207616410</code>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cag</codeforiati:registry-identifier>
+            <name>Centre on Armed Groups</name>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1193984</code>

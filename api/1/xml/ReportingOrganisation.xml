@@ -24164,7 +24164,7 @@
             <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>svalornala</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CA_AB-ABT-555</code>
             <name>
                 <narrative>TEST ORG Stellar updated</narrative>
@@ -24995,6 +24995,26 @@
             <codeforiati:registry-identifier>IFS</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>MM-MHA-0004-1951</code>
+            <name>
+                <narrative>Myanmar Baptist Churches Union</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Myanmar</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mbcu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CR-RPJ-300304509309</code>
+            <name>
+                <narrative>Centro Agronómico Tropical de Investigación y Enseñanza-CATIE</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Costa Rica</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>catie</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PH-SEC-0000186387</code>
             <name>
                 <narrative>Caucus of Development NGO Networks Inc.</narrative>
@@ -25035,6 +25055,46 @@
             <codeforiati:registry-identifier>amel-1979</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-21805120120102</code>
+            <name>
+                <narrative>Action For Sustainability Initiative</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>afosi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-NCB-218051200902226007</code>
+            <name>
+                <narrative>CENTRE FOR HUMAN RIGHTS AND POLICY STUDIES</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>chrips</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-RCO-CPR-2013-112912</code>
+            <name>
+                <narrative>EED Advisory Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>eed_2013</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-MHA-231660424</code>
+            <name>
+                <narrative>Integrated Research and Action For Developement</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>irade</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GH-TIN-V0004994299</code>
             <name>
                 <narrative>Kumasi Centre for Collaborative Research, Kwame Nkrumah University of Science &amp; Technology</narrative>
@@ -25053,6 +25113,26 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sierra Leone</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>slurc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-ROR-05m2fqn25</code>
+            <name>
+                <narrative>Chiang Mai University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Thailand</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>med-cmu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-CHE-207616410</code>
+            <name>
+                <narrative>Centre on Armed Groups</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cag</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1193984</code>
