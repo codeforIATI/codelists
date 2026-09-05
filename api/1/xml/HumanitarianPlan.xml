@@ -151,6 +151,16 @@
             <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>FNPL26</code>
+            <name>
+                <narrative>Nepal Rasuwa Flood Flash Appeal</narrative>
+            </name>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2026</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2026-08-26</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2026-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HNER26</code>
             <name>
                 <narrative>Niger Besoins Humanitaires et Plan de Réponse 2026</narrative>

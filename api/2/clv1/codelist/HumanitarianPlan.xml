@@ -1,4 +1,4 @@
-<codelist name="HumanitarianPlan" date-last-modified="2026-09-02T14:20:57.132107+00:00" version="" xml:lang="en">
+<codelist name="HumanitarianPlan" date-last-modified="2026-09-05T15:17:48.498044+00:00" version="" xml:lang="en">
   <HumanitarianPlan>
     <code>HAFG26</code>
     <name>Afghanistan Humanitarian Needs and Response Plan 2026</name>
@@ -67,6 +67,11 @@
   <HumanitarianPlan>
     <code>HMMR26</code>
     <name>Myanmar Humanitarian Needs and Response Plan 2026</name>
+    <language>en</language>
+  </HumanitarianPlan>
+  <HumanitarianPlan>
+    <code>FNPL26</code>
+    <name>Nepal Rasuwa Flood Flash Appeal</name>
     <language>en</language>
   </HumanitarianPlan>
   <HumanitarianPlan>
