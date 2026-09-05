@@ -3776,8 +3776,8 @@
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands (the)</codeforiati:hq-country-or-region>
-            <codeforiati:registry-identifier>humana_houben</codeforiati:registry-identifier>
-            <name>Stichting Humana</name>
+            <codeforiati:registry-identifier>simone_sympany</codeforiati:registry-identifier>
+            <name>Sympany+</name>
             <name xml:lang="fr">Fondation Humana</name>
             <name xml:lang="es">Stichting Humana</name>
             <name xml:lang="pt">Stichting Humana</name>
@@ -20911,6 +20911,14 @@
             <codeforiati:hq-country-or-region>Thailand</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>med-cmu</codeforiati:registry-identifier>
             <name>Chiang Mai University</name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-UKPRN-10004180</code>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom of Great Britain and Northern Ireland (the)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>manmet</codeforiati:registry-identifier>
+            <name>Manchester Metropolitan University</name>
         </codelist-item>
         <codelist-item status="active">
             <code>CH-FDJP-CHE-207616410</code>

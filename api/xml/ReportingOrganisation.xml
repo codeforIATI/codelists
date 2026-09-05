@@ -4468,7 +4468,7 @@
         <codelist-item status="active">
             <code>NL-KVK-30285304</code>
             <name>
-                <narrative>Stichting Humana</narrative>
+                <narrative>Sympany+</narrative>
                 <narrative xml:lang="fr">Fondation Humana</narrative>
                 <narrative xml:lang="es">Stichting Humana</narrative>
                 <narrative xml:lang="pt">Stichting Humana</narrative>
@@ -4476,7 +4476,7 @@
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands (the)</codeforiati:hq-country-or-region>
-            <codeforiati:registry-identifier>humana_houben</codeforiati:registry-identifier>
+            <codeforiati:registry-identifier>simone_sympany</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1148404</code>
@@ -25123,6 +25123,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Thailand</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>med-cmu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-UKPRN-10004180</code>
+            <name>
+                <narrative>Manchester Metropolitan University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom of Great Britain and Northern Ireland (the)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>manmet</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>CH-FDJP-CHE-207616410</code>
