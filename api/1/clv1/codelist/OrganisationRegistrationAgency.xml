@@ -1,4 +1,4 @@
-<codelist name="OrganisationRegistrationAgency" date-last-modified="2026-09-05T16:16:25.265744+00:00" version="" xml:lang="en">
+<codelist name="OrganisationRegistrationAgency" date-last-modified="2026-10-01T12:54:21.805223+00:00" version="" xml:lang="en">
   <OrganisationRegistrationAgency>
     <code>AD-COA</code>
     <name>Andorra Chart of Accounts</name>
@@ -1380,6 +1380,20 @@ Users should refer to CO-RUE for unique identifiers for Colombia. CO-CCB has ben
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+    <category>CO</category>
+    <category-name>Colombia</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>CO-CUIN</code>
+    <name>Colombian Unique Institutional Code</name>
+    <language>en</language>
+    <description>The C&#243;digo &#218;nico Institucional (CUIN) is a 15-digit numeric code assigned to Colombian public sector entities by the Contadur&#237;a General de la Naci&#243;n (CGN &#8212; National Accounting Authority). It was adopted by Resolution No. 767 of 2013 and has applied to all entities comprising the Colombian public sector from 1 January 2014.
+
+The CUIN classifies entities across three top-level sectors: Public non-financial corporations; Public financial corporations; General government
+
+The CUIN is an 8-part mnemonic code encoding sector, subsector, entity type, supra-region, and territorial level. It is used for public finance monitoring and reporting, and is mandatory for all public sector entities registered in the CHIP (Consolidador de Hacienda e Informaci&#243;n P&#250;blica) system. It is also required by DIAN for annual exogenous information reporting by public entities.
+
+The CUIN is distinct from the NIT (tax identification number) and applies exclusively to public sector entities.</description>
     <category>CO</category>
     <category-name>Colombia</category-name>
   </OrganisationRegistrationAgency>
@@ -2861,6 +2875,14 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+    <category>GW</category>
+    <category-name>Guinea-Bissau</category-name>
+  </OrganisationRegistrationAgency>
+  <OrganisationRegistrationAgency>
+    <code>GW-NIF</code>
+    <name>Guinea-Bissau Tax Identification Number</name>
+    <language>en</language>
+    <description>The N&#250;mero de Identifica&#231;&#227;o Fiscal (NIF) is issued by the Dire&#231;&#227;o-Geral das Contribui&#231;&#245;es e Impostos (DGCI), under the Ministry of Finance of Guinea-Bissau. It identifies taxpayers, including organisations, in the DGCI's fiscal database. NIF identifiers can be used to uniquely identify organisations in open data publications.</description>
     <category>GW</category>
     <category-name>Guinea-Bissau</category-name>
   </OrganisationRegistrationAgency>

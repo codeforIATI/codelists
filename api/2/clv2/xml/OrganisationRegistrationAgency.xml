@@ -1283,6 +1283,19 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
         </codelist-item>
+        <codelist-item public-database="0" status="active">
+            <code>CO-CUIN</code>
+            <category>CO</category>
+            <url>https://www.contaduria.gov.co/definicion-del-codigo-cuin</url>
+            <name>Colombian Unique Institutional Code</name>
+            <description>The C&#243;digo &#218;nico Institucional (CUIN) is a 15-digit numeric code assigned to Colombian public sector entities by the Contadur&#237;a General de la Naci&#243;n (CGN &#8212; National Accounting Authority). It was adopted by Resolution No. 767 of 2013 and has applied to all entities comprising the Colombian public sector from 1 January 2014.
+
+The CUIN classifies entities across three top-level sectors: Public non-financial corporations; Public financial corporations; General government
+
+The CUIN is an 8-part mnemonic code encoding sector, subsector, entity type, supra-region, and territorial level. It is used for public finance monitoring and reporting, and is mandatory for all public sector entities registered in the CHIP (Consolidador de Hacienda e Informaci&#243;n P&#250;blica) system. It is also required by DIAN for annual exogenous information reporting by public entities.
+
+The CUIN is distinct from the NIT (tax identification number) and applies exclusively to public sector entities.</description>
+        </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>CO-NIT</code>
             <category>CO</category>
@@ -2178,7 +2191,7 @@ The full Register of Schools in England is available at https://get-information-
 
 [2]http://org-id.guide/list/GB-WALEDU</description>
         </codelist-item>
-        <codelist-item public-database="1" status="active">
+        <codelist-item public-database="1" status="withdrawn">
             <code>GB-GOR</code>
             <category>GB</category>
             <url>https://github.com/openregister/registers-data-archive</url>
@@ -2661,6 +2674,13 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.
 
 [1] https://gov-id-finder.codeforiati.org/about</description>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
+            <code>GW-NIF</code>
+            <category>GW</category>
+            <url>https://kontaktu.mef.gw/</url>
+            <name>Guinea-Bissau Tax Identification Number</name>
+            <description>The N&#250;mero de Identifica&#231;&#227;o Fiscal (NIF) is issued by the Dire&#231;&#227;o-Geral das Contribui&#231;&#245;es e Impostos (DGCI), under the Ministry of Finance of Guinea-Bissau. It identifies taxpayers, including organisations, in the DGCI's fiscal database. NIF identifiers can be used to uniquely identify organisations in open data publications.</description>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>GY-COA</code>

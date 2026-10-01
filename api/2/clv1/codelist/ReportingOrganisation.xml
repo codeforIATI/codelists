@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2026-09-05T16:16:10.480272+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2026-10-01T12:54:00.868927+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -271,7 +271,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>GB-SC-SC030289</code>
-    <name>Mercy Corps Europe</name>
+    <name>Prosper Global (UK)</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -2176,7 +2176,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>mz-moj-64vq1</code>
-    <name>Ajuda de Desenvolvimento de Povo para Povo (ADPP)</name>
+    <name>Ajuda de Desenvolvimento de Povo para Povo (Mozambique)</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -2231,7 +2231,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>GB-COH-00986729</code>
-    <name>Natural Resources Institute, University of Greenwich.</name>
+    <name>London and South East University Group (LASE)</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -3846,7 +3846,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>BE-BCE_KBO-0413986102</code>
-    <name>Wereldsolidariteit-Solidarit&#233; Mondiale (WSM)</name>
+    <name>WSM</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -5346,7 +5346,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>US-EIN-91-1148123</code>
-    <name>Mercy Corps Global</name>
+    <name>Prosper Global (US)</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -5366,7 +5366,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>NL-KVK-70333564</code>
-    <name>Mercy Corps Netherlands</name>
+    <name>Prosper Global (NL)</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -7822,6 +7822,11 @@
   <ReportingOrganisation>
     <code>BI-NIF-4000450306</code>
     <name>Burundi Leadership Training Programme</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>KE-RCO-CPR201020397</code>
+    <name>InformAction</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10455,6 +10460,41 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>SE-ON-802415-4737</code>
+    <name>SWEDWATCH</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>UG-RSB-80020002460437</code>
+    <name>Emata</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>TZ-NNCB-00NGO-RI-00199</code>
+    <name>THE CENTRE FOR COUNSELLING, NUTRITION AND HEALTH CARE</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>PH-SEC-CN200718575</code>
+    <name>National Union of Peoples' Lawyers</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>XI-ROR-03r8z3t63</code>
+    <name>University of NSW</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>IN-MCA-U74999TN2010PTC076608</code>
+    <name>Athena Infonomics India Private Limited</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>CH-FDJP-CHE114952278</code>
+    <name>Summit Alliances International</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>MM-MHA-0004-1951</code>
     <name>Myanmar Baptist Churches Union</name>
     <language>en</language>
@@ -10490,6 +10530,11 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>TZ-NNCB-00NGOR200060</code>
+    <name>KIMAS(KITOVU CHA MAENDELEO SAFI)</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>KE-NCB-218051200902226007</code>
     <name>CENTRE FOR HUMAN RIGHTS AND POLICY STUDIES</name>
     <language>en</language>
@@ -10502,6 +10547,26 @@
   <ReportingOrganisation>
     <code>IN-MHA-231660424</code>
     <name>Integrated Research and Action For Developement</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>MW-NBM-L23038</code>
+    <name>Global Health Informatics Institute</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>XI-ROR-00nzqgm49</code>
+    <name>Universit&#233; Catholique de l'Afrique de l'Ouest _Unit&#233; Universitaire &#224; Bobo-Dioulasso (UCAO-UUB)</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>IQ-NGO-1H1803026</code>
+    <name>Kurdistan Organization for Human Rights Watch</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>SE-ON-202100-6420</code>
+    <name>Swedish Agency for Marine and Water Management</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10520,8 +10585,28 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>SE-ON-802007-5290</code>
+    <name>International Council of Swedish Industry, NIR</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>TZ-NNCB-00NGOR0266</code>
+    <name>Inland Development Services</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>ZM-RS-10235225</code>
+    <name>Zambia Council for Social Development (ZCSD)</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>GB-UKPRN-10004180</code>
     <name>Manchester Metropolitan University</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>XI-ROR-0130VHY65</code>
+    <name>Biomedical Research and Training Institute</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10530,8 +10615,53 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>TZ-NNCB-00NGO-08231</code>
+    <name>Foundation for Local Capacity in Agricultural Development</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>TZ-NNCB-OONGO-R-7428</code>
+    <name>Chamwiilee Agro-Live</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>TZ-NNCB-00NGOR7295</code>
+    <name>MAZINGIRA NI UHAI (mnu)</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>GW-NIF-910000069</code>
+    <name>Ajuda de Desenvolvimento de Povo para Povo (Guinea-Bissau)</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>IN-PAN-AAATN2786N</code>
+    <name>Nightingales Medical Trust</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>XI-ROR-05e15a779</code>
+    <name>All India Institute of Medical Sciences Jodhpur</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>TZ-NNCB-00NGO00010158</code>
+    <name>CIVIC SOCIAL PROTECTION FOUNDATION (CSP)</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>GB-COH-17211046</code>
+    <name>SGE Commission</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>GB-CHC-1193984</code>
     <name>Vodafone Foundation</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>VN-TIN-0101088071</code>
+    <name>Hanoi University of Public Health</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10547,6 +10677,11 @@
   <ReportingOrganisation>
     <code>ID-DJP-730720232711000</code>
     <name>Borneo Nature Foundation</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>SE-ON-802407-6419</code>
+    <name>Swedish International Liberal Centre</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10567,6 +10702,11 @@
   <ReportingOrganisation>
     <code>UA-EDR-34183275</code>
     <name>SOS Children's Villages Ukraine</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>TZ-NNCB-00NGO0008958</code>
+    <name>Smart Farmers and Transformation (SFT)</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10597,6 +10737,11 @@
   <ReportingOrganisation>
     <code>EC-RUC-2191725959001</code>
     <name>Uni&#243;n de Afectados y Afectadas por las Operaciones Petroleras de Texaco &#8211; UDAPT</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>ZA-NPO-255-261</code>
+    <name>Open Cities Lab NPC</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>

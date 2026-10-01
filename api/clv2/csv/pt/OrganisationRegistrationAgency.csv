@@ -119,6 +119,7 @@ CN-SAIC,CN,http://gsxt.saic.gov.cn/,active,False
 CN-USCI,CN,http://ngo.mps.gov.cn/ngo/portal/toInfogs.do,active,True
 CO-CCB,CO,http://www.ccb.org.co/,active,False
 CO-COA,CO,https://gov-id-finder.codeforiati.org/countries/CO/,active,False
+CO-CUIN,CO,https://www.contaduria.gov.co/definicion-del-codigo-cuin,active,False
 CO-NIT,CO,https://www.dian.gov.co/tramitesservicios/tramites-y-servicios/tributarios/Paginas/RUT.aspx,active,True
 CO-RUE,CO,http://www.rues.org.co/RUES_Web/,active,False
 CR-COA,CR,https://gov-id-finder.codeforiati.org/countries/CR/,active,False
@@ -177,7 +178,7 @@ GB-COA,GB,https://gov-id-finder.codeforiati.org/countries/GB/,active,False
 GB-COE,GB,https://facultyonline.churchofengland.org/churches,active,True
 GB-COH,GB,http://www.companieshouse.gov.uk/,active,True
 GB-EDU,GB,https://get-information-schools.service.gov.uk,active,True
-GB-GOR,GB,https://github.com/openregister/registers-data-archive,active,True
+GB-GOR,GB,https://github.com/openregister/registers-data-archive,withdrawn,True
 GB-GOV,GB,http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies,active,False
 GB-GOVUK,GB,https://www.gov.uk/government/organisations,withdrawn,False
 GB-HESA,GB,https://www.hesa.ac.uk/support/providers,active,True
@@ -221,6 +222,7 @@ GT-NIT,GT,https://portal.sat.gob.gt/portal/,active,True
 GT-RPJ,GT,https://mingob.gob.gt/mingobsites/repeju/,active,True
 GU-COA,GU,https://gov-id-finder.codeforiati.org/countries/GU/,active,False
 GW-COA,GW,https://gov-id-finder.codeforiati.org/countries/GW/,active,True
+GW-NIF,GW,https://kontaktu.mef.gw/,active,False
 GY-COA,GY,https://gov-id-finder.codeforiati.org/countries/GY/,active,False
 HK-COA,HK,https://gov-id-finder.codeforiati.org/countries/HK/,active,False
 HK-CR,HK,https://www.icris.cr.gov.hk/csci/,active,True
