@@ -1,4 +1,4 @@
-<codelist name="ReportingOrganisation" date-last-modified="2026-10-01T12:54:00.868927+00:00" version="" xml:lang="en">
+<codelist name="ReportingOrganisation" date-last-modified="2026-10-22T22:02:50.508769+00:00" version="" xml:lang="en">
   <ReportingOrganisation>
     <code>AU-5</code>
     <name>Australia - Department of  Foreign Affairs and Trade</name>
@@ -5111,7 +5111,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>HK-CR-2091642</code>
-    <name>Seefar</name>
+    <name>Farsight Global</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -5496,7 +5496,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>GB-CHC-1027201</code>
-    <name>Institute for War &amp; Peace Reporting</name>
+    <name>Institute for War and Peace Reporting</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -5986,7 +5986,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>IN-MHA-231660927</code>
-    <name>PUBLIC HEALTH FOUNDATION OF INDIA</name>
+    <name>Public Health Foundation of India</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10465,6 +10465,11 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>XI-ROR-01rrczv41</code>
+    <name>University of the Philippines Manila</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>UG-RSB-80020002460437</code>
     <name>Emata</name>
     <language>en</language>
@@ -10482,6 +10487,11 @@
   <ReportingOrganisation>
     <code>XI-ROR-03r8z3t63</code>
     <name>University of NSW</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>SE-ON-802528-0002</code>
+    <name>Ethical Trade Sweden</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10531,7 +10541,7 @@
   </ReportingOrganisation>
   <ReportingOrganisation>
     <code>TZ-NNCB-00NGOR200060</code>
-    <name>KIMAS(KITOVU CHA MAENDELEO SAFI)</name>
+    <name>KIMAS (KITOVU CHA MAENDELEO SAFI)</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10547,6 +10557,21 @@
   <ReportingOrganisation>
     <code>IN-MHA-231660424</code>
     <name>Integrated Research and Action For Developement</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>CZ-ICO-68406258</code>
+    <name>CEE Bankwatch Network</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>IN-MCA-U74999DL2021FTC377788</code>
+    <name>George Institute Services India Private Limited</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>PS-MOI-RA-22234-5.5</code>
+    <name>Coalition for Accountability and Integrity - AMAN</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10605,6 +10630,16 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>IN-PAN-AATA4049H</code>
+    <name>All India Institute of Medical Sciences New Delhi</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>SE-ON-802406-2047</code>
+    <name>Centre Party International Foundation</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>XI-ROR-0130VHY65</code>
     <name>Biomedical Research and Training Institute</name>
     <language>en</language>
@@ -10615,13 +10650,43 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>MK-CR-6524710</code>
+    <name>Balkan Civil Society Development Network</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>BR-CNPJ-63025530-0001-04</code>
+    <name>Universidade de S&#227;o Paulo</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>SN-NINEA-25374070V</code>
+    <name>R&#233;seau Africain pour l'Education, la Sant&#233; et la Citoyennet&#233; (RAES)</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>TZ-NNCB-00NGO-08231</code>
     <name>Foundation for Local Capacity in Agricultural Development</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>SE-ON-802400-5418</code>
+    <name>Reporters Without Borders Sweden</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>TZ-NNCB-OONGO-R-7428</code>
     <name>Chamwiilee Agro-Live</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>MG-NIF-2002872017</code>
+    <name>MIARAKAP SA</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>AF-MOE-5798</code>
+    <name>Afghanistan Bridging Initiative</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10710,6 +10775,11 @@
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
+    <code>XI-ROR-02r91my29</code>
+    <name>University of Kelaniya</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
     <code>XI-ROR-026A3NK20</code>
     <name>Sitaram Bhartia institute of Science and Research</name>
     <language>en</language>
@@ -10717,6 +10787,11 @@
   <ReportingOrganisation>
     <code>NA-NAMRA-00562068</code>
     <name>University of Namibia</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>UG-RSB-164179</code>
+    <name>BAREFOOTLAW</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
@@ -10737,6 +10812,11 @@
   <ReportingOrganisation>
     <code>EC-RUC-2191725959001</code>
     <name>Uni&#243;n de Afectados y Afectadas por las Operaciones Petroleras de Texaco &#8211; UDAPT</name>
+    <language>en</language>
+  </ReportingOrganisation>
+  <ReportingOrganisation>
+    <code>GB-CHC-1176462</code>
+    <name>Muslim Aid</name>
     <language>en</language>
   </ReportingOrganisation>
   <ReportingOrganisation>
